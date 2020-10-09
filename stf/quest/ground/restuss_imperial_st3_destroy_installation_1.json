@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_st3_destroy_installation_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Rebel scum have placed antennas around Restuss, to spy on Imperial communications and coordinate their troops. Your orders are to destroy one of these antennas.",	"journal_entry_title":"Antenna Destruction",	"task00_journal_entry_description":"You've been ordered to destroy one of the Rebel antennas in Restuss.",	"task00_journal_entry_title":"Blow Up an Antenna",	"task01_journal_entry_description":"You've successfully destroyed a Rebel antenna and should return to Captain Okto.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

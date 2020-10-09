@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_8",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft leggings for the Marauder smith.",	"journal_entry_title":"Leggings Crafting",	"task01_journal_entry_description":"Craft three pairs of Mabari armor leggings.",	"task01_journal_entry_title":"Craft Mabari Armor Leggings",	"task02_journal_entry_description":"Craft three pairs of Bone armor leggings.",	"task02_journal_entry_title":"Craft Bone Armor Leggings",	"task03_journal_entry_description":"Craft three pairs of Composite armor leggings.",	"task03_journal_entry_title":"Craft Composite Armor Leggings",	"task04_journal_entry_description":"Craft all three pairs of leggings.",	"task04_journal_entry_title":"Craft all the Leggings",	"task04_task_display_string_1":"Crafted Composite Armor Leggings",	"task04_task_display_string_2":"Crafted Bone Armor Leggings",	"task04_task_display_string_3":"Crafted Mabari Armor Leggings",	"task05_journal_entry_description":"Return to Macchbraus with the leggings.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

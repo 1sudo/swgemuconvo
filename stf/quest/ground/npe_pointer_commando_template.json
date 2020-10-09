@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_commando_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You need to find your commando trainer, so that you may learn the skills of a commando.",	"journal_entry_title":"Commando Training",	"task00_journal_entry_description":"Sergeant Snopel is a Commando and he can teach you more about that profession than anyone else.  Look for him in the Ranged Combat Training room.",	"task00_journal_entry_title":"Talk to Sergeant Snopel",	"task00_waypoint_name":"Sergeant Snopel"
+}}

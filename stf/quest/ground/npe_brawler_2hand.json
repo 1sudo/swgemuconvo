@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_brawler_2hand",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Rydel Delan, master trainer in the arts of the close combat, has instructed you to destroy 3 Training Droids with your two-handed techniques.",	"journal_entry_title":"Two-Handed Weapon Practice",	"task00_journal_entry_description":"Get the feel for a 2-handed weapon by using your new axe to destroy 3 training droids.",	"task00_journal_entry_title":"Destroy 3 Training Droids in the Close Combat Training Room",	"task00_waypoint_name":"Close Combat Training Room",	"task01_journal_entry_description":"Talk to Rydel in the Close Combat Training Center now that you have completed his training task.",	"task01_journal_entry_title":"Return to Rydel Delan in the Close Combat Training Center",	"task01_waypoint_name":"Rydel Delan"
+}}

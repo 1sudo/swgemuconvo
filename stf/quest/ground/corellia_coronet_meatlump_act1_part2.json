@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_coronet_meatlump_act1_part2",
+	"entries": {
+		"category":"Corellia Times Investigations",	"journal_entry_description":"Vani Korr, a reporter for the Corellia Times, is investigating the Meatlumps and wants to discover the identity of the three brothers who are rumored to lead the Meatlumps. Help her to do so.",	"journal_entry_title":"Help Vani Korr Investigate the Meatlumps, Part 1",	"task00_journal_entry_description":"Gather 9 datapads from Meatlump thugs. The type of Meatlump thug does not matter... a datapad from any of them will be fine. Meatlumps are often found on the outskirts of Coronet.",	"task00_journal_entry_title":"Gather datapads from Meatlump thugs",	"task01_journal_entry_description":"Return to Vani Korr at the Coronet Hospital with the Meatlump Datapads you have gathered.",	"task01_journal_entry_title":"Return to Vani Korr with the Meatlump Datapads",	"task01_waypoint_name":"Coronet Hospital Entrance"
+}}

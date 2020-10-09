@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_gototori",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You found Tori",	"journal_entry_description":"Reimos needs some time to watch the data. Bib wants you to help Tori in the meantime.",	"journal_entry_title":"Find Tori",	"task00_journal_entry_description":"Reimos needs some time to watch the data. Bib wants you to help Tori in the meantime.",	"task00_journal_entry_title":"Find Tori",	"task00_waypoint_name":"Tori",	"task01_journal_entry_description":"You found Tori.",	"task01_journal_entry_title":"Complete"
+}}

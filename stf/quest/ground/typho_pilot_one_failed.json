@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/typho_pilot_one_failed",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"I failed to complete my patrol of the required sectors of space for the Naboo Planetary Defense.",	"journal_entry_title":"Failed the Space Patrol",	"task00_journal_entry_description":"I must report my mission failure to Typho. Hopefully, I'll be given a chance to redeem myself.",	"task00_journal_entry_title":"Report to Typho",	"task00_waypoint_name":"Captain Typho"
+}}

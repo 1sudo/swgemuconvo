@@ -1,0 +1,5 @@
+{
+	"stfFile":"npc_reaction/npc_diction",
+	"entries": {
+		"droid_stupid":"Stupid",	"droid_sarcastic":"Sarcastic",	"droid_prissy":"Prissy",	"droid_worshipful":"Worshipful",	"droid_slang":"Slang",	"droid_geek":"Geek",	"droid_default":"Default"
+}}

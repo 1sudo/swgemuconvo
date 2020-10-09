@@ -1,0 +1,5 @@
+{
+	"stfFile":"ui_cybernetics",
+	"entries": {
+		"cpt":"Cybernetics",	"leftarm":"Left Arm",	"rightarm":"Right Arm",	"legs":"Legs",	"torso":"Torso",	"lefthand":"Left Hand",	"righthand":"Right Hand"
+}}

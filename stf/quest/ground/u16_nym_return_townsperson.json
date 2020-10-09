@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_return_townsperson",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've delivered the good news.",	"journal_entry_description":"Tell the Spokesperson for the disgruntled townspeople  that water is on the way and then let Nym know that the townspeople should be satisfied, now.",	"journal_entry_title":"Return with Good News",	"task00_journal_entry_description":"Go back to the Spokesperson for the Disgruntled Townspeople and let him know that clean water is on the way.",	"task00_journal_entry_title":"Return to The Spokesperson for the Townspeople",	"task00_waypoint_name":"Disgruntled Townspeople",	"task01_journal_entry_description":"Tell Nym that nothing will really make this guy happy but at least the water is fixed.",	"task01_journal_entry_title":"Return to Nym"
+}}

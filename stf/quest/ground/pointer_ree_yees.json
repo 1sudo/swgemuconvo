@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/pointer_ree_yees",
+	"entries": {
+		"category":"Jabba's Palace",	"journal_entry_description":"Reelo Baruk says that Ree-Yees has more work for you.",	"journal_entry_title":"Find Ree-Yees",	"task00_journal_entry_description":"Talk to Ree-Yees to get access to the rest of the Palace.",	"task00_journal_entry_title":"Talk to Ree-Yees",	"task00_waypoint_name":"Ree-Yees"
+}}

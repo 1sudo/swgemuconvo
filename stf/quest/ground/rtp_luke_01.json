@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/rtp_luke_01",
+	"entries": {
+		"category":"Rebel Theme-Park",	"journal_entry_completion_summary":"You obtained a Force crystal from inside of the temple of Exar Kun for Luke Skywalker.",	"journal_entry_description":"Luke Skywalker wants you to retrieve a Force crystal from inside of the Temple of Exar Kun.",	"journal_entry_title":"A Force Crystal",	"task00_journal_entry_description":"Find and retrieve a Force crystal from inside of the Temple of Exar Kun.",	"task00_journal_entry_title":"A Force Crystal",	"task00_retrieve_menu_text":"Attempt to Take the Force Crystal",	"task00_start_message":"Nothing happens at first, but you get the distinct feeling that you are being watched.",	"task01_journal_entry_description":"Return to Luke Skywalker with the Force crystal you found in the Temple of Exar Kun.",	"task01_journal_entry_title":"Return to Luke Skywalker"
+}}

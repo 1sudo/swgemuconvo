@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/restuss_imperial_destroy_1",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Cripple the Rebel Fleet",	"title_d":"To ensure that the Imperial fleet can work uninterrupted above Corellia, you have been ordered to destroy any Rebel military craft in the system."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"ui_appearance",
+	"entries": {
+		"hat":"Head",	"eyes":"Eyes",	"bicep_r":"Shoulder",	"bicep_l":"Shoulder",	"chest2":"Chest",	"chest1":"Chest",	"bracer_upper_r":"U.Bracer",	"bracer_lower_r":"L.Bracer",	"bracer_upper_l":"U.Bracer",	"bracer_lower_l":"L.Bracer",	"gloves":"Hands",	"pants1":"Legs",	"shoes":"Feet",	"neck":"Neck",	"wrist_r":"Wrist",	"wrist_l":"Wrist",	"utility_belt":"Waist",	"back":"Back",	"check_show_inventory":"Show Equipped Items",	"ring_l":"L. Ring",	"ring_r":"R. Ring",	"hold_l":"L. Hand",	"hold_r":"R. Hand",	"tooltip_check_show_inventory":"This option will allow you to see your normal equipped items. While in this mode, you can drag and drop items from your inventory to equip/unequip items on your character.",	"check_hide_appearance":"Hide Appearance Items",	"tooltip_check_hide_appearance":"This option hides the current target's appearance items. This allows you to see what armor they are truly wearing.",	"mouth":"Mouth",	"cybernetics_error":"Cybernetics must be removed by a Cybernetic Specialist.",	"cybernetic_hand_l":"L. Cyber Hand",	"cybernetic_hand_r":"R. Cyber Hand"
+}}

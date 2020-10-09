@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/npe_smuggler_1",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"'Come to the Imperial Palace Casino Hotel where your credits go farther! The best casino on Worlport, open nightly and serving the best drinks at the lowest prices! Come try your luck at the Imperial Palace Casino Hotel! --Ord Mantell Casino advertisement'",	"quest_location_t":"Ord Mantell: Bright Jewel Ribbon",	"quest_patrol_d":"Maghr Scutu's pilot is going to meet you out here to transfer the spice. You need to fly away from the station, and patrols, so you can get the coordinates of the other pilot.",	"quest_patrol_t":"Fly away from Card'as Patrols",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"Tarand Crowe: <Good job getting there in a timely manner. Wait here for the buyer, he should arrive shortly.>",	"split_quest_alert_fail":"",	"title":"Smuggling: Traveling to the Contact Point",	"title_d":"Tarand has hired you to smuggle out a spice for one of his contacts. You are to meet the buyer out here in space to make the transfer."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_spy_scout_patrol",
+	"entries": {
+		"category":"Spy",	"journal_entry_completion_summary":"You have scouted an enemy patrol point.",	"journal_entry_description":"Find an enemy patrol point and report its location.",	"journal_entry_title":"Find an Enemy Patrol Point",	"task01_journal_entry_description":"Find an enemy patrol point and report its location to your Intelligence agency.",	"task01_journal_entry_title":"Find Enemy Patrol Point",	"task02_journal_entry_description":"The patrol point has been reported. Job well done.",	"task02_journal_entry_title":"Patrol Point Reported!",	"task03_comm_message_text":"Message Received. We'll notify High Command of the patrol location. Thank you.",	"task05_journal_entry_description":"The patrol point has been reported. Job well done.",	"task05_journal_entry_title":"Patrol Point Reported!",	"task06_comm_message_text":"Message Received. We'll notify High Command of the patrol location. Thank you."
+}}

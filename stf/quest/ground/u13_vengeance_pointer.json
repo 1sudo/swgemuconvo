@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u13_vengeance_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Speak with Wernell Covington in Narmle on Rori.",	"journal_entry_title":"Traveling to Rori",	"task00_journal_entry_description":"Speak with Wernell Covington in Narmle on Rori.",	"task00_journal_entry_title":"Speak with Wernell Covington",	"task00_waypoint_name":"Wernell Covington"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggler_reward_1",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You have earned the right to choose a reward for your service to the underworld.",	"journal_entry_title":"Underworld Reward",	"task00_journal_entry_description":"Choose your reward for service to the underworld.",	"task00_journal_entry_title":"Choose your reward"
+}}

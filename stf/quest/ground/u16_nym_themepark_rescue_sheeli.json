@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_rescue_sheeli",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You have rescued Sheeli!",	"journal_entry_description":"Rescue Choster's Sister, Sheeli.",	"journal_entry_title":"Rescue Sheeli",	"task01_journal_entry_description":"Sheeli was summoned and is standing next to you. Find out if she is okay.",	"task01_journal_entry_title":"Speak to Sheeli",	"task02_comm_message_text":"Great work pirate! We are sending a shuttle, but you need to meet it near by. Hussle to that location and well pick her up.",	"task03_journal_entry_description":"Go to the shuttle extraction point with Sheeli.",	"task03_journal_entry_title":"Extraction Point",	"task03_waypoint_name":"Extraction Point",	"task04_journal_entry_description":"Wait for the shuttle to arrive.",	"task04_journal_entry_title":"Wait for Shuttle",	"task04_waypoint_name":"Shuttle Landing Point",	"task05_journal_entry_description":"Was there not enough room on the shuttle? Oh well. Return to Nym for your reward.",	"task05_journal_entry_title":"Return to Nym",	"task05_waypoint_name":"Nym (inside Stronghold)"
+}}

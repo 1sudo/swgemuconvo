@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/ground/test_destroy_multiple_and_loot",
 	"entries": {
-		"task00_journal_entry_title":"",		"task00_journal_entry_description":"",		"journal_entry_title":"",		"journal_entry_description":"",		"category":""
+		"category":"",	"journal_entry_description":"",	"journal_entry_title":"",	"task00_journal_entry_description":"",	"task00_journal_entry_title":""
 }}

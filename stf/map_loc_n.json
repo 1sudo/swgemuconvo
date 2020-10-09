@@ -1,5 +1,5 @@
 {
 	"stfFile":"map_loc_n",
 	"entries": {
-		"cloning_facility":"Cloning Facility",		"no_registered_locs":"No Registered Locations",		"fallen_star":"The Fallen Star",		"theed_palace":"Theed Palace",		"lucky_despot":"Lucky Despot",		"palace_jabba":"Jabba's Palace",		"junkshop_watto":"Watto's Junkshop"
+		"junkshop_watto":"Watto's Junkshop",	"palace_jabba":"Jabba's Palace",	"lucky_despot":"Lucky Despot",	"theed_palace":"Theed Palace",	"fallen_star":"The Fallen Star",	"no_registered_locs":"No Registered Locations",	"cloning_facility":"Cloning Facility"
 }}

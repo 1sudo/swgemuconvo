@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_sera_10_wookiee_teeth",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"Sera Jossi is concerned about the presence of the insane Wookiees in the nearby area and has told you about their bounty",	"journal_entry_title":"Destroy the Crazy Wookiees",	"task00_journal_entry_description":"There is a strange new disease afflicting a number of Wookiees.  The illness is marked by deteriorating health.  This degeneration gives rise to a madness which compels the anguished Wookiees to attack anyone who approaches them. ",	"task00_journal_entry_title":"Destroy the Mad Wookiees",	"task01_journal_entry_description":"Sera Jossi has informed you about the Bounty Stren Colo offers for teeth from the insane Wookiees. There is an old Wookiee village in the north side of Kachirho where they have all taken to gathering.",	"task01_journal_entry_title":"Cleanse the abandoned Wookiee village",	"task01_waypoint_name":"Wookiee Village",	"task02_journal_entry_description":"Go see Stren Colo in the Imperial compound to collect your bounty.",	"task02_journal_entry_title":"Collect Bounty"
+}}

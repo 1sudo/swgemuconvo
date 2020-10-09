@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/event_gcwcheerleader_cmreb4",
+	"entries": {
+		"category":"Rebel Combatant",	"journal_entry_description":"The Empire is relying more and more on Elite Novatroopers Commanders. I need to find and eliminate one in hopes it will throw their command in disarray.",	"journal_entry_title":"Operation Weakest Link",	"task00_journal_entry_description":"Assassinate an Elite Novatrooper Commander",	"task00_journal_entry_title":"Assassinate Elite Novatrooper Commander",	"task01_journal_entry_description":"reward",	"task01_journal_entry_title":"reward",	"task02_journal_entry_description":"reward2",	"task02_journal_entry_title":"reward2"
+}}

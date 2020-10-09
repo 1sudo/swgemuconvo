@@ -1,9 +1,5 @@
 {
 	"stfFile":"ui_shipchoose",
 	"entries": {
-		"help_button_select":"Select Button
-
-Use this button to select the associated starship. This will then take you to another page where you can manage ship components, launch into space, or travel to another ground locations.",		"help_stats":"Starship Information
-
-This shows general information about the listed starship.",		"dont_own_a_ship":"You must own a ship to use this terminal.",		"godparking":"God Mode",		"not_parked_here":"Not Parked Here",		"no_parking_data":"Please wait for the ship parking location data to download.",		"fetching":"Fetching...",		"here":"Here",		"condition":"Condition:",		"parkinglocation":"Parked:",		"condition_pristine":"Pristine",		"condition_damaged":"Damaged",		"condition_engine_demolished":"Engine Demolished",		"condition_engine_disabled":"Engine Disabled",		"condition_engine_uninstalled":"No Engine",		"condition_reactor_demolished":"Reactor Demolished",		"condition_reactor_disabled":"Reactor Disabled",		"condition_reactor_uninstalled":"No Reactor",		"select":"Select",		"cpt":"Select Ship"
+		"cpt":"Select Ship",	"select":"Select",	"condition_reactor_uninstalled":"No Reactor",	"condition_reactor_disabled":"Reactor Disabled",	"condition_reactor_demolished":"Reactor Demolished",	"condition_engine_uninstalled":"No Engine",	"condition_engine_disabled":"Engine Disabled",	"condition_engine_demolished":"Engine Demolished",	"condition_damaged":"Damaged",	"condition_pristine":"Pristine",	"parkinglocation":"Parked:",	"condition":"Condition:",	"here":"Here",	"fetching":"Fetching...",	"no_parking_data":"Please wait for your ship data to download.",	"not_parked_here":"Not Parked Here",	"godparking":"God Mode",	"dont_own_a_ship":"You must own a ship to use this terminal.",	"help_stats":"Starship Information  This shows general information about the listed starship.",	"help_button_select":"Select Button  Use this button to select the associated starship. This will then take you to another page where you can manage ship components, launch into space, or travel to another ground locations."
 }}

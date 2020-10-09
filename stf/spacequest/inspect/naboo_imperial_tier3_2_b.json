@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/inspect/naboo_imperial_tier3_2_b",
 	"entries": {
-		"title_d":"",		"title":"Data Hunt",		"split_quest_alert_fail":"",		"split_quest_alert":"Imperial High Command:<Nice work, pilot. Wait for further instructions.>",		"quest_location_t":"",		"quest_location_d":"",		"quest_inspect_t":"",		"quest_inspect_d":"",		"quest_dock_t":"",		"quest_dock_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_dock_d":"",	"quest_dock_t":"",	"quest_inspect_d":"",	"quest_inspect_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"Imperial High Command:<Nice work, pilot. Wait for further instructions.>",	"split_quest_alert_fail":"",	"title":"Data Hunt",	"title_d":""
 }}

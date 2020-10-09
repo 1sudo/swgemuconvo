@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_gendra_cantina_entertainer",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"You're doing some entertainer work for Gendra.",	"journal_entry_title":"Entertainment",	"task00_journal_entry_description":"Return to the cantina.",	"task00_journal_entry_title":"Go to the Cantina",	"task00_waypoint_name":"Cantina",	"task01_journal_entry_description":"Gendra asked you to go entertain the patrons at the local cantina. You can dance or play music, whichever you prefer.",	"task01_journal_entry_title":"Go Inside and Entertain",	"task01_waypoint_name":"Cantina",	"task02_journal_entry_description":"You've finished entertaining the patrons at the cantina, you should go see Gendra.",	"task02_journal_entry_title":"Go See Gendra",	"task02_waypoint_name":"Gendra"
+}}

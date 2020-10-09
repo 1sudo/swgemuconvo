@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_slave_camp_control_room_access",
+	"entries": {
+		"category":"Blackscale Compound",	"journal_entry_description":"Disable the power locks in the bunker to access their control room.",	"journal_entry_title":"Control Room Access",	"task00_journal_entry_description":"Warden Tosk will most likely have the pass key you need to access their power room in order to release the locks and gain access to their control systems.",	"task00_journal_entry_title":"Warden Tosk",	"task01_journal_entry_description":"Now that you have the Pass Key, access the power room and disable their locking systems.",	"task01_journal_entry_title":"Power Room"
+}}

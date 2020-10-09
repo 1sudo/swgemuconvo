@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/som_kenobi_main_quest_3_b",
+	"entries": {
+		"category":"Mustafar",	"journal_entry_description":"On the planet of Mustafar you have been approached by some sort of spirit. This being has tasked you with destroying a powerful force crystal before it falls in to the hands of evil.",	"journal_entry_title":"Fate of the Galaxy II",	"task01_journal_entry_description":"Try to find the spirit that sent you on this quest and find out what the next step needs to be.",	"task01_journal_entry_title":"The key is yours",	"task10_journal_entry_description":"The spirit has explained where the chamber entrance is 'North of the center volcano is what's called the Burning Plains. In the north east corner of the plains you will find the entrance to the chamber'. You have to make it there quickly before who ever it is that's chasing you, catches up.",	"task10_journal_entry_title":"A journey against time",	"task12_journal_entry_description":"The spirit has asked you to destroy the tainted crystal in the hidden chamber.",	"task12_journal_entry_title":"Destroying the crystal"
+}}

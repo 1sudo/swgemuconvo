@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_mayor_hooligans_scavengers",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You defeated a camp of scavengers outside of Mos Eisley.",	"journal_entry_description":"Go deal with a camp of scavengers.",	"journal_entry_title":"Scavenger Hunt",	"task00_journal_entry_description":"Go to the scavenger camp and hunt some scavengers.",	"task00_journal_entry_title":"Deal with the scavengers",	"task00_waypoint_name":"Scavenger Camp",	"task01_journal_entry_description":"Return to Peawp R'dawc and let her know you've fought some scavengers.",	"task01_journal_entry_title":"Return to Peawp R'dawc",	"task01_waypoint_name":"Combat Guildhall (Peawp R'dawc)"
+}}

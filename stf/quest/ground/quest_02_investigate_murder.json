@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/quest_02_investigate_murder",
+	"entries": {
+		"category":"Something is Obviously Wrong",	"journal_entry_completion_summary":"You received a basic location of Bera Jeza's work. This might be a good place to start.",	"journal_entry_description":"Find clues that will assist in finding Bera Jeza's killer.",	"journal_entry_title":"Gather Clues",	"task00_journal_entry_description":"Speak with Happer of the Mos Eisley Police.",	"task00_journal_entry_title":"Speak with Happer",	"task00_waypoint_name":"Happer",	"task01_journal_entry_description":"Identify the body as Bera Jeza",	"task01_journal_entry_title":"Identify the Body",	"task02_journal_entry_description":"Get useful information from Happer.",	"task02_journal_entry_title":"Gather Clues",	"task03_journal_entry_description":"You have a little bit of new information to give to Bib Fortuna.",	"task03_journal_entry_title":"Speak to Bib Fortuna",	"task03_waypoint_name":"Bib Fortuna",	"task04_journal_entry_description":"none",	"task04_journal_entry_title":"none"
+}}

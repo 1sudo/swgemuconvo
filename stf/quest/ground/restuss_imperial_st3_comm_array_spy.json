@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_st3_comm_array_spy",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Rebels have captured sensor arrays that the Empire has placed around Restuss. Your orders are to re-capture one of them. With your profession skills, you're especially suited for this kind of mission.",	"journal_entry_title":"Stolen Property",	"task00_journal_entry_description":"Your orders are to capture one of the stolen sensor arrays in Restuss.",	"task00_journal_entry_title":"Capture Sensor Array",	"task01_journal_entry_description":"You've re-captured one of the Imperial sensor arrays in Restuss and should return to Captain Exov.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

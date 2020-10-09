@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_coronet_capitol_problems_thankful_diktat",
+	"entries": {
+		"category":"Corellia",	"journal_entry_description":"Bask in the glow of a thankful Diktat.",	"journal_entry_title":"Receive the Thanks of a Grateful Diktat",	"task00_journal_entry_description":"Daclif Gallamby, the Diktat, would like to personally thank you for everything you did to vindicate his administration and remove any doubt of his innocence.",	"task00_journal_entry_title":"Meeting with the Diktat",	"task00_waypoint_name":"Corellia Capitol Building",	"task01_journal_entry_description":"Speak once again with Lt. Jasper to receive your reward.",	"task01_journal_entry_title":"Speak with Lt. Jasper",	"task01_waypoint_name":"Lt. Jasper"
+}}

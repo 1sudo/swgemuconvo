@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_repair_mixing_chamber",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've resupplied the Misxing Chamber!",	"journal_entry_description":"Now that you have the Cationic Chemical Coagulant, add it to the Mixing Chamber.",	"journal_entry_title":"Resupply the Mixing Chamber",	"task00_comm_message_text":"Excellent!  You have the chemical! Now just dump it in the Mixing Chamber.",	"task01_item_name":"Mixing Chamber",	"task01_journal_entry_description":"Add the Cationic Chemical Coagulant directly into the Mixing Chamber",	"task01_journal_entry_title":"Fix Mixing Chamber",	"task01_retrieve_menu_text":"Add Chemical",	"task01_waypoint_name":"Mixing Chamber",	"task02_journal_entry_description":"Return to Phor Cl-lan to see if there is anything else that needs to be done to get clean water.",	"task02_journal_entry_title":"Return to Phor Cl-lan",	"task02_waypoint_name":"Filtration Guy"
+}}

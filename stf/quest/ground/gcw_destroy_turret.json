@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_destroy_turret",
+	"entries": {
+		"category":"Combat",	"journal_entry_completion_summary":"You have destroyed an enemy turret.",	"journal_entry_description":"Destroy an enemy turret so that the enemy has no cover and concealment.",	"journal_entry_title":"Destroy Enemy Turret",	"task01_journal_entry_description":"Any turret destroyed will disrupt the enemy defenses.",	"task01_journal_entry_title":"Destroy Turret",	"task02_journal_entry_description":"The turret has been destroyed. Job well done.",	"task02_journal_entry_title":"Turret Destroyed!",	"task04_journal_entry_description":"The turret has been destroyed. Job well done.",	"task04_journal_entry_title":"Turret Destroyed!"
+}}

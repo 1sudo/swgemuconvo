@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_39_sidequest_06",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You destroyed some mechanized guardians being developed by the Chirq Council.",	"journal_entry_description":"CorSec agent Hurley Klakk wants you to destroy some mechanized guardians being developed by the Chirq Council.",	"journal_entry_title":"Destroy the Mechanized Guardians in the Chirq Council Bunker",	"task00_entrance_waypoint_name":"Entrance to Chirq Council Bunker",	"task00_journal_entry_description":"Destroy some mechanized guardians being developed by the Chirq Council.",	"task00_journal_entry_title":"Destroy the Chirq Council Mechanized Guardians",	"task00_waypoint_name":"Entrance to Chirq Council Bunker",	"task01_journal_entry_description":"Return to CorSec agent Hurley Klakk and let him know you destroyed some Chiq Council mechanized guardians.",	"task01_journal_entry_title":"Return to Hurley Klakk",	"task01_waypoint_name":"Hurley Klakk, a CorSec Agent"
+}}

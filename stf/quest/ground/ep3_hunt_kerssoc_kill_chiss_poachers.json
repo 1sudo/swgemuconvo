@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_kerssoc_kill_chiss_poachers",
+	"entries": {
+		"category":"Gaining Access to the Hunting Grounds",	"journal_entry_description":"Kerssoc wants you to reduce the number of Chiss poachers in the area.",	"journal_entry_title":"Attack the Chiss Poacher camp",	"task01_journal_entry_description":"Kerssoc wants you to reduce the number of Chiss poachers in the area. Attack their camp and kill 21 of them.",	"task01_journal_entry_title":"Attack the Chiss Poacher camp",	"task02_journal_entry_description":"Return to Kerssoc and let him know you've finished your attack on the Chiss poacher camp.",	"task02_journal_entry_title":"Speak with Kerssoc"
+}}

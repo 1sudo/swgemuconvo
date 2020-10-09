@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_help",
 	"entries": {
-		"report_harassment":"Report A Harassment",		"bug":"Report A Bug",		"help_services":"Click this button to access technical support, or to request assistance.",		"info":"Entry",		"topics":"Topics",		"help_buttons":"Use these buttons to manually move forwards and backwards through the help pages.",		"services":"Customer Service",		"debugreload":"Reload Data",		"cpt_help":"Holocron",		"intro_text":"This is your help screen.  You can open this screen with Ctrl-H.",		"exit":"Exit",		"back":"Back",		"next":"Forward",		"help_info":"This page displays the information for the page selected on the left.",		"help_topics":"This is the list of all topics in the help systems."
+		"help_topics":"This is the list of all topics in the help systems.",	"help_info":"This page displays the information for the page selected on the left.",	"next":"Forward",	"back":"Back",	"exit":"Exit",	"intro_text":"This is your help screen.  You can open this screen with Ctrl-H.",	"cpt_help":"Holocron",	"debugreload":"Reload Data",	"services":"Customer Service",	"help_buttons":"Use these buttons to manually move forwards and backwards through the help pages.",	"topics":"Topics",	"info":"Entry",	"help_services":"Click this button to access technical support, or to request assistance.",	"bug":"Report a Bug",	"report_harassment":"Report a Harassment"
 }}

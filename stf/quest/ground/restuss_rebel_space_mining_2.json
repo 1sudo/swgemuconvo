@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_space_mining_2",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Alliance needs raw materials for completing the military base on Rori. They have asked you to supply them with 250 units of organometallic gas from Deep Space.",	"journal_entry_title":"Building a War, Part II",	"task00_journal_entry_description":"The Alliance has tasked you with mining 250 units of organometallic gas in Deep Space.",	"task00_journal_entry_title":"Raw materials",	"task01_journal_entry_description":"You have completed the mission in Deep Space. You should return to Lieutenant Romer in Restuss and give him the gas.",	"task01_journal_entry_title":"Return to Restuss"
+}}

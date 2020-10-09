@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_st3_comm_array",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire has set up sensor arrays around Restuss to help their search for research data. The Alliance wants you to capture one of these so that they can use them for the same thing.",	"journal_entry_title":"Turning the Tables",	"task00_journal_entry_description":"The Alliance has asked you to capture one of the Imperial sensor arrays in Restuss.",	"task00_journal_entry_title":"Capture Sensor Array",	"task01_journal_entry_description":"You've captured one of the Imperial sensor arrays in Restuss and should return to Captain Klork.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

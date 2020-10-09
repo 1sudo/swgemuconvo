@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_tosche_goto_sorna",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"You found Sorna.",	"journal_entry_description":"Cuan seems to be looking out for a local native. Find out what you can do to help Sorna.",	"journal_entry_title":"Find Sorna",	"task00_journal_entry_description":"Find out how you can help Sorna.",	"task00_journal_entry_title":"Talk to Sorna",	"task00_waypoint_name":"Sorna"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_kole_to_nym",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've spoken with Nym.",	"journal_entry_description":"Speak with Nym to see if he has more work for you.",	"journal_entry_title":"Speak to Nym",	"task00_waypoint_name":"Nym (inside Stronghold)"
+}}

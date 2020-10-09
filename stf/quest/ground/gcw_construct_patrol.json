@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_construct_patrol",
+	"entries": {
+		"category":"Trader",	"journal_entry_description":"Supplying patrols will allow for stronger troops in patrols.",	"journal_entry_title":"Patrol Supply",	"task01_journal_entry_description":"The patrol needs to be constructed.",	"task01_journal_entry_title":"Supply a Patrol",	"task02_journal_entry_description":"The patrol will be stronger due to your hard work.",	"task02_journal_entry_title":"Supply Completed!"
+}}

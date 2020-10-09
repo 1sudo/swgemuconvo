@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/typho_pilot_two_failed",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"I failed to intercept and destroy Starwing.",	"journal_entry_title":"Failed to Intercept Starwing",	"task00_journal_entry_description":"I must report my mission failure to Typho. Perhaps I'll be given another chance.",	"task00_journal_entry_title":"Report to Typho",	"task00_waypoint_name":"Lt. Col. Typho"
+}}

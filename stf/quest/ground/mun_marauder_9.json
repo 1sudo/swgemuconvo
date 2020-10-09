@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_9",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft chest plates for the Marauder smith.",	"journal_entry_title":"Chest Plate Crafting",	"task01_journal_entry_description":"Craft three Mabari armor chest plates.",	"task01_journal_entry_title":"Craft Mabari Armor Chest Plate",	"task02_journal_entry_description":"Craft three Bone armor chest plates.",	"task02_journal_entry_title":"Craft Bone Armor Chest Plate",	"task03_journal_entry_description":"Craft three Composite armor chest plates.",	"task03_journal_entry_title":"Craft Composite Armor Chest Plate",	"task04_journal_entry_description":"Craft all three chest plates.",	"task04_journal_entry_title":"Craft all the Chest Plates",	"task04_task_display_string_1":"Crafted Composite Armor Chest Plates",	"task04_task_display_string_2":"Crafted Bone Armor Chest Plates",	"task04_task_display_string_3":"Crafted Mabari Armor Chest Plates",	"task05_journal_entry_description":"Return to Macchbraus with the chest plates.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

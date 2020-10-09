@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_entha_race1_restart",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"You have failed the race. Report to the race droid to attempt the race again.",	"journal_entry_title":"You Lost",	"task00_journal_entry_description":"You have lost the race. Report to the race droid to attempt the race again.",	"task00_journal_entry_title":"You Lose",	"task00_waypoint_name":"Race Droid 1"
+}}

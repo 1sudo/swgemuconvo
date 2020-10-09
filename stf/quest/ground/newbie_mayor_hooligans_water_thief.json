@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_mayor_hooligans_water_thief",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You recovered the stolen moisture harvester keyads from some water thieves.",	"journal_entry_description":"Help Peawp R'dwac rid the outskirts of Mos Eisley of undesirables. ",	"journal_entry_title":"Moisture Thieves",	"task00_journal_entry_description":"Go to the scavenger camp and hunt some scavengers.",	"task00_journal_entry_title":"Scavenger Hunt",	"task00_waypoint_name":"Scavenger Camp",	"task01_comm_message_text":"Some water thieves stole the keypads off of some moisture harvesters. Go get those keypads back.",	"task02_journal_entry_description":"Local water thieves have been stealing the keypads off of moisture harvesters. Recover those stolen keypads.",	"task02_journal_entry_title":"Stolen Keypads",	"task02_waypoint_name":"Water Thief Camp",	"task03_journal_entry_description":"Return to Peawp R'dawc and let her know you recovered the stolen moisture harvester keypads.",	"task03_journal_entry_title":"Return to Peawp R'dawc",	"task03_waypoint_name":"Combat Guildhall (Peawp R'dawc)"
+}}

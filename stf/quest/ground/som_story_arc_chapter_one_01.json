@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/som_story_arc_chapter_one_01",
+	"entries": {
+		"category":"Mustafar",	"journal_entry_description":"Milo Mensix wants a permanent solution to the problems the facility is facing. The recently uncovered Old Republic cruiser might have information that the miners could use to increase their station's productivity. Mensix has asked you to investigate the downed ship in more detail and see if you can find a terminal that can be used to access the ship's memory banks.",	"journal_entry_title":"The Downed Ship",	"task01_journal_entry_description":"Make your way to the central volcano and revisit the crashed Old Republic cruiser.",	"task01_journal_entry_title":"Travel to the Wreckage",	"task02_journal_entry_description":"Amazingly the ship appears to be in better condition then expected. There is a chance that its memory is still intact. If you can locate a working terminal you might be able to access it.",	"task02_journal_entry_title":"Locate a Working Terminal"
+}}

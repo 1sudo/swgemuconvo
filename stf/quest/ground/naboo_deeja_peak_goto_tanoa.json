@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_deeja_peak_goto_tanoa",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Go to Tanoa Vills and seek her assistance in acquiring a sequencer tuned to the Old Republic droideka in Stonewall Labs.",	"journal_entry_title":"Go to Tanoa Vills",	"task00_journal_entry_description":"Tanoa Vills is a former technician from Stonewall Labs. She was responsible for the design and implementation of many of the security measures in Stonewall Labs, especially in preparation of closing down the labs. She should be able to build you the sequencer you need.",	"task00_journal_entry_title":"Go Speak with Tanoa Vills",	"task00_waypoint_name":"Tanoa Vills"
+}}

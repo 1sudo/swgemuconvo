@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_grant_quest_fail",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"Grant Quest Fail",	"journal_entry_title":"Grant Quest Fail",	"task00_journal_entry_description":"Fail",	"task00_journal_entry_title":"Fail"
+}}

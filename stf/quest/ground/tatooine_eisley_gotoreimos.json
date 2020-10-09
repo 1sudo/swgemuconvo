@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_gotoreimos",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You found Reimos",	"journal_entry_description":"Reimos is the inside contact Vourk told you about. Help him disrupt the activities at the White Thranta Shipping office. He may not recognize you at first.",	"journal_entry_title":"Find Reimos",	"task00_journal_entry_description":"You've finally been teamed up with Reimos. This should get interesting.",	"task00_journal_entry_title":"Find Reimos",	"task00_waypoint_name":"Reimos",	"task01_journal_entry_description":"You have found Reimos.",	"task01_journal_entry_title":"Complete"
+}}

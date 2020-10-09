@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_illicit_3",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Ria. Ria is located on Rori.",	"journal_entry_title":"Talk to Ria",	"task00_journal_entry_description":"You need to speak with Ria. Ria is an underworld broker dealing with illicit contraband . She can tell you more about smuggeling illicit contraband. Ria is located on Rori.",	"task00_journal_entry_title":"Talk to Ria",	"task00_waypoint_name":"Ria"
+}}

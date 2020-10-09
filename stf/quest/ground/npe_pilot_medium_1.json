@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_medium_1",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_description":"Aleas wants you to patrol this area.",	"journal_entry_title":"Patrol: Bright Jewel Ribbon",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"Patrol the Bright Jewel Ribbon, looking for Black Sun.",	"task01_journal_entry_title":"Patrolling the Bright Jewel Ribbon",	"task02_journal_entry_description":"Return to Aleas to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Aleas",	"task02_waypoint_name":"Aleas (Ace Car'das Pilot)",	"task03_journal_entry_description":"Report to Aleas of your success.",	"task03_journal_entry_title":"Land and Report back to Aleas",	"task03_waypoint_name":"Aleas (Ace Car'das Pilot)"
+}}

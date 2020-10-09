@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_side_dungeon_soldier",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You are to find the missing soldier on the Station Gamma.",	"journal_entry_title":"Missing Soldier",	"task00_journal_entry_description":"Either use the Gamma Shuttle system, or fly your own space craft.",	"task00_journal_entry_title":"Travel to Station Gamma Via the Shuttle or Your Ship",	"task00_waypoint_name":"Gamma Shuttle Service",	"task01_journal_entry_description":"You are to search the Station Gamma for the missing soldier. If you find him, dead or alive, you are to bring back proof of what happened to him.",	"task01_journal_entry_title":"Finding the Missing Soldier",	"task01_waypoint_name":"Lost Soldier",	"task02_journal_entry_description":"Return to the Tansarii space station, your mission here is complete.",	"task02_journal_entry_title":"Return to Tansarii",	"task02_waypoint_name":"Station Gamma Exit",	"task03_journal_entry_description":"Return to Ysanna with the datapad",	"task03_journal_entry_title":"Return to Ysanna",	"task03_waypoint_name":"Ysanna"
+}}

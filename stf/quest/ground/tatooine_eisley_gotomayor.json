@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_gotomayor",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You talked to the mayor and he's got you helping with some local issues.",	"journal_entry_description":"Bib wants you to talk the mayor about some work he needs done.",	"journal_entry_title":"If It Helps",	"task00_journal_entry_description":"Bzzzzzzzzzzzz",	"task00_journal_entry_title":"Test Buzzer",	"task01_comm_message_text":"Ahh...the troublemaker! Jabba is not pleased with you. Go see the Mayor. If you can help him pay Jabba it might buy you some mercy.",	"task01_journal_entry_description":"Vourk said Bib would be calling you soon.",	"task01_journal_entry_title":"Waiting for Bib's Comm",	"task02_journal_entry_description":"Bib has told you the Mayor needs some work done.",	"task02_journal_entry_title":"Meeting The Mayor",	"task02_waypoint_name":"Mayor Guh'rantt",	"task03_journal_entry_description":"The Mayor has work that will help you work into Jabba's favor.",	"task03_journal_entry_title":"Meeting The Mayor"
+}}

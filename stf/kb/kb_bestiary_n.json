@@ -1,5 +1,5 @@
 {
 	"stfFile":"kb/kb_bestiary_n",
 	"entries": {
-		"faction":"Faction Standing",		"xenobiology":"A Xenobiology Primer",		"bestiary":"The Galaxy's Inhabitants"
+		"bestiary":"The Galaxy's Inhabitants",	"xenobiology":"A Xenobiology Primer",	"faction":"Faction Standing"
 }}

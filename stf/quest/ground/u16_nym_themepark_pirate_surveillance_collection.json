@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_pirate_surveillance_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've infiltrated the hideout and placed the Surveillance Devices",	"journal_entry_description":"Infiltrate the Sulfur Lake Pirate hideout and find good locations to place the Surveillance Devices. There are only specific locations around the cave that will work to conceal the device. ",	"journal_entry_title":"Place the Surveillance Devices",	"task00_journal_entry_description":"Travel to the hideout location. ",	"task00_journal_entry_title":"Find the Sulfur Lake Pirate Hideout",	"task00_waypoint_name":"Sulfur Lake Pirate Hideout",	"task01_journal_entry_description":"Find good locations to place the surveillance devices.",	"task01_journal_entry_title":"Place Surveillance Devices",	"task01_waypoint_name":"Sulfur Lake Pirate Hideout",	"task02_journal_entry_description":"Report to Rel Thelcar that the device placement is complete.",	"task02_journal_entry_title":"Return to Rek Thelcar",	"task02_waypoint_name":"Rek Thelcar (inside Stronghold)"
+}}

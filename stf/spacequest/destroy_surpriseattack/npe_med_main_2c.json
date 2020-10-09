@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_med_main_2c",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast1 Tactical Computer:pcontrast3 <Scanning... Threat alleviated. No enemies in the vacinity. Mission complete.>",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"The Return Home: Ambush!",	"title_d":"'Just as we suspected! The Blacksun were lying in wait for us. I'll have to fend them off quickly before I am overwhelmed!'",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

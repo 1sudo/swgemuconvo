@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/inspect/ep3_wke_bowcaster_crafting",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_dock_d":"",	"quest_dock_t":"",	"quest_inspect_d":"",	"quest_inspect_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Kashyyyk System: Recover Missing Bowcaster Pieces",	"title_d":"Lolo informed you that a member of the Wookiee resistance stole a box of parts needed to make the new bowcaster. This Wookiee launched off of Kashyyyk but apparently is having some engine problems, since they sent out a distress signal shortly after launching and is waiting for help now. If you hurry you can intercept the pilot, disable his ship, dock with it, and recover the stole parts. Once you have recovered them, Lolo offered to put them back together for you."
+}}

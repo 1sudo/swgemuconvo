@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_rryatt_tressk_kill_lost_rodian_hunters",
+	"entries": {
+		"category":"Rryatt Trail Rodians",	"journal_entry_description":"A hunting party of Rodians lost their way on the Rryatt Trail and eventually went mad. Tressk views them as an embarrassment and wants them removed from the trail.",	"journal_entry_title":"Find the Lost Rodian Hunters",	"task01_journal_entry_description":"A hunting party of Rodians lost their way on the Rryatt Trail. Eventually, the horrors of the trail drove them mad. Tressk wants you to purge their embarassing presence from the trail. Kill 28 of them.",	"task01_journal_entry_title":"Purge the Rryatt Trail of Lost Rodian Hunters",	"task02_journal_entry_description":"Return to Tressk and let him know that the Lost Rodian Hunters are now less of a problem on the Rryatt Trail.",	"task02_journal_entry_title":"Return to Tressk"
+}}

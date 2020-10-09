@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/orion_rank3_01",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"goodbye_1":"",	"quest_location_d":"",	"quest_location_t":"",	"quest_patrol_d":"Follow the freighter's flight path.",	"quest_patrol_t":"Find the Freighter",	"quest_target_d":"",	"quest_target_t":"",	"reason_1":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Rescue Orion Shipment",	"title_d":"It appears that Nova supporters have disabled one of our freighters. Go meet up with it."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tyrena_meatlump_brothers",
+	"entries": {
+		"task00_journal_entry_description":"Lucien is the youngest of the Meatlump brothers. Find him and take him out.",	"task00_journal_entry_title":"Kill Lucien",	"task02_journal_entry_description":"Lempi is the middle brother. Be careful, he usually keeps some bodyguards around. Find him and take him out.",	"task02_journal_entry_title":"Kill Lempi",	"task04_journal_entry_description":"Hamm is the oldest, and strongest, of the Meatlump brothers. Find him and destroy him.",	"task04_journal_entry_title":"Kill Hamm",	"task06_journal_entry_description":"The Meatlump's father is still alive! Find him and destroy him and put an end to this madness.",	"task06_journal_entry_title":"Kill Dr. Andrade"
+}}

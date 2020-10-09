@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_han_comm_entertainer",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Mira would like you to return to her for another job.",	"journal_entry_title":"Return to Mira",	"task01_comm_message_text":"Well done! You have the potential to be a star if you want it. I have more for you to learn. I have something for you to do.",	"task02_journal_entry_description":"Mira has another job for you. Talk to her in the Cantina",	"task02_journal_entry_title":"Talk to Mira in the Cantina",	"task02_waypoint_name":"Mira T'rani"
+}}

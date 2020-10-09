@@ -1,5 +1,5 @@
 {
 	"stfFile":"mission/mission_object",
 	"entries": {
-		"deliver_mission":"Deliver Mission",		"destroy_mission":"Destroy Mission"
+		"destroy_mission":"Destroy Mission",	"deliver_mission":"Deliver Mission"
 }}

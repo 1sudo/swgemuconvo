@@ -1,5 +1,5 @@
 {
 	"stfFile":"component_l",
 	"entries": {
-		"blaster_pistol_barrel":"A blaster pistol barrel component.",		"blaster_power_handler":"A blaster weapon power component.",		"default":"",		"scope_weapon":"A ranged weapon scope."
+		"scope_weapon":"A ranged weapon scope.",	"default":"",	"blaster_power_handler":"A blaster weapon power component.",	"blaster_pistol_barrel":"A blaster pistol barrel component."
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_camp_quest_rori_talus",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You have visited Meatlump Camps on Rori and Talus.",	"journal_entry_description":"Go to Meatlump Camp locations on Rori and Talus",	"journal_entry_title":"Investigate Meatlump Camps on Rori and Talus ",	"task00_journal_entry_description":"nothing",	"task00_journal_entry_title":"nothing",	"task01_journal_entry_description":"Investigate the Meatlump Camp on Talus",	"task01_journal_entry_title":"Meatlump Camp - Talus",	"task01_waypoint_name":"Meatlump Camp - Talus ",	"task02_journal_entry_description":"Investigate the Meatlump Camp on Rori.",	"task02_journal_entry_title":"Meatlump Camp - Rori",	"task02_waypoint_name":"Meatlump Camp - Rori",	"task03_task_display_string_1":"You have investigated the Meatlump Camp on Rori.",	"task03_task_display_string_2":"You have investigated the Meatlump Camp on Talus."
+}}

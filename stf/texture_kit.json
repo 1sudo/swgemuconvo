@@ -1,5 +1,5 @@
 {
 	"stfFile":"texture_kit",
 	"entries": {
-		"inspace":"You cannot re-texture a ship while you are in space!",		"imperial":"This is an Imperial ship, and cannot be re-textured.",		"changed_paint_job":"Re-texturing completed.",		"pick_a_ship":"Please select a ship to change the texture of.",		"pick_a_ship_title":"Select a Ship",		"btn_texture":"Change Texture"
+		"btn_texture":"Change Texture",	"pick_a_ship_title":"Select a Ship",	"pick_a_ship":"Please select a ship to change the texture of.",	"changed_paint_job":"Re-texturing completed.",	"imperial":"This is an Imperial ship, and cannot be re-textured.",	"inspace":"You cannot re-texture a ship while you are in space!",	"cantpaint":"That kit will not work on this ship!",	"ships_not_paintable":"You do not have any ships that can be painted.",	"pick_a_texture_title":"Pick A Decal",	"pick_a_texture_prompt":"Use the slider to select a decal number. Press 'Change Texture' to preview it. A new popup will ask you to confirm your choice. Your tool will not decrement till you choose to accept the change.",	"confirm_title":"Confirm Decal",	"confirm_prompt":"Click OK if you would like to keep this decal.",	"not_paintable":"This object has no alternate textures."
 }}

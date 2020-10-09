@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/camp_alpha_canister_demo",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have destroyed all the canisters around Camp Beta.",	"journal_entry_description":"Find leaking Blackwing canisters around camp. Place the thermal detonators on the canister to destroy them.",	"journal_entry_title":"Destroy Canisters Around Camp Alpha",	"task00_journal_entry_description":"When you have met your collection quota, the job will be done.",	"task00_journal_entry_title":"Destroy all canisters.",	"task02_journal_entry_description":"Go back to camp and meet with your contact to collect the reward.",	"task02_journal_entry_title":"Meet with Oona Wran",	"task02_waypoint_name":"Oona Wran"
+}}

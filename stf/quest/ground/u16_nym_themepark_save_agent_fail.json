@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_save_agent_fail",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"The medical Supplies have expired and are useless, go get more.",	"journal_entry_description":"The perishable medical supplies are useless! Return to Ralia for more. Hurry!",	"journal_entry_title":"Back For More",	"task00_journal_entry_description":"The supplies are useless, return to Ralia for fresh ones",	"task00_journal_entry_title":"Return to Ralia for fresh supplies",	"task00_waypoint_name":"Nym's Quartermaster Ralia Reeven"
+}}

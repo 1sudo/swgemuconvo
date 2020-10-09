@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy/corellia_imperial_tier3_3b",
 	"entries": {
-		"title_d":"",		"title":"Destroy rebels",		"split_quest_alert":"Be ready for a split quest",		"quest_location_t":"",		"quest_location_d":"",		"quest_destroy_t":"",		"quest_destroy_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Go to this waypoint and destroy some b-wings"
+		"assigned_delayed":"Go to this waypoint and destroy some b-wings",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"Be ready for a split quest",	"title":"Destroy rebels",	"title_d":""
 }}

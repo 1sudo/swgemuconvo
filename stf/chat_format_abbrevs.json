@@ -1,13 +1,5 @@
 {
 	"stfFile":"chat_format_abbrevs",
 	"entries": {
-		"default":"mr
-ms
-mrs
-dr
-sgt
-capt
-cpt
-lt
-gen"
+		"default":"mr ms mrs dr sgt capt cpt lt gen"
 }}

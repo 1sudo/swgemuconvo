@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/no_rank5_01_02",
+	"entries": {
+		"assigned_delayed":"",	"complete":"We're not yet sure who your attackers were, but we're going to find out.",	"leave_early":"",	"split_quest_alert":"Some of the attacking ships broke off and fled. Go after them.",	"split_quest_alert_fail":"",	"title":"Nova Orion: Unexpected Assault",	"title_d":"You are under attack! Defeat your attackers...we must find out who they are and what they want.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

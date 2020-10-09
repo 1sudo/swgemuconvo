@@ -1,5 +1,5 @@
 {
 	"stfFile":"celebrity/general_otto",
 	"entries": {
-		"npc_3":"So am I.  If you find him, tell him that the Empire will no longer tolerate his existence!",		"npc_2":"Then don't let me keep you.",		"player_2":"I'm looking for Nym.",		"player_1":"Just a traveler.",		"npc_1":"What are you doing here?"
+		"npc_1":"What are you doing here?",	"player_1":"Just a traveler.",	"player_2":"I'm looking for Nym.",	"npc_2":"Then don't let me keep you.",	"npc_3":"So am I.  If you find him, tell him that the Empire will no longer tolerate his existence!"
 }}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/stn_yavin4_company_all_massassi_tier2_10",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The real mercenaries pretending to be the Massassi have shown up. They must not be allowed to report your deception before you can report in to the station. Destroy them all.",		"title":"Yavin System: Destroy the Attacking Massassi",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"The enemy fighters have all been destroyed. Return to the station and report your findings.",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"The enemy fighters have all been destroyed. Return to the station and report your findings.",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Yavin System: Destroy the Attacking Massassi",	"title_d":"The real mercenaries pretending to be the Massassi have shown up. They must not be allowed to report your deception before you can report in to the station. Destroy them all.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

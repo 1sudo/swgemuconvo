@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/chapter8_publish_gift_is_pilot",
+	"entries": {
+		"category":"Collection",	"journal_entry_completion_summary":"You have decided to answer R2's call.  Neutralize the Renegade threat!",	"journal_entry_description":"R2-D2 is in dire need of help.  There are a group of renegades forming in the Tatooine System around the Space Station. ",	"journal_entry_title":"R2-D2's dilemma",	"task00_comm_message_text":"Renegades are gathering in the Tatooine System near the main Space Station.  Help!!",	"task00_journal_entry_description":"R2-D2 is in dire need of your help.  There are groups of renegades forming in the Tatooine System around the main Space Station. ",	"task00_journal_entry_title":"R2-D2's Dilemma"
+}}

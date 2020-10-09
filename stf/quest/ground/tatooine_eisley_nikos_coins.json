@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_nikos_coins",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"The gangers got what they deserved. They weren't exactly good people, but you still can't shake the feeling you killed because of property.",	"journal_entry_description":"Mos Eisley has a cold form of justice. If you are the boss, you make the justice. Jabba is boss here and his justice is harsh. Don't expect to cross him and live. These gangers are lucky; Jabba didn't want to torture them.",	"journal_entry_title":"Respect",	"task00_journal_entry_description":"Find the swoop gangers that killed Jabba's courier and stole the coins. Show them what happens to those that cross Jabba. Kill enough gangers to recover 5 coins.",	"task00_journal_entry_title":"Kill Swoop Gangers to Recover Jabba's Coins",	"task00_waypoint_name":"Swoop Gang Slum",	"task01_journal_entry_description":"Return the coins to Niko.",	"task01_journal_entry_title":"Return Coins to Niko",	"task01_waypoint_name":"Niko",	"task02_journal_entry_description":"Good Work! You have completed the Respect quest.",	"task02_journal_entry_title":"Complete"
+}}

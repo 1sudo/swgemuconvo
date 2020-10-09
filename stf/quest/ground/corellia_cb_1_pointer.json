@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_cb_1_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Lt. Joth mentioned he heard Sinis had asked if anyone could help him with an urgent problem he was having.",	"journal_entry_title":"Talk to Sinis in Tyrena",	"task00_journal_entry_description":"Speak with Sinis in Tyrena.",	"task00_journal_entry_title":"Speak with Sinis",	"task00_waypoint_name":"Sinis"
+}}

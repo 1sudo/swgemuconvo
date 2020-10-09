@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_mayor_hooligans",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You defeated a camp of desert swoopers just outside of Mos Eisley.",	"journal_entry_description":"There is a camp of desert swoopers just outside of Mos Eisley. Go defeat some of the swoopers.",	"journal_entry_title":"Thieves and Thugs and Hoodlums, Oh My!",	"task00_journal_entry_description":"Defeat some desert swoopers and teach them to leave the citizens of Mos Eisley alone.",	"task00_journal_entry_title":"Desert Swoopers",	"task00_waypoint_name":"Desert Swooper Camp",	"task01_journal_entry_description":"Return to Peawp R'dawc and bask in the success of your efforts.",	"task01_journal_entry_title":"Return to Peawp R'dawc",	"task01_waypoint_name":"Combat Guildhall (Peawp R'dawc)"
+}}

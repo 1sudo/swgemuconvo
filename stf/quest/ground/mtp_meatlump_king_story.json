@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_meatlump_king_story",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_description":"Speak with Vani Korr and tell her everything you've learned about the Meatlumps and their King.",	"journal_entry_title":"Meet the Meatlumps",	"task00_journal_entry_description":"Speak with Vani Korr and tell her everything you've learned about the Meatlumps and their King.",	"task00_journal_entry_title":"Speak with Vani Korr",	"task00_waypoint_name":"Coronet Hospital Entrance"
+}}

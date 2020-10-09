@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_easy_main_4b",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast1 Tactical Computer:pcontrast3 <Scanning... Threat alleviated. No enemies in the vacinity. Mission complete.>",	"leave_early":"",	"split_quest_alert":"Laetin A'shera: <Time to return home pilot...>",	"split_quest_alert_fail":"",	"title":"Talonbane Cobra: The Destruction",	"title_d":"'The infamous Talonbane Cobra! Laetin was right. The heartless assassin knows how to fly! No matter. I will come out victorious and win the day! When I have defeated the Talonbane Cobra, I should return to Laetin with the good news.'",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

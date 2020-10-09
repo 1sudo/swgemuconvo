@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_naboo_back_to_rebel",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Wilson Tchorshel in Kadaara and give him the droid modules.",	"journal_entry_title":"Bring the Droid Modules to Wilson Tchorshel",	"task00_journal_entry_description":"Standby for an incoming transmission from Wilson Tchorshel.",	"task00_journal_entry_title":"Incoming Transmission...",	"task01_comm_message_text":"Well done! You've collected the droid modules, and more importantly, kept them out of the corrupt hands of the Empire. Bring them to me in Kadaara.",	"task01_journal_entry_description":"Well done! You've collected the droid modules, and more importantly, kept them out of the corrupt hands of the Empire. Bring them to me in Kadaara.",	"task01_journal_entry_title":"Message from Wilson Tchorshel",	"task02_journal_entry_description":"Go to Kadaara and speak with Wilson Tchorshel. He eagerly awaits you and the droid modules you've collected.",	"task02_journal_entry_title":"Go to Wilson Tchorshel",	"task02_waypoint_name":"Wilson Tchorshel"
+}}

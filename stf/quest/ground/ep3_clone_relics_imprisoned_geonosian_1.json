@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_imprisoned_geonosian_1",
+	"entries": {
+		"category":"The Clone Relics, Quest of the Geonosian",	"journal_entry_description":"You have agreed to try and help Ikvizi prove his innocence, and in the process, stop the Trandoshans' evil plans.",	"journal_entry_title":"Help the imprisoned Geonosian, phase I",	"task00_journal_entry_description":"You need to find the Trandoshan research camp in Shriiikat. Ikvizi said to head east of Kachirho until you find a Wookiee village then go north across the river. It's supposed to be the second Trandoshan camp you'll come across.",	"task00_journal_entry_title":"Find Trandoshan research camp",	"task01_journal_entry_description":"Find the evil Trandoshan researchers inside the camp and bring their research documents to the imprisoned Geonosian.",	"task01_journal_entry_title":"Steal research documents.",	"task02_journal_entry_description":"Return to Ikvizi and show him the documents you obtained from the Trandoshans.",	"task02_journal_entry_title":"Return to Ikvizi"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/orion_rank3_01",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"Eliminate all ships that are arriving from hyperspace.",	"journal_entry_title":"Hyperspace is Not Safe",	"task01_journal_entry_description":"Some of Nova's pilots think it is safe to hyperspace. We shall wait for them on this end, and teach them otherwise.",	"task01_journal_entry_title":"Disable Shipping Routes",	"task03_journal_entry_description":"Return to report.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

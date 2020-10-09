@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_nawika_escort_1",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"Nawika mentioned her lost jewelry box. She only remembers visiting her husband in the crystal garden right outside the village. She suspects it could be found there. It would be wise, however, to extend your search further. Check out the entrance to the Deep Depths just in case.",	"journal_entry_title":"Myyydril Trust - Nawika's Jewelry Box",	"task00_item_name":"Nawika's Jewelry Box",	"task00_journal_entry_description":"Find Nawika's Jewelry box. Look in the Crystal Gardens and the entrance to the Deep Depths.",	"task00_journal_entry_title":"Myyydril Trust - Nawika's Jewelry Box",	"task01_journal_entry_description":"Find Nawika's Necklace and bring it back to her.",	"task01_journal_entry_title":"The Necklace",	"task02_journal_entry_title":"Reward Issued"
+}}

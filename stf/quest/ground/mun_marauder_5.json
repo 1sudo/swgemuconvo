@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_5",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft left biceps for the Marauder smith.",	"journal_entry_title":"Left Bicep Crafting",	"task01_journal_entry_description":"Craft three Padded armor left biceps.",	"task01_journal_entry_title":"Craft Padded Armor Left Biceps",	"task02_journal_entry_description":"Craft three Bone armor left biceps.",	"task02_journal_entry_title":"Craft Bone Armor Left Biceps",	"task03_journal_entry_description":"Craft three Composite armor left biceps.",	"task03_journal_entry_title":"Craft Composite Armor Left Biceps",	"task04_journal_entry_description":"Craft all three left biceps.",	"task04_journal_entry_title":"Craft all the Left Biceps",	"task04_task_display_string_1":"Crafted Composite Armor Left Biceps",	"task04_task_display_string_2":"Crafted Bone Armor Left Biceps",	"task04_task_display_string_3":"Crafted Padded Armor Left Biceps",	"task05_journal_entry_description":"Return to Macchbraus with the left biceps.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

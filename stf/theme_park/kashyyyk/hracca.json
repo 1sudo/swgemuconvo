@@ -1,0 +1,5 @@
+{
+	"stfFile":"theme_park/kashyyyk/hracca",
+	"entries": {
+		"chiss_report_38":"<Kint Szam>: \"Kint here. I'll monitor the scanning array for the Hracca Glade and send you periodic updates on the number of Chiss poachers left.\"",	"chiss_report_20":"<Kint Szam>: \"Looks like you've cut the number of Chiss poachers in half. Keep up the good work.\"",	"chiss_report_10":"<Kint Szam>: \"A scan of the glade shows about 10 Chiss poachers left. Find them and eliminate them!\"",	"chiss_report_5":"<Kint Szam>: \"Excellent. You're down to only 5 Chiss poachers in the glade.\"",	"chiss_report_2":"<Kint Szam>: \"Only 2 Chiss poachers left. Find them!\"",	"chiss_report_1":"<Kint Szam>: \"One poacher remains! Kill that last one and the kkorrwrot is sure to return to the glade!\""
+}}

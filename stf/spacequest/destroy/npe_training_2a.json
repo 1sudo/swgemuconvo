@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_training_2a",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Blacksun Hunters or Blacksun Bloodstalkers.",	"quest_destroy_t":"To win the mission, destroy Blacksun Hunters or Blacksun Bloodstalkers.",	"quest_location_d":"Destroy Blacksun Hunters or Blacksun Bloodstalkers.",	"quest_location_t":"To win the mission, destroy Blacksun Hunters or Blacksun Bloodstalkers.",	"split_quest_alert":"Serissu: <Great job, pilot. Now, come home!>",	"split_quest_alert_fail":"",	"title":"Lurking Black Sun",	"title_d":"The Black Sun lurk around the abandoned hulk."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_kallaarac_destroy_2",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"Now that you've gained the trust of the Myyydril people, Chief Kallaarac has sent you to complete a very important task. Currently, the Urnsor'is are advancing dangerously. Chief Kallaarac needs you to thin their numbers by killing 15 of them.",	"journal_entry_title":"The Urnsor'is Infestation",	"task00_journal_entry_description":"Travel to the Deep Depths of the Myyydril Caverns and destroy 15 Urnsor'is creatures.",	"task00_journal_entry_title":"Defeat 15 Urnsor'is",	"task01_journal_entry_description":"Return to Chief Kallaarac in the Myyydril village.",	"task01_journal_entry_title":"Return to Chief Kallaarac",	"task02_journal_entry_title":"Reward Issued"
+}}

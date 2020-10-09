@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_kallaarac_destroy_3",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"The Mother Queen is the source of the Urnsor'is infestation. Chief Kallaarac has requested that you kill her. Only then will the Myyydril Tribe be at peace.",	"journal_entry_title":"Mother Queen",	"task00_journal_entry_description":"Travel to the Deep Depths and defeat the Mother Queen.",	"task00_journal_entry_title":"Defeat the Mother Queen",	"task01_journal_entry_description":"Return to Chief Kallaarac in the Myyydril village.",	"task01_journal_entry_title":"Return to Chief Kallaarac",	"task02_journal_entry_title":"Reward Issued"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_training_3",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_completion_summary":"You successfully escorted the officer back.",	"journal_entry_description":"You have been instructed to escort an officer back in from a hyperspace point.",	"journal_entry_title":"Escorting",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"You have been instructed to escort a ship from one of the hyperspace points.",	"task01_journal_entry_title":"Escort",	"task02_journal_entry_description":"Return to Serissu to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Serissu",	"task02_waypoint_name":"Serissu (Pilot Trainer)",	"task03_journal_entry_description":"Report to Serissu of your success.",	"task03_journal_entry_title":"Land and Report back to Serissu",	"task03_waypoint_name":"Serissu (Pilot Trainer)"
+}}

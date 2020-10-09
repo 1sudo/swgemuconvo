@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_smuggler_try_2",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Han Solo has a reward for a job well done. Return to him in Hangar Bay 2",	"journal_entry_title":"Smuggler's Rewards",	"task00_journal_entry_description":"Han Solo has something for you. Go talk to him in Hangar Bay 2.",	"task00_journal_entry_title":"Talk to Han Solo in Hangar Bay 2",	"task00_waypoint_name":"Han Solo"
+}}

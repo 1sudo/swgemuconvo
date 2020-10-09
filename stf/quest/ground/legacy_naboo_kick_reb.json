@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_naboo_kick_reb",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Carh'la Bastra is sending you off to her superior on Naboo with the information that you recovered.",	"journal_entry_title":"To Naboo",	"task00_comm_message_text":"Hmm. The droid's data might be of interest to Special Agent Wilson Tchorshel in Kaadara on Naboo. Go there and contact him. You can get to Naboo from any starport on Tatooine.",	"task00_journal_entry_title":"Bastra Comm",	"task01_journal_entry_description":"Go to Kaadara on Naboo. Find Special Agent Wilson Tchorshel. He will help you in your efforts on Naboo to find the droid AI. You can get to Naboo from any starport on Tatooine. Good luck and may the Force be with you.",	"task01_journal_entry_title":"Go to the Rebel Agent on Naboo",	"task01_waypoint_name":"Rebel Agent"
+}}

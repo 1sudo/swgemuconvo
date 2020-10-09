@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_avatar_techhall08",
+	"entries": {
+		"category":"Avatar Space Platform",	"journal_entry_description":"The holding cell where the Wookiee who have undergone the medical procedures aboard the Avatar is locked. A security card from a Blackscale jailer will be needed to open it.",	"journal_entry_title":"Open Holding Cell Door",	"task00_journal_entry_description":"You will need to get a passkey from a Trandoshan jailer in this section of the building in order to access this cell.",	"task00_journal_entry_title":"Gain Security Passkey",	"task01_journal_entry_description":"Use the jailer's ID card to open up the cells that contain the Wookiees who have under gone medical treatment.",	"task01_journal_entry_title":"Open the Holding Cell"
+}}

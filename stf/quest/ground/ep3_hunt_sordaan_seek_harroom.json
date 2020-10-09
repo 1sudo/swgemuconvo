@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_sordaan_seek_harroom",
+	"entries": {
+		"category":"Sordaan's Bet",	"journal_entry_description":"Speak with Harroom in the tent next to Sordaan's hunting cabin.",	"journal_entry_title":"Speak with Harroom",	"task02_journal_entry_description":"Speak with Harroom to receive a Fallann Hyper-Rifle from Sordaan's weapon collection.",	"task02_journal_entry_title":"Speak with Haroom",	"task05_journal_entry_description":"Speak with Harroom to receive a Xris Acid Sword from Sordaan's weapon collection.",	"task05_journal_entry_title":"Speak with Haroom",	"task08_journal_entry_description":"Speak with Harroom to receive a Kalranoos Carbine from Sordaan's weapon collection.",	"task08_journal_entry_title":"Speak with Haroom",	"task11_journal_entry_description":"Speak with Harroom to receive a Tchotchee Pistol from Sordaan's weapon collection.",	"task11_journal_entry_title":"Speak with Haroom"
+}}

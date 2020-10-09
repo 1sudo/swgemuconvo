@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_training_1a",
+	"entries": {
+		"assigned_delayed":"",	"complete":"Mission Successful!",	"leave_early":"",	"split_quest_alert":"Serissu: <Whew. That was close! Good job, pilot! Now on come home.>",	"split_quest_alert_fail":"",	"title":"Unexpected Attack!",	"title_d":"Fend off the attacking Black Sun. To win the mission, destroy all Black Sun that are attacking you.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_38_sidequest_04",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You removed some of the vermin from the bunker that Lejo Daramus wants to use as his research base.",	"journal_entry_description":"A scientist named Lejo Daramus would like you to help rid a bunker of vermin so that he can use it for his research.",	"journal_entry_title":"Vermin Bunker",	"task00_entrance_waypoint_name":"Abandoned Bunker",	"task00_journal_entry_description":"Remove some fiendish durni from the bunker for Lejo Daramus.",	"task00_journal_entry_title":"Remove some Fiendish Durni from the Bunker",	"task00_waypoint_name":"Abandoned Bunker",	"task01_entrance_waypoint_name":"Abandoned Bunker",	"task01_journal_entry_description":"Return to Lejo Daramus and let him know that you've removed some of the vermin from the bunker.",	"task01_journal_entry_title":"Return to Lejo Daramus",	"task01_waypoint_name":"Lejo Daramus"
+}}

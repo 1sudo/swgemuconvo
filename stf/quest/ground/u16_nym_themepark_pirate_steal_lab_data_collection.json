@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_pirate_steal_lab_data_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've stolen the lab data.",	"journal_entry_description":"Infiltrate the Imperial Research Facility and steal the lab data being collected.",	"journal_entry_title":"Steal the Lab Data",	"task00_journal_entry_description":"Travel to the Imperial Research Facility. ",	"task00_journal_entry_title":"Find the Imperial Research Facility",	"task00_waypoint_name":"Imperial Research Facility",	"task01_journal_entry_description":"Locate and secure the lab data.",	"task01_journal_entry_title":"Steal the Lab Data",	"task01_waypoint_name":"Imperial Research Facility",	"task02_journal_entry_description":"Report to Stuvany Inglen that the rescue mission is complete.",	"task02_journal_entry_title":"Return to Stuvany Inglen",	"task02_waypoint_name":"Stuvany Inglen (inside Stronghold)"
+}}

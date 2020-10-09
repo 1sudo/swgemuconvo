@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_quest_01_neutral",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have been inoculated by Zahara Cody.",	"journal_entry_description":"Find the person responsible for inoculating survivors.",	"journal_entry_title":"Get Inoculated",	"task00_journal_entry_description":"Go to the quarantine zone entrance to gain access.",	"task00_journal_entry_title":"Enter Quarantine Zone",	"task00_waypoint_name":"Quarantine Zone Gate",	"task01_journal_entry_description":"Go to the refugee camp and find out who is inoculating survivors.",	"task01_journal_entry_title":"Find The Camp",	"task01_waypoint_name":"Refugee Camp",	"task02_journal_entry_description":"Have Zahara Cody inoculate you for the mission. The anti-virus she provides will only last for a short time, though, so seek medical droids in the area to renew your anti-virus.",	"task02_journal_entry_title":"Get Inoculated",	"task03_journal_entry_description":"none",	"task03_journal_entry_title":"none"
+}}

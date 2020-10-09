@@ -1,5 +1,5 @@
 {
 	"stfFile":"theme_park/royal_kidnapping/nobles",
 	"entries": {
-		"noble_2":"Hooray!  You're my hero!",		"noble_1_reply_1":"You're free to go",		"noble_1":"You're not?  Oh, well, I mean of course you're not.  I knew that.  I could tell just by looking at you.  You have that heroic sort of aura about you.  Indeed you do.",		"reply_1":"I'm not a pirate.  I'm here to rescue you.",		"start":"Ach!  Another wretched pirate.  You'll never get away with this!  You filthy disease-ridden scum will pay!  Pay dearly!  I have friends in powerful places!  Poweful friends in powerful places!  That's right!  Poweful!  They know how to deal with the likes of you!"
+		"start":"Ach!  Another wretched pirate.  You'll never get away with this!  You filthy disease-ridden scum will pay!  Pay dearly!  I have friends in powerful places!  Powerful friends in powerful places!  That's right!  Powerful!  They know how to deal with the likes of you!",	"reply_1":"I'm not a pirate.  I'm here to rescue you.",	"noble_1":"You're not?  Oh, well, I mean of course you're not.  I knew that.  I could tell just by looking at you.  You have that heroic sort of aura about you.  Indeed you do.",	"noble_1_reply_1":"You're free to go",	"noble_2":"Hooray!  You're my hero!"
 }}

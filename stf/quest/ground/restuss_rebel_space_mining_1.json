@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_space_mining_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Alliance needs raw materials for completing the military base on Rori. They have asked you to supply them with 500 units of obsidian ore from the Kessel system.",	"journal_entry_title":"Building a War",	"task00_journal_entry_description":"The Alliance has tasked you with mining 500 units of obsidian ore in the Kessel system.",	"task00_journal_entry_title":"Raw Materials",	"task01_journal_entry_description":"You have completed the mission in the Kessel system. You should return to Lieutenant Romer in Restuss and give him the ore.",	"task01_journal_entry_title":"Return to Restuss"
+}}

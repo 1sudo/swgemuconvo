@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/corellia_imperial_tier3_4h",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"",		"title":"Survive",		"split_quest_alert":"",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"Incoming enemy fighters"
+		"assigned_delayed":"Incoming enemy fighters",	"complete":"You have survived the Suprise Attack!",	"split_quest_alert":"",	"title":"Survive",	"title_d":"",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/typho_pilot_two",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Intercept Starwing and destroy him.",	"journal_entry_title":"Starwing Intercept",	"task00_journal_entry_description":"Find and eliminate the Naboo Pirate known as Rezunin Starwing.",	"task00_journal_entry_title":"Eliminate Starwing",	"task00_waypoint_name":"Keren Starport",	"task01_journal_entry_description":"Go See Typho",	"task01_journal_entry_title":"Go See Typho",	"task01_waypoint_name":"Captain Typho"
+}}

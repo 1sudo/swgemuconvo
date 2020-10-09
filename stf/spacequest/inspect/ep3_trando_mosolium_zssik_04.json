@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/inspect/ep3_trando_mosolium_zssik_04",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_dock_d":"Once you have found the codes, dock with the flight leader and steal the codes.",	"quest_dock_t":"Steal the Codes",	"quest_inspect_d":"Disable and inspect the flight leader's computer to see if he has the Avatar Approach Codes.",	"quest_inspect_t":"Inspect the Blackscale Flight Leader",	"quest_location_d":"The Blackscale Flight leaders who have the access codes exclusively are located in the Kashyyyk system.",	"quest_location_t":"Travel to the Kashyyyk System",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Kashyyyk System: Steal the Avatar Approach Codes",	"title_d":"Mosolium wants you to capture and inspect a Blackscale Flight Leader until you can locate one that has the approach codes for the Avatar Space Platform. With these codes you will be able to land vessels on the Avatar without prior permission from the Blackscale."
+}}

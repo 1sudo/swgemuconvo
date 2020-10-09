@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_prof_entertainer2",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Head over to the Medical Center and play for the wounded there. They could use the morale boost.",	"journal_entry_title":"Entertain the Wounded",	"task00_journal_entry_description":"Play music in the Medical Center for 2 minutes to entertain the wounded there. Use flourishes.To play music, click on the Start Music icon and then right-click in the main screen. You can do special moves by left-clicking on a flourish button and the right-clicking on your character. To stop playing music, left-click on the Stop Music icon and right-click on your character.",	"task00_journal_entry_title":"Play Music in the Medical Center",	"task00_waypoint_name":"Medical Center",	"task01_journal_entry_description":"Return to Mira and let her know that you finished playing for the wounded in the Medical Center.",	"task01_journal_entry_title":"Return to Mira in the Cantina",	"task01_waypoint_name":"Mira T'rani"
+}}

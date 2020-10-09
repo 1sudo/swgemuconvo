@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/prof_force_sensitive_21_3",
+	"entries": {
+		"category":"Profession",	"journal_entry_description":"You have your crystal. Now claim a handle and forge your first lightsaber!",	"journal_entry_title":"Completing Your Weapon",	"task01_comm_message_text":"You did it on the first try. Rather impressive. You will need a handle. See Coris for an appropriate handle, and you will have your first lightsaber.",	"task01_journal_entry_description":"Nos'lyn sent you another message: You did it on the first try. Rather impressive. You will need a handle. See Coris for an appropriate handle, and you will have your first lightsaber.",	"task01_journal_entry_title":"Another Message from Nos'lyn",	"task02_journal_entry_description":"Coris Mao has a defunct lightsaber handle that he will give to you. Go talk to him in Tatooine.",	"task02_journal_entry_title":"Return to Tatooine and talk to Coris Mao"
+}}

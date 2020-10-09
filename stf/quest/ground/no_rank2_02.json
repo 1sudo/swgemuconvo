@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/no_rank2_02",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"A Nova Orion freighter broke down and needs parts for repair. Go pick up those parts and deliver them to the freighter. Then escort the freighter across Corellia space",	"journal_entry_title":"Freighter Repair",	"task01_journal_entry_description":"Deliver parts needed for repairs to a Nova Orion freighter that broke down and then escort them as they make their delivery.",	"task01_journal_entry_title":"Repairing the Freighter",	"task03_journal_entry_description":"Return to Dexen Eronoss on Nova Orion Station.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

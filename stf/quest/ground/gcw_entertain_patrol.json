@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_entertain_patrol",
+	"entries": {
+		"category":"Entertainer",	"journal_entry_completion_summary":"You have provided much needed entertainment to the patrol.",	"journal_entry_description":"Patrol personnel could use some entertainment.",	"journal_entry_title":"Patrol Point Entertainment",	"task01_journal_entry_description":"The patrol point could use a little entertainment to boost morale. Play some music or dance to entertain personnel. ",	"task01_journal_entry_title":"Entertain Patrol Point",	"task02_journal_entry_description":"The patrol point morale has received a small boost. Job well done.",	"task02_journal_entry_title":"Entertainment Completed!",	"task04_journal_entry_description":"The patrol point morale has received a small boost. Job well done.",	"task04_journal_entry_title":"Entertainment Completed!"
+}}

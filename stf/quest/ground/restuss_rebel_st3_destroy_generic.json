@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_st3_destroy_generic",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Alliance needs to secure any remains of the Imperial research in Restuss. You've been tasked with aiding in securing the city by defeating 20 Imperial soldiers.",	"journal_entry_title":"Total War",	"task00_journal_entry_description":"You have been tasked with defeating 20 Imperial soldiers in Restuss.",	"task00_journal_entry_title":"Crushing the Empire",	"task01_journal_entry_description":"You've defeated 20 Imperial soldiers and should return to Captain Redding.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

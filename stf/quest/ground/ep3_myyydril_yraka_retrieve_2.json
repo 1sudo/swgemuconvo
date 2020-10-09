@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_yraka_retrieve_2",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"Yraka Nes cares for the Myyydril people and keeps their spirits high by making Luilris Pies. However, she's run out of the most important ingredient; Luilris Mushrooms. In the caves, Luilris Mushrooms grow and are farmed daily. She needs 10 of them to make her pies.",	"journal_entry_title":"Luilris Mushrooms",	"task00_item_name":"Luilris Mushroom",	"task00_journal_entry_description":"Collect 10 Luilris Mushrooms and bring them back to Yraka Nes.",	"task00_journal_entry_title":"Luilris Mushrooms",	"task02_journal_entry_title":"Reward Issued"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_mine",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've stolen the filter from the mine.",	"journal_entry_description":"Steal the mine filter from the filtration system in the Imperial mine and return to Jinkins.",	"journal_entry_title":"Retrieve the Mine Filter",	"task00_journal_entry_description":"Travel to the mine location. ",	"task00_journal_entry_title":"Find the Imperial Mine",	"task00_waypoint_name":"Imperial Mine",	"task01_journal_entry_description":"Find the mine's air filtration system, then steal the filter.",	"task01_journal_entry_title":"Find Air Filtration System, Retrieve Filter",	"task01_waypoint_name":"Imperial Mine",	"task02_journal_entry_description":"Take Jinkins the Mine Filter.",	"task02_journal_entry_title":"Return to Jinkins",	"task02_waypoint_name":"Jinkins (inside Stronghold)"
+}}

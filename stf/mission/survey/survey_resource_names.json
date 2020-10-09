@@ -1,5 +1,5 @@
 {
 	"stfFile":"mission/survey/survey_resource_names",
 	"entries": {
-		"gemstone_crystalline":"Crystalline Gemstone",		"gas":"Gas",		"ore":"Ore",		"metal":"Metal",		"gas_inert":"Inert Gas",		"gas_reactive":"Reactive Gas",		"metal_nonferrous":"Non-ferrous Metal",		"gemstone_armophous":"Armophous Gemstone",		"ore_siliclastic":"Siliclastic Ore",		"ore_sedimentary":"Sedimentary Ore",		"ore_extrusive":"Extrusive Ore",		"ore_igneous":"Igneous Ore",		"metal_ferrous":"Ferrous Metal",		"radioactive":"Radioactives",		"fuel_petrochem_solid":"Solid Petrochemicals",		"petrochem_inert":"Inert Petrochemicals",		"fuel_petrochem_liquid":"Liquid Petrochemical Fuel"
+		"fuel_petrochem_liquid":"Liquid Petrochemical Fuel",	"petrochem_inert":"Inert Petrochemicals",	"fuel_petrochem_solid":"Solid Petrochemicals",	"radioactive":"Radioactives",	"metal_ferrous":"Ferrous Metal",	"ore_igneous":"Igneous Ore",	"ore_extrusive":"Extrusive Ore",	"ore_sedimentary":"Sedimentary Ore",	"ore_siliclastic":"Siliclastic Ore",	"gemstone_armophous":"Armophous Gemstone",	"metal_nonferrous":"Non-ferrous Metal",	"gas_reactive":"Reactive Gas",	"gas_inert":"Inert Gas",	"metal":"Metal",	"ore":"Ore",	"gas":"Gas",	"gemstone_crystalline":"Crystalline Gemstone"
 }}

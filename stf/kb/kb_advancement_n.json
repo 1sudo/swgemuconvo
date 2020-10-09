@@ -1,5 +1,5 @@
 {
 	"stfFile":"kb/kb_advancement_n",
 	"entries": {
-		"skilltrainers":"Skill Trainers",		"skillpoints":"Skill Points",		"skillboxes":"Skill Boxes",		"skills":"Skills",		"experiencetypes":"Experience Types",		"experienceearning":"Earning Experience",		"experience":"Experience",		"advancement":"Advancement"
+		"advancement":"Advancement",	"experience":"Experience",	"experienceearning":"Earning Experience",	"experiencetypes":"Experience Types",	"skills":"Skills",	"skillboxes":"Skill Boxes",	"skillpoints":"Skill Points",	"skilltrainers":"Skill Trainers"
 }}

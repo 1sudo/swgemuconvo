@@ -1,5 +1,5 @@
 {
 	"stfFile":"kb/kb_missions_n",
 	"entries": {
-		"bountyhard":"Hard Bounties",		"bountyeasy":"Easy Bounties",		"bounty":"Bounty Hunter Missions",		"recon":"Recon Missions",		"crafting":"Crafting Missions",		"survey":"Survey Missions",		"dancer":"Dancer Gigs",		"musician":"Musician Gigs",		"gig":"Gig Missions",		"fetch":"Fetch Missions",		"escort":"Escort Missions",		"destroy":"Destroy Missions",		"deliver":"Deliver Missions",		"missions":"Missions"
+		"missions":"Missions",	"deliver":"Deliver Missions",	"destroy":"Destroy Missions",	"escort":"Escort Missions",	"fetch":"Fetch Missions",	"gig":"Gig Missions",	"musician":"Musician Gigs",	"dancer":"Dancer Gigs",	"survey":"Survey Missions",	"crafting":"Crafting Missions",	"recon":"Recon Missions",	"bounty":"Bounty Hunter Missions",	"bountyeasy":"Easy Bounties",	"bountyhard":"Hard Bounties"
 }}

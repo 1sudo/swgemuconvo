@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_nashal_goto_agent",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"Find this Selonian agent Taarna spoke of. See if you can help her with her problem. Agent Taarna said it was important to be diplomatic when addressing the Selonians; they are not accustomed to asking for help from strangers.",	"journal_entry_description":"You have been sent to Nashal, Talus in an effort to help the CorSec agent Taarna.",	"journal_entry_title":"Travel to Talus",	"task00_journal_entry_description":"Find agent Taarna and see what job he has for you.",	"task00_journal_entry_title":"Find the CorSec Agent",	"task00_waypoint_name":"CorSec agent Taarna"
+}}

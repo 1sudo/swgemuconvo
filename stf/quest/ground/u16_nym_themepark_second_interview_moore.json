@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_second_interview_moore",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've spoken to Sergeant Moore and received information on the Imperial Research Facility.",	"journal_entry_description":"Find Sergeant Moore and ask him about the Imperial Research Facility.",	"journal_entry_title":"Speak with Sergeant Moore, again",	"task00_journal_entry_description":"Find Sergeant Moore in the Stronghold Cantina.",	"task00_journal_entry_title":"Meet with Sergeant Moore",	"task00_waypoint_name":"Stronghold Cantina",	"task01_journal_entry_description":"Tell Kole what Sergeant Moore told you.",	"task01_journal_entry_title":"Return to Kole",	"task01_waypoint_name":"Kole (inside Stronghold)"
+}}

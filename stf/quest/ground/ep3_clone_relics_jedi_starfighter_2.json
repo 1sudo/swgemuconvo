@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_jedi_starfighter_2",
+	"entries": {
+		"category":"The Clone Relics, Fist of the Empire",	"journal_entry_description":"You stumbled upon classified Rebel data. Things can only get better from here on... or can they?",	"journal_entry_title":"Doing your duty, phase II",	"task00_journal_entry_description":"The Imperial base is under attack by the Rebel scum. Help defend it!",	"task00_journal_entry_title":"Under attack",	"task09_journal_entry_description":"The foolish Rebels are attacking the base. Defend the Empire and defeat them all!",	"task09_journal_entry_title":"Defeat the Rebels",	"task09_task_display_string_1":"Defeat the Rebel Commandos.",	"task09_task_display_string_2":"Defeat the Wookiee freedom fighters.",	"task09_task_display_string_3":"Defeat the Rebel troopers.",	"task10_journal_entry_description":"The attack seems to be over. You should return to Admiral Krieg.",	"task10_journal_entry_title":"Hold your fire"
+}}

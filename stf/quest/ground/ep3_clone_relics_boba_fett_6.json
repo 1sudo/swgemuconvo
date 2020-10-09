@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_boba_fett_6",
+	"entries": {
+		"category":"The Clone Relics, Boba Fett",	"journal_entry_description":"Boba Fett has employed you. It's usually a good idea to do what he suggests. People that don't play their cards right against Fett has a habit of catching a case of death.",	"journal_entry_title":"Working for Boba Fett, phase IV",	"task00_item_name":"Project Durge datapad",	"task00_journal_entry_description":"Head to the back of the tavern in the mining outpost and collect the datapad the scientist left there.",	"task00_journal_entry_title":"Data recovery",	"task01_journal_entry_description":"The datapad tells of how none of the scientists working on the project know where the specimen came from or what species he was. It also describes how a criminal organization called \"The Claw\" attacked the lab and 'stole' Durge. Return the datapad to Fett.",	"task01_journal_entry_title":"Return to Fett"
+}}

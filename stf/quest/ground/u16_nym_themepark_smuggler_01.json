@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_smuggler_01",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've found the Smuggler, now cash in the favor",	"journal_entry_description":"Find Dak Vox and remind him he owes Nym a favor",	"journal_entry_title":"Gimme The Prize",	"task00_journal_entry_description":"Find Dak Vox, a Smuggler who owes Nym a favor",	"task00_journal_entry_title":"Find Smuggler",	"task00_waypoint_name":"Smuggler Dak Vox"
+}}

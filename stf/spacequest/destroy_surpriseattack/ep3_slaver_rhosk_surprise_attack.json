@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/ep3_slaver_rhosk_surprise_attack",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast3 Tactical Computer: < pcontrast1 Escort destroyed. Proceed to primary objective. pcontrast3 >",	"leave_early":"",	"split_quest_alert":"pcontrast3 Tactical Computer: < pcontrast1 Adjutant Rhosk's vessle has been identified. pcontrast3 >",	"split_quest_alert_fail":"",	"title":"Space Kashyyyk: Take the Bait",	"title_d":"One of the Adjutant's escort has responded to your attack on their forward guard.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

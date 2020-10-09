@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_tyrena_slavemaster",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"The Slavemaster lies dead by your hands. The justice you have brought by this act erases any doubts you might have had about taking his life.",	"journal_entry_description":"Anyza has bourne the brunt of a lot of the Slavemaster's depraved sicknesses. She wants revenge. You must find out where the Slavemaster is and kill him.",	"journal_entry_title":"Slavemaster",	"task00_journal_entry_description":"Something terrible drives Anyza to seek revenge. She has asked you to kill the slavemaster of the slave ring.",	"task00_journal_entry_title":"Kill the Slavemaster",	"task01_journal_entry_description":"Return to Anyza and let her know the slavemaster is dead.",	"task01_journal_entry_title":"Return to Anyza",	"task01_waypoint_name":"Anyza Ekull"
+}}

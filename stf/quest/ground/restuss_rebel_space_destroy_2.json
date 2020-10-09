@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_space_destroy_2",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire is calling in backup TIE fighters from the Yavin system to gain superiority in the Corellia system. The Alliance have tasked you with crippling them before they even reach Corellia. Destroy 15 TIE fighters in the Yavin system.",	"journal_entry_title":"Space Attack, Part II",	"task00_journal_entry_description":"The Alliance has tasked you with destroying 15 TIE fighters in the Yavin system.",	"task00_journal_entry_title":"Space Superiority",	"task01_journal_entry_description":"You have destroyed enough enemy fighters in the Yavin system and should return to Lieutenant Grollo in Restuss.",	"task01_journal_entry_title":"Return to Restuss"
+}}

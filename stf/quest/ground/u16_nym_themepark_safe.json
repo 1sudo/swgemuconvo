@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_safe",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've returned to the Quartermaster.",	"journal_entry_description":"Return to Ralia and let her know that Rei is safe.",	"journal_entry_title":"Safe And Sound",	"task00_journal_entry_description":"Return to Ralia Reeven, Nym's Quartermaster",	"task00_journal_entry_title":"Go back to Nym's Quartermaster",	"task00_waypoint_name":"Quartermaster Ralia Reeven"
+}}

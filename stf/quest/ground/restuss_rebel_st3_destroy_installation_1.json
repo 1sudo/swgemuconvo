@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_st3_destroy_installation_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Imperial army has placed antennae around Restuss, to coordinate their troops and spy on the Alliance. Your orders are to destroy one of these antennae.",	"journal_entry_title":"Antennae Sabotage",	"task00_journal_entry_description":"You've been ordered to destroy one of the Imperial antennae in Restuss.",	"task00_journal_entry_title":"Blow Up an Antenna",	"task01_journal_entry_description":"You've successfully destroyed a Imperial turret and should return to Captain Voldez.",	"task01_journal_entry_title":"Mission accomplished"
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"space/destroy_surpriseattack/corellia_privateer_13",
 	"entries": {
-		"found_loc":"Head to new coordinates uploaded to your nav computer.",		"complete":"Good job, pilot. Return to base for your next assignment.",		"duty_update":"Superior Command:",		"quest_update":"Superior Command:",		"title":"Eliminate Tie Interceptors"
+		"title":"Eliminate Tie Interceptors",	"quest_update":"Superior Command:",	"duty_update":"Superior Command:",	"complete":"Good job, pilot. Return to base for your next assignment.",	"found_loc":"Head to new coordinates uploaded to your nav computer."
 }}

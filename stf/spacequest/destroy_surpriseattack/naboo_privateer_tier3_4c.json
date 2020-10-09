@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/naboo_privateer_tier3_4c",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Survive the Black Sun abmush",		"title":"Lok System: Survive the Black Sun Abmush",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 M&&#--- cking.. ## evasive man@#34444444,,, ecessary. \#pcontrast3 >",		"leave_early":"",		"complete":"\#pcontrast3 RSF Command: < \#pcontrast1 *#*#*#*#*#*#*#. \#pcontrast3 >",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"pcontrast3 RSF Command: < pcontrast1 *#*#*#*#*#*#*#. pcontrast3 >",	"leave_early":"",	"split_quest_alert":"pcontrast3 RSF Command: < pcontrast1 M&&#--- cking.. ## evasive man@#34444444,,, ecessary. pcontrast3 >",	"split_quest_alert_fail":"",	"title":"Lok System: Survive the Black Sun Ambush",	"title_d":"Survive the Black Sun Ambush",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

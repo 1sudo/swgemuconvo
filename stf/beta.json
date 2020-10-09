@@ -1,5 +1,5 @@
 {
 	"stfFile":"beta",
 	"entries": {
-		"resource_set_planet":"Set Planet",		"resource_planet":"Use - By Planet",		"resource_standard":"Use - Standard",		"harvester_deed":"Harvester Deeds",		"generator_deed":"Generator Deeds",		"factory_deed":"Factory Deeds",		"craft_station_deed":"Crafting Station Deeds",		"survey_tool":"Survey Tools"
+		"survey_tool":"Survey Tools",	"craft_station_deed":"Crafting Station Deeds",	"factory_deed":"Factory Deeds",	"generator_deed":"Generator Deeds",	"harvester_deed":"Harvester Deeds",	"resource_standard":"Use - Standard",	"resource_planet":"Use - By Planet",	"resource_set_planet":"Set Planet",	"blank_line":""
 }}

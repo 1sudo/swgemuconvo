@@ -1,0 +1,5 @@
+{
+	"stfFile":"mission_types_n",
+	"entries": {
+		"destroy":"Destroy",	"recon":"Recon",	"deliver":"Deliver",	"escorttocreator":"Escort to Creator",	"escort":"Escort",	"bounty":"Bounty",	"survey":"Survey",	"crafting":"Crafting",	"musician":"Musician",	"dancer":"Dancer",	"hunting":"Hunting"
+}}

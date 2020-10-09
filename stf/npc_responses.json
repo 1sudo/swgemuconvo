@@ -1,5 +1,5 @@
 {
 	"stfFile":"npc_responses",
 	"entries": {
-		"response5":"response 5",		"response4":"response 4",		"message2":"You lookin' at me?",		"message1":"Greetings, ya bastard!",		"response3":"response 3",		"response2":"response 2",		"response1":"response 1"
+		"response1":"response 1",	"response2":"response 2",	"response3":"response 3",	"message1":"Greetings, ya bastard!",	"message2":"You lookin' at me?",	"response4":"response 4",	"response5":"response 5"
 }}

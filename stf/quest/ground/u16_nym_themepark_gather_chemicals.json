@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_gather_chemicals",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You have gathered the raw chemical Coagulant and returned to Dak!",	"journal_entry_description":"Search the area around Mt. Chaolt for rocks containing deposits of raw Cationic Chemical Coagulant and take them to Dak Vox when you have gathered the amount he wants.",	"journal_entry_title":"I Want It All",	"task00_journal_entry_description":"Chemical deposits can be mined around the area. Collect the deposits and return to the smuggler.",	"task00_journal_entry_title":"Gather Chemical Deposits",	"task01_journal_entry_description":"Return to Dak Vox with the raw Cationic Chemical Coagulant.",	"task01_journal_entry_title":"Back to Dak",	"task01_waypoint_name":"Smuggler Dak Vox"
+}}

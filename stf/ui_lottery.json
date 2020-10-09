@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_lottery",
 	"entries": {
-		"selection":"Selection",		"none":"None",		"title":"Lottery",		"all":"All"
+		"none":"None",	"selection":"Selection",	"all":"All",	"title":"Lottery"
 }}

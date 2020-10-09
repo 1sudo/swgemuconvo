@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/restuss_rebel_destroy_1",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Space Attack",	"title_d":"The Alliance has tasked you with crippling the Imperial fleet in the Corellia system by destroying any Imperial military craft there that you can find."
+}}

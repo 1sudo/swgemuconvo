@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_spy_destroy_patrol",
+	"entries": {
+		"category":"Spy",	"journal_entry_completion_summary":"You have destroyed an enemy patrol point.",	"journal_entry_description":"Destroy an Enemy Patrol Point to prevent reinforcements.",	"journal_entry_title":"Destroy Enemy Patrol Point",	"task01_journal_entry_description":"Any patrol point destroyed will disrupt reinforcements to that location.",	"task01_journal_entry_title":"Destroy Patrol Point",	"task02_journal_entry_description":"The patrol point has been destroyed. Job well done.",	"task02_journal_entry_title":"Patrol Point Destroyed!",	"task04_journal_entry_description":"The patrol point has been destroyed. Job well done.",	"task04_journal_entry_title":"Patrol Point Destroyed!"
+}}

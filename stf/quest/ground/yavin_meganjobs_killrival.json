@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/yavin_meganjobs_killrival",
+	"entries": {
+		"category":"Yavin 4",	"journal_entry_description":"Nagem wants a demonstration of will. She needs you to kill off a party of illegal scavengers nearby.  ",	"journal_entry_title":"Kill Off Rivals",	"task00_journal_entry_description":"Nagem's probe droids have located a band of scavengers. ",	"task00_journal_entry_title":"Go to Scavengers' Camp",	"task00_waypoint_name":"Scavengers",	"task01_journal_entry_title":"Ambush",	"task03_journal_entry_description":"You finished off the scavenger leadership. Now to tell Nagem the good news. ",	"task03_journal_entry_title":"Return to Nagem",	"task03_waypoint_name":"Nagem Dr' Lar"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/jabba_romo_vax",
+	"entries": {
+		"category":"Jabba's Palace",	"journal_entry_description":"Help Romo Vax so he will give you the information Jabba needs.",	"journal_entry_title":"Helping Romo Vax",	"task00_journal_entry_description":"Romo Vax is worried about Valarian's people. They've been chasing him. He wants you to run them off. Perhaps killing a few of them would take care of this task.",	"task00_journal_entry_title":"Romo Vax",	"task01_waypoint_name":"Romo Vax"
+}}

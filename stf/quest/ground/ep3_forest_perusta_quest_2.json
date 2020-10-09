@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_perusta_quest_2",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"Perusta is in need of finding more Mysess Blossoms for her experiments. Perusta said that 5 Mysess Blossoms would do.",	"journal_entry_title":"Perusta's Experiment",	"task00_item_name":"Mysess Blossom",	"task00_journal_entry_description":"Collect 5 Mysess Blossoms for Perusta's experiment.",	"task00_journal_entry_title":"Collect 5 Mysess Blossoms",	"task02_journal_entry_title":"Reward Issued"
+}}

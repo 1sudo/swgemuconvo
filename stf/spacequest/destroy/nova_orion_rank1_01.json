@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/nova_orion_rank1_01",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Space Pirates",	"quest_destroy_t":"Space Pirates",	"quest_location_d":"",	"quest_location_t":"Ord Mantell (Nova Orion Sector)",	"split_quest_alert":"Pirates Located",	"split_quest_alert_fail":"",	"title":"Clearing Out the Pirates",	"title_d":"The pirates in the area are making business hard for the Nova Orion Station. You are needed to go out and teach them a lesson."
+}}

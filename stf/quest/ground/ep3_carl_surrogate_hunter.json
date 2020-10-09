@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_carl_surrogate_hunter",
+	"entries": {
+		"category":"Rryatt Trail",	"journal_entry_description":"You met a hunter named Carl Mosik at the start of the Ryyatt trail that wants to hire you to do a bit of hunting for him.",	"journal_entry_title":"The Minstyngar's Horn",	"task00_journal_entry_description":"Kill a Minstyngar in the Wroshyr Canopy and take their Horn as a trophy. Only a horn of pristine quality will be acceptable.",	"task00_journal_entry_title":"Minstyngar's Horn",	"task02_journal_entry_description":"A Trandoshan slaver appears to have taken offense to your presence and attack.",	"task02_journal_entry_title":"Attacked",	"task05_journal_entry_description":"Return the Pristine Horn to Carl Mosik",	"task05_journal_entry_title":"Collect your reward"
+}}

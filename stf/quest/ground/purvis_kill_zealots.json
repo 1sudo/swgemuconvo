@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/purvis_kill_zealots",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"You've been a great help in putting down the Tuskan raids. Mos Eisley is a bit safer because of you.",	"journal_entry_description":"The Tusken raids have been getting worse and they need your help to put them down.",	"journal_entry_title":"Tusken Infestation",	"task00_journal_entry_description":"Purvis, the old soldier, has told you the Tuskens have been nesting in an outlying area called Junktown. He needs help and wants to see if you've got what it takes. He has asked you to take out 5 of the Tusken Raider Zealots",	"task00_journal_entry_title":"Kill 5 Tusken Zealots",	"task00_waypoint_name":"Tusken zealots"
+}}

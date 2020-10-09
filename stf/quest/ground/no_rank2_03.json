@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/no_rank2_03",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"A Nova Orion transport has disappeared. Find it and help ensure that it returns safely.",	"journal_entry_title":"Missing Transport",	"task01_journal_entry_description":"A Nova Orion transport has disappeared and foul play is suspected. Find the missing transport and help ensure that it returns safely.",	"task01_journal_entry_title":"Find the Missing Transport",	"task03_journal_entry_description":"Return to Dexen Eronoss on Nova Orion Station.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

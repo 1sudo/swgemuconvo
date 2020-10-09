@@ -1,0 +1,5 @@
+{
+	"stfFile":"npe_station_drunk",
+	"entries": {
+		"too_many":"Whoa, I think I have had too many. I don't feel so good.",	"go_med":"I better go to see the doctor",	"ready":"Ah, I feel much better now.  Time to go back, and see what everyone is up to.",	"welcome":"Welcome back, have a nice rest?"
+}}

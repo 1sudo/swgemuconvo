@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_easy_main_4a",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast1 Tactical Computer:pcontrast3 <Scanning... Threat alleviated. No enemies in the vacinity. Mission complete.>",	"leave_early":"",	"split_quest_alert":"Laetin A'shera: <Pilot! Do you see anything out there? I can't quiet grasp it, but there's a disturbance out there. My systems can't pick it up. Be careful!>",	"split_quest_alert_fail":"",	"title":"Talonbane Cobra: The Destruction",	"title_d":"'I'm under attack! The Black Sun are quick and agile. Soon, the Talonbane Cobra will be barreling into my hull. I must ready myself!'",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

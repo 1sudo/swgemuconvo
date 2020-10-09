@@ -1,0 +1,5 @@
+{
+	"stfFile":"ui_buffbuilder",
+	"entries": {
+		"recipient":"Recipient:",	"duration_accrued":"Duration Accrued:",	"cover_charge":"Cover Charge",	"accept":"Accept",	"cancel":"Cancel",	"recipient_caption":"Buff Recipient",	"clear":"Clear",	"buffer_caption":"Buff Builder",	"add":"Add",	"remove":"Remove",	"points_remaining":"Points Remaining",	"total_cost":"Total Cost",	"entertainer":"Entertainer:",	"verify_prompt":"Citizen! The Empire requests your help in verifying some information our optical scanners are having trouble with due to hacking attempts by Rebel sympathizers. Please enter the number of images you see below. Failure to do so could result in temporary suspension of your enhancement privileges.  License information: Provider: %TU Recipient: %TT",	"recipient_name":"Recipient"
+}}

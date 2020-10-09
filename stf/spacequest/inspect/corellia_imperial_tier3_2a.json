@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/inspect/corellia_imperial_tier3_2a",
 	"entries": {
-		"title_d":"",		"title":"Inspect merchant craft",		"split_quest_alert":"Split quest coming",		"quest_location_t":"",		"quest_location_d":"",		"quest_inspect_t":"",		"quest_inspect_d":"",		"quest_dock_t":"",		"quest_dock_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_dock_d":"",	"quest_dock_t":"",	"quest_inspect_d":"",	"quest_inspect_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"Split quest coming",	"title":"Inspect merchant craft",	"title_d":""
 }}

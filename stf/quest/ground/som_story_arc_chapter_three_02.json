@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/som_story_arc_chapter_three_02",
+	"entries": {
+		"category":"Mustafar",	"journal_entry_description":"You need to find a way to get into the terminal located outside the droid factory.",	"journal_entry_title":"Terminal Hack",	"task00_message_box_text":"Unauthorized access detected. Closing terminal port...",	"task00_message_box_title":"Terminal Report",	"task01_journal_entry_description":"Talk to one of the engineers located at the Mensix Mining Facility. One of them should have an override tool that will allow you to break into the terminal.",	"task01_journal_entry_title":"Get a Terminal Override"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_mining_quest_1",
+	"entries": {
+		"category":"Corellian Engineering Corp. (Mining Division)",	"journal_entry_description":"Deliver a message for Flash Harrison on Kashyyyk.",	"journal_entry_title":"Mission To Talus",	"task00_journal_entry_description":"Flash Harrison, self proclaimed mighty pilot, has asked you to deliver a message to Thom Steele of the Corellian Engineering Corporation.  He can usually be found in the Dearic Cantina on Talus.",	"task00_journal_entry_title":"Mission To Talus",	"task01_journal_entry_title":"Mission To Talus"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/npe_training_2b",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"",	"quest_location_t":"Return to the Tansarii Point Station.",	"quest_patrol_d":"",	"quest_patrol_t":"",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"The Return Home",	"title_d":"Return to the Tansarii Point Station and communicate with it to land. You can communicate with the Station by targeting it and typing /comm in spatial chat."
+}}

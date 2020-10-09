@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_medic_tracker",
+	"entries": {
+		"category":"Tansarii Point Station",	"task02_comm_message_text":"Good work. To better serve your patients, you must be able to protect yourself. Go see Loche in the Ranged Combat Room. He will teach you to use a pistol.",	"task05_comm_message_text":"Good to hear you are excelling in all you do. I believe you are done learning the basics. Come back to see me.",	"task06_waypoint_name":"Billingsly"
+}}

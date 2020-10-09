@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_quest_final_neutral",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You hope to never meet Darth Vader in person.",	"journal_entry_description":"Darth Vader has warned you for meddling in his affairs.",	"journal_entry_title":"Darth Vader",	"task00_journal_entry_description":"none",	"task00_journal_entry_title":"none",	"task01_comm_message_text":"[Darth Vader] I will find you, and you will pay for your insolence.",	"task03_comm_message_text":"[Cale Herron] I just heard someone infiltrated the quarantine zone and stole something Vader wanted for the Black Sun. Hahaha...I wouldn't want to be that person right now."
+}}

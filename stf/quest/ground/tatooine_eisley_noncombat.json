@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_noncombat",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Gendra has asked you to come visit when you have a chance. He has much to teach you about crafting and entertainment professions.",	"journal_entry_title":"Finding Your Way",	"task00_comm_message_text":"Hey kid! I see that you made it safely to Tatooine from Tansarii Point Station.  I've got a friend you might be interested in talking to, name's Gendra. Go by and say hi to him. Good luck, kid, and I hope to see ya around!",	"task01_journal_entry_description":"You should go see Gendra to speak about crafting or entertainer professions.",	"task01_journal_entry_title":"Go See Gendra",	"task01_waypoint_name":"Gendra"
+}}

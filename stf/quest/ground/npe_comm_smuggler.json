@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_comm_smuggler",
+	"entries": {
+		"category":"Tansarii Point Station",	"task00_journal_entry_title":"Pistol",	"task00_task_display_string_1":"Return to Loche in the Ranged Combat Training Room",	"task02_comm_message_text":"Well done. The next thing that you need to know about is how to get yourself out of a brawl intact. Talk to Rydel about unarmed fighting. Rydel is in the Close Combat Training Room.",	"task03_journal_entry_title":"Unarmed",	"task03_task_display_string_1":"Return to Rydel Delan in the Close Combat Training Center",	"task05_comm_message_text":"Great job, kid. Now you can do something else for me. Come back to Hangar Bay 2 and I'll teach ya more about being a Smuggler."
+}}

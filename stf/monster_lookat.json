@@ -1,5 +1,5 @@
 {
 	"stfFile":"monster_lookat",
 	"entries": {
-		"acklay":"an acklay",		"grovo":"Grovo"
+		"grovo":"Grovo",	"acklay":"an acklay",	"sawtooth":"Sawtooth",	"scorpion_kliknik":"Scorpion Kliknik",	"painted_spat":"Painted Spat",	"murra_blanca":"Murra Blanca",	"bane_back_spider":"Bane Back Spider",	"finned_blaggart":"Finned Blaggart",	"mutant_acklay":"Mutant Acklay",	"spiketail_blurrg":"Spiketail Blurrg",	"som_alien_parasite":"This small arachnoid creature seems highly aggressive."
 }}

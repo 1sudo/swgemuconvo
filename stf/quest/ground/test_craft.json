@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/ground/test_craft",
 	"entries": {
-		"task00_journal_entry_title":"",		"task00_journal_entry_description":"",		"journal_entry_title":"",		"journal_entry_description":"",		"category":""
+		"category":"Test2",	"journal_entry_description":"To make anything, you need the proper tools.  Alduq Besene wants to make sure that you have all the tools that you need.",	"journal_entry_title":"Test Craft"
 }}

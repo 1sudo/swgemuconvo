@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_toff",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Go to Toff Henrou, a Skaak Tipper.",	"journal_entry_title":"Go to Toff Henrou",	"task00_journal_entry_description":"Go speak with Toff Henrou, a Skaak Tipper. For Hugo's son's sake, do whatever he asks of you.",	"task00_journal_entry_title":"Go to Toff Henrou",	"task00_waypoint_name":"Toff Henrou"
+}}

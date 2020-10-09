@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_anchorjobs_impcodes",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"It didn't take to long but you got Ordo a number of examples of the terrorist tatical codes. Hopefully Ordo's friends in Anchorhead can make use of them.",	"journal_entry_description":"The Alliance needs to break into the terrorist's tactical communication network. It needs examples of the encryption codes used by the terrorists. Take out terrorists until you have five encryption code chips.",	"journal_entry_title":"Terrorist Codes",	"task00_journal_entry_description":"The Rebels want you to take out terrorists and recover any functioning encryption chip.",	"task00_journal_entry_title":"Kill Terrorists",	"task00_waypoint_name":"Terrorist Encampment",	"task01_comm_message_text":"Great job! this should give our code crackers a leg up on getting into the Terrorists' tactical networks here on Tatooine.",	"task01_journal_entry_title":" Message for you Sir"
+}}

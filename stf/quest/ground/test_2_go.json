@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_2_go",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"2 go to locations",	"journal_entry_title":"Go to 2",	"task01_journal_entry_description":"Go2",	"task01_journal_entry_title":"Go2",	"task01_waypoint_name":"Go2",	"task02_journal_entry_description":"Go1",	"task02_journal_entry_title":"Go1",	"task02_waypoint_name":"Go1"
+}}

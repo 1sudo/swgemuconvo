@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_hard_3",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_description":"Destroy the defenses of the Darkveil Eclipse.",	"journal_entry_title":"Darkveil Eclipse",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"Destroy all Black Sun near the Darkveil Eclipse.",	"task01_journal_entry_title":"Attack on the Darkveil Eclipse",	"task02_journal_entry_description":"Return to Dartas to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Dartas",	"task02_waypoint_name":"Dartas Pytin (Elite Car'das Pilot)",	"task03_journal_entry_description":"Report to Dartas of your success.",	"task03_journal_entry_title":"Land and Report back to Dartas",	"task03_waypoint_name":"Dartas Pytin (Elite Car'das Pilot)"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_hugo_return",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Go back to Hugo Eckener. Hopefully his son, Karl, is now safe.",	"journal_entry_title":"Back to Hugo Eckener",	"task00_journal_entry_description":"Return to Hugo Eckener and let him know you've finished doing the things Toff Henrou and Jorgellansel wanted.",	"task00_journal_entry_title":"Return to Hugo Eckener at Theed Palace",	"task00_waypoint_name":"Theed Palace Entrance"
+}}

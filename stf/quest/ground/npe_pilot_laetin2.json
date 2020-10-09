@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_laetin2",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Find Laetin in his office.",	"journal_entry_title":"Continued Pilot Training ",	"task00_journal_entry_description":"Go to Docking Bay 1 and talk to Laetin for more piloting missions.",	"task00_journal_entry_title":"Talk to Laetin in Docking Bay 1",	"task00_waypoint_name":"Laetin (Pilot Trainer)"
+}}

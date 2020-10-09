@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_coronet_meatlump_act2_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Speak with Vani Korr of the Corellia Times.",	"journal_entry_title":"Vani Korr",	"task00_journal_entry_description":"Speak with Vani Korr in Coronet.",	"task00_journal_entry_title":"Speak with Vani Korr",	"task00_waypoint_name":"Coronet Hospital Entrance"
+}}

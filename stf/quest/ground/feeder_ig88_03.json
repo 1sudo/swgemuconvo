@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/feeder_ig88_03",
+	"entries": {
+		"category":"IG-88",	"journal_entry_description":"Help Galody retrieve the circuit board from Tao-Ni Security's mainframe.",	"journal_entry_title":"Help Galody",	"task01_journal_entry_description":"Destroy cyborgs to recover charged capacitors.",	"task01_journal_entry_title":"Recover Charged Capacitors",	"task02_comm_message_text":"Good, now take the capacitors and overload the security mainframe.",	"task03_item_name":"Overloaded Security Database",	"task03_journal_entry_description":"Use charged capacitors to overload security mainframe. So you can safely remove the data.",	"task03_journal_entry_title":"Overload Security Mainframe",	"task03_retrieve_menu_text":"Overload Mainframe",	"task04_item_name":"Board Retrieved",	"task04_journal_entry_description":"Remove Circuit Board while security trap is disabled.",	"task04_journal_entry_title":"Retrieve Circuit Board",	"task04_retrieve_menu_text":"Retrieve Circuit Board",	"task05_journal_entry_description":"Now that you have recovered the circuit board, return to Galody.",	"task05_journal_entry_title":"Return to Galody"
+}}

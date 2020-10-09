@@ -1,0 +1,5 @@
+{
+	"stfFile":"clone_facility",
+	"entries": {
+		"npe_space_station":"Tansarii Point Station ",	"npe_space_dungeon":"Outpost Gamma",	"corellian_corvette":"Corellian Corvette",	"kashyyyk_kachirho":"Kachirho",	"kashyyyk_rryatt_trail":"The Rryatt Trail ",	"kashyyyk_hunting":"Etyyy, The Hunting Grounds",	"kashyyyk_forest":"Kkowir Forest",	"mustafar_mining_facility":"Mensix Mining Facility",	"kashyyyk_hracca":"Hracca Glade",	"kashyyyk_bocctyyy":"Bocctyyy Path",	"kashyyyk_myyydril":"The Myyydril Caverns",	"kashyyyk_avatar":"Avatar Platform",	"kashyyyk_slave_camp":"Blackscale Processing Camp",	"imp_cloning_chamber":"Imperial Cloning Chamber",	"imp_cloning_outpost":"Imperial Cloning Outpost",	"rebel_aid_station":"Rebel Aid Station",	"rebel_cloning_outpost":"Rebel Cloning Outpost",	"gcw_static_base_rebel":"Rebel Forward Base Camp",	"gcw_static_base_imperial":"Imperial Forward Base Camp",	"player_camp":"Campsite",	"nova_orion_space_station":"Nova Orion Space Station",	"heroic_star_destroyer":"Blackguard, Imperial Star Destroyer",	"echo_base":"Echo Base",	"imperial_aid_station":"Imperial Aid Station",	"default":""
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_39_sidequest_01",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You collected important information on the terrorist activities being planned by the Drall patriots in the Doaba Guerfel area.",	"journal_entry_description":"Gather intel on the activities of the Drall patriots in the Doaba Guerfel area.",	"journal_entry_title":"Gather Intel on the Drall Patriots",	"task00_entrance_waypoint_name":"Entrance to Drall Patriot Warehouse",	"task00_item_name":"Drall patriot intel gathered",	"task00_journal_entry_description":"Gather intel on planned terrorist activities of the Drall patriots in the area.",	"task00_journal_entry_title":"Gather Intel on the Drall Patriots",	"task00_retrieve_menu_text":"Access the Drall patriot data terminal",	"task00_waypoint_name":"Entrance to Drall Patriot Warehouse",	"task01_journal_entry_description":"Return to Dayana, a Selonian peacekeeper, with the information you collected.",	"task01_journal_entry_title":"Return to Dayana",	"task01_waypoint_name":"Dayana, a Selonian Peacekeeper"
+}}

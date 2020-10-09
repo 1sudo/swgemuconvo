@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_ziven_collect_webweaver_fangs",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Ziven Tissak will test your hunting abilities by asking you to hunt webweavers in Etyyy.",	"journal_entry_title":"Hunting Webweavers",	"task01_journal_entry_description":"Go speak with Ziven Tissak at the primary Rodian hunting camp.",	"task01_journal_entry_title":"Seek out Ziven Tissak",	"task02_journal_entry_description":"Ziven wants you to collect 38 untainted webweaver fangs. Any webweavers in the area could have them.. ",	"task02_journal_entry_title":"Collect Untainted Webweaver Fangs",	"task03_journal_entry_description":"You have the webweaver fangs. Now return to Ziven at the main Rodian hunting camp.",	"task03_journal_entry_title":"Return to Ziven Tissak"
+}}

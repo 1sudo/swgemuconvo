@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_stormtrooper_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire is bringing in reinforcements from all over the galaxy to help defend their research base in Restuss. You've been assigned to show them that they can't relax anywhere and should think twice before re-assigning their personnel.",	"journal_entry_title":"On the Offense",	"task00_journal_entry_description":"You've been tasked with defeating 40 members of the Imperial army.",	"task00_journal_entry_title":"Halt the Reinforcements",	"task01_journal_entry_description":"Return to Lieutenant Olvog in Restuss and let him know that your assignment is done.",	"task01_journal_entry_title":"Back to Restuss"
+}}

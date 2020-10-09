@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_quest_final_imperial",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"Darth Vader congratulated you on your success.",	"journal_entry_description":"Darth Vader congratulated you on your success.",	"journal_entry_title":"Darth Vader",	"task00_journal_entry_description":"none",	"task00_journal_entry_title":"none",	"task01_comm_message_text":"[Darth Vader] Captain Piett has reported that you have been successful in your mission. Your dedication to this matter has earned you additional rewards. I look forward to doing business in the future.",	"task03_comm_message_text":"[Cale Herron] I just heard someone successfully infiltrated the quarantine zone for the Empire. Whoever it was must have a great story."
+}}

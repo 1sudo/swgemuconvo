@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_boba",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Boba Fett. He might have a task for you that will take you off the station.",	"journal_entry_title":"Leaving the Station",	"task00_journal_entry_description":"Boba Fett has a task for you to perform. Talk to him to see what it is.",	"task00_journal_entry_title":"Talk to Boba Fett in the Cantina",	"task00_waypoint_name":"Boba Fett"
+}}

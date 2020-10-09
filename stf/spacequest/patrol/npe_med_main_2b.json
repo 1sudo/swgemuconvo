@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/npe_med_main_2b",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"'Ord Mantell is known for having lienent baking laws. Anyone can get a bank account on Ord Mantell with no questions asked. Needless to say, the planet is very popular with smugglers and other underground denizens.'",	"quest_location_t":"Ord Mantell: Bright Jewel Ribbon",	"quest_patrol_d":"'Sulale Kallor was able to escape by hyperspacing out. I'll need to make sure that the immediate area is safe and free of Black Sun enemies.'",	"quest_patrol_t":"The Return Home",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"Aleas Rans'ery: <Pilot! Black Sun vessels are coming to yer location!>",	"split_quest_alert_fail":"",	"title":"The Return Home",	"title_d":"Return to the Tansarii Point Station and communicate with it to land. You can communicate with the Station by targeting it and typing /comm in spatial chat."
+}}

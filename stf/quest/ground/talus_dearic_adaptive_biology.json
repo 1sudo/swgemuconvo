@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_dearic_adaptive_biology",
+	"entries": {
+		"category":"Talus",	"journal_entry_completion_summary":"You have killed the arachne drone.",	"journal_entry_description":"Jana seems to think the arachne queen's mate could possibly morph into a breeder form of the genetically altered arachne. The mate must be killed before this can happen. This creature is far tougher and more massive than any of the other arachne, it may require you to gather a group to kill it.",	"journal_entry_title":"Adaptive Biology",	"task00_journal_entry_description":"Jana T'bayr has asked you to venture into an evacuated GeneTech lab to destroy a genetically altered arachne drone. This drone is apparently the queen's mate. While the queen is being taken care of there is the possibility the drone could exhibit ",	"task00_journal_entry_title":"Kill the Brood Mate",	"task01_journal_entry_description":"Go back to Jana and let her know you were successful in destroying the brood mate.",	"task01_journal_entry_title":"Return to Jana"
+}}

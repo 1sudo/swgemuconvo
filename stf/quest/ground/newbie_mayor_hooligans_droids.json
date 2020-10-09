@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_mayor_hooligans_droids",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You disabled some malfunctioning battle droids that jettisoned themselves to Tatooine outside of Mos Eisley. Thankfully, the droids didn't hurt anyone.",	"journal_entry_description":"Some battle droids landed in an escape pod near Mos Eisley. They are behaving erratically. Go disable them before they harm someone.",	"journal_entry_title":"Droid Control",	"task00_journal_entry_description":"Some malfunctioning battle droids accidentally jettisoned themselves from a starship in an escape pod, and that pod landed not far from Mos Eisley. Go disable those battle droids before they cause more trouble.",	"task00_journal_entry_title":"Error-Prone Droids",	"task00_waypoint_name":"Droid Escape Pod",	"task01_journal_entry_description":"Return to Peawp R'dawc and let her know you disabled the error-prone droids.",	"task01_journal_entry_title":"Return to Peawp R'dawc",	"task01_waypoint_name":"Combat Guildhall (Peawp R'dawc)"
+}}

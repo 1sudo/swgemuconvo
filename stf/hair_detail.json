@@ -1,5 +1,5 @@
 {
 	"stfFile":"hair_detail",
 	"entries": {
-		"lekku":"lekku",		"ridges":"ridges",		"frills":"frills",		"hair":"hair"
+		"hair":"hair",	"frills":"frills",	"ridges":"ridges",	"lekku":"lekku"
 }}

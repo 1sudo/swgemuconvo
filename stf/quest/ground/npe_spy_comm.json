@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_spy_comm",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Visit Loche and Raylen to complete your spy training.",	"journal_entry_title":"A Spy's Training",	"task00_journal_entry_description":"Visit Loche and complete his training.",	"task00_journal_entry_title":"Loche",	"task02_comm_message_text":"Looks like you got your skills down. Come back and we'll talk about the *real* work you're gonna do.",	"task03_waypoint_name":"Lercer (Spy Trainer)"
+}}

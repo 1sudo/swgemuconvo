@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/naboo_imperial_tier3_3_a",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"A group of Rebels have come in a bit to late in order to stop you from making the delivery. Destroy them.",		"title":"Dathomir System: Destroy the Rebel X-wings",		"split_quest_alert_fail":"",		"split_quest_alert":"Pilot, we have a serious problem. The Rebels have attacked another ship. It would appear that they were uncertain what ship had the list. You are needed to help protect that other craft.",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"",		"Quest Log Data":"Text"
+		"quest_log_data":"Text",	"assigned_delayed":"",	"complete":"You have survived the Suprise Attack!",	"leave_early":"",	"split_quest_alert":"Pilot, we have a serious problem. The Rebels have attacked another ship. It would appear that they were uncertain what ship had the list. You are needed to help protect that other craft.",	"split_quest_alert_fail":"",	"title":"Dathomir System: Destroy the Rebel X-wings",	"title_d":"A group of Rebels have come in a bit too late in order to stop you from making the delivery. Destroy them.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

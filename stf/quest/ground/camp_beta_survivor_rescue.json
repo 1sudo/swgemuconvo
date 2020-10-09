@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/camp_beta_survivor_rescue",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have guarded the survivor.",	"journal_entry_description":"Guard the survivor on the way to camp beta.",	"journal_entry_title":"Guard Survivor",	"task00_journal_entry_description":"Guard the survivor on the way to camp alpha.",	"task00_journal_entry_title":"Guard Survivor",	"task01_journal_entry_description":"none",	"task01_journal_entry_title":"none",	"task02_journal_entry_description":"clear",	"task02_journal_entry_title":"clear",	"task03_journal_entry_description":"Guard the survivor on the way to camp alpha.",	"task03_journal_entry_title":"Guard Survivor",	"task04_journal_entry_description":"none",	"task04_journal_entry_title":"none"
+}}

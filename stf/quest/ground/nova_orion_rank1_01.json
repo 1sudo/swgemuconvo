@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/nova_orion_rank1_01",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"The normal delivery pilots for Nova Orion are too frightened to make their deliveries. You need to show them there is nothing to be frightened of.",	"journal_entry_title":"Delivering the Product",	"task00_journal_entry_description":"The regular delivery personnel are too frightened to make the delivery. Go get the product from them, and deliver it to the customer.",	"task00_journal_entry_title":"Deliver the Product",	"task01_journal_entry_description":"Return to report",	"task01_journal_entry_title":"Mission Accomplished"
+}}

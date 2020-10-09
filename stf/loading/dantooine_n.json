@@ -1,6 +1,5 @@
 {
 	"stfFile":"loading/dantooine_n",
 	"entries": {
-		"voritor":"Voritor",		"thune":"Thune",		"quenker":"Quenker",		"piket":"Piket",		"remnants_of_kun":"Remnants of Kun",		"huurton":"Huurton",		"bol":"Bol",		"jedi_temple":"Jedi Temple",		"dantari":"Dantari",		"rebel_base":"Rebel Base",		"dantooine":"Dantooine
-"
+		"dantooine":"Dantooine ",	"rebel_base":"Rebel Base",	"dantari":"Dantari",	"jedi_temple":"Jedi Temple",	"bol":"Bol",	"huurton":"Huurton",	"remnants_of_kun":"Remnants of Kun",	"piket":"Piket",	"quenker":"Quenker",	"thune":"Thune",	"voritor":"Voritor"
 }}

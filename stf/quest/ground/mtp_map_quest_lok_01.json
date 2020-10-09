@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_map_quest_lok_01",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You found the bomb.",	"journal_entry_description":"A target map lists a location on Lok that has been targeted for explosives.  You should check it out and defuse the bomb if possible.",	"journal_entry_title":"Bomb Target - Lok, Near Nym's Stronghold",	"task00_journal_entry_description":"nothing",	"task00_journal_entry_title":"nothing",	"task01_task_display_string_1":"You have found the bomb on Lok.",	"task02_journal_entry_description":"Travel to Lok and locate the bomb.",	"task02_journal_entry_title":"Find the Bomb",	"task02_waypoint_name":"Bomb Target - Lok, Near Nym's Stronghold"
+}}

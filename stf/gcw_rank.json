@@ -1,0 +1,5 @@
+{
+	"stfFile":"gcw_rank",
+	"entries": {
+		"imperial_rank1":"Private",	"imperial_rank3":"Corporal",	"imperial_rank2":"Lance Corporal",	"imperial_rank4":"Sergeant",	"imperial_rank6":"Sergeant Major",	"imperial_rank7":"Lieutenant",	"imperial_rank8":"Captain",	"imperial_rank9":"Major",	"imperial_rank10":"Lt. Colonel",	"imperial_rank":"Colonel",	"imperial_rank12":"General",	"rebel_rank1":"Private",	"rebel_rank2":"Trooper",	"rebel_rank3":"High Trooper",	"rebel_rank4":"Sergeant",	"rebel_rank5":"Senior Sergeant",	"rebel_rank6":"Sergeant Major",	"rebel_rank7":"Lieutenant",	"rebel_rank8":"Captain",	"rebel_rank9":"Major",	"rebel_rank10":"Commander",	"rebel_rank11":"Colonel",	"rebel_rank12":"General",	"unranked":"Unranked",	"rebel_rank0":"Unranked",	"imperial_rank0":"Unranked",	"imperial_rank11":"Colonel",	"imperial_rank5":"Master Sergeant"
+}}

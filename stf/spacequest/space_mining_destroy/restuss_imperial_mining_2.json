@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/space_mining_destroy/restuss_imperial_mining_2",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"The Deep Space System is a currently a war zone between the Rebel Alliance and the Empire.",	"quest_location_t":"Travel to the Deep Space System",	"quest_mine_d":"The Empire has ordered you to supply them with 250 organometallic gas from Deep Space.",	"quest_mine_t":"Mine Organometallic gas",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Mine Wars, Part II",	"title_d":"The Imperial Army requires raw materials to finish the defense base in Restuss."
+}}

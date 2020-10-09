@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/found_tusken_encounter",
+	"entries": {
+		"category":"Heroic",	"journal_entry_description":"Find the Tusken Scholar in Mos Espa",	"journal_entry_title":"Tusken Scholar",	"task00_journal_entry_description":"Srimaur can be found in Mos Espa.",	"task00_journal_entry_title":"Find the Scholar Srimaur",	"task00_waypoint_name":"Srimaur"
+}}

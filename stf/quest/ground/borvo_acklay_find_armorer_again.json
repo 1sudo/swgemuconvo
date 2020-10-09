@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/borvo_acklay_find_armorer_again",
+	"entries": {
+		"category":"Naboo",	"journal_entry_description":"After your battle with the acklay in Borvo's vault, you found an intact portion of its shell.",	"journal_entry_title":"Finding Dakk",	"task00_journal_entry_description":"Looks like you have managed to get another carapace. You should take it back to Dakk.",	"task00_journal_entry_title":"Another Carapace",	"task00_message_box_text":"You once again managed to extract an intact piece of the acklay's shell. Dakk might be able to craft you another piece, bring it to him.",	"task00_message_box_title":"Another Shell",	"task01_journal_entry_description":"Dakk can make you another piece if you bring it to him.",	"task01_journal_entry_title":"Bring the Carapace to Dakk",	"task01_waypoint_name":"Dakk"
+}}

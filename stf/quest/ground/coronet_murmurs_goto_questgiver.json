@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/coronet_murmurs_goto_questgiver",
+	"entries": {
+		"category":"Corellia",	"journal_entry_description":"Lt. Joth needs your help in Coronet City.",	"journal_entry_title":"A New Assignment",	"task00_journal_entry_description":"Lt. Joth needs a trustworthy agent to deal with a sensitive problem. Talk to him in Coronet City.",	"task00_journal_entry_title":"Talk to Lt. Joth",	"task00_waypoint_name":"Lt. Joth"
+}}

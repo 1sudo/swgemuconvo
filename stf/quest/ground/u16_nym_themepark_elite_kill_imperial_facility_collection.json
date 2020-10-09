@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_elite_kill_imperial_facility_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've eliminated the targets.",	"journal_entry_description":"Infiltrate the Imperial Research Facility and kill Kendo Ryzak, Platt Pareja, Goll Bardok, and Jeran Tarven.",	"journal_entry_title":"Purge the Facility",	"task00_journal_entry_description":"Travel to the Imperial Research Facility. ",	"task00_journal_entry_title":"Find the Imperial Research Facility",	"task00_waypoint_name":"Imperial Research Facility",	"task01_journal_entry_description":"Locate and kill Kendo Ryzak, Platt Pareja, Goll Bardok, and Jeran Tarven.",	"task01_journal_entry_title":"Eliminate the Targets",	"task01_waypoint_name":"Imperial Research Facility",	"task02_journal_entry_description":"Report to Mako Ghast.",	"task02_journal_entry_title":"Return to Mako Ghast",	"task02_waypoint_name":"Mako Ghast (inside Stronghold)"
+}}

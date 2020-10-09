@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_solo_profession_2",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Now that you have escaped from the Empire, you need to look for some work. Han Solo has a great number of contacts and may be able to help you.",	"journal_entry_title":"You Need Work",	"task00_journal_entry_description":"Now that you are on Tansarii Point Station, you will need some work. Han Solo can point to where you need to go. Talk to him to find out where.",	"task00_journal_entry_title":"Talk to Han Solo in Hangar Bay 2",	"task00_waypoint_name":"Han Solo"
+}}

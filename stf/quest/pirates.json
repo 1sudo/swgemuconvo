@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/pirates",
 	"entries": {
-		"dont_hurt_us":"Wait! Don't hurt us! We give up!",		"ruin_life":"I'll be back! And I'll ruin your life!"
+		"ruin_life":"I'll be back! And I'll ruin your life!",	"dont_hurt_us":"Wait! Don't hurt us! We give up!",	"dont_hurt_me":"Ahh! You've rightfully defeated me.",	"general_otto_defeated":"Aaaah! Get away from me!!",	"axkva_min_intro_09_too_far":"You must be near the large blue crystal in the Blueleaf Temple.",	"axkva_min_intro_07_too_far":"You must go into the lava pool at the top of Mount Chaolt."
 }}

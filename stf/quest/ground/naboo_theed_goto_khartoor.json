@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_khartoor",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Lieutenant Sundria Khartoor.",	"journal_entry_title":"Report to Lieutenant Khartoor.",	"task00_journal_entry_description":"Report to Lieutenant Sundria Khartoor, of the RSF Violent Crimes Division.",	"task00_journal_entry_title":"Report to Lieutenant Khartoor.",	"task00_waypoint_name":"Lt. Khartoor"
+}}

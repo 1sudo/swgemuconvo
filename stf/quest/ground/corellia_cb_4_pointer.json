@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_cb_4_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Cora said Jark wanted to talk to you.",	"journal_entry_title":"Talk to Captain Jark",	"task00_journal_entry_description":"Cora said Jark wants to speak to you.",	"task00_journal_entry_title":"Talk To Captain Jark",	"task00_waypoint_name":"Captain Jark"
+}}

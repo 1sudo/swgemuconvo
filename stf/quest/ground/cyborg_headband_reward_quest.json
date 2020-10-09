@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/cyborg_headband_reward_quest",
+	"entries": {
+		"category":"Collection",	"journal_entry_completion_summary":"You have received the cyborg headband reward for the liquidation of enemy droid pilots.",	"journal_entry_description":"There are four types of headbands. Three headbands are armor types (Recon, Battle, Assault) and the fourth is slotted clothing. Recon: Kinetic protection of 4664 and Energy of 6664. Heat, Cold, Acid, Electricity protection of 5664. Assault: Kinetic protection of 6664 and Energy of 4664. Heat, Cold, Acid, Electricity protection of 5664. Battle: Kinetic protection of 5664 and Energy of 5664. Heat, Cold, Acid, Electricity protection of 5664.  Clothing: 1 Slot allowed, no other attributes. Intended for Jedi, Entertainers and Traders.",	"journal_entry_title":"Cyborg Headband Reward"
+}}

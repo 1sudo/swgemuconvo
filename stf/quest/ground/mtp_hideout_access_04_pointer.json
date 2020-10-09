@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_access_04_pointer",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"Finally a solid lead! The speeder bikes were, in fact, destroyed by Meatlumps and their lieutenant has agreed to talk to you.",	"journal_entry_description":"Vani Korr has asked you to find a way into the Meatlump Hideout. First, you must find out where it is. To that end, you must speak with a Meatlump Lieutenant named Strilath Farles.",	"journal_entry_title":"The Meatlumps Hideout, Part 3",	"task01_journal_entry_description":"Use one of the Meatlump radios in Doaba Guerfel and speak with Strilath Farles.",	"task01_journal_entry_title":"Speak with Strilath Farles",	"task03_retrieve_menu_text":"Use the Radio",	"task03_start_message":"The radio sends a signal when switched on and then shuts back down.",	"task03_utterance_wave_1":"This had better be important!"
+}}

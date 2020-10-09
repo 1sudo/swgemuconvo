@@ -1,5 +1,5 @@
 {
 	"stfFile":"att_n",
 	"entries": {
-		"willpower":"Willpower",		"focus":"Focus",		"mind":"Mind",		"stamina":"Stamina",		"quickness":"Quickness",		"action":"Action",		"constitution":"Constitution",		"strength":"Strength",		"health":"Health"
+		"health":"Health",	"strength":"Strength",	"constitution":"Constitution",	"action":"Action",	"quickness":"Quickness",	"stamina":"Stamina",	"mind":"Mind",	"focus":"Focus",	"willpower":"Willpower",	"force":"Force"
 }}

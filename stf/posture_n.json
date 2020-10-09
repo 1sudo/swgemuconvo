@@ -1,5 +1,5 @@
 {
 	"stfFile":"posture_n",
 	"entries": {
-		"dead":"Dead",		"incapacitated":"Incapacitated",		"knockeddown":"Knocked Down",		"ridingcreature":"Riding Creature",		"drivingvehicle":"Driving Vehicle",		"skillanimating":"Skill Animating",		"sitting":"Sitting",		"lyingdown":"Lying Down",		"flying":"Flying",		"climbing":"Climbing",		"blocking":"Lying Down",		"sneaking":"Sneaking",		"prone":"Prone",		"crouched":"Kneeling",		"upright":"Standing"
+		"upright":"Standing",	"crouched":"Kneeling",	"prone":"Prone",	"sneaking":"Sneaking",	"blocking":"Lying Down",	"climbing":"Climbing",	"flying":"Flying",	"lyingdown":"Lying Down",	"sitting":"Sitting",	"skillanimating":"Skill Animating",	"drivingvehicle":"Driving Vehicle",	"ridingcreature":"Riding Creature",	"knockeddown":"Knocked Down",	"incapacitated":"Incapacitated",	"dead":"Dead"
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_manfred_collect_enhancements",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Collect samples of the performance enhancement chemicals used by Chiss poacher hunters.",	"journal_entry_title":"Collect Enhancement Chemicals",	"task01_journal_entry_description":"Manfred wants you to collect 16 samples of the performance enhancement chemicals used by Chiss poacher hunters.",	"task01_journal_entry_title":"Collect Samples of the Enhancement Chemicals",	"task02_journal_entry_description":"You have the performance enhancement samples used by the Chiss poacher hunters, so return to Manfred at the main Rodian hunting camp.",	"task02_journal_entry_title":"Return to Manfred Carter"
+}}

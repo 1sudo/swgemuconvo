@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_plan",
 	"entries": {
-		"search":"Search",		"label_search":"Label Search"
+		"label_search":"Label Search",	"search":"Search"
 }}

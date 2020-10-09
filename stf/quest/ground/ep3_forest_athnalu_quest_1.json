@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_athnalu_quest_1",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"During your visit to the Kerritamba village, you came upon the distressed Athnalu. With her long stares and incessant words, Athnalu conveyed that something lurks inside of her... something foreign. She bade you frantically to find the Sayormi and collect their voodoo dolls; the key that separates her from her sanity. Bring back 5 Sayormi Voodoo Dolls to Athnalu so that she may find her peace once again.",	"journal_entry_title":"A Possessed Soul",	"task00_journal_entry_description":"Collect 5 Sayormi Dolls from the Sayormi Tribe in the Dead Forest.",	"task00_journal_entry_title":"Collect 5 Sayormi Dolls",	"task01_journal_entry_description":"Bring the dolls back to Athnalu.",	"task01_journal_entry_title":"Return to Athnalu",	"task02_journal_entry_title":"Reward Issued"
+}}

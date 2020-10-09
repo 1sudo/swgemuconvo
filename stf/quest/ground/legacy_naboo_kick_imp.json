@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_naboo_kick_imp",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Commander Barrezz is sending you off to his superior on Naboo with the information that you recovered.",	"journal_entry_title":"To  Naboo",	"task00_comm_message_text":"Hmm. The droid's data could be of interest to Lieutenant Maximilian Vox in Kaadara on Naboo. Go there and  contact him. You can get to Naboo from any starport on Tatooine.",	"task00_journal_entry_title":"Barrezz Comm",	"task01_journal_entry_description":"Go to Kaadara on Naboo. Once there, find and speak with Lieutenant Maximilian Vox. Lt. Vox will oversee your efforts on Naboo. You can get to Naboo from any starport on Tatooine. Go now.",	"task01_journal_entry_title":"Go to the Imperial Agent on Naboo",	"task01_waypoint_name":"Imperial Contact"
+}}

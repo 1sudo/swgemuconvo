@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_kachirho_varactyl_hunt",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"There is a growing menace in the Kachirho area, the varactyl. Not long ago someone's pet varactyl got loose and ever since the varactyl's numbers have been increasing. The varactyl are not a native species to Kashyyyk and have no natural predators or competition for food. Unless their numbers are reduced significantly soon they threaten the entire ecology of the region.",	"journal_entry_title":"Quelling the Varactyl",	"task00_journal_entry_description":"In order to assist with the varactyl problem, you need to kill and collect eight varactyl plumes.",	"task00_journal_entry_title":"Collect Eight Varactyl Plumes",	"task01_journal_entry_description":"After you have collected the eight plumes from the varactyl, return to Ortha and collect your bounty.",	"task01_journal_entry_title":"Turn in Plumes to Ortha",	"task02_journal_entry_title":"Reward Issued"
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/poi_tatooine_generic_1_a",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"While on the patrol, you find yourself being hounded by Black Sun Aggressors. Perhaps these are the goons that have terminated many of the missing freighters Kelen Wordkal has reported.",		"title":"Tatoo System: Black Suns Attack!",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"You have succeeded in defeating the Black Sun Aggressors!",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"You have succeeded in defeating the Black Sun Aggressors!",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Tatoo System: Black Suns Attack!",	"title_d":"While on the patrol, you find yourself being hounded by Black Sun Aggressors. Perhaps these are the goons that have terminated many of the missing freighters Kelen Wordkal has reported.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_illicit_1",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Gotan. Gotan is located on Tatooine.",	"journal_entry_title":"Talk to Gotan",	"task00_journal_entry_description":"You need to speak with Gotan. Gotan is an underworld broker dealing with illicit contraband . He can tell you more about smuggeling illicit contraband. Gotan is located on Tatooine.",	"task00_journal_entry_title":"Talk to Gotan",	"task00_waypoint_name":"Gotan"
+}}

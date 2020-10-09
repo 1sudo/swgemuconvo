@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_entertain_fatigue",
+	"entries": {
+		"category":"Entertainer",	"journal_entry_description":"Help soothe fatigue from faction allies.",	"journal_entry_title":"Remove fatigue",	"task00_journal_entry_description":"Help cure the fatigue from members of your faction.",	"task00_journal_entry_title":"Cure allies of their fatigue",	"task01_journal_entry_description":"You have helped cure the fatigue from your allies.",	"task01_journal_entry_title":"Quest completed"
+}}

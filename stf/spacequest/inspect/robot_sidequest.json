@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/inspect/robot_sidequest",
 	"entries": {
-		"title_d":"1",		"title":"Recover CSSD-7's Core from Madd Markus",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"2",		"quest_location_d":"2",		"quest_inspect_t":"3",		"quest_inspect_d":"3",		"quest_dock_t":"4",		"quest_dock_d":"4",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_dock_d":"4",	"quest_dock_t":"4",	"quest_inspect_d":"3",	"quest_inspect_t":"3",	"quest_location_d":"2",	"quest_location_t":"2",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Recover CSSD-7's Core from Madd Markus",	"title_d":"1"
 }}

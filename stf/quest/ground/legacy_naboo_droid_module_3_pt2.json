@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_naboo_droid_module_3_pt2",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Collect an experimental Old Republic droid module, a Strategy/Tactics Simulation Chip, that is installed in a droideka that was being studied at Stonewall Labs near Dee'ja Peak.",	"journal_entry_title":"Old Republic Droid Modules: The Droideka",	"task01_journal_entry_description":"Droid Module 3: Looks like you'll have to disable the Old Republic droideka before you can acquire the Strategy/Tactics Simulation Chip.",	"task01_journal_entry_title":"Droid Module 3: Defeat the Droideka to Acquire It",	"task01_waypoint_name":"Stonewall Labs",	"task03_comm_message_text":"[BEGIN TRANSMISSION]: Please return to the RSF mainframe in Theed. [END TRANSMISSION]",	"task04_journal_entry_description":"Return to Theed and update the RSF mainframe information about acquisition of the Strategy/Tactics Simulation Chip.",	"task04_journal_entry_title":"Return to the RSF Mainframe in Theed",	"task04_waypoint_name":"Theed Palace Entrance"
+}}

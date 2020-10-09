@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_vana_to_jinkins",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've found Jinkins!",	"journal_entry_description":"Speak with Jinkins to see if he has more work for you.",	"journal_entry_title":"Find Jinkins",	"task00_waypoint_name":"Jinkins (inside Stronghold)"
+}}

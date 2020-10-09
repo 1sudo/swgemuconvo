@@ -1,5 +1,5 @@
 {
 	"stfFile":"space/space_faction",
 	"entries": {
-		"valarian":"Valarian",		"trade_fed":"Trade Federation",		"rebel":"Rebel",		"rebel_suspect":"Rebel Suspect",		"nym":"Nym",		"imperial":"Imperial",		"hutt":"Hutt",		"pirate":"Pirate",		"corsair":"Corsair",		"merchant":"Merchant",		"civilian":"Civilian",		"blacksun":"Black Sun"
+		"blacksun":"Black Sun",	"civilian":"Civilian",	"merchant":"Merchant",	"corsair":"Corsair",	"pirate":"Pirate",	"hutt":"Hutt",	"imperial":"Imperial",	"nym":"Nym",	"rebel_suspect":"Rebel Suspect",	"rebel":"Rebel",	"trade_fed":"Trade Federation",	"valarian":"Valarian"
 }}

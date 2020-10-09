@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/purvis_recon_four",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Purvis Arrison seems to think he's at war with the Tuskens. He's asked you to recon their junk town, just outside of Mos Eisley.",	"journal_entry_title":"Tusken Recon 4",	"task00_journal_entry_description":"Purvis wants you to recon a ravine near the Tusken Village.",	"task00_journal_entry_title":"Recon Tusken Village - 4",	"task00_waypoint_name":"Tusken Ravine",	"task01_comm_message_text":"Return to base, soldier. It's time to turn in all that information. I'll make sure you're well rewarded, too.",	"task02_journal_entry_description":"You should return to Purvis now that you've completed your recon.",	"task02_journal_entry_title":"Return to Purvis",	"task02_waypoint_name":"Purvis"
+}}

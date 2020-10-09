@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/som_jenha_tar_cube",
+	"entries": {
+		"category":"Mustafar",	"journal_entry_description":"Doctor Ithes Olok has asked you to help gather data for his research. In exchange for your assistance, he has offered to share some of his findings with you.",	"journal_entry_title":"Symbols of Chu-Gon Dar",	"task00_journal_entry_description":"Doctor Olok has given you a general idea about where the Old Republic ruins are located. Travel south of the mining facility and see if you can find the exact location of the ruins.",	"task00_journal_entry_title":"Find the Ruins",	"task01_item_name":"Tablet notes",	"task01_journal_entry_description":"You need to locate and copy down the three ancient tablets that are found somewhere around the Old Republic ruins.",	"task01_journal_entry_title":"Locate the Tablets",	"task01_retrieve_menu_text":"Copy tablet",	"task02_journal_entry_description":"Return to Doctor Olok and give him the notes that you copied from the Old Republic ruins.",	"task02_journal_entry_title":"Return the Notes",	"task02_waypoint_name":"Ithes Olok"
+}}

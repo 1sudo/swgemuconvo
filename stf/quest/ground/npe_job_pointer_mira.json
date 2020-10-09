@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_mira",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Mira T'rani has another job for an Entertainer. Talk to her in the cantina if you are interested.",	"journal_entry_title":"More Entertainer Work Available",	"task00_journal_entry_description":"Mira has another task for you, if you wish to work for her.",	"task00_journal_entry_title":"Talk to Mira in the Cantina",	"task00_waypoint_name":"Mira T'rani"
+}}

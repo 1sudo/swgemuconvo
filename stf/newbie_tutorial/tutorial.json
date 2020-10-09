@@ -1,0 +1,5 @@
+{
+	"stfFile":"newbie_tutorial/tutorial",
+	"entries": {
+		"movement_box_title":"MOVEMENT",	"movement_box_text":"Use the W, A, S, and D keys to move your character.  W-forward S-backward A-left D-Right",	"attack_box_text":"Do something to attack the pirates.  Whatever you want.",	"attack_box_title":"STABBITY"
+}}

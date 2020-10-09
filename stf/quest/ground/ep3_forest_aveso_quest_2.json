@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_aveso_quest_2",
+	"entries": {
+		"category":"Kkowir Forest: Outcast",	"journal_entry_description":"At the end of the Chenataa River lies an abandoned Imperial camp. An Outcast informant has hidden 6 boxes of weapons and supplies for the Society to gather and use against the Kerritamba. As per Aveso Ars, you need to gather the boxes and bring them back.",	"journal_entry_title":"Grunt Work: Part II",	"task00_item_name":"Supply Box",	"task00_journal_entry_description":"Find the Imperial Camp and collect 6 Supply Boxes for Aveso Ars.",	"task00_journal_entry_title":"Collect Supply Boxes",	"task02_journal_entry_title":"Reward Issued"
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"celebrity/commander_byrne",
 	"entries": {
-		"npc_3":"Carry on then.",		"npc_2":"Do you think I'm a fool?  Where's your uniform?",		"player_2":"Salvage.",		"player_1":"I'm with you.",		"npc_1":"No one should be here but my regiment and the salvage company.  Which are you?"
+		"npc_1":"No one should be here but my regiment and the salvage company.  Which are you?",	"player_1":"I'm with you.",	"player_2":"Salvage.",	"npc_2":"Do you think I'm a fool?  Where's your uniform?",	"npc_3":"Carry on then."
 }}

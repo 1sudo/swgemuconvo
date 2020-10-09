@@ -1,5 +1,5 @@
 {
 	"stfFile":"kb/kb_healing_n",
 	"entries": {
-		"entertainment":"Healing and Entertainers",		"fatigue":"Battle Fatigue",		"hospitals":"Healing in Hospitals and Camps",		"medpacks":"Using Advanced Medpacks",		"stimpacks":"Using Stimpacks",		"wounds":"Healing Stat Wounds",		"healing":"Healing"
+		"healing":"Healing",	"wounds":"Healing Stat Wounds",	"stimpacks":"Using Stimpacks",	"medpacks":"Using Advanced Medpacks",	"hospitals":"Healing in Hospitals and Camps",	"fatigue":"Battle Fatigue",	"entertainment":"Healing and Entertainers"
 }}

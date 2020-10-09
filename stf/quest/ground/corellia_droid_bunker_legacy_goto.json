@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_droid_bunker_legacy_goto",
+	"entries": {
+		"category":"Corellia Droid Factory",	"journal_entry_description":"Apparently Corsec is facing a problem on Corellia. You've been asked to contact the Corsec agent Jornel Savas for more details.",	"journal_entry_title":"Contact the Corsec Agent",	"task00_journal_entry_description":"Talk to Jornel Savas",	"task00_journal_entry_title":"Contact the Corsec Agent",	"task00_waypoint_name":"Meet Jornel Savas"
+}}

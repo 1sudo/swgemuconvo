@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_kerritamba_epic_5",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"Chief Kerritamba has tasked you with defeating Cyrans the Unfeeling and his Sayormi Queen in hopes that the forest might live again. When the task is complete, return to Chief Kerritamba.",	"journal_entry_title":"Cyrans the Unfeeling and the Sayormi Queen",	"task01_journal_entry_description":"Defeat the Sayormi Queen who rules the Dead Forest.",	"task01_journal_entry_title":"The Sayormi Queen",	"task02_task_display_string_1":"Cyrans the Unfeeling",	"task02_task_display_string_2":"The Sayromi Queen",	"task05_journal_entry_description":"Defeat Cyrans the Unfeeling who roams the Dead Forest.",	"task05_journal_entry_title":"Cyrans the Unfeeling"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_kymayrr_send_cyssc_signal",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"Infiltrate the Blackscale Compound and Send a Call for Lord Cyssc",	"journal_entry_title":"Summon Cyssc",	"task00_item_name":"Message Sent",	"task00_journal_entry_description":"In the heart of the command bunker in the Blackscale Compound you will find the communications center. Get here and access the terminal to send a call for aid to Lord Cyssc on Hss'kor.",	"task00_journal_entry_title":"Central Communications",	"task00_retrieve_menu_text":"Contact the Black Citidel",	"task01_comm_message_text":"Our lord would not have thought to hear such a thing from you Tosk, but your request is granted. Lord Cyssc will make his way to Kashyyyk without delay.",	"task01_journal_entry_description":"Put for the call to Lord Cyssc.",	"task01_journal_entry_title":"Summon Cyssc",	"task02_journal_entry_description":"Return to Gursan Bryes. A warm welcome must be prepared for Lord Cyssc's arrival.",	"task02_journal_entry_title":"Return to Gursan"
+}}

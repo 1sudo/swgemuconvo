@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/hero_of_tatooine/auth_chat",
 	"entries": {
-		"auth_02":"Give up! It's all over!",		"auth_01":"We're here to take you away!"
+		"auth_01":"We're here to take you away!",	"auth_02":"Give up! It's all over!"
 }}

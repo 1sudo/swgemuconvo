@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_st3_destroy_boss",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire needs to make sure that the Rebels don't get their hands on any leftovers from the failed experiment in Restuss. One of the most important leaders of the Rebel rabble is a Captain Vrinko. Your orders are to eliminate this dangerous individual. You have been provided with a waypoint to the building that the Rebel leader is hiding in. Imperial elite troopers are standing by to pump in gas to the building to drive him out. The coward will most likely send out his troops first though so be prepared for a battle.",	"journal_entry_title":"Secure Restuss, Boss",	"task00_journal_entry_description":"You have been ordered to terminate Captain Vrinko.",	"task00_journal_entry_title":"Removing the Head",	"task00_waypoint_name":"Captain Vrinko's location",	"task01_journal_entry_description":"The Rebel Captain Vrinko has been taken care of. You should return to Captain Okto and report your success.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

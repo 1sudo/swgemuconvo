@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/camp_delta_delivery_01",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have helped delivered the supplies.",	"journal_entry_description":"Deliver supplies by escourting a volunteer to the camp.",	"journal_entry_title":"Help Deliver Supplies",	"task01_journal_entry_description":"Escort the volunteer to the camp. Don't let the volunteer die!",	"task01_journal_entry_title":"Escort Volunteer"
+}}

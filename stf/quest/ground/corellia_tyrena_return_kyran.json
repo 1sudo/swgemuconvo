@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_tyrena_return_kyran",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"CorSec will remember you for quite some time after this.",	"journal_entry_description":"You have freed all of the slaves. I am sure the slaver's were surprised when all of those CorSec agents showed up at the base. Nothing like a massive broadcast on CorSec emergency channels to get them running. Return to Kyran and tell him the good news.",	"journal_entry_title":"Head back to Kyran Silene",	"task00_journal_entry_description":"Go back to the escaped slaves camp and inform everyone about the results of your efforts. Make sure to talk to Kyran as well. He would probably like to hear how you broke the slave ring's cover.",	"task00_journal_entry_title":"Return to Kyran",	"task00_waypoint_name":"Kyran Silene"
+}}

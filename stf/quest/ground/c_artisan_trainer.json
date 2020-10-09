@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_artisan_trainer",
+	"entries": {
+		"category":"Learning Professions",	"journal_entry_description":"Visit people in Mos Eisley to learn about your skills.",	"journal_entry_title":"Master Artisan",	"task00_journal_entry_description":"Mayor Guh'rantt has given you the location of Master Artisan Alduq Besene.",	"task00_journal_entry_title":"Visit Artisan Master Alduq Besene",	"task00_waypoint_name":"Master Artisan (Alduq Besene)"
+}}

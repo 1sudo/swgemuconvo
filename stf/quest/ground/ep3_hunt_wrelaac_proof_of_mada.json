@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_wrelaac_proof_of_mada",
+	"entries": {
+		"category":"Find Brody Johnson",	"journal_entry_description":"Wrelaac wants proof that you know Mada Johnson.",	"journal_entry_title":"Wrelaac Needs Proof",	"task01_journal_entry_description":"Wrelaac wants proof that you know Mada Johnson. Speak to her about this.",	"task01_journal_entry_title":"Wrelaac Needs Proof",	"task02_journal_entry_description":"Mada Johnson has supplied you with proof that you know her. Return to Wrelaac.",	"task02_journal_entry_title":"Return to Wrelaac"
+}}

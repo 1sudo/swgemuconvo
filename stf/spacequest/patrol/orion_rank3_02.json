@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/orion_rank3_02",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"goodbye_1":"",	"quest_location_d":"",	"quest_location_t":"",	"quest_patrol_d":"",	"quest_patrol_t":"",	"quest_target_d":"",	"quest_target_t":"",	"reason_1":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Salvage Rights",	"title_d":"Some of our other fighters managed to disable one of Nova's clients. Go there and take the resources."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_entha_goto_draknus",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You've completed all of the test races and claimed your prize. Head back to Watto and give him the droid motivator.",	"journal_entry_description":"An'Kwee wants you to prove you're a speeder pilot before she will help you find the droid motivator.",	"journal_entry_title":"Test Races",	"task00_journal_entry_description":"An'Kwee wants you to talk to Draknus about running some races as a test for An'Kwee.",	"task00_journal_entry_title":"Speak to Draknus",	"task00_waypoint_name":"Draknus"
+}}

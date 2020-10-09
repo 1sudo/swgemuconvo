@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_repair_sedimentation_tank",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've satisfied Nym's people.",	"journal_entry_description":"Find out what had Nym's people so upset and do what needs to be done to satisfy them.",	"journal_entry_title":"The Peasants Are Revolting",	"task01_item_name":"Sedimentation Tank",	"task01_journal_entry_description":"Description not ready",	"task01_journal_entry_title":"Fix Sedimentation",	"task01_retrieve_menu_text":"Fix Tank",	"task01_waypoint_name":"Sedimentation Tank"
+}}

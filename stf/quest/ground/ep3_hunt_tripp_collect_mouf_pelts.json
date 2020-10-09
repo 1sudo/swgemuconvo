@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_tripp_collect_mouf_pelts",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Tripp Rar will test your hunting abilities by asking you to hunt moufs in Etyyy.",	"journal_entry_title":"Hunting Moufs",	"task01_journal_entry_description":"Go speak with Tripp Rar at the primary Rodian hunting camp.",	"task01_journal_entry_title":"Seek out Tripp Rar",	"task02_journal_entry_description":"Tripp wants you to collect 14 pristine mouf pelts. Hunt vibrant moufs for those. ",	"task02_journal_entry_title":"Collect Pristine Mouf Pelts",	"task03_journal_entry_description":"You collected enough pristine mouf pelts. Now return to Tripp at the main Rodian hunting camp.",	"task03_journal_entry_title":"Return to Tripp Rar"
+}}

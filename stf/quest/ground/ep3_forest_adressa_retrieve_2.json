@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_adressa_retrieve_2",
+	"entries": {
+		"journal_entry_description":"Upon examining the runestone closer, Adressa fell gravely ill. She suspects it was a curse from her sister. SHe promises to become a better person if you give her a chance by collecting the ingredients for her antidote. She needs spider venom from Webweavers and a Mysess Blossom found in the forest.",	"journal_entry_title":"Adressa's Antidote",	"task01_journal_entry_description":"Find a sample of spider venom from Webweavers in the forest.",	"task01_journal_entry_title":"Adressa's Antidote",	"task02_item_name":"Mysess Blossom",	"task02_journal_entry_description":"Find a Mysess Blossom for Adressa's antidote.",	"task02_journal_entry_title":"Adressa's Antidote"
+}}

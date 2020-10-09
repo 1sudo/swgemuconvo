@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/inspect/corellia_imperial_tier3_1d",
 	"entries": {
-		"title_d":"",		"title":"Inspect Craft for Suspected Rebel Cargo",		"split_quest_alert":"Start Inspect from Destroy",		"quest_location_t":"",		"quest_location_d":"",		"quest_inspect_t":"",		"quest_inspect_d":"",		"quest_dock_t":"",		"quest_dock_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Go inspect a vessle for rebel documents."
+		"assigned_delayed":"Go inspect a vessle for rebel documents.",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_dock_d":"",	"quest_dock_t":"",	"quest_inspect_d":"",	"quest_inspect_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"Start Inspect from Destroy",	"title":"Inspect Craft for Suspected Rebel Cargo",	"title_d":""
 }}

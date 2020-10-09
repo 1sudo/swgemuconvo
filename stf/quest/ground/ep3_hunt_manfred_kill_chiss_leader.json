@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_manfred_kill_chiss_leader",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Manfred wants you to kill the Chiss poachers' leader.",	"journal_entry_title":"Kill the Chiss Poacher Leader",	"task01_journal_entry_description":"Manfred wants you to kill the Chiss poachers' leader, Laen Pieweto.",	"task01_journal_entry_title":"Kill the Chiss Poacher Leader",	"task02_journal_entry_description":"Laen Pieweto is dead. Let Manfred know of your success. He's at the main Rodian hunting camp.",	"task02_journal_entry_title":"Return to Manfred Carter"
+}}

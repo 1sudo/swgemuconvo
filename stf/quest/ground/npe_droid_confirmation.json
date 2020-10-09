@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_droid_confirmation",
+	"entries": {
+		"task01_comm_message_text":"Beep. Boop!",	"task03_comm_message_text":"Boop. Beep!"
+}}

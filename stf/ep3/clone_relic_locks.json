@@ -1,0 +1,5 @@
+{
+	"stfFile":"ep3/clone_relic_locks",
+	"entries": {
+		"access_denied":"A force field denies you entrance.",	"cantina_denied":"The guest in this room has asked not to be disturbed.",	"sealed_off":"This entrance has been sealed off by some sort of force field."
+}}

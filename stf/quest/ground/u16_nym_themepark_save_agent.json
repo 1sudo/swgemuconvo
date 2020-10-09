@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_save_agent",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've found the injured agent before the medical supplies expired",	"journal_entry_description":"Rush the perishable medical supplies to Rei Reeven, the injured Revenant Agent. Hurry!",	"journal_entry_title":"Save Me",	"task01_journal_entry_title":"Sucess",	"task03_journal_entry_description":"Rush the perishable supplies to the injured Revenant agent",	"task03_journal_entry_title":"Rush supplies to Injured Revenant",	"task03_waypoint_name":"Injured Revenant Rei Reeven"
+}}

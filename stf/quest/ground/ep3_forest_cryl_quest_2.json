@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_cryl_quest_2",
+	"entries": {
+		"category":"Kkowir Forest: Outcast",	"journal_entry_description":"One of the samples provided by Cryl's informant, Risyl, must be delivered to Zhadran. Find Zhadran near the Kerritamba village and deliver the sample.",	"journal_entry_title":"The Society: Zhadran",	"task00_journal_entry_description":"One of the samples provided by Cryl's informant, Risyl, must be delivered to Zhadran. Find Zhadran near the Kerritamba village and deliver the sample.",	"task00_journal_entry_title":"Deliver the Sample",	"task01_journal_entry_description":"You've given Zhadran the sample and should return to Cryl.",	"task01_journal_entry_title":"Return to Cryl",	"task02_journal_entry_title":"Reward Issued"
+}}

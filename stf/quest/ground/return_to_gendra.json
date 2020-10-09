@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/return_to_gendra",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Visit Gendra, who knows about crafting and entertaining.",	"journal_entry_title":"Visit Gendra",	"task00_journal_entry_description":"You should return to Gendra.",	"task00_journal_entry_title":"Find Gendra",	"task00_waypoint_name":"Genrda"
+}}

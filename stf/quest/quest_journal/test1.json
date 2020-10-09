@@ -1,17 +1,5 @@
 {
 	"stfFile":"quest/quest_journal/test1",
 	"entries": {
-		"sct4_detail":"Swg Cui Test 4 Detail
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est 
-Ipso Lorem defacto Est Ipso Lorem defacto Est",		"sct3_detail":"Swg Cui Test 3 Detail
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est 
-Ipso Lorem defacto Est Ipso Lorem defacto Est",		"sct2_detail":"Swg Cui Test 2 Detail
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est 
-Ipso Lorem defacto Est Ipso Lorem defacto Est",		"sct1_detail":"Swg Cui Test 1 Detail
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est
-Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est 
-Ipso Lorem defacto Est Ipso Lorem defacto Est",		"sct4_summary":"Swg Cui Test 4 Summary",		"sct3_summary":"Swg Cui Test 3 Summary",		"sct2_summary":"Swg Cui Test 2 Summary",		"sct1_summary":"Swg Cui Test 1 Summary",		"sct_category":"Swg Cui Test Category",		"test_category":"Jedi Padawan",		"test1":"This is the first test string."
+		"test1":"This is the first test string.",	"test_category":"Jedi Padawan",	"sct_category":"Swg Cui Test Category",	"sct1_summary":"Swg Cui Test 1 Summary",	"sct2_summary":"Swg Cui Test 2 Summary",	"sct3_summary":"Swg Cui Test 3 Summary",	"sct4_summary":"Swg Cui Test 4 Summary",	"sct1_detail":"Swg Cui Test 1 Detail Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est  Ipso Lorem defacto Est Ipso Lorem defacto Est",	"sct2_detail":"Swg Cui Test 2 Detail Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est  Ipso Lorem defacto Est Ipso Lorem defacto Est",	"sct3_detail":"Swg Cui Test 3 Detail Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est  Ipso Lorem defacto Est Ipso Lorem defacto Est",	"sct4_detail":"Swg Cui Test 4 Detail Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est Ipso Lorem defacto Est  Ipso Lorem defacto Est Ipso Lorem defacto Est"
 }}

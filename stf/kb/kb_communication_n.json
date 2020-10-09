@@ -1,5 +1,5 @@
 {
 	"stfFile":"kb/kb_communication_n",
 	"entries": {
-		"search":"Searching for Players",		"friendslist":"Using the Friends List",		"matchmaking":"Using Matchmaking",		"findingfriends":"Finding Friends",		"moderating":"Moderating a Chat Channel",		"channels":"Using Chat Channels",		"mail":"Using In-Game Mail",		"tell":"Using Tells",		"distant":"Distant Communication",		"socials":"Using Socials",		"sayalts":"Using Special Chat Bubbles",		"moods":"Using Moods",		"spatial":"Understanding Spatial Chat",		"shortcuts":"Chatbox Shortcuts",		"multichatboxes":"Using Multiple Chatboxes",		"chatbox":"Understanding Your Chatbox",		"communication":"Communication"
+		"communication":"Communication",	"chatbox":"Understanding Your Chatbox",	"multichatboxes":"Using Multiple Chatboxes",	"shortcuts":"Chatbox Shortcuts",	"spatial":"Understanding Spatial Chat",	"moods":"Using Moods",	"sayalts":"Using Special Chat Bubbles",	"socials":"Using Socials",	"distant":"Distant Communication",	"tell":"Using Tells",	"mail":"Using In-Game Mail",	"channels":"Using Chat Channels",	"moderating":"Moderating a Chat Channel",	"findingfriends":"Finding Friends",	"matchmaking":"Using Matchmaking",	"friendslist":"Using the Friends List",	"search":"Searching for Players"
 }}

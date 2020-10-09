@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_st3_destroy_boss",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Alliance needs to secure any remains of the Imperial research in Restuss. One of the key officers behind the madness in Restuss is Admiral Grot. The Alliance is tasking you with the extremely difficult mission of eliminating him. Alliance spies have located him and you have been provided with a waypoint to the building where he's at. Rebel commandos will assist you by using gas to drive out the Admiral from his building.",	"journal_entry_title":"Total War, Boss",	"task00_journal_entry_description":"You have been tasked with eliminating Admiral Grot of the Imperial Army.",	"task00_journal_entry_title":"Breaking the Chain",	"task00_waypoint_name":"Admiral Grot's location",	"task01_journal_entry_description":"You've defeated Admiral Grot and should return to Captain Voldez.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

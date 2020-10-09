@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_loot_completed_all",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Speak with Sordaan Xris at the main Rodian hunting camp.",	"journal_entry_title":"Speak With Sordaan Xris",	"task00_journal_entry_description":"Let Sordaan know that you've successfully defeated Silkthrower the webweaver, Brightclaw the mouf, Paleclaw the mouf, Stoneleg the walluga, Greyclimber the Kashyyyk bantha, and Spiketop the uller.",	"task00_journal_entry_title":"Tell Sordaan about your Hunting Success"
+}}

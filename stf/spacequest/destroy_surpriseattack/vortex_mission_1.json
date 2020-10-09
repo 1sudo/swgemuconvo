@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/vortex_mission_1",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The Imperial Inquisition is trying to trick you. There's no scientist on that shuttle. As soon as they found out that you spotted their setup Imperial fighters attacked you. Eliminate them all!",		"title":"Lok system: Escape the trap! Destroy all Imperial Ships in the vicinity.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"Brother Vrovel: < %TO >",		"complete":"Brother Vrovel: < There appear to be no more Imperial scum in the area, hurry out of there and report back to me right away! >",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"Brother Vrovel: < There appear to be no more Imperial scum in the area, hurry out of there and report back to me right away! >",	"leave_early":"",	"quest_update":"Brother Vrovel: < %TO >",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Lok system: Escape the trap! Destroy all Imperial Ships in the vicinity.",	"title_d":"The Imperial Inquisition is trying to trick you. There's no scientist on that shuttle. As soon as they found out that you spotted their setup Imperial fighters attacked you. Eliminate them all!",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

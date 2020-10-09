@@ -1,5 +1,5 @@
 {
 	"stfFile":"component_analyzer",
 	"entries": {
-		"analyze":"Analyze",		"analyze_prompt":"Please select a spaceship component to analyze.",		"analyze_title":"Component Analyzer"
+		"analyze_title":"Component Analyzer",	"analyze_prompt":"Please select a spaceship component to analyze.",	"analyze":"Analyze"
 }}

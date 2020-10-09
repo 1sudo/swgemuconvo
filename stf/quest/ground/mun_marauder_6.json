@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_6",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft gloves for the Marauder smith.",	"journal_entry_title":"Glove Crafting",	"task01_journal_entry_description":"Craft three pairs of Mabari armor gloves.",	"task01_journal_entry_title":"Craft Mabari Armor Gloves",	"task02_journal_entry_description":"Craft three pairs of Bone armor gloves.",	"task02_journal_entry_title":"Craft Bone Armor Gloves",	"task03_journal_entry_description":"Craft three pairs of Composite armor gloves.",	"task03_journal_entry_title":"Craft Composite Armor Gloves",	"task04_journal_entry_description":"Craft all three pairs of gloves.",	"task04_journal_entry_title":"Craft all the Gloves",	"task04_task_display_string_1":"Crafted Composite Armor Gloves",	"task04_task_display_string_2":"Crafted Bone Armor Gloves",	"task04_task_display_string_3":"Crafted Mabari Armor Gloves",	"task05_journal_entry_description":"Return to Macchbraus with the gloves.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

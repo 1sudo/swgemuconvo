@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_entertainer_terminal",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Gendra gave you the location of the Entertainer Terminals. You should use the /waypoint command to create your own waypoint to them.",	"journal_entry_title":"Entertainer Terminal",	"task00_journal_entry_description":"You should follow this waypoint to the entertainer terminals.",	"task00_journal_entry_title":"Entertainer Terminals",	"task00_waypoint_name":"Entertainer Mission Terminal"
+}}

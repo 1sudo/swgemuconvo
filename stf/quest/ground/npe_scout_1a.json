@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_scout_1a",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Return to Cargo Bay 1, kill 2 bocatts, and harvest their hide for Raylen.",	"journal_entry_title":"Acquire Bocatt Hide from Cargo Bay 1",	"task00_journal_entry_description":"Take the elevator to the lower level to find the missing guard.",	"task00_journal_entry_title":"Use the Elevator to go to the Lower Level",	"task00_waypoint_name":"Elevator",	"task01_journal_entry_description":"Go into the lower cargo hold and kill at least 2 Bocatts and harvest their hide to bring back to Raylen.",	"task01_journal_entry_title":"Kill 2 Bocatts and Harvest Their Hides in Cargo Bay 1",	"task01_waypoint_name":"Cargo Bay 1",	"task02_journal_entry_description":"Once you have the harvested skins from the bocatts, use the elevator to return to the main level.",	"task02_journal_entry_title":"Use the Elevator to go to the Main Level",	"task02_waypoint_name":"Elevator"
+}}

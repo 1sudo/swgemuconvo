@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/event_gcwcheerleader_sfimp10",
+	"entries": {
+		"category":"Alliance Special Forces",	"journal_entry_description":"Alliance leadership has recognized my contributions to the war effort. They have asked me to continue my efforts and have promised a 25000 credit bonus when my objective is complete.",	"journal_entry_title":"Operation Bright Star",	"task00_journal_entry_description":"I need to find and neutralize 10 Imperial Special Forces agents.",	"task00_journal_entry_title":"Continued Efforts",	"task01_journal_entry_description":"Reward",	"task01_journal_entry_title":"Reward"
+}}

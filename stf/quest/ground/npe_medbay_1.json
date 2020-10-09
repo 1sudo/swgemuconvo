@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_medbay_1",
+	"entries": {
+		"category":"Prologue",	"journal_entry_description":"You are a captive aboard an Imperial space station.  You must find a way out!",	"journal_entry_title":"Escape From the Empire",	"task00_journal_entry_description":"C-3PO has asked you to destroy a panel by the door.  Single-click the terminal to shoot at it.  Continue shooting until it is destroyed.",	"task00_journal_entry_title":"Destroy the Door Panel"
+}}

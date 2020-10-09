@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_officer_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You need to find Officer Antom. He can teach you the skills you need for being an officer.",	"journal_entry_title":"Officer Antom",	"task00_journal_entry_description":"Go to Officer Antom. He can be found in Station Master Inaldra's Room.",	"task00_journal_entry_title":"Talk to Officer Antom in the Station Master's Office",	"task00_waypoint_name":"Officer Antom"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_interior_waypoints",
+	"entries": {
+		"category":"Test",	"journal_entry_description":"Test interior waypoints",	"journal_entry_title":"Test interior waypoints",	"task00_journal_entry_description":"Test interior waypoints",	"task00_journal_entry_title":"Test interior waypoints",	"task00_waypoint_name":"A test waypoint"
+}}

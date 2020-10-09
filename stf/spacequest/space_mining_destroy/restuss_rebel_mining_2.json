@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/space_mining_destroy/restuss_rebel_mining_2",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"The Deep Space System is a currently a war zone between the Rebel Alliance and the Empire.",	"quest_location_t":"Travel to the Deep Space System",	"quest_mine_d":"The Alliance wants you to supply them with 250 organometallic ore from Deep Space.",	"quest_mine_t":"Mine Organometallic gas",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Building a War, Part II",	"title_d":"The Alliance needs raw materials for completing the military base on Rori."
+}}

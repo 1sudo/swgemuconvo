@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_newbie_quest6",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Go talk to Mayor Guh'rantt in Mos Eisley.",	"journal_entry_title":"Talk to Mayor Guh'rantt",	"task00_journal_entry_description":"Go to Mayor Guh'rantt and talk to him about local information.",	"task00_journal_entry_title":"Go to Mayor Guh'rantt",	"task00_waypoint_name":"Mayor Guh'rantt"
+}}

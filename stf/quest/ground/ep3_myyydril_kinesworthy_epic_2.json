@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_kinesworthy_epic_2",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"The doctor, as you have learned, has quite the history. It seems that some of his \"projects\" have been infected and now roam the caves aimlessly. Kinesworthy suspects that you can find Erriya in a place called the Lost Souls Grave. Defeat Erriya and find the lost gadget Kinesworthy needs.",	"journal_entry_title":"\"The Lost\"",	"task00_journal_entry_description":"Find Erriya in the Lost Souls Grave and defeat him to gain the part Kinesworthy needs for his equipment.",	"task00_journal_entry_title":"\"The Lost\"",	"task01_journal_entry_description":"You found what seems to be a cybernetic part on Erriya. Doctor Kinesworthy will know what to do with it.",	"task01_journal_entry_title":"Unknown Object Found",	"task02_journal_entry_title":"Reward Issued: Cybernetic Arm"
+}}

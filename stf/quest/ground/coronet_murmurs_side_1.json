@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/coronet_murmurs_side_1",
+	"entries": {
+		"category":"Corellia",	"journal_entry_description":"Borgan is very angry about not being chosen as security director, for a nearby laboratory. You have been hired to make them see that they were wrong for ignoring him. Go to the laboratory and disable their first level of security.",	"journal_entry_title":"Corporate Insecurities Part 1",	"task00_journal_entry_description":"Borgan is angry that he didnt get hired as security director. He has hired you to make them feel 'insecure'. Incapacite thier first level of security, by any means necessary.",	"task00_journal_entry_title":"Kill the Security Guards on the First Level",	"task00_waypoint_name":"Laboratory",	"task01_comm_message_text":"Good work on those low-ranking guards. Move on to the next level. This should really cripple them."
+}}

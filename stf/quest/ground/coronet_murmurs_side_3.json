@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/coronet_murmurs_side_3",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You helped Stregand copy a rival corporate labs bio-engineering.",	"journal_entry_description":"Stregand owns a rival corporate lab, and he is willing to pay you to gather blood samples from the engineered creatures of a nearby lab. Go to the lab and collect the blood samples.",	"journal_entry_title":"Engineered Blood",	"task00_journal_entry_description":"Stregand wants you to get him some samples of blood from the Engineered Creatures. He is going to use them to copy the process for his own corporation.",	"task00_journal_entry_title":"Gather Samples of Engineered Creatures' Blood",	"task00_waypoint_name":"Engineered Creatures",	"task01_comm_message_text":"Ah yes, I am receiving the chemical compositions of the blood samples now. Good work. This should be enough to put them out of business. Your payment is being transferred now."
+}}

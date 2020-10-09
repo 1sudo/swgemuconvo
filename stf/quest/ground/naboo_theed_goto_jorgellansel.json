@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_jorgellansel",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Go to Jorgellansel, a Darkwalker adjutant.",	"journal_entry_title":"Go to Jorgellansel",	"task00_journal_entry_description":"Go speak with the Darkwalker known as Jorgellansel. Do whatever he asks of you.",	"task00_journal_entry_title":"Go to Jorgellansel",	"task00_waypoint_name":"Jorgellansel"
+}}

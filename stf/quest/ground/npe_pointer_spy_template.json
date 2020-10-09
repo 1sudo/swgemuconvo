@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_spy_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"According to Han Solo this person Lercer is a spy. Maybe he could use some assistance?",	"journal_entry_title":"Lercer the spy",	"task00_journal_entry_description":"Lercer is a spy according to Han Solo, maybe he could use your help? He can be found in the cantina.",	"task00_journal_entry_title":"Talk to Lercer",	"task00_waypoint_name":"Lercer (Spy)"
+}}

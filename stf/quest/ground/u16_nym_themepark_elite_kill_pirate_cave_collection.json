@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_elite_kill_pirate_cave_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've killed the Bridge Troll.",	"journal_entry_description":"Enter the Sulfur Lake Pirate hideout and kill the Bridge Troll.",	"journal_entry_title":"Kill the Bridge Troll",	"task00_journal_entry_description":"Travel to the hideout location. ",	"task00_journal_entry_title":"Find the Sulfur Lake Pirate Hideout",	"task00_waypoint_name":"Sulfur Lake Pirate Hideout",	"task01_journal_entry_description":"Enter the Sulfer Lake Pirate Hideout and kill the Bridge Troll.",	"task01_journal_entry_title":"Kill the Bridge Troll",	"task01_waypoint_name":"Sulfur Lake Pirate Hideout",	"task02_journal_entry_description":"Report to Mako Ghast.",	"task02_journal_entry_title":"Return to Mako Ghast",	"task02_waypoint_name":"Mako Ghast (inside Stronghold)"
+}}

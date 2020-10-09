@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/pointer_jabba",
+	"entries": {
+		"category":"Jabba's Palace",	"journal_entry_description":"Jabba would like to talk to you. It is not wise to keep him waiting.",	"journal_entry_title":"Speaking to Jabba",	"task00_journal_entry_description":"Bib Fortuna says Jabba would like to speak with you.",	"task00_journal_entry_title":"Talk to Jabba",	"task00_waypoint_name":"Jabba the Hutt"
+}}

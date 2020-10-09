@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/rebel_phase_1",
+	"entries": {
+		"category":"Echo Base",	"journal_entry_description":"Protect the shield generator.",	"journal_entry_title":"North Battle Grounds",	"task01_journal_entry_description":"Attempt to stop the Imperial AT-AT's from destroying the shield generator. Or at the very least, make them pay dearly for doing so.",	"task01_journal_entry_title":"Protecting the Shield Generator...",	"task02_journal_entry_description":"The Imperial troops are reinforcing their forces at North Ridge and are closing in on the shield generators. You've done all you can there...make your way back to Echo Base and prepare to defend it.",	"task02_journal_entry_title":"Prepare to Fall Back to Echo Base",	"task04_journal_entry_description":"For a Minor Victory, destroy four of the Imperial walkers.",	"task04_journal_entry_title":"Minor Victory: Destroy Four AT-AT Walkers",	"task05_journal_entry_description":"For a Major Victory, destroy two more of the Imperial walkers.",	"task05_journal_entry_title":"Major Victory: Destroy Two More AT-AT Walkers"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_coronet_meatlump_act1_begin",
+	"entries": {
+		"category":"Corellia Times Investigations",	"journal_entry_description":"Find the person to whom the view screen belongs.",	"journal_entry_title":"Find the owner of the view screen.",	"task01_message_box_text":"When you pick up the view screen, the Corellia Times logo begins to slowly animate and a chime sounds. You fail to get it to respond in any other way despite your best efforts. The obvious course of action is to return it to its owner. Maybe you should try finding the Corellia Times building in Coronet.",	"task01_message_box_title":"Find the View Screen's Owner",	"task02_journal_entry_description":"Find someone at the Corellia Times building and find out if they know to whom the view screen belongs.",	"task02_journal_entry_title":"Find Someone at the Corellia Times Building",	"task02_waypoint_name":"Corellia Times Building",	"task03_journal_entry_description":"Go to the Coronet Hospital and find Vani Korr. The view screen belongs to her.",	"task03_journal_entry_title":"Go Find Vani Korr",	"task03_waypoint_name":"Coronet Hospital Entrance"
+}}

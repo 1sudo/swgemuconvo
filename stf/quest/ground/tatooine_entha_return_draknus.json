@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_entha_return_draknus",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"You've completed the race. Go back to Draknus and see if he has anything else for you to do.",	"journal_entry_title":"Return to Draknus",	"task00_journal_entry_description":"Return to Draknus to see if he has another race for you.",	"task00_journal_entry_title":"Return to Draknus",	"task00_waypoint_name":"Draknus"
+}}

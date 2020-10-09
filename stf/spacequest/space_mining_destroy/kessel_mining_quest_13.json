@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/space_mining_destroy/kessel_mining_quest_13",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Travel to the Kessel System.",	"quest_location_t":"Kessel System",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Kessel System:  Space Diamonds",	"title_d":"Mine 500 units of precious space diamonds from the Kessel system.  Watch out for pirates!",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

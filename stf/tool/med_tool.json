@@ -1,5 +1,5 @@
 {
 	"stfFile":"tool/med_tool",
 	"entries": {
-		"mnu_diagnose":"Diagnose Wounds",		"menu_tendwound":"Heal Wounds",		"menu_tenddamage":"Heal Damage",		"not_enough_mind":"You do not have enough mind to do that.",		"has_no_wounds":"has no applicable wounds to heal.",		"no_wounds":"You have no applicable wounds to heal.",		"not_that_attribute":"You cannot heal wounds on that attribute.",		"must_have_medikit":"You must have a medikit in your inventory to perform this action.",		"battle_fatigue":"Battle Fatigue",		"other_players_only":"You must have a player targeted for you to be able to diagnose their wound and battle-fatigue levels."
+		"must_have_medikit":"You must have a medikit in your inventory to perform this action.",	"not_that_attribute":"You cannot heal wounds on that attribute.",	"no_wounds":"You have no applicable wounds to heal.",	"has_no_wounds":"has no applicable wounds to heal.",	"not_enough_mind":"You do not have enough mind to do that.",	"menu_tenddamage":"Heal Damage",	"menu_tendwound":"Heal Wounds",	"mnu_diagnose":"Diagnose Wounds",	"other_players_only":"You must have a player targeted for you to be able to diagnose their wound and battle-fatigue levels.",	"battle_fatigue":"Battle Fatigue",	"do_not_heal":"It would be unwise to help such a patient.",	"must_be_player_or_pet":"Target must be a player or a creature pet in order to tend wounds."
 }}

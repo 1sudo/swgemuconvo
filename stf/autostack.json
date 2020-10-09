@@ -1,0 +1,5 @@
+{
+	"stfFile":"autostack",
+	"entries": {
+		"stack":"Stack",	"unstack":"Split",	"stacksize":"Enter the size of the new stack.",	"invalid":"You did not enter a valid size for the new stack.",	"zero_size":"You must enter a stack size larger than zero.",	"too_big":"The new stack cannot be larger than the old stack.",	"full_container":"That container is full. There's no room to split this stack.",	"unknown_failure":"This stack cannot be split.",	"bad_container":"Unable to create a new stack in that container.",	"number_format_wrong":"The number entered was not correct. Make sure to enter non-negative whole numbers.",	"default":""
+}}

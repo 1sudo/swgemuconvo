@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_pointer",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_description":"You now have access to the Meatlumps Hideout. Explore it and continue to investigate the Meatlumps. Be sure to speak with your new contact from the Corellia Times for guidance.",	"journal_entry_title":"Meatlumps Hideout: Your First Time",	"task01_journal_entry_description":"Vani Korr has asked that you assist one of her associates from the Corellia Times who is helping her with some of the legwork for the Meatlumps story.",	"task01_journal_entry_title":"Speak with Your Corellia Times Contact",	"task01_waypoint_name":"New Corellia Times Contact",	"task02_journal_entry_description":"This is the location of the primary Meatlumps Hideout in Coronet.",	"task02_journal_entry_title":"The Meatlump Hideout",	"task02_waypoint_name":"Meatlumps Hideout"
+}}

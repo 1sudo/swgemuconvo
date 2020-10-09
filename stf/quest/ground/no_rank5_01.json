@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/no_rank5_01",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"A strange transmission was intercepted by a communications tech at Nova Orion Station. The source is unknown, but the message implied that someone had been manipulating recent events between Jonas Nova and Garrick Orion for their own personal gain. You have been asked to find the source of the transmission and learn more.",	"journal_entry_title":"Pulling Strings",	"task01_journal_entry_description":"Track down the source of the transmission.",	"task01_journal_entry_title":"Seeking Answers",	"task03_journal_entry_description":"Return to Jonas Nova on Nova Orion Station.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

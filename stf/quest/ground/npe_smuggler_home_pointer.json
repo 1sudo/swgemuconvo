@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_smuggler_home_pointer",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You've gathered the weapons stash for Han Solo and can return to the Tansarii Point Station when ready.",	"journal_entry_title":"Return to Tansarii Point Station",	"task00_journal_entry_description":"Return to Tansarii Point Station.",	"task00_journal_entry_title":"Return to Tansarii Point Station"
+}}

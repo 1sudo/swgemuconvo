@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/purvis_kill_soldiers",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"You've been a great help in putting down the Tuskan raids. Mos Eisley is a bit safer because of you.",	"journal_entry_description":"The Tusken raids have been getting worse and they need your help to put them down.",	"journal_entry_title":"Tusken Infestation",	"task00_comm_message_text":"Well done! Now I need you to take out some of their Soldiers. They're a bit further out from Junktown and they're a bit tougher, but I think you can do it. ",	"task01_journal_entry_description":"You've shown promise as a fine city defender. Purvis wants you to take out five Tusken Soldiers this time. They are further out from Junktown.",	"task01_journal_entry_title":"Kill 5 Tusken Soldiers",	"task01_waypoint_name":"Tusken Soldiers"
+}}

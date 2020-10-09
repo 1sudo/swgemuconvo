@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/quest_01_comlink_call_to_adventure_neut_faction",
+	"entries": {
+		"category":"Something is Obviously Wrong",	"journal_entry_completion_summary":"You've met with Bib Fortuna in Mos Eisley.",	"journal_entry_description":"Meet with Bib Fortuna in Mos Eisley.",	"journal_entry_title":"Find Bib Fortuna",	"task00_comm_message_text":"I need an outside source to investigate a recent 'situation' in Mos Eisley. I heard you might be interested. If so, meet Bib Fortuna in Mos Eisley. If you assist you will be rewarded.",	"task00_journal_entry_description":"non",	"task00_journal_entry_title":"non",	"task01_journal_entry_description":"Bib Fortuna is awaiting your arrival at Mos Eisley on Tatooine.",	"task01_journal_entry_title":"Find Bib Fortuna",	"task01_waypoint_name":"Bib Fortuna"
+}}

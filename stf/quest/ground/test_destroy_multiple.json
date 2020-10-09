@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/ground/test_destroy_multiple",
 	"entries": {
-		"task00_journal_entry_title":"Kill some Womprats",		"task00_journal_entry_description":"Go kill some womprats, and I'll be happy.",		"journal_entry_title":"Test Destroy Multiple",		"journal_entry_description":"Test the quest system for the "Destroy Multiple" task type. ",		"category":"Test"
+		"category":"Test2",	"journal_entry_description":"Test quest to kill 3 womprats.",	"journal_entry_title":"Test Destroy Multiple",	"task00_journal_entry_description":"Go find and kill a bunch of womprats.",	"task00_journal_entry_title":"Kill some womprats",	"task01_journal_entry_description":"Go and do some more stuff, now!",	"task01_journal_entry_title":"Do something else",	"task02_journal_entry_description":"nothing",	"task02_journal_entry_title":"Failed, go to location"
 }}

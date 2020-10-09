@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_hugo",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Speak with Hugo Eckener and help him with his dilemma.",	"journal_entry_title":"Go Speak with Hugo Eckener",	"task00_journal_entry_description":"Go to Hugo Eckener and find out what his dilemma is. You'll find him in the Theed Palace near the entrance.",	"task00_journal_entry_title":"Go to Hugo Eckener",	"task00_waypoint_name":"Theed Palace Entrance"
+}}

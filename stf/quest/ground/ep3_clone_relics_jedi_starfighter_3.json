@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_jedi_starfighter_3",
+	"entries": {
+		"category":"The Clone Relics, Fist of the Empire",	"journal_entry_description":"You stumbled upon classified Rebel data. Things can only get better from here on... or can they?",	"journal_entry_title":"Doing your duty, phase III",	"task00_journal_entry_description":"The Empire's scouts have spotted a Rebel supply convoy in what's known as Kkowir forest. The scout troopers will provide you with a waypoint to their location. Make sure that convoy never reaches its destination. When you're done, return to Admiral Krieg.",	"task00_journal_entry_title":"Counter attack",	"task00_waypoint_name":"Scout trooper location",	"task07_journal_entry_description":"Take care of the Rebels in the name of the Emperor!",	"task07_journal_entry_title":"Defeat the Rebels",	"task07_task_display_string_1":"Rebel officer defeated",	"task07_task_display_string_2":"Rebel medic defeated",	"task07_task_display_string_3":"Rebel troops defeated",	"task08_journal_entry_description":"Return to the Imperial base next to Kachirho. Good job soldier!",	"task08_journal_entry_title":"Return to base"
+}}

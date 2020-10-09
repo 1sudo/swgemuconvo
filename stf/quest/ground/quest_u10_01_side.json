@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/quest_u10_01_side",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"R2-D2 and C-3P0 want you to gather some helper droid interface units from the helper droid factory..",	"journal_entry_title":"Those Things Last Forever",	"task00_item_name":"You find a helper droid interface unit",	"task00_journal_entry_description":"R2-D2 and C-3P0 have asked you to find some helper droid interface units for them to have analyzed.",	"task00_journal_entry_title":"Helper Droid Interface Units",	"task00_retrieve_menu_text":"Take",	"task01_journal_entry_description":"Return to C-3P0 and R2-D2 with the helper droid interface units.",	"task01_journal_entry_title":"Return to C-3P0 and R2-D2"
+}}

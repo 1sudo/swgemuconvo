@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/nova_orion_rank1_03",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Travel to the Nova Orion Sector or Ord Mantell",	"quest_location_t":"Ord Mantell (Nova Orion Sector)",	"quest_patrol_d":"The pirate leader thinks he can get away. Track him down and stop him.",	"quest_patrol_t":"Track the Pirate Leader",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Tracking the Pirate Leader",	"title_d":"You have put pressure on the pirates. Now, it is time to find their leader and remove him."
+}}

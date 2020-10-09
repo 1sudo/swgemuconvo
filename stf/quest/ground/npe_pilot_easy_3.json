@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_easy_3",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_completion_summary":"You have warned the Dynathians.",	"journal_entry_description":"The Dynathians need to be warned about the increased aggression of the Black Sun.",	"journal_entry_title":"Warning the Allies",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"You have been sent to notify the Dynathians about the increased Black Sun Presence.",	"task01_journal_entry_title":"Notify the Dynathians",	"task02_journal_entry_description":"Return to Laetin to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Laetin",	"task02_waypoint_name":"Laetin A'shera (Trained Car'das Pilot)",	"task03_journal_entry_description":"Report to Laetin of your success.",	"task03_journal_entry_title":"Land and Report back to Laetin",	"task03_waypoint_name":"Laetin A'shera (Trained Car'das Pilot)"
+}}

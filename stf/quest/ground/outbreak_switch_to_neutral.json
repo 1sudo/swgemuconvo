@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_switch_to_neutral",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have met Guri on Dathomir, she would like you to do a job for her.",	"journal_entry_description":"Someone requests your presence on Dathomir.",	"journal_entry_title":"Mysterious Meeting Request",	"task00_comm_message_text":"[Guri] I have an important proposition for you. Meet me on Dathomir.",	"task01_journal_entry_description":"Speak with Guri to see what is going on.",	"task01_journal_entry_title":"Speak with Guri",	"task01_waypoint_name":"Guri"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_inaldra",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Station Master Inaldra in her Office if you are looking for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Inaldra in her office.",	"task00_journal_entry_title":"Talk to Inaldra in Her Office",	"task00_waypoint_name":"Inaldra"
+}}

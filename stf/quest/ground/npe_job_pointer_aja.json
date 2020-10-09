@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_aja",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Aja in the Medical Center for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Aja Sen in the Medical Center.",	"task00_journal_entry_title":"Talk to Aja in the Medical Center",	"task00_waypoint_name":"Aja Sen"
+}}

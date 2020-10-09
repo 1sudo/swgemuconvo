@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/coronet_murmurs_side_2",
+	"entries": {
+		"category":"Corellia",	"journal_entry_description":"You have crippled the security on the first level. It is now time to finish the job. Move to the 2nd level and wipe out the security officers there as well.",	"journal_entry_title":"Corporate Insecurities Part 2",	"task00_journal_entry_description":"Move on to the lower level, finalize the crippling of thier security. ",	"task00_journal_entry_title":"Kill the Security Guards on the 2nd Level",	"task00_waypoint_name":"Laboratory",	"task01_comm_message_text":"Nice work! I am transferring the funds to you now. That's the last time I get ignored for a position."
+}}

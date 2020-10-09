@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_dahlia_epic_4",
+	"entries": {
+		"category":"Kkowir Forest: Outcast",	"journal_entry_description":"Survive the Kerritamba and earn your place in the Society as Exemplar.",	"journal_entry_title":"The Road to Exemplar: The Final Battle II",	"task02_journal_entry_description":"Defeat the Kerritamba Champion!",	"task02_journal_entry_title":"Kerritamba Champion",	"task03_journal_entry_description":"You have defeated the Kerritamba Champion. Return to Dahlia Damask in the Outcast cave.",	"task03_journal_entry_title":"Return to the Lady",	"task03_waypoint_name":"Dahlia Damask",	"task04_journal_entry_title":"Reward Issued"
+}}

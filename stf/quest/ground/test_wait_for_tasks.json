@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_wait_for_tasks",
+	"entries": {
+		"category":"Testing",	"journal_entry_description":"Test Wait For Tasks",	"journal_entry_title":"Test Wait For Tasks",	"task00_journal_entry_description":"Test Wait For Tasks",	"task00_journal_entry_title":"Test Wait For Tasks",	"task00_task_display_string_1":"Go to the right location",	"task00_task_display_string_2":"Kill the vermin"
+}}

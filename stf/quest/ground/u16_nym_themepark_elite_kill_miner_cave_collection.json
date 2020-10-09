@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_elite_kill_miner_cave_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"Raynar Cath and Wes Riggers are no more.",	"journal_entry_description":"Infiltrate the Imperial Mine and kill Raynar Cath and Wes Riggers.",	"journal_entry_title":"Mine the Miners",	"task00_journal_entry_description":"Travel to the Imperial Mine.",	"task00_journal_entry_title":"Find the Imperial Mine",	"task00_waypoint_name":"Imperial Mine",	"task01_journal_entry_description":"Locate and kill Raynar Cath and Wes Riggers.",	"task01_journal_entry_title":"Purge the Threat",	"task01_waypoint_name":"Imperial Mine",	"task02_journal_entry_description":"Report to Mako Ghast.",	"task02_journal_entry_title":"Return to Mako Ghast",	"task02_waypoint_name":"Mako Ghast (inside Stronghold)"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_gamma",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Visit Frelka and learn about Station Gamma.",	"journal_entry_title":"Frelka",	"task00_journal_entry_description":"Supposedly, Frelka has been to a place called Station Gamma. You should speak with him for more information. (Station Gamma Dungeon; Combat levels 1-10)",	"task00_journal_entry_title":"Frelka, the Battered Explorer",	"task00_waypoint_name":"Frelka (Battered Explorer)"
+}}

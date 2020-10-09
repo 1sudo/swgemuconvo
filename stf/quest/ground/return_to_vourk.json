@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/return_to_vourk",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Visit Vourk, who will tell you what you need to do next.",	"journal_entry_title":"Visit Vourk",	"task00_journal_entry_description":"You should return to Vourk.",	"task00_journal_entry_title":"Find Vourk",	"task00_waypoint_name":"Vourk"
+}}

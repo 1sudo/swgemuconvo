@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_commando_tracker",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Sergean Snopel is sending you to some trainers who can teach you the basics of combat. Heed thier advice.",	"journal_entry_title":"Basic Training",	"task02_comm_message_text":"Good work soldier! Time you learn some close combat techniques. Talk to Rydel in the close combat training room.",	"task05_comm_message_text":"Excellent! I think you know enough now to complete your first mission. Come see me immediately soldier.",	"task06_waypoint_name":"Sergean Snopel"
+}}

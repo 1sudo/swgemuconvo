@@ -1,5 +1,5 @@
 {
 	"stfFile":"loading/rori_n",
 	"entries": {
-		"rori_gungans":"Rori Gungans",		"restuss":"Restuss",		"rori_miners":"Rori Miners",		"kobola_spice_miners":"Kobola Spice Miners",		"rorian_gungans":"Rori Gungans",		"garyn_raiders":"Garyn Raiders",		"cobral_renegades":"Cobral Renegades",		"narmle":"Narmle",		"rori":"Rori",		"squall":"Squall"
+		"squall":"Squall",	"rori":"Rori",	"narmle":"Narmle",	"cobral_renegades":"Cobral Renegades",	"garyn_raiders":"Garyn Raiders",	"rorian_gungans":"Rori Gungans",	"kobola_spice_miners":"Kobola Spice Miners",	"rori_miners":"Rori Miners",	"restuss":"Restuss",	"rori_gungans":"Rori Gungans"
 }}

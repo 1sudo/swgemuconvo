@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_39_chirq_council_02_failed",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"You were strictly warned not to harm any employees of Pendretronics other than Kazic Pendre himself.",	"journal_entry_title":"FAILED: Assumed Identity",	"task00_journal_entry_description":"You were warned not to harm any Pendretronics employees, and yet you have failed to comply with that order. Report to Captain Baize.",	"task00_journal_entry_title":"Report Immediately to Captain Baize",	"task00_waypoint_name":"Captain Vitala Baize"
+}}

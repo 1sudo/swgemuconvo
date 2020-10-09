@@ -1,58 +1,5 @@
 {
 	"stfFile":"theme_park_lookat",
 	"entries": {
-		"axkva_min":"Axkva Min",		"yarna_dal_gargan":"yarna dal gargan
-",		"wittin":"wittin
-",		"wedge_antilles":"wedge antilles
-",		"tessek":"tessek
-",		"talon_karrde":"talon karrde
-",		"sy_snootles":"sy snootles
-",		"senni_tonnika":"senni tonnika
-",		"salacious_crumb":"salacious crumb
-",		"ree_yees":"ree yees
-",		"r2d2":"r2d2
-",		"prefect_talmont":"prefect talmont
-",		"oola":"oola
-",		"nym":"nym
-",		"nien_nunb":"nien nunb
-",		"muftak":"muftak
-",		"mon_mothma":"mon mothma
-",		"momaw_nadon":"momaw nadon
-",		"max_rebo":"max rebo
-",		"mara_jade":"mara jade
-",		"malakili":"malakili
-",		"lyn_me":"lyn me
-",		"luke_skywalker":"luke skywalker
-",		"leia_organa":"leia organa
-",		"lak_sivrak":"lak sivrak
-",		"lady_valarian":"lady valarian
-",		"labria":"labria
-",		"klaatu":"klaatu
-",		"kabe":"kabe
-",		"jabba_the_hutt":"jabba the hutt
-",		"ig_88":"ig 88
-",		"hobbie":"hobbie
-",		"han_solo":"han solo
-",		"greeata":"greeata
-",		"general_jan_dodonna":"general jan dodonna
-",		"garindan":"garindan
-",		"ephant_mon":"ephant mon
-",		"emperor_royal_guard":"emperor royal guard
-",		"emperor_palpatine":"emperor palpatine
-",		"droopy_mccool":"droopy mccool
-",		"dengar":"dengar
-",		"darth_vader":"darth vader
-",		"chewbacca":"chewbacca
-",		"chalmun":"chalmun
-",		"c_3po":"c 3po
-",		"brea_tonnika":"brea tonnika
-",		"bossk":"bossk
-",		"boss_nass":"boss nass
-",		"boba_fett":"boba fett
-",		"bib_fortuna":"bib fortuna
-",		"base_npc_theme_park":"base npc theme park
-",		"barada":"barada
-",		"admiral_ackbar":"admiral ackbar
-",		"lom":"4lom
-"
+		"lom":"4lom ",	"admiral_ackbar":"admiral ackbar ",	"barada":"barada ",	"base_npc_theme_park":"base npc theme park ",	"bib_fortuna":"bib fortuna ",	"boba_fett":"boba fett ",	"boss_nass":"boss nass ",	"bossk":"bossk ",	"brea_tonnika":"brea tonnika ",	"c_3po":"c-3po ",	"chalmun":"chalmun ",	"chewbacca":"chewbacca ",	"darth_vader":"darth vader ",	"dengar":"dengar ",	"droopy_mccool":"droopy mccool ",	"emperor_palpatine":"emperor palpatine ",	"emperor_royal_guard":"emperor royal guard ",	"ephant_mon":"ephant mon ",	"garindan":"garindan ",	"general_jan_dodonna":"general jan dodonna ",	"greeata":"greeata ",	"han_solo":"han solo ",	"hobbie":"hobbie ",	"ig_88":"ig 88 ",	"jabba_the_hutt":"jabba the hutt ",	"kabe":"kabe ",	"klaatu":"klaatu ",	"labria":"labria ",	"lady_valarian":"lady valarian ",	"lak_sivrak":"lak sivrak ",	"leia_organa":"leia organa ",	"luke_skywalker":"luke skywalker ",	"lyn_me":"lyn me ",	"malakili":"malakili ",	"mara_jade":"mara jade ",	"max_rebo":"max rebo ",	"momaw_nadon":"momaw nadon ",	"mon_mothma":"mon mothma ",	"muftak":"muftak ",	"nien_nunb":"nien nunb ",	"nym":"nym ",	"oola":"oola ",	"prefect_talmont":"prefect talmont ",	"r2d2":"r2d2 ",	"ree_yees":"ree yees ",	"salacious_crumb":"salacious crumb ",	"senni_tonnika":"senni tonnika ",	"sy_snootles":"sy snootles ",	"talon_karrde":"talon karrde ",	"tessek":"tessek ",	"wedge_antilles":"wedge antilles ",	"wittin":"wittin ",	"yarna_dal_gargan":"yarna dal gargan ",	"axkva_min":"Axkva Min"
 }}

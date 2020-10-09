@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/patrol/stn_dantooine_owner_all_repairmission_tier2_5",
 	"entries": {
-		"title_d":"",		"title":"Yavin System: Find the Mission Freighter",		"split_quest_alert_fail":"",		"split_quest_alert":"Scans have picked up the signature of the missing freighter. It would seem to be disabled. Move to the location and assist it with repairs.",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"",		"quest_patrol_d":"",		"quest_location_t":"",		"quest_location_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"",	"quest_location_t":"",	"quest_patrol_d":"",	"quest_patrol_t":"",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"Scans have picked up the signature of the missing freighter. It would seem to be disabled. Move to the location and assist it with repairs.",	"split_quest_alert_fail":"",	"title":"Yavin System: Find the Mission Freighter",	"title_d":""
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_atst",
+	"entries": {
+		"category":"Battle of Restuss.",	"journal_entry_description":"The Empire just received their new AT-ST's and they are halting the Alliance advance. Assist in destroying at least one of them and victory will be assured.",	"journal_entry_title":"Break the wall.",	"task00_journal_entry_description":"The Alliance need your assistance in destroying at least one Imperial AT-ST's",	"task00_journal_entry_title":"Opening a tin can.",	"task00_waypoint_name":"Imperial Armored Walkers"
+}}

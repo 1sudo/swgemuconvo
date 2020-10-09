@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_deeja_peak_goto_vance",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Go to Vance Groten and ask his assistance in locating a security beacon from Stonewall Labs.",	"journal_entry_title":"Go to Vance Groten",	"task00_journal_entry_description":"Vance Groten was Chief of Security at Stonewall Labs before it closed. He should be able to help you find a security beacon.",	"task00_journal_entry_title":"Go Speak with Vance Groten",	"task00_waypoint_name":"Vance Groten"
+}}

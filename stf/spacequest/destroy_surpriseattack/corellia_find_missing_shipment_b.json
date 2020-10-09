@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_find_missing_shipment_b",
+	"entries": {
+		"assigned_delayed":"",	"complete":"It seems odd that some Ragtag fighters would attack you. Report this to Ral Mundi.",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Corellia System: Ragtag Assault",	"title_d":"Ragtag fighters are attacking! Could they have a connection to the missing shipment?",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

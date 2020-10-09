@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_destroy_barricade",
+	"entries": {
+		"category":"Combat",	"journal_entry_completion_summary":"You have destroyed an enemy barricade.",	"journal_entry_description":"Destroy an enemy barricade so that the enemy has no cover and concealment..",	"journal_entry_title":"Destroy Enemy Barricade",	"task01_journal_entry_description":"Any barricade destroyed will disrupt the enemy defenses.",	"task01_journal_entry_title":"Destroy Barricade",	"task02_journal_entry_description":"The barricade has been destroyed. Job well done.",	"task02_journal_entry_title":"Barricade Destroyed!",	"task04_journal_entry_description":"The barricade has been destroyed. Job well done.",	"task04_journal_entry_title":"Barricade Destroyed!"
+}}

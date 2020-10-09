@@ -1,5 +1,5 @@
 {
 	"stfFile":"celebrity/morag",
 	"entries": {
-		"npc_3":"I am, fool!",		"npc_2":"Whatever I please!",		"player_2":"What's a Tulgah?",		"player_1":"What do you do?",		"npc_1":"I am the Tulgah Witch!"
+		"npc_1":"I am the Tulgah Witch!",	"player_1":"What do you do?",	"player_2":"What's a Tulgah?",	"npc_2":"Whatever I please!",	"npc_3":"I am, fool!"
 }}

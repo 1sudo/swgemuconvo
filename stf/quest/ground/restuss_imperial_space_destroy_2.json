@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_space_destroy_2",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Rebels haven't given up on gaining the advantage in Corellian space. Imperial spies have learned that they are bringing in reinforcements from the Lok system and have ordered you to destroy 15 Z-95 or X-Wings there.",	"journal_entry_title":"Space Strike, Part II",	"task00_journal_entry_description":"The Empire has ordered you to destroy 15 X-Wing or Z-95 fighters in the Lok system.",	"task00_journal_entry_title":"Cripple the Rebel Fleet",	"task01_journal_entry_description":"You have destroyed enough enemy fighters in the Lok system and should return to Lieutenant Wulf in Restuss.",	"task01_journal_entry_title":"Return to Restuss"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_smuggler_slicing",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"Slice the supply terminal to provide improved componenets for your faction",	"journal_entry_title":"Slice the terminal",	"task01_journal_entry_description":"Slice as many of the ten security layers as you can.",	"task01_journal_entry_title":"Slice the security layers.",	"task02_journal_entry_description":"You've sliced all of the supply terminals security layers",	"task02_journal_entry_title":"You've sliced all of the ten security layers",	"task03_journal_entry_description":"You have a window of three minuites before the terminal autmatically resets its security. ",	"task03_journal_entry_title":"You have three minutes to slice the terminal",	"task04_message_box_text":"The time available to slice the terminal has run out. If you wish to try again you will have to start over.",	"task04_message_box_title":"Security reestablished",	"task05_journal_entry_description":"The time expired and the terminals security was reset.",	"task05_journal_entry_title":"The termianlssecurity system was reset"
+}}

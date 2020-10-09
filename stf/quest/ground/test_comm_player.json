@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_comm_player",
+	"entries": {
+		"category":"Testing",	"journal_entry_description":"This quest will comm the player, then complete.",	"journal_entry_title":"Test Comm Player",	"task00_comm_message_text":"I'll kill you all!",	"task00_journal_entry_description":"A comm window should appear.",	"task00_journal_entry_title":"Test Comm Player"
+}}

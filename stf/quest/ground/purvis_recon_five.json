@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/purvis_recon_five",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Purvis wants recon of an area just beyond the Tusken Village, where he says the more dangerous Tuskens live.",	"journal_entry_title":"More Recon",	"task00_journal_entry_description":"You're supposed to recon an area beyond the Tusken Village.",	"task00_journal_entry_title":"Recon Tusken Ruins",	"task00_waypoint_name":"Tusken Ruins"
+}}

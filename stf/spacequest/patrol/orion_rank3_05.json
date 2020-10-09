@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/orion_rank3_05",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"goodbye_1":"",	"quest_location_d":"Travel to the Nova Orion Sector or Ord Mantell",	"quest_location_t":"Ord Mantell (Nova Orion Sector)",	"quest_patrol_d":"Find him and take him out.",	"quest_patrol_t":"Find Nova's Top Gun",	"quest_target_d":"",	"quest_target_t":"",	"reason_1":"",	"split_quest_alert":"IT'S A TRAP! He knew you were coming!",	"split_quest_alert_fail":"",	"title":"Cut off the Head",	"title_d":"Nova's top gun was patrolling and looking for you. You should surprise him."
+}}

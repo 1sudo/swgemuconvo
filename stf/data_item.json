@@ -1,5 +1,5 @@
 {
 	"stfFile":"data_item",
 	"entries": {
-		"chose_redeem":"Which data items would you like to turn in?",		"redeem_rebel":"Turn in Rebel data",		"redeem_imperial":"Turn in Imperial data",		"redeem":"Redeem data items"
+		"redeem":"Redeem data items",	"redeem_imperial":"Turn in Imperial data",	"redeem_rebel":"Turn in Rebel data",	"chose_redeem":"Which data items would you like to turn in?"
 }}

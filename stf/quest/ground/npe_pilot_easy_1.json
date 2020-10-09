@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_easy_1",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_completion_summary":"You succeeded in finding the Black Sun spy.",	"journal_entry_description":"You have been instructed to look for Black Sun hiding among a fleet of mining vessels.",	"journal_entry_title":"Searching For Black Sun",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"Find the Black Sun hiding among the mining vessels.",	"task01_journal_entry_title":"Find the Black Sun",	"task02_journal_entry_description":"Return to Laetin to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Laetin",	"task02_waypoint_name":"Laetin A'shera (Trained Car'das Pilot)",	"task03_journal_entry_description":"Report to Laetin of your success.",	"task03_journal_entry_title":"Land and Report back to Laetin",	"task03_waypoint_name":"Laetin A'shera (Trained Car'das Pilot)"
+}}

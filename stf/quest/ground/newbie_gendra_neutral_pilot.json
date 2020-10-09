@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_gendra_neutral_pilot",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Gendra told you how to get to the pilot trainer for those who don't wish to fly for either the Empire or the Rebellion.",	"journal_entry_title":"Pilot Trainer",	"task00_journal_entry_description":"The neutral pilot trainer will teach you to fly space ships without signing up for either the Rebellion or the Imperial Navy.",	"task00_journal_entry_title":"Pilot Trainer - Neutral",	"task00_waypoint_name":"Neutral Pilot Trainer",	"task01_comm_message_text":"I see you've made your way to the trainer. Good luck with your piloting. Come and see me if you ever need anything else."
+}}

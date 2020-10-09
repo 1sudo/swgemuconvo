@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_imprisoned_geonosian_3",
+	"entries": {
+		"category":"The Clone Relics, Quest of the Geonosian",	"journal_entry_description":"After helping the Geonosian and saving the Wookiees, Ikvizi told you about a reward. You need to travel to his old lab on Yavin 4 and find a Mag Seal container. It contains DNA strands from an extinct species that is supposedly a superb riding mount called the bolotaur.",	"journal_entry_title":"Help the imprisoned Geonosian, phase III",	"task00_journal_entry_description":"Travel to the moon Yavin 4 and try to find the Geonosian lab near the coordinates -6500, -400. Ikvizi said that's where the Bolotaur DNA is located.",	"task00_journal_entry_title":"Find the Geonosian lab",	"task00_waypoint_name":"Geonosian Bio Lab",	"task01_item_name":"Bolotaur DNA strands gathered",	"task01_journal_entry_description":"Search the lab and try to find Ikvizi's Mag Seal container with the DNA strands.",	"task01_journal_entry_title":"Search the Geonosian lab",	"task01_retrieve_menu_text":"Gather the DNA strands"
+}}

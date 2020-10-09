@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_franchels",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Major Harvin Franchels near the area of Theed that is under terrorist attack.",	"journal_entry_title":"Report to Major Franchels",	"task00_journal_entry_description":"Report to Major Harvin Franchels. He's overseeing the response to a terrorist attack in Theed.",	"task00_journal_entry_title":"Report to Major Franchels",	"task00_waypoint_name":"Major Franchels"
+}}

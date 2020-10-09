@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_han",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Han Solo in Hangar Bay 2. He might be able to get you off the station.",	"journal_entry_title":"Getting off the station",	"task00_journal_entry_description":"Talk to Han Solo in Hangar Bay 2. He may know a way off this station.",	"task00_journal_entry_title":"Talk to Han Solo in Hangar Bay 2",	"task00_waypoint_name":"Han Solo"
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/tatooine_privateer_tier3_1_d",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Defend agains a sneak attack by the real Valarian Replacement",		"title":"Yavin System: Defend Against a Sneak Attack",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast3 Beissa: < \#pcontrast1 That is the sort of amateurish attack I expect from Valaria's elite fighters.  Bring it home Captain, we have more work for you. \#pcontrast3 >",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"pcontrast3 Beissa: < pcontrast1 That is the sort of amateurish attack I expect from Valaria's elite fighters.  Bring it home Captain, we have more work for you. pcontrast3 >",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Yavin System: Defend Against a Sneak Attack",	"title_d":"Defend against a sneak attack by the real Valarian Replacement",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_scout",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"The Bartender will find a buyer for you as long as you do something for him as well.",	"journal_entry_title":"Talk to the Scout Master",	"task00_journal_entry_description":"Raylen Finn can teach you about hunting. Talk to him in the Ranged Combat Training Room next to the Medical Center.",	"task00_journal_entry_title":"Talk to Raylen Finn in the Ranged Combat Training Center",	"task00_waypoint_name":"Raylen Finn"
+}}

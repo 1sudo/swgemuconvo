@@ -1,5 +1,5 @@
 {
 	"stfFile":"loading/lok_n",
 	"entries": {
-		"nym":"Nym",		"gurk":"Gurk",		"gurnaset":"Gurnaset",		"spined_snake":"Spined Snake",		"pharple":"Pharple",		"perlek":"Perlek",		"langlatch":"Langlatch",		"kusak":"Kusak",		"flit":"Flit",		"kimogila":"Kimogila",		"vesp":"Vesp",		"droideka":"Droideka",		"general_otto":"General Otto",		"imperial_base":"Imperial Base",		"nym_stronghold":"Nym's Stronghold",		"snorbal":"Snorbal"
+		"snorbal":"Snorbal",	"nym_stronghold":"Nym's Stronghold",	"imperial_base":"Imperial Base",	"general_otto":"General Otto",	"droideka":"Droideka",	"vesp":"Vesp",	"kimogila":"Kimogila",	"flit":"Flit",	"kusak":"Kusak",	"langlatch":"Langlatch",	"perlek":"Perlek",	"pharple":"Pharple",	"spined_snake":"Spined Snake",	"gurnaset":"Gurnaset",	"gurk":"Gurk",	"nym":"Nym"
 }}

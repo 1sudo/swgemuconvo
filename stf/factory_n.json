@@ -1,5 +1,5 @@
 {
 	"stfFile":"factory_n",
 	"entries": {
-		"factory_crate":"Factory Crate",		"weapons_factory_crate":"Weapons Factory Crate",		"weapon_factory_crate":"Weapon Factory Crate",		"generic_items_crate":"Generic Items Crate",		"chemicals_crate":"Chemicals Crate",		"food_crate":"Food Crate",		"furniture_crate":"Furniture Crate",		"installation_crate":"Installation Crate",		"armor_crate":"Armor Crate",		"clothing_factory_crate":"Wearables Factory Crate",		"electronics_crate":"Electronics Crate"
+		"electronics_crate":"Electronics Crate",	"clothing_factory_crate":"Wearables Factory Crate",	"armor_crate":"Armor Crate",	"installation_crate":"Installation Crate",	"furniture_crate":"Furniture Crate",	"food_crate":"Food Crate",	"chemicals_crate":"Chemicals Crate",	"generic_items_crate":"Generic Items Crate",	"weapon_factory_crate":"Weapon Factory Crate",	"weapons_factory_crate":"Weapons Factory Crate",	"factory_crate":"Factory Crate"
 }}

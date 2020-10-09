@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/ground/lf_safety5",
 	"entries": {
-		"task01_journal_entry_title":"Return to Gerak Vertimis",		"task01_journal_entry_description":"Return to Bestine and tell Gerak Vertimis that you eliminated the brigand leader.",		"task00_journal_entry_title":"Kill the Brigand Leader",		"task00_journal_entry_description":"You now know the location of the main brigand camp.  Kill the leader.",		"journal_entry_title":"Safety Measures Part 5",		"journal_entry_description":"You now know the location of the main brigand camp.  Kill the leader and return to Bestine for your reward.",		"category":"Ground Quest"
+		"category":"Ground Quest",	"journal_entry_description":"You now know the location of the main brigand camp.  Kill the leader and return to Bestine for your reward.",	"journal_entry_title":"Safety Measures Part 5",	"task00_journal_entry_description":"You now know the location of the main brigand camp.  Kill the leader.",	"task00_journal_entry_title":"Kill the Brigand Leader",	"task00_waypoint_name":"Brigand Leader",	"task01_journal_entry_description":"Return to Bestine and tell Gerak Vertimis that you eliminated the brigand leader.",	"task01_journal_entry_title":"Return to Gerak Vertimis",	"task01_waypoint_name":"Gerak Vurtimis"
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_gotodunir",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You found Dunir.",	"journal_entry_description":"Bib wants you to check with Dunir about a package he needs delivered.",	"journal_entry_title":"Find Dunir",	"task00_journal_entry_description":"Dunir has work for you.",	"task00_journal_entry_title":"Find Dunir",	"task00_waypoint_name":"Dunir"
+}}

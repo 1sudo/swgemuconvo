@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/heroic_echo_imperial_evac",
+	"entries": {
+		"category":"Echo Base",	"journal_entry_description":"Stop the Rebels from fleeing Hoth on thier transports.",	"journal_entry_title":"Evacuation Point",	"task01_journal_entry_title":"-hidden- task to end quest",	"task03_journal_entry_description":"Don't let them get away! Destroy those transports! You'll need to take out a transport's command crew before you can attack the transport.",	"task03_journal_entry_title":"Minor Victory: Destroy 3 Rebel Transports",	"task04_journal_entry_description":"Dont stop now! Destroy the remaining transports! You'll need to take out a transport's command crew before you can attack the transport.",	"task04_journal_entry_title":"Major Victory: Destroy 2 More Rebel Transports"
+}}

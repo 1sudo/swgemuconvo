@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_brawler_polearm",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Rydel Delan, master trainer in the arts of close combat, has instructed you to destroy 3 Training Droids with your polearm techniques.",	"journal_entry_title":"Polearm Weapon Training",	"task00_journal_entry_description":"Learn more about long weapons.  Use your new staff to destroy 3 training droids in the Close Combat Training Room.",	"task00_journal_entry_title":"Destroy 3 Training Droids in the Close Combat Training Room",	"task00_waypoint_name":"Close Combat Training Room",	"task01_journal_entry_description":"Talk to Rydel in the Close Combat Training Center now that you have completed his training task.",	"task01_journal_entry_title":"Return to Rydel Delan in the Close Combat Training Center",	"task01_waypoint_name":"Rydel Delan"
+}}

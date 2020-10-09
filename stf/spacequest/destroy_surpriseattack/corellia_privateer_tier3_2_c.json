@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/corellia_privateer_tier3_2_c",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Eliminate the Black Sun ambush",		"title":"Dathomir System: Eliminate the Black Sun Ambush",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast3 CorSec Command: < \#pcontrast1 The 'Good Package' is out of the System, return to base Captain. \#pcontrast3 >",		"assigned_delayed":"",		"Quest Log Data":"Text"
+		"Quest Log Data":"Text",	"assigned_delayed":"",	"complete":"pcontrast3 CorSec Command: < pcontrast1 The 'Good Package' is out of the System, return to base Captain. pcontrast3 >",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Dathomir System: Eliminate the Black Sun Ambush",	"title_d":"Eliminate the Black Sun ambush",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

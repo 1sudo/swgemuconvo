@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_interview_moore",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've spoken to Sergeant Moore about the Imperial run mines on Lok.",	"journal_entry_description":"Find Sergeant Moore and ask him about any Imperial Droids the Empire might deploy to the mine.",	"journal_entry_title":"Speak with Sergeant Moore",	"task00_journal_entry_description":"Find Sergeant Moore in the Stronghold Cantina.",	"task00_journal_entry_title":"Meet Sergeant Moore",	"task00_waypoint_name":"Stronghold Cantina",	"task01_journal_entry_description":"Tell Jinkins what Sergeant Moore told you.",	"task01_journal_entry_title":"Return to Jinkins",	"task01_waypoint_name":"Jinkins (inside Stronghold)"
+}}

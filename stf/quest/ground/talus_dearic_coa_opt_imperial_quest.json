@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_dearic_coa_opt_imperial_quest",
+	"entries": {
+		"category":"Imperial",	"journal_entry_completion_summary":"The inspectors are dead and the A.C.L.O. made to look inept.  The chances of the A.C.L.O. being incorporated fully into the Alliance have diminished.",	"journal_entry_description":"Inspectors from the Rebel Alliance have come to inspect the local office of the A.C.L.O. in order to determine if a more permanent position within the alliance would be beneficial.",	"journal_entry_title":"Rebel Inspectors",	"task00_journal_entry_description":"There are ten Rebel investigators inside the A.C.L.O. office.  Eliminate them.  Only active Imperial agents may attack the Rebels.  Those on leave are not authorized to enter combat against Rebel forces.",	"task00_journal_entry_title":"Kill the Rebel Investigators",	"task00_waypoint_name":"A.C.L.O. office",	"task01_journal_entry_description":"The Rebels meeting with the A.C.L.O. have been eliminated.  Report back to agent Hieks in the A.C.L.O. medical office.",	"task01_journal_entry_title":"Report to Agent Hieks",	"task01_waypoint_name":"A.C.L.O. office"
+}}

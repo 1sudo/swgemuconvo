@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/patrol/naboo_privateer_tier4_2c",
 	"entries": {
-		"title_d":"Keep an eye out for Black Sun aggression",		"title":"Endor System: Patrol for the Blacksun Presence",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Detecting multiple hyperspace signatures. \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"Travel here to complete the patrol",		"quest_location_t":"Endor System",		"quest_location_d":"A Patrol route in the Endor System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"A Patrol route in the Endor System",	"quest_location_t":"Endor System",	"quest_patrol_d":"Travel here to complete the patrol",	"quest_patrol_t":"Patrol Waypoint",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"pcontrast3 Tactical Computer: < pcontrast1 Detecting multiple hyperspace signatures. pcontrast3 >",	"split_quest_alert_fail":"",	"title":"Endor System: Patrol for the Blacksun Presence",	"title_d":"Keep an eye out for Black Sun aggression"
 }}

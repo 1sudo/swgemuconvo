@@ -1,5 +1,5 @@
 {
 	"stfFile":"loading/dathomir_n",
 	"entries": {
-		"trade_outpost":"Trade Outpost",		"singing_mountain_clan":"Singing Mountain Clan",		"imperial_prison":"Imperial Prison",		"dathomir":"Dathomir",		"rancor":"Rancor"
+		"rancor":"Rancor",	"dathomir":"Dathomir",	"imperial_prison":"Imperial Prison",	"singing_mountain_clan":"Singing Mountain Clan",	"trade_outpost":"Trade Outpost",	"aurilia":"The Township of Aurilia"
 }}

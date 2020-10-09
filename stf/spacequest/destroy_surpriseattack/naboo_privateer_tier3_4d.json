@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/naboo_privateer_tier3_4d",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Survive the Black Sun ambush",		"title":"Lok System: Survive the Black Sun Ambush",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast2 Systems Error: Communication Relays Are Jammed. ",		"leave_early":"",		"complete":"\#pcontrast2 Systems Error: Communication Relays Are Jammed. ",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"pcontrast2 Systems Error: Communication Relays Are Jammed. ",	"leave_early":"",	"split_quest_alert":"pcontrast2 Systems Error: Communication Relays Are Jammed. ",	"split_quest_alert_fail":"",	"title":"Lok System: Survive the Black Sun Ambush",	"title_d":"Survive the Black Sun ambush",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

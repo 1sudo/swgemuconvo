@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_load",
 	"entries": {
-		"playerready":"Player Ready",		"terraingenerated":"Terrain Generated",		"worldloaded":"World Loaded",		"filecachingcomplete":"File Caching Complete",		"serverobjectsreceived":"Server Objects Received"
+		"serverobjectsreceived":"Server Objects Received",	"filecachingcomplete":"File Caching Complete",	"worldloaded":"World Loaded",	"terraingenerated":"Terrain Generated",	"playerready":"Player Ready"
 }}

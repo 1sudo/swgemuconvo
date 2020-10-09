@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_soldier_2",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Rebels are trying to reinforce their army in Restuss with their elite troopers. Hunt down and kill 5 Rebel Commandos before they reach Restuss. Note: Only enemies designated exactly as 'Rebel Commando' will count toward mission completion.",	"journal_entry_title":"Disrupting Enemy Reinforcements, Part II",	"task00_journal_entry_description":"You've been tasked with defeating 5 Rebel Commandos.",	"task00_journal_entry_title":"Disrupt Enemy Reinforcements",	"task01_journal_entry_description":"Return to Lieutenant Gregor in Restuss and let him know that your assignment is done.",	"task01_journal_entry_title":"Back to Restuss"
+}}

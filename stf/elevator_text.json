@@ -1,5 +1,5 @@
 {
 	"stfFile":"elevator_text",
 	"entries": {
-		"lowest_floor":"You are already on the lowest floor",		"highest_floor":"You are already on the highest floor",		"too_far":"You are too far away to use that.",		"down":"DOWN",		"up":"UP"
+		"up":"UP",	"down":"DOWN",	"too_far":"You are too far away to use that.",	"highest_floor":"You are already on the highest floor",	"lowest_floor":"You are already on the lowest floor",	"murmur_denied":"Access to lower level denied.",	"terminal_elevator_down_noscript_n":"Down",	"terminal_elevator_down_noscript_d":"Down",	"terminal_elevator_up_noscript_n":"Up",	"terminal_elevator_up_noscript_d":"Up",	"mtp_ladder_climb_up":"Ascend",	"mtp_ladder_climb_down":"Descend",	"mtp_unable_to_descend":"The hatch seems to be sealed shut.",	"mtp_at_entrance_being_scanned":"You are being detained for a contraband search and should remain where you are until the search is complete."
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_miner_dna_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've extracted DNA samples",	"journal_entry_description":"Infiltrate the Imperial Mine and extract samples of DNA from the Enraged Miners. Use the DNA extractor provided when you encounter an enraged miner.",	"journal_entry_title":"Extract DNA Samples",	"task00_journal_entry_description":"Travel to the mine location.",	"task00_journal_entry_title":"Find the Imperial Mine",	"task00_waypoint_name":"Imperial Mine",	"task01_journal_entry_description":"Use the DNA Extractor to retrieve samples of DNA from the Enraged Miners.",	"task01_journal_entry_title":"Extract DNA Samples",	"task01_waypoint_name":"Imperial Mine",	"task02_journal_entry_description":"Return to Rek Thelcar with the extracted DNA samples",	"task02_journal_entry_title":"Return to Rek Thelcar",	"task02_waypoint_name":"Rek Thelcar (inside Stronghold)"
+}}

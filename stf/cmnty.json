@@ -1,5 +1,5 @@
 {
 	"stfFile":"cmnty",
 	"entries": {
-		"friend_fail_already_in_list_old":"%TT is already in your friend list.",		"friend_not_found":"%TT is not a valid friend name.",		"friend_duplicate":"%TT is already in your friend list.",		"friend_fail_is_ignored":"%TT is being ignored, unable to put in your friends list.",		"ignore_duplicate":"%TT is already in your ignore list.",		"ignore_added":"%TT is now ignored.",		"ignore_removed":"%TT is no longer ignored.",		"friend_removed":"%TT is no longer your friend.",		"friend_added":"%TT is now your friend.",		"ignore_not_found":"%TT is not a valid ignore name."
+		"ignore_not_found":"%TT is not a valid ignore name.",	"friend_added":"%TT is now your friend.",	"friend_removed":"%TT is no longer your friend.",	"ignore_removed":"%TT is no longer ignored.",	"ignore_added":"%TT is now ignored.",	"ignore_duplicate":"%TT is already in your ignore list.",	"friend_fail_is_ignored":"%TT is being ignored, unable to put in your friends list.",	"friend_duplicate":"%TT is already in your friend list.",	"friend_not_found":"%TT is not a valid friend name.",	"friend_fail_already_in_list_old":"%TT is already in your friend list."
 }}

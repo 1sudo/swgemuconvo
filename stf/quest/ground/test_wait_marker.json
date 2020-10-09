@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_wait_marker",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"Wait marker is an option of the wait for signal task.",	"journal_entry_title":"Test Wait Marker",	"task00_journal_entry_description":"The wait marker should be around, go find it",	"task00_journal_entry_title":"Find the wait marker"
+}}

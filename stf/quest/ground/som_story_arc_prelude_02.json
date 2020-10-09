@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/som_story_arc_prelude_02",
+	"entries": {
+		"category":"Mustafar",	"journal_entry_description":"There are four main air filter stations for the mining facility. Foreman Chivos tells you that they are all located to the south of the mining facility. Since the automated system is offline the stations need to be activated manually. It would appear that the mining facility is having more problems than could be seen on the surface.",	"journal_entry_title":"Replace Air Filters",	"task01_item_name":"Air filters have been replaced",	"task01_journal_entry_description":"The air filters for the mining facility's air ventilation system have become clogged with debris and need to be replaced. Find each of the ventilation shafts and replace the filters. There are four air filters located to the south of the mining facility.",	"task01_journal_entry_title":"Replace Air Filters",	"task01_retrieve_menu_text":"Replace Air Filters",	"task02_journal_entry_description":"Now that the air filters on the ventilation system have been replaced, Foreman Chivos asked that you go see him again.",	"task02_journal_entry_title":"Return to Foreman Chivos"
+}}

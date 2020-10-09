@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_generic_2",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Ogden. Ogden is located on Naboo.",	"journal_entry_title":"Talk to Ogden",	"task00_journal_entry_description":"You need to speak with Ogden. Ogden is an underworld broker and can tell you more about smuggling assignments. Ogden is located on Naboo.",	"task00_journal_entry_title":"Talk to Ogden",	"task00_waypoint_name":"Ogden"
+}}

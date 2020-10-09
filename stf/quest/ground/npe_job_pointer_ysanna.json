@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_ysanna",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Ysanna in the Cantina for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Ysanna in the Cantina. She may have work for you.",	"task00_journal_entry_title":"Talk to Ysanna in the Cantina",	"task00_waypoint_name":"Ysanna"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_trader_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You need to find the Trader trainer, they can teach you what you need to know about being a successful trader.",	"journal_entry_title":"Trader Trainer",	"task00_journal_entry_description":"Han tells you that his buddy, Raine, needs help with some crafting tasks.",	"task00_journal_entry_title":"Talk to Raine Taske",	"task00_waypoint_name":"Raine Taske"
+}}

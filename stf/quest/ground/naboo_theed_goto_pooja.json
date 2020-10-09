@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_pooja",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Pooja Naberrie in Theed.",	"journal_entry_title":"Report to Pooja Naberrie",	"task00_journal_entry_description":"Go speak with Pooja Naberrie in Theed. She's just outside the palace.",	"task00_journal_entry_title":"Go to Pooja Naberrie",	"task00_waypoint_name":"Pooja Naberrie"
+}}

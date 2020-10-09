@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/no_rank4_orion_02",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"Recover a disabled Orion transport that has been picked up by Nova forces.",	"journal_entry_title":"Disabled Orion Transport",	"task01_journal_entry_description":"Recover a disabled Orion transport that has been picked up by Nova forces.",	"task01_journal_entry_title":"Disabled Orion Transport",	"task03_journal_entry_description":"Return to Garrick Orion on Nova Orion Station.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

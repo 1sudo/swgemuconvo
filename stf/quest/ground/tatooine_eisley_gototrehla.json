@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_gototrehla",
+	"entries": {
+		"category":"Legacy Training",	"journal_entry_completion_summary":"You found Trehla, she should be able to help you understand what to do a little better.",	"journal_entry_description":"You've received a waypoint to Trehla. Find the blue shaft of light and head towards it.",	"journal_entry_title":"Find Trehla",	"task00_journal_entry_description":"Trehla should be able to help you with Mos Eisley and some of the game. Go see her if you need more instruction.",	"task00_journal_entry_title":"Find Trehla",	"task00_waypoint_name":"Trehla"
+}}

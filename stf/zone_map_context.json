@@ -1,5 +1,5 @@
 {
 	"stfFile":"zone_map_context",
 	"entries": {
-		"waypoint_destroy":"Destroy waypoint",		"target":"Target this",		"waypoint_activate":"Activate waypoint",		"waypoint_create":"Create waypoint",		"waypoint_deactivate":"Deactivate waypoint",		"autopilot":"Autopilot to",		"reset_camera":"Reset the view",		"waypoint_create_at_focus_marker":"Create waypoint at the marker location",		"waypoint_set_name":"Set name"
+		"target":"Target this",	"autopilot":"Autopilot to",	"waypoint_create":"Create waypoint",	"waypoint_activate":"Activate waypoint",	"waypoint_deactivate":"Deactivate waypoint",	"waypoint_destroy":"Destroy waypoint",	"waypoint_set_name":"Set name",	"waypoint_create_at_focus_marker":"Create waypoint at the marker location",	"reset_camera":"Reset the view"
 }}

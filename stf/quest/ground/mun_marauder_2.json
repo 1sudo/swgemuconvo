@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_2",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft left bracers for the Marauder smith.",	"journal_entry_title":"Left Bracer Crafting",	"task01_journal_entry_description":"Craft three Padded armor left bracers.",	"task01_journal_entry_title":"Craft Padded Armor Left Bracers",	"task02_journal_entry_description":"Craft threeBone armor left bracers.",	"task02_journal_entry_title":"Craft Bone Armor Left Bracers",	"task03_journal_entry_description":"Craft three Composite left bracers.",	"task03_journal_entry_title":"Craft Composite Armor Left Bracers",	"task04_journal_entry_description":"Craft all three left bracers.",	"task04_journal_entry_title":"Craft all the Left Bracers",	"task04_task_display_string_1":"Crafted Composite Armor Left Bracers",	"task04_task_display_string_2":"Crafted Bone Armor Left Bracers",	"task04_task_display_string_3":"Crafted Padded Armor Left Bracers",	"task05_journal_entry_description":"Return to Macchbraus with the left bracers.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

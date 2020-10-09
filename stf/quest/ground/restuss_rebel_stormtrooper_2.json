@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_stormtrooper_2",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire is bringing their Dark Troopers to assist in Restuss. Hunt them down and defeat them before they even reach Restuss. Note: Only enemies designated exactly as 'Dark Trooper' will count toward mission completion.",	"journal_entry_title":"On the Offense, part II",	"task00_journal_entry_description":"You've been tasked with defeating 5 Dark Troopers of the Imperial Army.",	"task00_journal_entry_title":"Halt the Reinforcements",	"task01_journal_entry_description":"Return to Lieutenant Olvog in Restuss and let him know that your assignment is done.",	"task01_journal_entry_title":"Back to Restuss"
+}}

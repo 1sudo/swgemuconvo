@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/prof_force_sensitive_21_2",
+	"entries": {
+		"category":"Profession",	"journal_entry_description":"You have a crystal, but it is not imbued with the force. It reacts well to you, so you can put your own essence into it and make it your own.",	"journal_entry_title":"Claiming Your Weapon",	"task01_comm_message_text":"Feel the warmth of your crystal. While the crystals here are not sufficient to power a lightsaber, you can infuse it using your own connection to the Force. Find a place that is safe and meditate on the crystal.",	"task01_journal_entry_description":"Feel the warmth of your crystal. While the crystals here are not sufficient to power a lightsaber, you can infuse it using your own connection to the Force. Find a place that is safe and meditate on the crystal.",	"task01_journal_entry_title":"Nos'lyn Sent You Another Message",	"task02_item_name":"A Force-Infused Crystal",	"task02_journal_entry_description":"Concentrate on your crystal and channel the Force into it.",	"task02_journal_entry_title":"Infuse Your Crystal",	"task02_retrieve_menu_text":"Infuse Your Crystal"
+}}

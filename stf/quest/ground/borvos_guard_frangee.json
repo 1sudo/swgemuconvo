@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/borvos_guard_frangee",
+	"entries": {
+		"category":"Naboo",	"journal_entry_description":"You've started working for Borvo the Hutt on Naboo, the most notorious criminal on the planet.",	"journal_entry_title":"Borvo's Guard",	"task00_journal_entry_description":"I'm going to the last place the snitch, Frangee, was seen. I hope he's still around there somewhere.",	"task00_journal_entry_title":"Check Frangee's Last Known Location",	"task00_waypoint_name":"Frangee's Last Known Location",	"task01_journal_entry_description":"I've got to find Frangee and make sure he doesn't report to his bosses.",	"task01_journal_entry_title":"Kill the Snitch",	"task01_waypoint_name":"Frangee's Last Known Location",	"task02_journal_entry_description":"Now that I've dealt with Frangee I'm going to go back and see Borvo's Guard.",	"task02_journal_entry_title":"Return to Borvo's Guard",	"task02_waypoint_name":"Moenia Cantina Entrance"
+}}

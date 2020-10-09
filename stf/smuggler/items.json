@@ -1,0 +1,5 @@
+{
+	"stfFile":"smuggler/items",
+	"entries": {
+		"smuggle_disk":"Unlabeled Data Disk",	"smuggle_disk_d":"You'll have to read it to figure out what's on it.",	"disk_read":"Read Disk",	"disk_enter_password":"Enter Password",	"slice_terminal":"Slice Terminal",	"delivery_info":"Delivery Information",	"smuggle_crate_d":"A sealed crate filled with some kind of illegal good.",	"received_reward":"You received a reward: %TT",	"slice_component_d":"This object is used as a component for some smuggler slices.",	"delicate_trigger_assembly":"Delicate Trigger Assembly",	"finely_crafted_toolset":"Finely Crafted Toolset",	"illegal_core_booster":"Illegal Core Booster",	"mandalorian_interframe":"Mandalorian Intraframe",	"powered_motivators":"Powered Motivators",	"reactive_micro_plating":"Reactive Micro Plating",	"shock_absorbent_padding":"Shock Absorbent Padding",	"simple_toolkit":"Simple Toolkit",	"trandoshan_interframe":"Trandoshan Intraframe",	"mnu_find_illicit_goods":"Find Illicit Goods",	"illegal_weapon_module_n":"Illegal Pistol Module",	"illegal_weapon_module_d":"This is an illegal module commonly used for modifying pistols."
+}}

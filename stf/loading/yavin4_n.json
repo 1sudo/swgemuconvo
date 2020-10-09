@@ -1,5 +1,5 @@
 {
 	"stfFile":"loading/yavin4_n",
 	"entries": {
-		"jandodonna":"General Dodonna",		"imperialoutpost":"Imperial Outpost on Yavin",		"luke":"Luke Skywalker on Yavin",		"tankmite":"Tanc Mites",		"palace_woolamander":"Palace of the Woolmander",		"blueleaf":"Blueleaf Temple",		"rebel_base":"Rebel Base",		"whisper_bird":"Whisper Bird",		"skreeg":"Skreeg",		"choku":"Choku",		"stintaril":"Stintaril",		"spined_puc":"Spined Puc",		"mawgax":"Mawgax",		"mamien":"Mamien",		"gackle_bat":"Gackle Bat",		"crystal_snake":"Crystal Snake",		"angler":"Angler",		"kliknik":"Klinknik"
+		"kliknik":"Klinknik",	"angler":"Angler",	"crystal_snake":"Crystal Snake",	"gackle_bat":"Gackle Bat",	"mamien":"Mamien",	"mawgax":"Mawgax",	"spined_puc":"Spined Puc",	"stintaril":"Stintaril",	"choku":"Choku",	"skreeg":"Skreeg",	"whisper_bird":"Whisper Bird",	"rebel_base":"Rebel Base",	"blueleaf":"Blueleaf Temple",	"palace_woolamander":"Palace of the Woolmander",	"tankmite":"Tanc Mites",	"luke":"Luke Skywalker on Yavin",	"imperialoutpost":"Imperial Outpost on Yavin",	"jandodonna":"General Dodonna"
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_slaver_gursan_entry_quest",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"Enter the Blackscale Processing Camp",	"journal_entry_title":"Blackscale Processing Camp",	"task00_journal_entry_description":"Fight your way to the Blackscale Gates.  Be watchful for Captain Beshk, he is always on guard.",	"task00_journal_entry_title":"Captain of the Guard",	"task01_comm_message_text":"You wish to call out the Captain of the Guard? Then I will answer your call. Prepare yourselves!",	"task02_journal_entry_description":"Defeat Captain Beshk and use his pass key to enter the compound",	"task02_journal_entry_title":"Captain Beshk",	"task03_journal_entry_description":"Now that you have defeated Captain Beshk you may enter the Slavers Compound.",	"task03_journal_entry_title":"Enter the Compound"
+}}

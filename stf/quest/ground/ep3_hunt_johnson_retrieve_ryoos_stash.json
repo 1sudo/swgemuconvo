@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_johnson_retrieve_ryoos_stash",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Johnson Smith has requested your help in calming down newly arrived salt addict, Ryoo Finn.",	"journal_entry_title":"Help Ryoo Finn",	"task01_journal_entry_description":"Ryoo Finn has been somewhat agitated over the last few days. Johnson asks that you help him with whatever is bothering him.",	"task01_journal_entry_title":"Speak with Ryoo Finn",	"task02_item_name":"Ryoo's salt stash",	"task02_journal_entry_description":"Ryoo lost his stash of salt when he wandered too close to some mouf dens. Find his salt for him.",	"task02_journal_entry_title":"Retrieve Ryoo's Salt Stash",	"task03_journal_entry_description":"Bring Ryoo's stash of salt to Johnson Smith. He'll know how to handle the situation.",	"task03_journal_entry_title":"Bring Ryoo's Salt to Johnson Smith"
+}}

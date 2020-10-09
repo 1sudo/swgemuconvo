@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_manfred_steal_chiss_goods",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Retrieve containers of poached goods from the Chiss poacher camp.",	"journal_entry_title":"Retrieve Poached Goods",	"task01_journal_entry_description":"Sordaan has asked you to help out the chief of his security force, Manfred Carter.",	"task01_journal_entry_title":"Speak to Manfred Carter",	"task02_item_name":"poached goods",	"task02_journal_entry_description":"Manfred wants you to retrieve 12 containers of poached goods from the Chiss poacher camp on the far west side of the region.",	"task02_journal_entry_title":"Retrieve Poached Goods",	"task03_journal_entry_description":"Deliver the poached goods you recovered from the Chiss poachers to Kerssoc. Kerssoc is in the small Rodian camp outside of the Etyyy gate.",	"task03_journal_entry_title":"Deliver the recovered goods to Kerssoc",	"task04_journal_entry_description":"Return to Manfred Carter at the main Rodian hunting camp in Etyyy, the Hunting Grounds..",	"task04_journal_entry_title":"Return to Manfred"
+}}

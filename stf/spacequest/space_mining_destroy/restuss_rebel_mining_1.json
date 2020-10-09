@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/space_mining_destroy/restuss_rebel_mining_1",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"The Kessel system is often used by smugglers and pirates that want to avoid inspection by the authorities.",	"quest_location_t":"Travel to the Kessel System",	"quest_mine_d":"The Alliance wants you to supply them with 500 obsidian ore from the Kessel system.",	"quest_mine_t":"Mine Obsidian ore",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Building a War",	"title_d":"The Alliance needs raw materials for completing the military base on Rori."
+}}

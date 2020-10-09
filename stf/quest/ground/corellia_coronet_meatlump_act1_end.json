@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_coronet_meatlump_act1_end",
+	"entries": {
+		"category":"Corellia Times Investigations",	"journal_entry_description":"Vani Korr, a reporter for the Corellia Times, is investigating the Meatlumps and wants to discover the identity of the three brothers who are rumored to lead the Meatlumps. Help her to do so.",	"journal_entry_title":"Help Vani Korr Investigate the Meatlumps, Part 2",	"task00_journal_entry_description":"Return to Vani Korr with the Meatlump datapad password that you got from the Meatlump Lieutenant.",	"task00_journal_entry_title":"Return to Vani Korr",	"task00_waypoint_name":"Coronet Hospital Entrance"
+}}

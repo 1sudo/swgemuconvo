@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_get_lunch",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You found the perfect lunch for the Map Maker.",	"journal_entry_description":"Find something that the Meatlump Map Maker might like to eat.",	"journal_entry_title":"Find Lunch for the Map Maker",	"task01_journal_entry_description":"Find something that the Meatlump Map Maker might like to eat.",	"task01_journal_entry_title":"Find Lunch for the Map Maker"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_hard_main_3",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Elite Black Sun Venomrazors or Elite Black Sun Deathchargers.",	"quest_destroy_t":"Last Hours",	"quest_location_d":"'\"I think it's occasionally good for us to remember that being a smuggler doesn't necessarily require one to be a barbarian, too.\" -- Talon Karrde.'",	"quest_location_t":"Ord Mantell: Scarlet Dawn",	"split_quest_alert":"Dartas Pytin: <The last surviving commander, Lieutenant Commander Rilis, is making a run for it! Keep your eyes open!>",	"split_quest_alert_fail":"",	"title":"The Trinity: Defenses of the Darkveil Eclipse",	"title_d":"'The Car'das are bringing down the defenses of the main hub, the Darkveil Eclipse. I've been tasked to destroy the enemy ships around it. I should concentrate on the Elite Black Sun Deathchargers and the Elite Black Sun Venomrazors. It will be a difficult battle indeed.'"
+}}

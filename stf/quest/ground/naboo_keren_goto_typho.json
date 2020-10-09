@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_keren_goto_typho",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Captain Typho.",	"journal_entry_title":"Report to Captain Typho",	"task00_journal_entry_description":"Go to Keren and speak with Captain Typho.",	"task00_journal_entry_title":"Go to Typho in Keren",	"task00_waypoint_name":"Report to Typho"
+}}

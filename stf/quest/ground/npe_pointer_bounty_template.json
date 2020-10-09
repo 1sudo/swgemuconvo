@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_bounty_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Boba Fett, as he is a Bounty Hunter as well. He might have work for you.",	"journal_entry_title":"Bounty Hunter",	"task00_journal_entry_description":"Boba Fett might be able to pass some jobs along to you, seek him out.",	"task00_journal_entry_title":"Talk to Boba Fett",	"task00_waypoint_name":"Boba Fett"
+}}

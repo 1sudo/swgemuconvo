@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/borvo_ex_partner",
+	"entries": {
+		"category":"Naboo",	"journal_entry_description":"Working for the Hutt on Naboo.",	"journal_entry_title":"Borvo's Assignments",	"task00_journal_entry_description":"Borvo wants his ex-partner retired, permanently. I should check where he was last spotted. He has a group of body guards with him I should watch out for.",	"task00_journal_entry_title":"Find Borvo's Old Partner",	"task00_waypoint_name":"Borvo's Ex-Partner",	"task01_journal_entry_description":"I've got to take out Montrus. He's likely to have some protection with him, but Montrus is my only concern.",	"task01_journal_entry_title":"Find Montrus and Kill Him",	"task01_waypoint_name":"Montrus' Last Known Location",	"task02_comm_message_text":"Excellent! You've proven yourself again. I have something for you. Return to me and I'll give you something from my collection of valuable artifacts.",	"task03_journal_entry_description":"I've killed Borvo's ex-business partner, now he wants to give me some kind of gift.",	"task03_journal_entry_title":"Return to Borvo",	"task03_waypoint_name":"Borvo"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/prof_commando_11_5",
+	"entries": {
+		"category":"Profession",	"journal_entry_description":"Good work requires payment. Now is the time to collect yours.",	"journal_entry_title":"Focused Destruction: Payment",	"task01_comm_message_text":"I'm actually impressed. You finished your mission with a minimum of mess. Head back to Coris Mao for your payment. I sent it to him already.",	"task01_journal_entry_description":"Sgt. Snopel sent you a final message: I'm actually impressed. You finished your mission with a minimum of mess. Head back to Coris Mao for your payment. I sent it to him already.",	"task01_journal_entry_title":"A Final Message from Sgt. Snopel",	"task02_journal_entry_description":"Coris Mao has your payment. Go talk to him in ( ) to receive it.",	"task02_journal_entry_title":"Talk to Coris Mao in Mos Entha",	"task02_waypoint_name":"Coris Mao"
+}}

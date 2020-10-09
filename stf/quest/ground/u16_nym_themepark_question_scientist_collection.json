@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_question_scientist_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've infiltrated the faclity and questioned the scientists.",	"journal_entry_description":"Infiltrate the Imperial Research Facility and question the scientists",	"journal_entry_title":"Question Scientists",	"task00_journal_entry_description":"Travel to the research facility.",	"task00_journal_entry_title":"Find the Imperial Research Facility",	"task00_waypoint_name":"Imperial Research Facility",	"task01_journal_entry_description":"Question the Scientists",	"task01_journal_entry_title":"Question Scientists",	"task01_waypoint_name":"Imperial Research Facility",	"task02_journal_entry_description":"Report to Rek Thelcar on the questioned scientists",	"task02_journal_entry_title":"Return to Rek Thelcar",	"task02_waypoint_name":"Rek Thelcar (inside Stronghold)"
+}}

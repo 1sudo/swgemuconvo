@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_appropriating_funds",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"Transfer request of 5,000 Imperial credits from White Thranta escrow account A37TDX41 to your personal account has been approved. Thank you for using the First Galactic Bank of Ord Mantell and have a nice day!",	"journal_entry_description":"You initiated a transfer of funds from an open White Thranta account to your own account. It will take some time but everything seemed ok.",	"journal_entry_title":"Appropriating Funds",	"task00_journal_entry_description":"Contacting the First Galactic Bank of Ord Mantell to initiating your transfer of funds.",	"task00_journal_entry_title":"Initiating transfer...",	"task01_comm_message_text":"Transfer request of 5,000 Imperial credits from White Thranta escrow account A37TDX41 to your personal account has been approved. Thank you for using the First Galactic Bank of Ord Mantell, and have a nice day!",	"task01_journal_entry_description":"You are being contacted by a bank representitive.",	"task01_journal_entry_title":"First Galactic Bank of Ord Mantell"
+}}

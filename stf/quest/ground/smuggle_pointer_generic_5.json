@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_generic_5",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Russell. Russell is located on Dathomir.",	"journal_entry_title":"Talk to Russell",	"task00_journal_entry_description":"You need to speak with Russell. Russell is an underworld broker and can tell you more about smuggling assignments. Russell is located on Dathomir.",	"task00_journal_entry_title":"Talk to Russell",	"task00_waypoint_name":"Russell"
+}}

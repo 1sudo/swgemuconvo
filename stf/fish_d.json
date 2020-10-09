@@ -1,5 +1,5 @@
 {
 	"stfFile":"fish_d",
 	"entries": {
-		"blowfish":"A type of blowfish",		"striped":"A type of striped fish",		"bluefish":"A type of bluefish",		"blackfish":"A blackfish",		"see":"A generally big fish.",		"laa":"A generally largish type fish.",		"ray":"A generally medium-sized fish",		"daggert":"A generally tiny fish.",		"faa":"A generally small fish.",		"fish_generic":"A generic fish"
+		"fish_generic":"A generic fish",	"faa":"A generally small fish.",	"daggert":"A generally tiny fish.",	"ray":"A generally medium-sized fish",	"laa":"A generally largish type fish.",	"see":"A generally big fish.",	"blackfish":"A blackfish",	"bluefish":"A type of bluefish",	"striped":"A type of striped fish",	"blowfish":"A type of blowfish"
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_space_destroy_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"To ensure that the Empire doesn't get a foothold in the Corellia system, from where they can launch reinforcements and attacks on Restuss, you've been tasked with destroying any presence of military craft there.",	"journal_entry_title":"Space Attack",	"task00_journal_entry_description":"The Alliance has tasked you with crippling the Imperial fleet in the Corellia system by destroying any 30 Imperial military craft there that you can find.",	"task00_journal_entry_title":"Space Superiority",	"task01_journal_entry_description":"You have destroyed enough enemy fighters in the Corellia system and should return to Lieutenant Grollo in Restuss.",	"task01_journal_entry_title":"Return to Restuss"
+}}

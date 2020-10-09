@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_carbine_crafting_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Alliance is stepping-up the war effort in Restuss and is in desperate need of more weapons. Lieutenant Ingri has asked you to make 20 E-11 carbines for the cause.",	"journal_entry_title":"Illegal Arms",	"task00_journal_entry_description":"You have been tasked with creating 5 E-11 carbines for the Rebel Alliance.",	"task00_journal_entry_title":"Arming the Troops",	"task01_journal_entry_description":"You have completed the carbines for the troops in Restuss and should return to Lieutenant Ingri with them.",	"task01_journal_entry_title":"Return to Restuss",	"task02_journal_entry_description":"Give the 5 carbines to the load lifter droid.",	"task02_journal_entry_title":"Deliver the Carbines"
+}}

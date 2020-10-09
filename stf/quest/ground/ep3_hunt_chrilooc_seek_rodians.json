@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_chrilooc_seek_rodians",
+	"entries": {
+		"category":"Find Brody Johnson",	"journal_entry_description":"Chrilooc wants you to speak with an associate of his in the Etyyy region of Kashyyyk, the hunting grounds. To do so, you must gain access from the Rodian hunters who control the area.",	"journal_entry_title":"Gain Entry to Etyyy",	"task01_journal_entry_description":"Speak to Kerssoc, a Rodian hunter who can help you gain entrance to the Etyyy region, the Hunting Grounds.",	"task01_journal_entry_title":"Speak to Kerssoc",	"task02_journal_entry_description":"Do whatever Kerssoc asks and gain entry to the Hunting Grounds, also known as the Etyyy region of Kashyyyk.",	"task02_journal_entry_title":"Gain Entry to Etyyy",	"task03_journal_entry_description":"Now that you've gained access to Etyyy, the Hunting Grounds, return to Chrilooc and find out where to look for Brody Johnson.",	"task03_journal_entry_title":"Speak with Chrilooc"
+}}

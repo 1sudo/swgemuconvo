@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_tarand",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Tarand Crowe in the Cantina for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Tarand Crowe in the Cantina. He may have work for you.",	"task00_journal_entry_title":"Talk to Tarand in the Cantina",	"task00_waypoint_name":"Tarand Crowe"
+}}

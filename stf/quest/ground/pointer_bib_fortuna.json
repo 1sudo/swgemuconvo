@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/pointer_bib_fortuna",
+	"entries": {
+		"category":"Jabba's Palace",	"journal_entry_description":"Barada says that Bib Fortuna has some work for you to do. You should go find him.",	"journal_entry_title":"Find Bib Fortuna",	"task00_journal_entry_description":"Bib Fortuna can be found in the throne room.",	"task00_journal_entry_title":"Talk to Bib Fortuna",	"task00_waypoint_name":"Bib Fortuna"
+}}

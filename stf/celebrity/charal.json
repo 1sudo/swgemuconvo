@@ -1,5 +1,5 @@
 {
 	"stfFile":"celebrity/charal",
 	"entries": {
-		"npc_3":"King Terak and his marauders!",		"npc_2":"I am the Night Sister of Endor, a powerful witch, and you will be sorry to have met me...",		"player_2":"By you?",		"player_1":"Who are you?",		"npc_1":"You will be punished severely for being here!"
+		"npc_1":"You will be punished severely for being here!",	"player_1":"Who are you?",	"player_2":"By you?",	"npc_2":"I am the Night Sister of Endor, a powerful witch, and you will be sorry to have met me...",	"npc_3":"King Terak and his marauders!"
 }}

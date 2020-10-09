@@ -1,5 +1,5 @@
 {
 	"stfFile":"dungeon_strings",
 	"entries": {
-		"fort_tusken_completed":"Great Work! The Tusken Raiders have been vanquished. For now..."
+		"fort_tusken_completed":"Great Work! The Tusken Raiders have been vanquished. For now...",	"wampa_boss_tauntaun_throw_prep":" FFFF00Unkajo reaches for a rotting tauntaun corpse to hurl at %TO.",	"wampa_boss_ice_throw_prep":" FFFF00Unkajo glares at %TO and scoops up a handfull of snow and ice.",	"wampa_boss_ice_throw":" 00FFFFA nearby blast of snow has encased you in a block of ice!",	"wampa_boss_tauntaun_throw":" 7CFC00Splattering remains from the tauntaun corpse wash over you leaving a warm, foul residue."
 }}

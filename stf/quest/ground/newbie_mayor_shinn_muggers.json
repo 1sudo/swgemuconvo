@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_mayor_shinn_muggers",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You recovered the ID cards stolen by Shinn's muggers near Mos Eisley.",	"journal_entry_description":"A local band of muggers led by Vaigon Shinn has been stealing ID cards from people. Recover those stolen cards from Shinn's muggers.",	"journal_entry_title":"Identity Theft",	"task00_journal_entry_description":"Recover the stolen ID cards from Vaigon Shinn's muggers. Use whatever force is necessary.",	"task00_journal_entry_title":"Stolen ID Cards",	"task00_waypoint_name":"Camp of Shinn's Muggers",	"task01_journal_entry_description":"Return to Peawp R'dawc and let her know you recovered some of the stolen ID cards.",	"task01_journal_entry_title":"Return to Peawp R'dawc",	"task01_waypoint_name":"Combat Guildhall (Peawp R'dawc)"
+}}

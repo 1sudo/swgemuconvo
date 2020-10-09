@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_camp_quest_lok",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You have visited Meatlump Camp on Lok.",	"journal_entry_description":"Go to the Meatlump Camp location on Lok",	"journal_entry_title":"Investigate Meatlump Camp on Lok",	"task00_journal_entry_description":"nothing",	"task00_journal_entry_title":"nothing",	"task01_journal_entry_description":"Investigate the Meatlump Camp on Lok.",	"task01_journal_entry_title":"Meatlump Camp - Lok",	"task01_waypoint_name":"Meatlump Camp - Lok",	"task02_task_display_string_1":"You have investigated the Meatlump Camp on Lok."
+}}

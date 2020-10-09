@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/ground/lf_safety2",
 	"entries": {
-		"task01_journal_entry_title":"Return to Gerak Vurtimis",		"task01_journal_entry_description":"Return to Bestine and let Gerak know of your success.",		"task00_journal_entry_title":"Kill the Rills",		"task00_journal_entry_description":"Kill 10 rills and return to Gerak Vurtimis in Bestine.",		"journal_entry_title":"Safety Measures Part 2",		"journal_entry_description":"Kill 10 rills and return to Gerak Vurtimis in Bestine.",		"category":"Ground Quest"
+		"category":"Ground Quest",	"journal_entry_description":"Kill 10 rills and return to Gerak Vurtimis in Bestine.",	"journal_entry_title":"Safety Measures Part 2",	"task00_journal_entry_description":"Kill 10 rills and return to Gerak Vurtimis in Bestine.",	"task00_journal_entry_title":"Kill the Rills",	"task01_journal_entry_description":"Return to Bestine and let Gerak know of your success.",	"task01_journal_entry_title":"Return to Gerak Vurtimis",	"task01_waypoint_name":"Gerak Vurtimis"
 }}

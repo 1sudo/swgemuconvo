@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_smuggler_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You need to find the Smuggler trainer, so you may learn the skills you need.",	"journal_entry_title":"Smuggler Trainer",	"task00_journal_entry_description":"Go to Han, the Smuggler trainer. He can be found in Hangar Bay 02.",	"task00_journal_entry_title":"Talk to Han Solo",	"task00_waypoint_name":"Han Solo"
+}}

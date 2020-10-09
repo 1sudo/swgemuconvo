@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/coronet_murmurs_initialize_login_goto",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You spoke with Lt. Joth.",	"journal_entry_description":"Lt. Joth needs your assistance. ",	"journal_entry_title":"Talk to Lt. Joth",	"task00_journal_entry_description":"Incoming transmission...",	"task00_journal_entry_title":"Incoming Transmission...",	"task01_comm_message_text":"Greetings! Lieutenant Jasper tells me that you are skilled and discreet. I need your help. If youre interested, please come and talk to me.",	"task01_journal_entry_description":"Lt. Joth sent you a message: Greetings! Lieutenant Jasper tells me that you are skilled and discreet. I need your help. If youre interested, please come and talk to me.",	"task01_journal_entry_title":"Message From Lt. Joth",	"task02_journal_entry_description":"Lt. Joth needs a trustworthy agent to deal with a sensitive problem. Talk to him in Coronet City.",	"task02_journal_entry_title":"Talk to Lt. Joth",	"task02_waypoint_name":"Lt. Joth"
+}}

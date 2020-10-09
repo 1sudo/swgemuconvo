@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_parts_3",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've returned to the Quartermaster, now see if she has what Phor needs.",	"journal_entry_description":"Return to Nym's Quartermaster and speak with her about Phor's needs",	"journal_entry_title":"Parts Is Parts, part III",	"task00_journal_entry_description":"Return once more to Ralia Reeven, Nym's Quartermaster",	"task00_journal_entry_title":"Go back to Nym's Quartermaster Again",	"task00_waypoint_name":"Quartermaster Ralia Reeven"
+}}

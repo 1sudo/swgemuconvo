@@ -1,5 +1,5 @@
 {
 	"stfFile":"loading/talus_n",
 	"entries": {
-		"nashal":"Nashal and Dearic",		"kahmurra":"Kahmurra",		"sludge_panther":"Sludge Panther",		"huf_dun":"Huf Dun",		"guf_drolg":"Guf Drolg",		"lost_aquilish":"Lost Aqualish",		"binayre_pirates":"Binyare Pirates",		"aakuans":"Aa'kuans",		"fed_dub":"Fed-Dub",		"talus_liberation_party":"Talus Liberation Party",		"dearic":"Dearic and Nashal",		"hilltop_kima":"Hilltop Kima",		"kima":"Kima",		"talus":"Talus",		"vynock":"Vynock"
+		"vynock":"Vynock",	"talus":"Talus",	"kima":"Kima",	"hilltop_kima":"Hilltop Kima",	"dearic":"Dearic and Nashal",	"talus_liberation_party":"Talus Liberation Party",	"fed_dub":"Fed-Dub",	"aakuans":"Aa'kuans",	"binayre_pirates":"Binyare Pirates",	"lost_aquilish":"Lost Aqualish",	"guf_drolg":"Guf Drolg",	"huf_dun":"Huf Dun",	"sludge_panther":"Sludge Panther",	"kahmurra":"Kahmurra",	"nashal":"Nashal and Dearic"
 }}

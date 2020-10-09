@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_rebel_1",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Prove yourself to the Alliance, so you may help them more in the future.",	"journal_entry_title":"Helping the Alliance",	"task01_task_display_string_1":"Talk to Rund",	"task01_task_display_string_2":"Talk to Adery",	"task02_journal_entry_description":"Return to Rebel contact with the collected information.",	"task02_journal_entry_title":"Return to Garek in the Station Master's Office",	"task02_waypoint_name":"Garek",	"task04_journal_entry_description":"Gather information for Garek from Rund Jesela.",	"task04_journal_entry_title":"Talk to Rund Jesela in the Cloning Facility",	"task04_waypoint_name":"Rund Jesela",	"task05_journal_entry_description":"Get information from Adery for Garek.",	"task05_journal_entry_title":"Talk to Adery Shrial in Hangar Bay 1",	"task05_waypoint_name":"Adery Shrial"
+}}

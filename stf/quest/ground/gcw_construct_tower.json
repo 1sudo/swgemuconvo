@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_construct_tower",
+	"entries": {
+		"category":"Trader",	"journal_entry_description":"Constructing towers will strengthen the defenses for this area.",	"journal_entry_title":"Tower Construction",	"task01_journal_entry_description":"The tower needs to be constructed.",	"task01_journal_entry_title":"Construct a Tower",	"task02_journal_entry_description":"The tower is stronger due to your hard work adding the metal and ore resources.",	"task02_journal_entry_title":"Construction Completed!"
+}}

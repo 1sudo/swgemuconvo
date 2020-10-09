@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/borvos_guard_dagorel",
+	"entries": {
+		"category":"Naboo",	"journal_entry_description":"You've started working for Borvo the Hutt on Naboo, the most notorious criminal on the planet.",	"journal_entry_title":"Borvo's Guard",	"task00_journal_entry_description":"Borvo's man Dagorel was shot in an ambush. Take him some medicine so he doesn't die in the swamps.",	"task00_journal_entry_title":"Take Medicine to Dagorel",	"task00_waypoint_name":"Dagorel",	"task01_journal_entry_description":"Go back and tell Borvo's guard that Dagorel got the medicine, and then that the two of you were jumped.",	"task01_journal_entry_title":"Get Back to Borvo's!",	"task01_waypoint_name":"Moenia Cantina Entrance"
+}}

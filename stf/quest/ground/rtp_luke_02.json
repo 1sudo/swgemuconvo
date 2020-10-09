@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/rtp_luke_02",
+	"entries": {
+		"category":"Rebel Theme-Park",	"journal_entry_description":"There is a strange altar at the Woolamander Temple. Go there, place the force crystal from the Temple of Exar Kun on the altar, and observe what happens.",	"journal_entry_title":"The Altar and the Crystal",	"task00_journal_entry_description":"Find the altar at the Woolamander Template, place the force crystal from the Temple of Exar Kun on it, and observe what happens.",	"task00_journal_entry_title":"Place the Crystal on the Altar",	"task00_retrieve_menu_text":"Place the Crystal on the Altar",	"task00_start_message":"Nothing seems to happen to the altar, but you think you saw something move in the area surrounding you.",	"task00_utterance_wave_4":"Please listen to me!",	"task01_journal_entry_description":"Return to Luke Skywalker and report to him what occurred at the Woolamander Temple.",	"task01_journal_entry_title":"Return to Luke Skywalker"
+}}

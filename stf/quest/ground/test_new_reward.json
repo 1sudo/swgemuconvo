@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_new_reward",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"You get some quest xp",	"journal_entry_title":"Give quest xp",	"task00_journal_entry_description":"you got quest xp!",	"task00_journal_entry_title":"quest xp"
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_numpad",
 	"entries": {
-		"keycard":"Use Keycard",		"slice":"Slice",		"enter":"Enter"
+		"enter":"Enter",	"slice":"Slice",	"keycard":"Use Keycard",	"cut_yellow_brown":"Cut Yellow/Brown",	"cut_red_black":"Cut Red/Black",	"cut_green":"Cut Green",	"cut_red":"Cut Red",	"cut_black":"Cut Black",	"cut_yellow":"Cut Yellow",	"cut_brown":"Cut Brown",	"cut_yellow_green":"Cut Yellow/Green",	"cut_white":"Cut White",	"cut_black_white":"Cut Black/White",	"default":""
 }}

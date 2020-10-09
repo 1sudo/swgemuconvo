@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/dath_bh_revenge_01",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"",		"title":"The Hunter's Revenge",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_update":"\#pcontrast3 Bountyhunters Guild: < \#pcontrast1 %TU \#pcontrast3 >",		"found_loc":"",		"duty_update":"",		"complete":"You may have won this time... but don't cross the Bountyhunters' Guild!",		"assigned_delayed":"\#pcontrast3 Bountyhunters Guild: < \#pcontrast1 Stay out of Dathomir! \#pcontrast3 >"
+		"assigned_delayed":"pcontrast3 Bountyhunters Guild: < pcontrast1 Stay out of Dathomir! pcontrast3 >",	"complete":"You may have won this time... but don't cross the Bountyhunters' Guild!",	"duty_update":"",	"found_loc":"",	"leave_early":"",	"quest_update":"pcontrast3 Bountyhunters Guild: < pcontrast1 %TU pcontrast3 >",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"The Hunter's Revenge",	"title_d":"",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

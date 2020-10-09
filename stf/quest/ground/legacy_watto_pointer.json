@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_watto_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Watto was the last person with the droid. Go talk with him.",	"journal_entry_title":"Go see Watto",	"task00_journal_entry_description":"You have been tasked to recover a droid. The last person who owned it was a trader known as Watto who lives in Mos Espa.",	"task00_journal_entry_title":"Go to Watto",	"task00_waypoint_name":"Watto"
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/stn_yavin4_company_smuggler_tier2_3",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"You actions have brought the attention of the Royal Security Forces. Do not let any of them report you.",		"title":"Yavin System: Royal Security Force Interference",		"split_quest_alert_fail":"",		"split_quest_alert":"Finish the patrol route and make the drop off.",		"leave_early":"",		"complete":"All the Royal Security Force fighters have been eliminated. Continue with the assigned route and make the delivery.",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"All the Royal Security Force fighters have been eliminated. Continue with the assigned route and make the delivery.",	"leave_early":"",	"split_quest_alert":"Finish the patrol route and make the drop off.",	"split_quest_alert_fail":"",	"title":"Yavin System: Royal Security Force Interference",	"title_d":"You actions have brought the attention of the Royal Security Forces. Do not let any of them report you.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

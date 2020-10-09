@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_st3_ambush_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Rebels are moving supplies back and forth between their troops in Restuss and their base. Your orders are to ambush the convoy and steal at least three of their supply crates, then return to Captain Exov.",	"journal_entry_title":"Rebel Supply Convoy",	"task00_journal_entry_description":"You've been ordered to ambush a Rebel supply convoy. Steal at least 3 supply crates from their supply specialists.",	"task00_journal_entry_title":"Ambush Supply Convoy",	"task01_journal_entry_description":"You've successfully ambushed the Rebel supply convoy and should return to Captain Exov.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

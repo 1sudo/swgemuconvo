@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy/naboo_imperial_tier3_4",
 	"entries": {
-		"title_d":"",		"title":"Thinning the Herd",		"split_quest_alert":"Imperial High Command:<We have a situation here! Our Imperial Command shuttle is under heavy assault. Immediately proceed to the following location and intercept the attacking fighters.>",		"quest_location_t":"",		"quest_location_d":"",		"quest_destroy_t":"",		"quest_destroy_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"Imperial High Command:<We have a situation here! Our Imperial Command shuttle is under heavy assault. Immediately proceed to the following location and intercept the attacking fighters.>",	"title":"Thinning the Herd",	"title_d":""
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_cb_side_1",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You helped Cora eliminate some Deflarian scavengers loitering near the crash site.",	"journal_entry_description":"Kill 15 Deflarian scavengers for Cora.",	"journal_entry_title":"Scavenger Cleanup",	"task00_journal_entry_description":"Kill 15 Deflarian scavengers for Cora.",	"task00_journal_entry_title":"Kill 15 Deflarian Scavengers",	"task00_waypoint_name":"Deflarian Scavengers",	"task01_comm_message_text":"Thanks. I've deposited 3000 credits in your bank for you. This should speed up the investigation for me."
+}}

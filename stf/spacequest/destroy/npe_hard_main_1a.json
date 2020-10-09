@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_hard_main_1a",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Blacksun Spies.",	"quest_destroy_t":"Danger: Black Sun Spies",	"quest_location_d":"'Rebel Alliance operatives were able to secure a large cash tribute, given to the Empire by the Organa family, on Ord Mantell. Leia Organa was able to switch the loading instructions on the shipment so the Rebel Alliance could use the money to fund a new base on a secretive ice planet.'",	"quest_location_t":"Ord Mantell: Scarlet Dawn",	"split_quest_alert":"Dartas Pytin: <Time to return home pilot...>",	"split_quest_alert_fail":"",	"title":"The Hunt: Black Sun Spies",	"title_d":"'Black Sun Spies have begun to jam the Car'das fleet's computers with the Black Envy virus. I have to stop them before it's too late. When I succeed, I should return home as soon as possible.'"
+}}

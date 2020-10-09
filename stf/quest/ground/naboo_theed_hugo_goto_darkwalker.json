@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_hugo_goto_darkwalker",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Hugo Eckener has provided you with the location of the Darkwalker Cave near Theed.",	"journal_entry_title":"Directions to the Darkwalker Cave",	"task00_journal_entry_description":"The location of the Darkwalker Cave.",	"task00_journal_entry_title":"The Darkwalker Cave",	"task00_waypoint_name":"Darkwalker Cave"
+}}

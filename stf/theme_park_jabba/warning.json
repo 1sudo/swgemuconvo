@@ -1,5 +1,5 @@
 {
 	"stfFile":"theme_park_jabba/warning",
 	"entries": {
-		"jabba":"Only Jabba and his close personal friends have access to this area.",		"porcellus":"You can not enter the garage until Porcellus gives you permission.",		"barada":"You can not enter the Throne Room until Barada gives you permission.",		"ree_yees":"You can not enter this area until Ree-Yees gives you permission."
+		"ree_yees":"You cannot enter this area until Ree-Yees gives you permission.",	"barada":"You cannot enter the Throne Room until Barada gives you permission.",	"porcellus":"You can not enter the garage until Porcellus gives you permission.",	"jabba":"Only Jabba and his close personal friends have access to this area."
 }}

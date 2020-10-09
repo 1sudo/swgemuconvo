@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/space_mining_destroy/corellia_mining_quest_3",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"Head to the Corellia system and locate a silicaceous asteroid.  You can find one of these asteroids by looking in your zone map or POI list.",	"quest_location_t":"Corellia System",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Corellia System:  Extract 250 Units of Silicaceous Asteroid",	"title_d":"The Corellia system has a number of silicaceous asteroids in it.  Mine 250 units of silicaceous asteroid to prove to Thom that you can fly mining missions for him."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/corellia_mining_quest_2",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Corellia System",	"quest_location_t":"Corellia System",	"quest_patrol_d":"When you reach a patrol waypoint you will receive a new one to your next location. Follow each of the patrol waypoints until you reach the end of your patrol.  When you complete this mission, return to Thom Steele in Dearic for your next assignment.  ",	"quest_patrol_t":"Mining Route 42",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"Corellian Engineering Corp. Home Base: < Looks like you're coming under attack, pilot!  Fight off the enemy and report back when you are finished. Good luck! >",	"split_quest_alert_fail":"pcontrast3 Tactical Computer: <pcontrast1Enemy mining vessels en route.  Prepare for combat.pcontrast3>",	"title":"Corellia System: Patrol Corellian Mining Route 42",	"title_d":"This route is used for Corellian mining vessels.  Patrol it carefully and clear any enemy mining vessels you find out of the way."
+}}

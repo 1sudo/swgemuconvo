@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_brawler",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Rydel is an aged, yet still powerful close combatant. Look to him for training in the arts of close combat, for surely no one is his equal.",	"journal_entry_title":"Speak to Rydel to learn the basics of close combat",	"task00_journal_entry_description":"Rydel can teach you all the basics of melee combat. Talk to him in the Close Combat Training Room, next to the Medical Center.",	"task00_journal_entry_title":"Talk to Rydel Delan in the Close Combat Training Room",	"task00_waypoint_name":"Rydel Delan"
+}}

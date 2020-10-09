@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_boba_tracker",
+	"entries": {
+		"category":"Tansarii Point Station",	"task02_comm_message_text":"Now that know how to shoot, I think you have learned enough now to take your first Bounty. Come back, and I will give you the details.",	"task03_waypoint_name":"Boba Fett"
+}}

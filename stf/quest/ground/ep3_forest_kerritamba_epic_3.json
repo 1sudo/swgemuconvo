@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_kerritamba_epic_3",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"Use the cure on the Great Tree and instill hope in the people of Kerritamba village.",	"journal_entry_title":"Curing the Great Tree",	"task00_journal_entry_description":"Go to the great tree, and use the cure on it.",	"task00_journal_entry_title":"Use the Cure on the Tree",	"task01_journal_entry_description":"Return to Chief Kerritamba with the good news.",	"task01_journal_entry_title":"Return to Chief Kerritamba",	"task02_journal_entry_title":"Reward Issued"
+}}

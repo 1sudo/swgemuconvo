@@ -1,0 +1,5 @@
+{
+	"stfFile":"ui_role_tooltip",
+	"entries": {
+		"artisan":"Artisan",	"entertainer":"Entertainer",	"medic":"Medic",	"advancedmedic":"Advanced Medic",	"utility":"Spy",	"ranged":"Ranged",	"advancedranged":"Advanced Ranged",	"tank":"Tank",	"crowdcontrol":"Crowd Control",	"advancedtank":"Advanced Tank",	"jedisaber":"Jedi Saber",	"jedipowers":"Jedi Powers",	"jedihealer":"Jedi Healer",	"jedienhancer":"Jedi Enhancer",	"jedidefender":"Jedi Defender",	"melee":"Melee",	"none":"This is a player for whom no information is available.",	"advancedmelee":"Advanced Melee",	"advancedartisan":"Advanced Artisan",	"advancedentertainer":"Advanced Entertainer",	"advancedcrowdcontrol":"Advanced Crowd Control",	"advancedutilities":"Advanced Spy",	"pet":"Adjunct",	"bounty_hunter":"Bounty Hunter",	"commando":"Commando",	"spy":"Spy",	"smuggler":"Smuggler",	"officer":"Officer",	"force_sensitive":"Jedi",	"trader":"Trader",	"advancedofficer":"Advanced Officer",	"advancedcommando":"Advanced Commando",	"advancedsmuggler":"Advanced Smuggler",	"advancedjedisaber":"Advanced Jedi",	"advancedbountyhunter":"Advanced Bounty Hunter"
+}}

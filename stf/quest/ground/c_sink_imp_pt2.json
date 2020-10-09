@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_sink_imp_pt2",
+	"entries": {
+		"category":"Talus",	"journal_entry_description":"Launch into Corellian space and eliminate the Binyare Blackjack and any other Binyare pirate ships encountered.",	"journal_entry_title":"Kill Binyare",	"task00_journal_entry_description":"Launch into Corellian space and eliminate the Binyare Blackjack and any other Binyare pirate ships encountered.",	"task00_journal_entry_title":"Kill Binyare",	"task01_journal_entry_description":"The Binyare Blackjack has been eliminated.  Return to Ceth Laike and report the successful completion of the mission.",	"task01_journal_entry_title":"Mission Succeeded - Report to Ceth Laike",	"task01_waypoint_name":"Ceth Laike",	"task02_journal_entry_title":"Complete the quest",	"task03_journal_entry_description":"The Binyare Pirates were too much.  Return to Ceth Laike and report failure.",	"task03_journal_entry_title":"Mission Failed - Report To Ceth Laike",	"task03_waypoint_name":"Ceth Laike",	"task04_journal_entry_title":"Quest Cleared"
+}}

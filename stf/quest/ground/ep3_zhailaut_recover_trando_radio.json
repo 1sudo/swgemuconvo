@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_zhailaut_recover_trando_radio",
+	"entries": {
+		"category":"Rryatt Trail",	"journal_entry_description":"Zhailaut has tasked you to recover a radio from a Trandoshan Camp deep in the Rryatt Trail.",	"journal_entry_title":"The Trandoshan Radio",	"task00_item_name":"Trandoshan Radio",	"task00_journal_entry_description":"Down on level four the Trandoshans have set up a camp to herd the Feral Wookiees in the area. Infiltrate their camp and take the radio, then return to Zhailaut.",	"task00_journal_entry_title":"The Radio",	"task00_retrieve_menu_text":"Take",	"task01_journal_entry_description":"Return the captured radio to Zhailaut near the Kachiho gate in the Rryatt Trail.",	"task01_journal_entry_title":"Return to Zhailaut"
+}}

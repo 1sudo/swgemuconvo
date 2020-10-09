@@ -1,0 +1,5 @@
+{
+	"stfFile":"vehicle/vehicle",
+	"entries": {
+		"rider_opposing_faction":"You are trying to ride in a vehicle driven by a member of an opposing faction.",	"rider_has_tef":"You have a Temporary Enemy Flag, and cannot board a vehicle as a passenger until it expires.",	"rider_in_combat":"You are currently in combat, and you cannot board a vehicle as a passenger until your in-combat status expires.",	"rider_overt_driver_not":"You are an overt factional member, and you cannot ride in a vehicle driven by a non-aligned or covert factional member.",	"static_at_at_n":"AT-AT",	"static_at_at_d":"AT-AT"
+}}

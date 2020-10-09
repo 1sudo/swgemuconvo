@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_pers_retrieve_4",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"\"Shady\" Pers, according to the Myyydril, is the local chef. Unfortuately for them, he doesn't know the difference between Muon Gold and Bofa Treats. Pers needs you to find the Imperial camp in the forest and retrieve his stolen Nak'tra Crystal Rifles.",	"journal_entry_title":"The Art of Smuggling",	"task00_item_name":"Crate of Nak'tra Weapons",	"task00_journal_entry_description":"Find the supply crate of stolen Nak'tra Crystal Rifles at the Imperial camp in Kkowir Forest and bring it back to Shady Pers.",	"task00_journal_entry_title":"Find the Supply Crate",	"task02_journal_entry_title":"Reward Issued"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/nova_orion_intro_01",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"A freighter has gone missing. Nova Orion Industries wants you to find out what happened.",	"journal_entry_title":"Nova Orion Freighter",	"task01_journal_entry_description":"Journey to Dantooine space to find the missing freighter.",	"task01_journal_entry_title":"Find the Missing Freighter",	"task03_journal_entry_description":"Journey to Lok space to find the missing freighter.",	"task03_journal_entry_title":"Find the Missing Freighter",	"task05_journal_entry_description":"Journey to Yavin 4 space to find the missing freighter.",	"task05_journal_entry_title":"Find the Missing Freighter",	"task07_journal_entry_description":"Journey to Dathomir space to find the missing freighter.",	"task07_journal_entry_title":"Find the Missing Freighter",	"task10_journal_entry_description":"You have successfully rescued the freighter. Return and report your experience.",	"task10_journal_entry_title":"Return"
+}}

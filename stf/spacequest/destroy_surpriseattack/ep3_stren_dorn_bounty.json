@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/ep3_stren_dorn_bounty",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast3 Tactical Computer: < pcontrast1 Target destroyed. pcontrast3 > ",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Kashyyyk System: Dorn's arrival",	"title_d":"The distress signal has brought Dorn out of hiding. Time to earn your pay.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

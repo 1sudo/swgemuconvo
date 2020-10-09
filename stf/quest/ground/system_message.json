@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/ground/system_message",
 	"entries": {
-		"quest_received":"\#pcontrast3 Quest Received: < \#pcontrast1 %TT : %TO \#pcontrast3 >",		"quest_task_failed":"\#pcontrast3 You have failed: < \#pcontrast1 %TT : %TO \#pcontrast3 >",		"quest_task_completed":"\#pcontrast3 You have completed: < \#pcontrast1 %TT : %TO \#pcontrast3 >"
+		"quest_task_completed":"Task completed:62FF15 %TO",	"quest_task_failed":"Task failed:ff0000 %TO",	"quest_received":"Quest received:FFE21A %TO",	"placed_in_inventory":"pcontrast1 %TO pcontrast3 has been placed in your inventory.",	"removed_from_inventory":"pcontrast1 %TO pcontrast3 has been removed from your inventory.",	"no_give_during_combat":"You cannot give the item during combat!",	"time_remaining_before_completion":"%DI seconds remain before this task can be completed.",	"entertainer_trader_no_xp_combat":"Please be aware that this quest does not grant Social or Crafting XP.",	"placed_in_inventory_plural":"pcontrast1 %TO pcontrast3 have been placed in your inventory.",	"placed_in_inventory_number":"pcontrast1 %TO pcontrast3  X %DI have been placed in your inventory.",	"default":""
 }}

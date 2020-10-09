@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_droid_bunker_destroy_factory",
+	"entries": {
+		"category":"Corellia Droid Factory",	"journal_entry_completion_summary":"You have disabled the droid factory",	"journal_entry_description":"In order to disable the droid factory you need to locate and activate the override control at the bottom of the factory.",	"journal_entry_title":"Disable the Droid Factory",	"task00_item_name":"Override Terminal",	"task00_journal_entry_description":"You need to locate the control override terminal in the bottom of the droid factory.",	"task00_journal_entry_title":"Activate the Control Override Terminal",	"task00_retrieve_menu_text":"Activate Override Terminal",	"task01_journal_entry_description":"You have activated the override terminal, return to Lieutenant Varias.",	"task01_journal_entry_title":"Return to Lieutenant Varias",	"task02_comm_message_text":"IG88: It would seem that you were responsible for shutting down the factory. I had plans for that installation, plan which I will now have to alter. I will find a way to repay you. I have a feeling I will see you again at some point in the future."
+}}

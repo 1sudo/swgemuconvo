@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/corellia_mining_quest_2",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast3 CEC Home Base: < pcontrast1 Next time they'll know not to come snooping around our home territory.  Good job, pilot! pcontrast3 > ",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Corellia System: Destroy the Competition!",	"title_d":"Fight off the enemy mining vessels, then head back to headquarters in Coronet.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

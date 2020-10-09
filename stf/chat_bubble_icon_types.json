@@ -1,57 +1,5 @@
 {
 	"stfFile":"chat_bubble_icon_types",
 	"entries": {
-		"sad":"",		"evil2":"",		"evil":"",		"poetry":"recite",		"sing3":"rap",		"sing2":"sing",		"social":"social",		"threaten":"threaten",		"double_ring":"demand
-decree
-proclaim
-state
-preach
-command
-prophesize
-lecture",		"sarcastic":"jest
-parrot
-riddle
-boast",		"stutter":"stutter
-drawl
-lisp
-slur
-bleat",		"droid":"jabber
-tattle",		"shout":"shout
-yell
-bellow
-vent
-announce",		"whisper":"whisper
-mouth
-confide
-confess",		"chatter":"babble
-chatter
-drone
-prattle
-ramble
-drivel
-gab
-gossip
-blab
-jaw
-chat
-yack
-",		"icy":"retort
-huff",		"scream":"howl
-scream
-wail
-",		"moan":"mumble
-complain
-moan",		"thought":"emote
-muse
-theorize
-conclude
-surmise
-hypothesize
-suppose
-think",		"exclaim":"exclaim
-interject
-blurt
-interrupt
-yelp
-shrill"
+		"exclaim":"exclaim interject blurt interrupt yelp shrill",	"thought":"emote muse theorize conclude surmise hypothesize suppose think",	"moan":"mumble complain moan",	"scream":"howl scream wail ",	"icy":"retort huff",	"chatter":"babble chatter drone prattle ramble drivel gab gossip blab jaw chat yack ",	"whisper":"whisper mouth confide confess",	"shout":"shout yell bellow vent announce",	"droid":"jabber tattle",	"stutter":"stutter drawl lisp slur bleat",	"sarcastic":"jest parrot riddle boast",	"double_ring":"demand decree proclaim state preach command prophesize lecture",	"threaten":"threaten",	"social":"social",	"sing2":"sing",	"sing3":"rap",	"poetry":"recite",	"evil":"",	"evil2":"",	"sad":"",	"aaaaaaa__do_not_translate_":"DO NOT TRANSLATE...This is used to map emote commands, such as /whisper, to chat bubble icons."
 }}

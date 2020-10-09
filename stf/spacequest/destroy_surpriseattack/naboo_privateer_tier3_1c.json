@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/naboo_privateer_tier3_1c",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Defend from the Black Sun assault",		"title":"Dantooine System: Defend from the Black Sun Assault",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 RSF Command: < \#pcontrast1 Get back to the Naboo System as fast as you can.  We have secondary verification on one of those hyperspace signals. \#pcontrast3 >",		"leave_early":"",		"complete":"\#pcontrast3 RSF Command: < \#pcontrast1 It appears that not all of the signatures were false.  Glad to see you made it out of that Captain. \#pcontrast3 >",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"pcontrast3 RSF Command: < pcontrast1 It appears that not all of the signatures were false.  Glad to see you made it out of that Captain. pcontrast3 >",	"leave_early":"",	"split_quest_alert":"pcontrast3 RSF Command: < pcontrast1 Get back to the Naboo System as fast as you can.  We have secondary verification on one of those hyperspace signals. pcontrast3 >",	"split_quest_alert_fail":"",	"title":"Dantooine System: Defend from the Black Sun Assault",	"title_d":"Defend from the Black Sun assault",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

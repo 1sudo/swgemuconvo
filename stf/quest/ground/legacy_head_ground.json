@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_head_ground",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"The last piece of the driod is its head and EV-9D9 has it. Problem is EV-9D9 is considerably distracted by her own problems. So she wants you to help her out first. She needs 3 droids tracked down and destoryed, some shock rods from Malakili Jaba's animal handler, and her cargo of equipment recently captured by the Valarians. Do these three tasks and she will tell you where the droid head is.",	"journal_entry_title":"Getting a Head",	"task00_journal_entry_title":"Nothing to keep",	"task01_journal_entry_description":"You have done everything that EV-9D9 has asked, but the comm's seem strangely quite. Looks like you have to go back to her and remind her of her obligations to you. ",	"task01_journal_entry_title":"Return to EV-9D9",	"task01_waypoint_name":"EV-9D9"
+}}

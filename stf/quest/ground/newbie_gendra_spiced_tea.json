@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_gendra_spiced_tea",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"You're doing some crafting for Gendra.",	"journal_entry_title":"Crafting",	"task00_journal_entry_description":"Gendra's friend is fighting with his spiced tea distributor, so you're going to help him out in the interim. You need to make him 10 spiced teas.",	"task00_journal_entry_title":"Craft Spiced Tea",	"task01_journal_entry_description":"Now that you've crafted some spiced tea you should take it to Gendra's friend, the bartender Muna Skish. You can find him near the cantina.",	"task01_journal_entry_title":"Deliver Spiced Tea",	"task01_waypoint_name":"Muna Skish",	"task02_journal_entry_description":"You should return to see Gendra.",	"task02_journal_entry_title":"Return to Gendra",	"task02_waypoint_name":"Gendra"
+}}

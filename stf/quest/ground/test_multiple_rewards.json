@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_multiple_rewards",
+	"entries": {
+		"category":"Testing",	"journal_entry_completion_summary":"You finished this quest, hooray!",	"journal_entry_description":"Test rewards grants description.",	"journal_entry_title":"Test reward grants",	"task00_journal_entry_description":"b",	"task00_journal_entry_title":"a"
+}}

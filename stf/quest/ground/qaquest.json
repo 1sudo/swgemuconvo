@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/qaquest",
+	"entries": {
+		"category":"QA",	"journal_entry_description":"QA Test Quest for tooltips.",	"journal_entry_title":"QA Test Quest",	"task00_journal_entry_description":"This is a test quest intended for viewing complex item tooltips.  Mouse over the rewards for tooltips.",	"task00_journal_entry_title":"QA Test Quest"
+}}

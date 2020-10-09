@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/npe_emergence",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"",	"quest_location_t":"",	"quest_patrol_d":"",	"quest_patrol_t":"",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"To the Emergence",	"title_d":"Fly to the Emergence. To land, target the asteroid base and type /comm in your spatial chat."
+}}

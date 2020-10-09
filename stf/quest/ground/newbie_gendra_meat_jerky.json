@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_gendra_meat_jerky",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"You're doing some crafting for Gendra.",	"journal_entry_title":"Crafting",	"task00_journal_entry_description":"Gendra has asked you to make five stacks of meat jerky.",	"task00_journal_entry_title":"Meat Jerky",	"task01_journal_entry_description":"Now that you've crafted some meat Jerky you should deliver it to Gendra. Drag it from your inventory onto Gendra.",	"task01_journal_entry_title":"Deliver Meat Jerky",	"task01_waypoint_name":"Gendra"
+}}

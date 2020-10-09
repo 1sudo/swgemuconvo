@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_melee_combat_trainer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Mayor Guh'rantt of Mos Eisley has given you the location of Peawp R'dawc.",	"journal_entry_title":"Hoodlums, Hoodlums Everywhere",	"task00_journal_entry_description":"Go to the combat guildhall. Once there, enter and speak with Peawp R'dawc.",	"task00_journal_entry_title":"Go to the Combat Guildhall",	"task00_waypoint_name":"Peawp R'dawc [in the Combat Guild Hall]",	"task01_journal_entry_description":"Speak with Peawp R'dawc and aid her against the hooligans who are harassing Mos Eisley. She's inside the combat guildhall.",	"task01_journal_entry_title":"Enter the Guildhall and Speak with Peawp R'dawc",	"task01_waypoint_name":"Peawp R'dawc"
+}}

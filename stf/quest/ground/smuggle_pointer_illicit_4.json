@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_illicit_4",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Shane. Shane is located on Talus.",	"journal_entry_title":"Talk to Shane",	"task00_journal_entry_description":"You need to speak with Shane. Shane is an underworld broker dealing with illicit contraband . He can tell you more about smuggeling illicit contraband. Shane is located on Talus.",	"task00_journal_entry_title":"Talk to Shane",	"task00_waypoint_name":"Shane"
+}}

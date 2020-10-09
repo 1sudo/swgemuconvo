@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_espa_repo_man",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You have successfully removed and returned the Booster Controller part to Watto.",	"journal_entry_description":"Watto has told you about the second motivator part you need to rebuild the missing droid from Tansarii Station. You need to recover the part.",	"journal_entry_title":"Repo Man",	"task00_item_name":"Pah's Speeder",	"task00_journal_entry_description":"Get the booster controller from Pah's speeder.",	"task00_journal_entry_title":"Repo Speeder Part",	"task00_retrieve_menu_text":"Remove Booster Controller",	"task00_waypoint_name":"Pah's Speeder",	"task01_journal_entry_description":"Bring Watto your recovered part.",	"task01_journal_entry_title":"Return to Watto",	"task01_waypoint_name":"Watto",	"task02_journal_entry_description":"Good Work! You have completed the Repo Man quest.",	"task02_journal_entry_title":"Complete"
+}}

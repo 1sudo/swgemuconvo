@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/huffs_guard_rifle",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Huff Darklighter lost his grandfather's Tusken Rifle, and has been upset ever since. I'm hoping to help him find it. I may check on Naboo with a criminal named Borvo the Hutt. He might be able to tell me what happened to the rifle.",	"journal_entry_title":"Finding Huff's Rifle",	"task00_journal_entry_description":"Huff's guard wants you to return Huff's grandfather's Tusken Rifle before you can see Huff. You should be able to track it down. Start with Borvo the Hutt on Naboo. Borvo is rumored to reside in the city of Moenia, in the cantina, but speak with Borvo's guard before approaching Borvo directly. When you have the rifle, give it to Huff's guard by dragging it onto him.",	"task00_journal_entry_title":"Tusken Rifle",	"task00_waypoint_name":"Borvo the Hutt"
+}}

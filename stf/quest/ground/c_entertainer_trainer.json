@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_entertainer_trainer",
+	"entries": {
+		"category":"Learning Professions",	"journal_entry_description":"Visit people in Mos Eisley to learn about your skills.",	"journal_entry_title":"Professional Entertainer",	"task00_journal_entry_description":"Mayor Guh'rantt has given you the location for professional entertainer, Anetia Kah'ryn.",	"task00_journal_entry_title":"Visit Professional Entertainer Anetia Kah'ryn",	"task00_waypoint_name":"Professional Entertainer (Anetia Kah'ryn) "
+}}

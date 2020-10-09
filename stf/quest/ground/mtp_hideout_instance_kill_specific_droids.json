@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_instance_kill_specific_droids",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_description":"Destroy droids in the lower maintenance area, but avoid harming any security droids.",	"journal_entry_title":"Destroy Non-Security Droids",	"task00_journal_entry_description":"Use the hatch in the kitchen chamber to access the lower maintenance areas.",	"task00_journal_entry_title":"Access Lower Maintenance Areas",	"task01_journal_entry_description":"Destroy droids in this maintenance area, but do not harm the security droids. Doing so will set off an alarm and you'll need to leave before CorSec agents arrive.",	"task01_journal_entry_title":"Destroy Droids",	"task05_journal_entry_description":"Don't delay..time's awasting!",	"task05_journal_entry_title":"Hurry!"
+}}

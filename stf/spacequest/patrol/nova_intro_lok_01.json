@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/nova_intro_lok_01",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Go to Lok space.",	"quest_location_t":"Lok Space",	"quest_patrol_d":"Follow the Freighters flight path, from its original final hyperspace point, back to where it was last contacted.",	"quest_patrol_t":"Follow the Flight Path",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Rescue Nova Orion Industries Freighter",	"title_d":"Nova Orion Industries has lost a freighter in Lok space. They have hired you to find it and bring it back, if possible."
+}}

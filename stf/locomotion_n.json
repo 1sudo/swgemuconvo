@@ -1,5 +1,5 @@
 {
 	"stfFile":"locomotion_n",
 	"entries": {
-		"blocking":"Blocking",		"dead":"Dead",		"incapacitated":"Incapacitated",		"knockeddown":"Knocked Down",		"ridingcreature":"Riding a Creature",		"drivingvehicle":"Driving a Vehicle",		"skillanimating":"Skill Animating",		"sitting":"Sitting",		"lyingdown":"Lying Down",		"flying":"Flying",		"hovering":"Hovering",		"climbing":"Climbing",		"climbingstationary":"Stationary Climbing",		"crawling":"Crawling",		"prone":"Prone",		"crouchwalking":"Crouching",		"crouchsneaking":"Crouched Sneaking",		"kneeling":"Kneeling",		"running":"Running",		"walking":"Walking",		"sneaking":"Sneaking",		"standing":"Standing"
+		"standing":"Standing",	"sneaking":"Sneaking",	"walking":"Walking",	"running":"Running",	"kneeling":"Kneeling",	"crouchsneaking":"Crouched Sneaking",	"crouchwalking":"Crouching",	"prone":"Prone",	"crawling":"Crawling",	"climbingstationary":"Stationary Climbing",	"climbing":"Climbing",	"hovering":"Hovering",	"flying":"Flying",	"lyingdown":"Lying Down",	"sitting":"Sitting",	"skillanimating":"Skill Animating",	"drivingvehicle":"Driving a Vehicle",	"ridingcreature":"Riding a Creature",	"knockeddown":"Knocked Down",	"incapacitated":"Incapacitated",	"dead":"Dead",	"blocking":"Blocking"
 }}

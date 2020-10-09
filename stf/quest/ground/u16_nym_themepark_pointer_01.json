@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_pointer_01",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've met with Vana Sage.",	"journal_entry_description":"Vana Sage of the Lok Revenants wants to speak with you.",	"journal_entry_title":"Meet Vana Sage",	"task00_journal_entry_description":"Find Vana Sage inside the Stronghold. She is near Nym of the Lok Revenants.",	"task00_journal_entry_title":"Vana Sage",	"task00_waypoint_name":"Vana Sage (inside Stronghold)"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/purvis_recon_two",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Purvis Arrison seems to think he's at war with the Tuskens. He's asked you to recon their junk town, just outside of Mos Eisley.",	"journal_entry_title":"Tusken Recon 2",	"task00_journal_entry_description":"Purvis wants you to check out the village from another angle.",	"task00_journal_entry_title":"Recon Tusken Village - 2",	"task00_waypoint_name":"Tusken Villlage Recon Point 2",	"task01_comm_message_text":"You have a knack for recon. I can tell. That's good intel, soldier. I understand there's a few graveyards nearby. I'd like to know more about their terrain. Get back to work."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_sordaan_mouf_bet",
+	"entries": {
+		"category":"Sordaan's Bet",	"journal_entry_description":"Hunt and kill mouf roarlords on the Bocctyyy Path.",	"journal_entry_title":"Mouf Roarlord Bet",	"task01_journal_entry_description":"To start the mouf roarlord bet, go to the Bocctyyy Path. Speak to the shuttle pilot at the main Rodian camp to get there.",	"task01_journal_entry_title":"Mouf Roarlord Bet: Go to Bocctyyy Path",	"task04_journal_entry_description":"Hunt and kill mouf roarlords on the Bocctyyy path. To win the bet, you must kill more mouf roarlords than Sordaan's hunters have: 18 of them in 20 minutes or less.",	"task04_journal_entry_title":"Mouf Roarlord Bet: Hunt and kill mouf roarlords."
+}}

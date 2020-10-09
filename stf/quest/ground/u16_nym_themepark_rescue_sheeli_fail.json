@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_rescue_sheeli_fail",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You spoke to Cale.",	"journal_entry_description":"Speak to Cale to rescue Sheeli.",	"journal_entry_title":"Try That Again",	"task00_journal_entry_description":"You've beaten Cale's Henchmen but you failed to get to the extraction point in time. Try again.",	"task00_journal_entry_title":"Speak to Cale",	"task00_waypoint_name":"Cale Serasai"
+}}

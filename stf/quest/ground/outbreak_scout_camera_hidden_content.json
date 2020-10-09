@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_scout_camera_hidden_content",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have delivered the Scout Camera.",	"journal_entry_description":"You have found a smashed Rebel Scout camera that is beyond repair. Maybe someone out there wants it.",	"journal_entry_title":"Rebel Scout Camera",	"task00_journal_entry_description":"This camera is destroyed but someone in the quarantine zone may be interested in it.",	"task00_journal_entry_title":"Rebel Scout Camera",	"task00_waypoint_name":"Meet Volunteer"
+}}

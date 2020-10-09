@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_dartas",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"'I have completed work for Dartas. I should speak with him as soon as possible.",	"journal_entry_title":"Speak with Dartas",	"task00_journal_entry_description":"Talk to to Dartas in Docking Bay 1 to get your reward.",	"task00_journal_entry_title":"Talk to Dartas in Docking Bay 1",	"task00_waypoint_name":"Dartas Pytin (Elite Car'das Pilot)"
+}}

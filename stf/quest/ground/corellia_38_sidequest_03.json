@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_38_sidequest_03",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You defeated Hrath Koo. He will no longer be harassing Teilo Monnro.",	"journal_entry_description":"A Meatlump known as Hrath Koo is harrassing Teilo Monnro. Stop him.",	"journal_entry_title":"Hrath Koo Must Die",	"task00_entrance_waypoint_name":"Entrance to the Meatlump Cave",	"task00_journal_entry_description":"Defeat the Meatlump known as Hrath Koo. You'll find him in the Meatlump cave.",	"task00_journal_entry_title":"Defeat Hrath Koo",	"task00_waypoint_name":"Entrance to the Meatlump Cave",	"task01_journal_entry_description":"Return to Teilo Monnro and let her know that Hrath Koo will no longer be bothering her.",	"task01_journal_entry_title":"Return to Teilo Monnro",	"task01_waypoint_name":"Teilo Monnro"
+}}

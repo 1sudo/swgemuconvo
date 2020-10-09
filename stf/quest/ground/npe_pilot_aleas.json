@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_aleas",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"'I have completed work for Aleas. I should speak with her as soon as possible.",	"journal_entry_title":"Speak with Aleas",	"task00_journal_entry_description":"Aleas may have more missions for you.",	"task00_journal_entry_title":"Talk to Aleas in Docking Bay 1",	"task00_waypoint_name":"Aleas (Ace Car'das Pilot)"
+}}

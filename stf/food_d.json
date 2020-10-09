@@ -1,5 +1,5 @@
 {
 	"stfFile":"food_d",
 	"entries": {
-		"drink_nectar":"A delicious blend of natural fruit juices and exotic plant nectar",		"water":"A glass of water",		"chicken_leg":"Mmmmmm.... chicken!"
+		"chicken_leg":"Mmmmmm.... chicken!",	"water":"A glass of water",	"drink_nectar":"A delicious blend of natural fruit juices and exotic plant nectar"
 }}

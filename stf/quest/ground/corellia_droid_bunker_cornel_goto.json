@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_droid_bunker_cornel_goto",
+	"entries": {
+		"category":"Corellia Droid Factory",	"journal_entry_description":"Find the Corsec leader Lieutenant Varias at the Corsec camp inside the cave.",	"journal_entry_title":"Talk to Lieutenant Varias in the Corsec camp",	"task00_entrance_waypoint_name":"Droid Factory",	"task00_journal_entry_description":"Find Lieutenant Varias inside the cave.",	"task00_journal_entry_title":"Talk to Lieutenant Varias",	"task00_waypoint_name":"Lieutenant Varias"
+}}

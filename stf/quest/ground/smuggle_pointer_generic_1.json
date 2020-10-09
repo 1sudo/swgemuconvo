@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_generic_1",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Barak. Barak is located on Tatooine.",	"journal_entry_title":"Talk to Barak",	"task00_journal_entry_description":"You need to speak with Barak. Barak is an underworld broker and can tell you more about smuggling assignments.  All smugglers wishing to advance in the ranks of the underworld must first deal with Barak. Barak is located on Tatooine",	"task00_journal_entry_title":"Talk to Barak",	"task00_waypoint_name":"Barak"
+}}

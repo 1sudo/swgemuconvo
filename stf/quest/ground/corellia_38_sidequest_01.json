@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_38_sidequest_01",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You recovered some stolen goods from a group of thugs known as Braggan's Fist.",	"journal_entry_description":"Recover some stolen goods from the Braggan's Fist thugs.",	"journal_entry_title":"Recovering Stolen Goods",	"task00_item_name":"Stolen goods recovered",	"task00_journal_entry_description":"Recover the stolen goods from the Braggan's Fist hideout. Braggan's Fist are a group of thugs that harass the Tyrena area.",	"task00_journal_entry_title":"Recover the Stolen Goods",	"task00_retrieve_menu_text":"Take the stolen goods",	"task00_waypoint_name":"Braggan's Fist Camp",	"task01_journal_entry_description":"Return to Sgt. Sola Hus with the stolen goods you recovered.",	"task01_journal_entry_title":"Return to Sgt. Sola Hus",	"task01_waypoint_name":"Sgt. Hus"
+}}

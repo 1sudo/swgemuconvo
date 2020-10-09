@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_runequest",
+	"entries": {
+		"category":"Station Gamma",	"journal_entry_description":"The Rak'qua tribe are proud people. Deep within their lair, the once prestigious researching facility called Station Gamma, the Rak'qua people dance around the altars, hoping that its wisdom will bring them protection and prowess in battle.",	"journal_entry_title":"Aquillia's Runes",	"task01_item_name":"Altar Runes",	"task01_journal_entry_description":"Aquillia requires samples of the runes deep within Station Gamma. Find 8 Altar Runes and return to Aquillia.",	"task01_journal_entry_title":"Rak'qua Altar Runes",	"task01_retrieve_menu_text":"Scribble",	"task02_journal_entry_description":"Now that you have all the rubbings she needs, return to Auqilla.",	"task02_journal_entry_title":"Return to Aquilla at the Entrance",	"task02_waypoint_name":"Aquilla (Archaeologist)",	"task04_waypoint_name":"Sacred Altar",	"task05_waypoint_name":"Sacred Altar",	"task06_waypoint_name":"Sacred Altar",	"task07_waypoint_name":"Sacred Altar",	"task08_waypoint_name":"Sacred Altar",	"task09_waypoint_name":"Sacred Altar"
+}}

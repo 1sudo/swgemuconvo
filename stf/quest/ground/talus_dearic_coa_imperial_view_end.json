@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_dearic_coa_imperial_view_end",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"Ekirk's jobs have been completed to his satisfaction.  Enough information has been gathered for Dathnaeya to make a well informed decision regarding the Empire.",	"journal_entry_description":"All missions at the A.C.L.O. base have been completed.  All that is left is to report back to Galiir followed by Col. Ekirk.",	"journal_entry_title":"Report to the Imperials",	"task00_journal_entry_title":"Imperial View End",	"task01_journal_entry_description":"The tasks assigned by Galiir Ac Yandar at the A.C.L.O. base are complete.  Report back to him in the Imperial Office in Dearic.",	"task01_journal_entry_title":"Report Back to Galiir",	"task01_waypoint_name":"Galiir Ac Yandar",	"task02_journal_entry_description":"All assigned tasks from Ekirk have been completed.  Return to him and receive the gratitude of the Empire.",	"task02_journal_entry_title":"Imperial Gratitude"
+}}

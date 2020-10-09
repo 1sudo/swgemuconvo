@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/tatooine_rebel_tier4_1_c",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"An Imperial Interceptor patrol spotted you and moved in to do what they do best, intercept! Show them that they picked the wrong target pilot, show them the power of the Crimson Phoenix!",		"title":"Dathomir system: Defeat the Imperial Interceptors then return to base.",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"complete":"General Ufwol: Nice work pilot! There may be hope for you still. Return to base quickly for a debrief.",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"General Ufwol: Nice work pilot! There may be hope for you still. Return to base quickly for a debrief.",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Dathomir system: Defeat the Imperial Interceptors then return to base.",	"title_d":"An Imperial Interceptor patrol spotted you and moved in to do what they do best, intercept! Show them that they picked the wrong target pilot, show them the power of the Crimson Phoenix!",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

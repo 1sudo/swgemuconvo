@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_generic_3",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Baldwin. Baldwin is located on Lok.",	"journal_entry_title":"Talk to Baldwin",	"task00_journal_entry_description":"You need to speak with Baldwin. Baldwin is an underworld broker and can tell you more about smuggling assignments. Baldwin is located on Lok.",	"task00_journal_entry_title":"Talk to Baldwin",	"task00_waypoint_name":"Baldwin"
+}}

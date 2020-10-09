@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_39_sidequest_05",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You found Vryim Raeth, but it was too late. He was alreadyt dead.",	"journal_entry_description":"Vryim Raeth disappeared a few weeks ago. His wife, Cara, believes the Chirq Council took him because they thought he knew too much about their operations. She wants you to find Vryim for her.",	"journal_entry_title":"Find Cara Raeth's husband, Vryim.",	"task00_entrance_waypoint_name":"Entrance to Chirq Council Bunker",	"task00_item_name":"You found the corpse of Vryim Raeth",	"task00_journal_entry_description":"Vryim Reath is believed to be a captive of the Chirq Council. Find him.",	"task00_journal_entry_title":"Find Vryim Raeth",	"task00_retrieve_menu_text":"Examine the corpse",	"task00_waypoint_name":"Entrance to Chirq Council Bunker",	"task01_journal_entry_description":"Return to Cara Raeth with the bad news about her husband. At least she will now be able to properly mourn him.",	"task01_journal_entry_title":"Return to Cara Raeth",	"task01_waypoint_name":"Cara Raeth"
+}}

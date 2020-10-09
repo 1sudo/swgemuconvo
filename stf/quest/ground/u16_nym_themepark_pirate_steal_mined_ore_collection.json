@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_pirate_steal_mined_ore_collection",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've stolen the ore.",	"journal_entry_description":"Infiltrate the Imperial Mine and steal samples of the ore being mined there.",	"journal_entry_title":"Steal the Mined Ore",	"task00_journal_entry_description":"Travel to the Imperial Mine.",	"task00_journal_entry_title":"Find the Imperial Mine",	"task00_waypoint_name":"Imperial Mine",	"task01_journal_entry_description":"Locate and steal samples of the mined ore.",	"task01_journal_entry_title":"Steal the Mined Ore",	"task01_waypoint_name":"Imperial Mine",	"task02_journal_entry_description":"Report to Stuvany Inglen that the rescue mission is complete.",	"task02_journal_entry_title":"Return to Stuvany Inglen",	"task02_waypoint_name":"Stuvany Inglen (inside Stronghold)"
+}}

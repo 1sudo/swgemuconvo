@@ -1,0 +1,5 @@
+{
+	"stfFile":"mining_asteroid_n",
+	"entries": {
+		"static_iron_mining_asteroid":"Iron Asteroid",	"static_ice_mining_asteroid":"Ice Asteroid",	"static_carbonaceous_mining_asteroid":"Carbonaceous Asteroid",	"static_silicaceous_mining_asteroid":"Silicaceous Asteroid",	"static_obsidian_mining_asteroid":"Obsidian Asteroid",	"static_diamond_mining_asteroid":"Diamond Asteroid",	"static_crystal_mining_asteroid":"Crystal Asteroid",	"static_petrochem_mining_asteroid":"Petrochemical Asteroid",	"static_acid_mining_asteroid":"Acid Asteroid",	"static_cyanomethanic_mining_asteroid":"Cyanomethanic Asteroid",	"static_sulfuric_mining_asteroid":"Sulfuric Asteroid",	"static_methane_mining_asteroid":"Methane Asteroid",	"static_organometallic_mining_asteroid":"Organometallic Asteroid",	"dynamic_mining_asteroid":"Asteroid Chunk"
+}}

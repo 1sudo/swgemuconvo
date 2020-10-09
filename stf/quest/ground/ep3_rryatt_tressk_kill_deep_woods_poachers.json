@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_rryatt_tressk_kill_deep_woods_poachers",
+	"entries": {
+		"category":"Rryatt Trail Rodians",	"journal_entry_description":"Find the Deep Woods Poachers on the Rryatt Trail and make sure they know they are unwanted here.",	"journal_entry_title":"Stop the Deep Woods Poachers",	"task01_journal_entry_description":"A group of poachers known only as the Deep Woods Poachers have been seen on the Rryatt Trail. Tressk asks that you convince them to go elsewhere by defeating 25 of them..",	"task01_journal_entry_title":"Stop the Deep Woods Poachers",	"task02_journal_entry_description":"Return to Tressk and let him know the Deep Woods Poachers are less likely to be a problem any more.",	"task02_journal_entry_title":"Return to Tressk"
+}}

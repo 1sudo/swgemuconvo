@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/found_ig88_encounter",
+	"entries": {
+		"category":"IG-88",	"journal_entry_description":"You now have all you need to bypass the security on the compound. Go to the compound and enter it.",	"journal_entry_title":"Enter the Factory Compound",	"task00_journal_entry_description":"Travel to the compound and enter it.",	"task00_journal_entry_title":"Enter the Compound",	"task00_waypoint_name":"Nyms Factory Compound"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/nova_intro_dantooine_01",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Go to Dantooine space.",	"quest_location_t":"Dantooine Space",	"quest_patrol_d":"Follow the Freighter's flight path, from its original final hyperspace point, back to where it was last contacted.",	"quest_patrol_t":"Follow the Flight Path",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Rescue Nova Orion Industries Freighter",	"title_d":"Nova Orion Industries has lost a freighter in Dantooine space. They have hired you to find it and bring it back, if possible."
+}}

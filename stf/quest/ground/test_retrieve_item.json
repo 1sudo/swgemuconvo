@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_retrieve_item",
+	"entries": {
+		"category":"Test",	"journal_entry_description":"Use object/tangible/gravestone/gravestone01.iff objects to complete the quest.  These objects must also have the script quest.task.ground.retrieve_item_on_item on them.",	"journal_entry_title":"Test Retrieve Item",	"task00_item_name":"Yorick's Skull",	"task00_retrieve_menu_text":"Give Yorick a noogie"
+}}

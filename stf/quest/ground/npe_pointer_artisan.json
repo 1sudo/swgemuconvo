@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_artisan",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"The Bartender knows many things. Head to the Cantina in the center of the station and find him.",	"journal_entry_title":"Speak to the Bartender",	"task00_journal_entry_description":"The Bartender at Tansarii station knows many different things. Talk to him. The Bartender can be found in the Cantina in the center of the main level.",	"task00_journal_entry_title":"Talk to the Bartender in the Cantina",	"task00_waypoint_name":"Bartender"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_kash_station_contact_eyma_02",
+	"entries": {
+		"category":"Civilian Protection Guild",	"task00_journal_entry_description":"Rian Ry has offered your name to the Civil Protection Guild commander here on Kashyyyk. You'll find him near the starport in Kachirho.",	"task00_journal_entry_title":"Report to Civilian Protection Guild commander on Kashyyyk",	"task01_journal_entry_description":"Eyma can be found near the starport here in Kachirho. Speak to him and provide the information he needs.",	"task01_journal_entry_title":"Speak with Eyma the Civilian Protection Guild commander",	"task02_journal_entry_description":"Provide Eyma a report of your encounters with the Ghrag mercenary clan",	"task02_journal_entry_title":"Report to Eyma"
+}}

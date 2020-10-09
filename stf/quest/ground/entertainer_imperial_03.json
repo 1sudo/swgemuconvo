@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/entertainer_imperial_03",
+	"entries": {
+		"category":"Empire Day",	"journal_entry_completion_summary":"Theed Cantina complete.",	"journal_entry_description":"Entertain the troops in the cantina.",	"journal_entry_title":"Entertaining The Troops - Theed Cantina",	"task00_journal_entry_description":"Travel to the cantina location. A waypoint has been provided.",	"task00_journal_entry_title":"Travel to the Theed Cantina.",	"task00_waypoint_name":"Entertain Thrred Cantina",	"task01_journal_entry_description":"Put on the best performance possible.",	"task01_journal_entry_title":"Perform",	"task02_comm_message_text":"Mission complete. Come back to my location to receive your compensation as well as your next mission.",	"task02_journal_entry_description":"Kaythree Com",	"task02_journal_entry_title":"Kaythree Com",	"task03_journal_entry_description":"Travel back to Theed and see Kaythree.",	"task03_journal_entry_title":"See Kaythree"
+}}

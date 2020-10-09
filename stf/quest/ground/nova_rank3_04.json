@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/nova_rank3_04",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"We need to sneak in more supplies, without Orion getting a wiff of it.",	"journal_entry_title":"Resupplying",	"task01_journal_entry_description":"Escort the supply freighter.",	"task01_journal_entry_title":"Escort the Supplies",	"task03_journal_entry_description":"Return to report.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

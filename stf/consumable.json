@@ -1,5 +1,5 @@
 {
 	"stfFile":"consumable",
 	"entries": {
-		"none":"None",		"exam_attrib_mod":"ATTRIBUTE MODIFIERS"
+		"exam_attrib_mod":"ATTRIBUTE MODIFIERS",	"none":"None"
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_trando_tempal_buncho",
+	"entries": {
+		"category":"Trandoshan Slavers",	"journal_entry_description":"A group of Wookiee captives have recently escaped from the Trandoshans. This is bad for business and needs a swift response. Tempal B'uncho has informed you that the escaped Wookiees were last seen heading down the Rryatt Trail. He wants you to find them on the Rryatt Trail and kill at least ten of these escaped Wookiees.",	"journal_entry_title":"Destroy the Escaped Wookiees",	"task00_journal_entry_description":"Tempal has asked that once you find the Wookiees on the second level of the Rryatt Trail you kill at least ten of them. This will send a message to the other Wookiees that escaping isn't an option.",	"task00_journal_entry_title":"Kill the Escaped Wookiee",	"task01_journal_entry_description":"Return and report your success to Tempal B'uncho. He will be most interested to hear of your victory over the escaped Wookiees.",	"task01_journal_entry_title":"Return to Tempal B'uncho",	"task02_journal_entry_title":"Reward Issued"
+}}

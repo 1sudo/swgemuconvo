@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_perfume_hidden_content",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have delivered the perfume.",	"journal_entry_description":"Deliver this perfume to a person who needs it most.",	"journal_entry_title":"Who Needs Perfume?",	"task00_journal_entry_description":"There may be someone in the quarantine zone that needs to smell better.",	"task00_journal_entry_title":"Put Perfume to Use",	"task00_waypoint_name":"Meet Volunteer"
+}}

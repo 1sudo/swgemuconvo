@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_weed_pulling_fail",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You have failed the weed whacking requisition.",	"journal_entry_description":"You took too long weed whacking.",	"journal_entry_title":"Return to Machado",	"task00_journal_entry_description":"Tell Ran how you failed to pull enough weeds in the time alloted.",	"task00_journal_entry_title":"Return to Machado",	"task00_waypoint_name":"Ran Machado"
+}}

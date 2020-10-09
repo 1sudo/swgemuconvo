@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/inspect/privateer_inspection_1",
 	"entries": {
-		"title_d":"",		"title":"",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"quest_location_t":"",		"quest_location_d":"",		"quest_inspect_t":"",		"quest_inspect_d":"",		"quest_dock_t":"",		"quest_dock_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"",		"Quest Log Data":"Text"
+		"Quest Log Data":"Text",	"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_dock_d":"",	"quest_dock_t":"",	"quest_inspect_d":"",	"quest_inspect_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"",	"title_d":""
 }}

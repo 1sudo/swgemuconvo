@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/entertainer_rebel_02",
+	"entries": {
+		"category":"Remembrance Day",	"journal_entry_completion_summary":"Restuss Cantina complete.",	"journal_entry_description":"Entertain the troops in the cantina.",	"journal_entry_title":"Entertaining The Troops - Restus Rebel Cantina",	"task00_journal_entry_description":"Travel to the cantina location. A waypoint has been provided.",	"task00_journal_entry_title":"Travel to the Restuss Cantina.",	"task00_waypoint_name":"Entertain Restuss Cantina",	"task01_journal_entry_description":"Put on the best performance possible.",	"task01_journal_entry_title":"Perform",	"task02_comm_message_text":"Great work! Come back to my location to receive your compensation as well as your next mission.",	"task02_journal_entry_description":"Rieekan Com",	"task02_journal_entry_title":"Rieekan Com",	"task03_journal_entry_description":"Travel back to Coronet and see Major Rieekan.",	"task03_journal_entry_title":"See Major Rieekan"
+}}

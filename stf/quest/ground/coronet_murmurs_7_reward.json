@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/coronet_murmurs_7_reward",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"The illegal research laboratory has been destroyed and Coronet City is safe from rampaging engineered creatures. Great work!",	"journal_entry_description":"Destroy their research by overloading their central computer.",	"journal_entry_title":"Coronet Murmurs: Shut them Down",	"task00_item_name":"Computer Overloaded",	"task00_journal_entry_description":"All research in this lab needs to be destroyed.  Damage the central computer and with any luck, it will wipe out all traces of research.",	"task00_journal_entry_title":"Corrupt the Central Computer",	"task00_retrieve_menu_text":"Overload the Computer",	"task00_waypoint_name":"Illegal Labs",	"task01_journal_entry_description":"Return to Lt. Joth and tell him about your success!",	"task01_journal_entry_title":"Return to Lt. Joth",	"task01_waypoint_name":"Lt. Joth"
+}}

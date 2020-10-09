@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_prof_artisan1",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"The Bartender knows just about everything there is to know about on this station. Talk to him about what's happening.",	"journal_entry_title":"Gossip with the Bartender",	"task00_journal_entry_description":"The Bartender has access to many informants. Find out what's happening in the station for Raine.",	"task00_journal_entry_title":"Find Out Information from the Bartender in the Cantina",	"task00_waypoint_name":"Bartender",	"task01_journal_entry_description":"You have something to report to Raine in Hangar Bay 2. Talk to him.",	"task01_journal_entry_title":"Return to Raine in Hangar Bay 2",	"task01_waypoint_name":"Raine Taske"
+}}

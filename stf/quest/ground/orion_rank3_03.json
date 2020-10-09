@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/orion_rank3_03",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"One of our shipments has been disabled by 'pirates'. Your mission is to go get it back.",	"journal_entry_title":"Spring the Trap",	"task01_journal_entry_description":"Find the damaged freighter and escort it back.",	"task01_journal_entry_title":"Rescue the Damaged Freighter",	"task03_journal_entry_description":"Return to report.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

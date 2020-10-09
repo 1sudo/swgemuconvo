@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_brawler_1a",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"While ridding the the greenhouse of creatures I came across an Rrwii root. I have never heard of this plant before. I should take a sample to Rydel.",	"journal_entry_title":"Rydel's Teachings: Odd Plantlife",	"task00_item_name":"Anlora Leaf",	"task00_journal_entry_description":"Bring the leaf sample back to Rydel.",	"task00_journal_entry_title":"Spice?",	"task00_retrieve_menu_text":"Pick"
+}}

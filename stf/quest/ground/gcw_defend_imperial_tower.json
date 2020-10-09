@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_defend_imperial_tower",
+	"entries": {
+		"category":"Combat",	"journal_entry_completion_summary":"You have successfully defended the area.",	"journal_entry_description":"Defend the area from enemy vehicles.",	"journal_entry_title":"Defend Area",	"task01_journal_entry_description":"Defeat 10 enemy vehicles in the area.",	"task01_journal_entry_title":"Defeat 10 Enemy Vehicles",	"task02_journal_entry_description":"You successfully defeated 10 enemies.",	"task02_journal_entry_title":"Enemies Defeated!"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/pointer_porcellus",
+	"entries": {
+		"category":"Jabba's Palace",	"journal_entry_description":"Ephant Mon says Porcellus is having a hard time, and could use your help.",	"journal_entry_title":"Find Porcellus",	"task00_journal_entry_description":"Look for Porcellus in the kitchen.",	"task00_journal_entry_title":"Talk to Porcellus",	"task00_waypoint_name":"Porcellus"
+}}

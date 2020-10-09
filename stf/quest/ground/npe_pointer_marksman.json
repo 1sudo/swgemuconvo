@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_marksman",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Loche Crestingsky is a well-known marksman. Rumor has it he fought during the Clone Wars, on special takedown missions. But for which side? No one knows for sure. Look to him to teach you how to use a blaster.",	"journal_entry_title":"Speak to Loche Crestingsky",	"task00_journal_entry_description":"Loche Crestingsky can teach you all about marksmanship. Talk to him in the Ranged Combat Training Room next to the Medical Center.",	"task00_journal_entry_title":"Talk to Loche Crestingsky in the Ranged Combat Training Room",	"task00_waypoint_name":"Loche Crestingsky"
+}}

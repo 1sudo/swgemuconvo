@@ -1,5 +1,5 @@
 {
 	"stfFile":"poi_n",
 	"entries": {
-		"base_poi_building":"Building",		"hq_rebel_sm":"Rebel outpost",		"hq_imperial_sm":"Imperial outpost",		"hq_rebel_med":"Rebel guard house",		"hq_imperial_med":"Imperial guard house",		"hq_rebel_lrg":"Rebel forward headquarters",		"hq_imperial_lrg":"Imperial forward headquarters"
+		"hq_imperial_lrg":"Imperial forward headquarters",	"hq_rebel_lrg":"Rebel forward headquarters",	"hq_imperial_med":"Imperial guard house",	"hq_rebel_med":"Rebel guard house",	"hq_imperial_sm":"Imperial outpost",	"hq_rebel_sm":"Rebel outpost",	"base_poi_building":"Building"
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_solo_profession",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"It's time to choose what you will do for a profession. Han Solo can help you try different professions. Once you know what you want to do, tell Solo and he will help you choose your profession. Consider carefully before you make your choice.",	"journal_entry_title":"Choose Your Path",	"task00_journal_entry_description":"The only person on this station that you know is Han Solo. Talk to him about what to do next.",	"task00_journal_entry_title":"Talk to Han Solo in Hangar 2",	"task00_waypoint_name":"Han Solo",	"task01_journal_entry_description":"Once you have chosen what you want to do, tell Han Solo that you are ready.",	"task01_journal_entry_title":"Talk to Han Solo in Hangar 2",	"task01_waypoint_name":"Han Solo"
+}}

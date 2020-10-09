@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy/corellia_imperial_tier3_4b",
 	"entries": {
-		"title_d":"",		"title":"Destroy X-Wings",		"split_quest_alert":"Incoming split quest.",		"quest_location_t":"",		"quest_location_d":"",		"quest_destroy_t":"",		"quest_destroy_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Go to Endor Space and Destroy any X-Wing you find."
+		"assigned_delayed":"Go to Endor Space and Destroy any X-Wing you find.",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"Incoming split quest.",	"title":"Destroy X-Wings",	"title_d":""
 }}

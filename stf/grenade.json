@@ -1,0 +1,5 @@
+{
+	"stfFile":"grenade",
+	"entries": {
+		"throw_delay":"You can't throw another grenade for %DI seconds!",	"throw_class_delay":"You can't throw another %TT for %DI seconds!",	"frag_effect":"Higher base chance of wounding.",	"cryoban_effect1":"(Snare) A freezing blast that snares enemy movement for a short time.",	"cryoban_effect2":"(Slow) Frost shock renders enemies unable to attack at their full rate of speed for a short time.",	"glop_effect":"(Blind) A sticky acid substance blinds the enemy for a period of time.",	"impdet_effect":"(Knockdown) Emits a powerful force wave that has a high probability of knocking down opponents near the blast.",	"proton_burn":"(DOT) A high energy discharge will irradiate anyone too close to the blast point.",	"thermal_burn":"(DOT) An intense wave of heat energy will burn anyone close to the blast point."
+}}

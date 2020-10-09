@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_carbine_crafting_2",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"Full-scale war demands armaments, and Lieutenant Pofko has ordered you to create a rocket launcher for the Imperial Army.",	"journal_entry_title":"Lord of War, Part II",	"task00_journal_entry_description":"You have been tasked with creating a rocket launcher for the Imperial Army.",	"task00_journal_entry_title":"Tools of War",	"task01_journal_entry_description":"You have completed the rocket launcher for the troops in Restuss and should return to Lieutenant Pofko with it.",	"task01_journal_entry_title":"Return to Restuss",	"task02_journal_entry_description":"Give the rocket launcher to the load lifter droid.",	"task02_journal_entry_title":"Deliver the Rocket Launcher"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_rebel_st3_ambush_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Imperial Army is moving research material that they have collected from the rubble of Restuss to their base. The Alliance wants you to ambush the convoy and steal the research material.",	"journal_entry_title":"Ambush!",	"task00_journal_entry_description":"You're about to ambush an Imperial convoy in Restuss. Steal at least three research packages from their supply specialists.",	"task00_journal_entry_title":"Ambush Convoy",	"task01_journal_entry_description":"You've successfully ambushed the Imperial convoy and should return to Captain Klork.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/npe_training_gamma",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"",	"quest_location_t":"Travel to the Station Gamma.",	"quest_patrol_d":"",	"quest_patrol_t":"",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Travel to the Station Gamma",	"title_d":"You have a mission on Station Gamma, fly over to it and land. To land on Station Gamma, target it and type /comm - Station Gamma is currently in a state of chaos and may be dangerous, be careful."
+}}

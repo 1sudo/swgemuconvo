@@ -1,5 +1,5 @@
 {
 	"stfFile":"temp_schematic",
 	"entries": {
-		"prose_schematic_expired":"All available uses for temporary schematic (%TO) have been expired.",		"prose_uses_left":"Uses left for temporary schematic (%TO): %DI.",		"prose_uses_decremented":"Your temporary schematic (%TO) use count has been decremented.",		"prose_temp_revoke":"The temporary schematic for creation of %TO has been revoked.",		"prose_temp_grant":"You have been granted a temporary schematic for creation of %TO."
+		"prose_temp_grant":"You have been granted a temporary schematic for creation of %TO.",	"prose_temp_revoke":"The temporary schematic for creation of %TO has been revoked.",	"prose_uses_decremented":"Your temporary schematic (%TO) use count has been decremented.",	"prose_uses_left":"Uses left for temporary schematic (%TO): %DI.",	"prose_schematic_expired":"All available uses for temporary schematic (%TO) have expired."
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_checker",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"This quest has several warnings and errors",	"journal_entry_title":"Test Check Quest"
+}}

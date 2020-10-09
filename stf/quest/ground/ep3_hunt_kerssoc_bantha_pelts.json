@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_kerssoc_bantha_pelts",
+	"entries": {
+		"category":"Hunting Grounds Access",	"journal_entry_description":"Kerssoc wants you to collect 17 flawless Kashyyyk bantha pelts from Kashyyyk banthas in the area.",	"journal_entry_title":"Collect Kashyyyk Bantha Pelts",	"task01_journal_entry_description":"Kerssoc wants you to collect 17 flawless Kashyyyk bantha pelts from Kashyyyk banthas in the area.",	"task01_journal_entry_title":"Collect Kashyyyk Bantha Pelts",	"task02_journal_entry_description":"Speak with Kerssoc now that you have collected the flawless Kashyyyk bantha pelts he wanted.",	"task02_journal_entry_title":"Speak with Kerssoc"
+}}

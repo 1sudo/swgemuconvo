@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_quest_01_b_rebel",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have spoken to Trig Longo about survivors in the main research and prison facility.",	"journal_entry_description":"Speak to Trig about possible survivors in the research and prison facility.",	"journal_entry_title":"Speak to Trig",	"task00_journal_entry_description":"Talk to Trig to find out the location of other survivor camps.",	"task00_journal_entry_title":"Any Other Survivors?",	"task00_waypoint_name":"Trig Longo",	"task01_journal_entry_description":"none",	"task01_journal_entry_title":"none"
+}}

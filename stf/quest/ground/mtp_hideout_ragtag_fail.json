@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_ragtag_fail",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"Hopefully no one was watching when you lost that fight.",	"journal_entry_description":"You failed to defeat Ames but don't worry, you might get a second chance.",	"journal_entry_title":"You failed to teach Ames a lesson.",	"task00_journal_entry_description":"You failed to defeat Ames in melee combat.",	"task00_journal_entry_title":"Defeat!",	"task01_journal_entry_description":"Tell the Meatlump Supply Clerk what happened.",	"task01_journal_entry_title":"You got beat up!"
+}}

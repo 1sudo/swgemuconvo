@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_gendra",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Visit Gendra, who knows about crafting and entertaining.",	"journal_entry_title":"Visit Gendra",	"task00_comm_message_text":"When you have a free moment, come by and see me. I have much to discuss with you, and perhaps some work that you can do for me.",	"task01_journal_entry_description":"Gendra sent you a message and asked you to come speak with him. You should find him and see what he wants.",	"task01_journal_entry_title":"Find Gendra",	"task01_waypoint_name":"Genrda",	"task02_journal_entry_description":"Now that you've found Gendra you should speak with him.",	"task02_journal_entry_title":"Speak with Gendra"
+}}

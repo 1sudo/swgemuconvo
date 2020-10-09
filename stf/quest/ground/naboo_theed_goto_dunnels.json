@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_dunnels",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Lieutenant Karenna Dunnels.",	"journal_entry_title":"Report to Lieutenant Dunnels",	"task00_journal_entry_description":"Report to Lieutenant Karenna Dunnels in the Theed palace.",	"task00_journal_entry_title":"Report to Lieutenant Dunnels",	"task00_waypoint_name":"Theed Palace Entrance"
+}}

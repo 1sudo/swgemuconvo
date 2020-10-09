@@ -1,0 +1,5 @@
+{
+	"stfFile":"att_bonus_n",
+	"entries": {
+		"health":"Health",	"health_regen":"Health Regeneration Rate",	"action":"Action",	"action_regen":"Action Regeneration Rate",	"mind":"Mind",	"mind_regen":"Mind Regeneration Rate"
+}}

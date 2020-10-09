@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/coronet_captain_dool",
+	"entries": {
+		"category":"Corellia",	"journal_entry_description":"Captain Dool has some tasks that he'd like you to complete for him.",	"journal_entry_title":"Captain Dool",	"task00_journal_entry_description":"Captain Dool wants you to find out more about Greck. See if you can find any information from his men.",	"task00_journal_entry_title":"Eliminate Greck's Men",	"task01_comm_message_text":"Another of my informants got something. A file was stolen from CorSec recently with Greck's information in it. It was taken by the Chirq Council for some reason.",	"task02_item_name":"Olag Greck Dossier",	"task02_journal_entry_description":"Captain Dool wants you to hit a Chirq Council outpost and see if they have the file on Olag Greck. Get the file and return it to Captain Dool.",	"task02_journal_entry_title":"Find the Greck Report",	"task02_retrieve_menu_text":"Retrieve Dossier",	"task03_comm_message_text":"I want you to take that report to one of our City Councilmen, Lyman Zavala. He'll know what to do from here. Thanks for your help."
+}}

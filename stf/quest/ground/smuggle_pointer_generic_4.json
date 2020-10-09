@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_generic_4",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Harding. Harding is located on Endor.",	"journal_entry_title":"Talk to Harding",	"task00_journal_entry_description":"You need to speak with Harding. Harding is an underworld broker and can tell you more about smuggling assignments. Harding is located on Endor.",	"task00_journal_entry_title":"Talk to Harding",	"task00_waypoint_name":"Harding"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_yraka_destroyloot_1",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"Yraka Nes, the medical nurse of the Myyydril encampment, needs your help in collecting 20 Webweaver Strands for blankets. The blankets are used to soothe the \"afflicted\" and are very important to Yraka.",	"journal_entry_title":"Webweaver Blankets",	"task00_journal_entry_description":"Collect 20 Webweaver Strands from the webweavers in the Kkowir Forest.",	"task00_journal_entry_title":"Webweaver Blankets",	"task01_journal_entry_description":"Bring the blankets back to Yraka Nes.",	"task01_journal_entry_title":"Return to Yraka Nes",	"task02_journal_entry_title":"Reward Issued: Webweaver Blanket"
+}}

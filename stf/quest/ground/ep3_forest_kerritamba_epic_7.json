@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_kerritamba_epic_7",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"Chief Kerritamba is displeased with your actions. To mend the relationship between you and the Kerritamba, the Chief has sent you to retrieve two items to bring back the unconscious Wirartu. Find a Bag of Dust from the Sayormi Witches and a Mysess Blossom for the Chief.",	"journal_entry_title":"Injured Wirartu",	"task01_item_name":"Mysess Blossom",	"task01_journal_entry_description":"Find a Mysess Blossom and return it to Chief Kerritamba.",	"task01_journal_entry_title":"Collect a Mysess Blossom",	"task02_journal_entry_description":"Find a Bag of Dust from the Sayormi Witches.",	"task02_journal_entry_title":"Collect a Bag of Dust",	"task03_task_display_string_1":"Collect a Bag of Dust",	"task03_task_display_string_2":"Collect a Mysess Blossom",	"task05_journal_entry_title":"Reward Issued"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_live_conversion_rebel",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have met Han Solo on Dathomir, he would like you to perform a job on behalf of the Alliance.",	"journal_entry_description":"Han Solo requests your presence on Dathomir.",	"journal_entry_title":"Mysterious Meeting Request",	"task01_comm_message_text":"[Han Solo] I have an important proposition for you. Can you meet me on Dathomir as soon as possible?",	"task02_journal_entry_description":"Travel to the new Dathomir Starport named \"Quarantine Zone\"",	"task02_journal_entry_title":"Travel to Dathomir Starport",	"task02_waypoint_name":"New Dathomir Starport",	"task03_journal_entry_description":"Speak with Han Solo to see what is going on.",	"task03_journal_entry_title":"Speak with Han Solo",	"task03_waypoint_name":"Han Solo"
+}}

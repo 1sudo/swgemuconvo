@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/under_construction",
+	"entries": {
+		"category":"Profession",	"journal_entry_description":"Information is still being gathered for your next mission. Check this object again at a later date.",	"journal_entry_title":"Gathering Intel",	"task00_journal_entry_description":"Information is still being gathered for your next mission. Check this object again at a later date. You will be contacted when this mission becomes available.",	"task00_journal_entry_title":"Read the Message Box",	"task00_message_box_text":"Information is still being gathered for your next mission. Check this object again at a later date. You will be contacted when this mission becomes available.",	"task00_message_box_title":"Gathering Intel"
+}}

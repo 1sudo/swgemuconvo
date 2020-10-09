@@ -1,0 +1,5 @@
+{
+	"stfFile":"npc_landmines",
+	"entries": {
+		"hit_by_mine_detonation":"You have taken %DI points of damage from a mine explosion.",	"commando_defuse":"Defuse",	"mine_defused":"Mine Defused",	"smuggler_reverse_trigger":"Slice IFF Trigger",	"mine_trigger_reversed":"The mines IFF trigger has been altered.",	"deactivated":"++Deactivated++",	"reversed":"++IFF Trigger Reversed++",	"detonate_charge":"Detonate Charge",	"page_charge":"Page Charge",	"place_charge":"Place Charge",	"charge_page_text":"-- PING --"
+}}

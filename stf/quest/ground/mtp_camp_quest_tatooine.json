@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_camp_quest_tatooine",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You have visited Meatlump Camps on Tatooine.",	"journal_entry_description":"Go to the Meatlump Camp locations on Tatooine",	"journal_entry_title":"Investigate Meatlump Camps on Tatooine",	"task00_journal_entry_description":"nothing",	"task00_journal_entry_title":"nothing",	"task01_journal_entry_description":"Investigate the Meatlump Camp on Tatooine.",	"task01_journal_entry_title":"Meatlump Camp 1 - Tatooine",	"task01_waypoint_name":"Meatlump Camp - Tatooine Camp 1",	"task02_task_display_string_1":"You have investigated one of the Meatlump Camps on Tatooine.",	"task02_task_display_string_2":"You have investigated one of the Meatlump Camps on Tatooine.",	"task03_journal_entry_description":"Investigate the Meatlump Camp on Tatooine.",	"task03_journal_entry_title":"Meatlump Camp 2 - Tatooine",	"task03_waypoint_name":"Meatlump Camp - Tatooine Camp 2"
+}}

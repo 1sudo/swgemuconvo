@@ -1,0 +1,5 @@
+{
+	"stfFile":"register",
+	"entries": {
+		"cannot_register_bad_loc":"You cannot register at a location that is not registered with the planetary map.",	"cannot_register_no_support":"This location does not support active/inactive registration status.",	"cannot_register_not_neutral":"Neutrals may only register at neutral (non-aligned) locations.",	"cannot_register_wrong_faction":"You may not register at a location that is factionally opposed.",	"cannot_register_already_reg":"But you are already registered at this location.",	"success_register":"You successfully register with this location.",	"cannot_register_lack_skill":"You lack the appropriate skill-set to activate this location."
+}}

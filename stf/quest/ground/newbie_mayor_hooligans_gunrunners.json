@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_mayor_hooligans_gunrunners",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You defeated a camp of gunrunners outside of Mos Eisley. Maybe now they'll peddle their wares somewhere else.",	"journal_entry_description":"Go to the camp of gunrunners outside of Mos Eisley and convince them to peddle their weapons elsewhere.",	"journal_entry_title":"Run Out the Gunrunners",	"task00_journal_entry_description":"Run the gunrunners out of the area and convince them to peddle their guns elsewhere.",	"task00_journal_entry_title":"Teach the Gunrunners a Lesson",	"task00_waypoint_name":"Gunrunner Camp",	"task01_journal_entry_description":"Return to Peawp R'dawc and let her know you fought the gunrunners.",	"task01_journal_entry_title":"Return to Peawp R'dawc",	"task01_waypoint_name":"Combat Guildhall (Peawp R'dawc)"
+}}

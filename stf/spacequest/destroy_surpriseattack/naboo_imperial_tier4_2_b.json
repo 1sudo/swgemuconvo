@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/naboo_imperial_tier4_2_b",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"A group of mercenaries arrived to late to stop you from getting the shuttle to safety. Destroy these mercenaries.",		"title":"Naboo System: Destroy the Coynite Ambush",		"split_quest_alert_fail":"",		"split_quest_alert":"Coynite ships and smugglers seem to be working together. We need you to capture one of the mercenaries and return it to HQ.",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":"",		"Quest Log Data":"Text"
+		"quest_log_data":"Text",	"assigned_delayed":"",	"complete":"You have survived the Suprise Attack!",	"leave_early":"",	"split_quest_alert":"Coynite ships and smugglers seem to be working together. We need you to capture one of the mercenaries and return it to HQ.",	"split_quest_alert_fail":"",	"title":"Dathomir System: Destroy the Coynite Ambush",	"title_d":"A group of mercenaries arrived too late to stop you from getting the shuttle to safety. Destroy these mercenaries.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

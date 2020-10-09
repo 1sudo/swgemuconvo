@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/corellia_privateer_tier3_1_c",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Survive the Scavenger attack, then return to your trainer",		"title":"Endor System: Survive the Scavenger Attack",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast3 CorSec Command: < \#pcontrast1 Good job coming out of that, return to base. \#pcontrast3 > ",		"assigned_delayed":"",		"Quest Log Data":"Text"
+		"Quest Log Data":"Text",	"assigned_delayed":"",	"complete":"pcontrast3 CorSec Command: < pcontrast1 Good job coming out of that, return to base. pcontrast3 > ",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Endor System: Survive the Scavenger Attack",	"title_d":"Survive the Scavenger attack, then return to your trainer",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

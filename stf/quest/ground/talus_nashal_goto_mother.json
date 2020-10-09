@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_nashal_goto_mother",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You have done what few non-Selonians have ever done. Earned the title of den mate.",	"journal_entry_description":"You have been asked to speak to the den mother, the matriarch of this den of Selonians.",	"journal_entry_title":"Address the Den Mother",	"task00_entrance_waypoint_name":"Selonian Den",	"task00_journal_entry_description":"Go to the bottom of the Selonian cave and speak with the matriarch of the den.",	"task00_journal_entry_title":"Speak with the Den Mother",	"task00_waypoint_name":"Den Mother"
+}}

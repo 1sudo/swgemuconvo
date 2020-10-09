@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/wod_themepark_herb_gathering_fail",
+	"entries": {
+		"category":"Witches of Dathomir Theme Park",	"journal_entry_completion_summary":"You have failed the herb gathering task",	"journal_entry_description":"You took too long gathering herbs.",	"journal_entry_title":"Return to the Herbalist",	"task00_journal_entry_description":"Tell the Herbalist how you failed to gather enough herbs in the time alloted.",	"task00_journal_entry_title":"Return to the Herbalist",	"task00_waypoint_name":"Herbalist"
+}}

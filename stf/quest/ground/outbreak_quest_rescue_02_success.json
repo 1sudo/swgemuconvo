@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_quest_rescue_02_success",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You spoke to HX-138.",	"journal_entry_description":"Find HX-138 and get your next mission.",	"journal_entry_title":"Speak with HX-138",	"task00_journal_entry_description":"Talk to HX-138 to receive your next mission.",	"task00_journal_entry_title":"Speak with HX-138",	"task00_waypoint_name":"HX-138"
+}}

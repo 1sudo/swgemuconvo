@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_goto_vourk",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Vourk wants to speak with you. Go find out what he has to say.",	"journal_entry_title":"Go Speak with Vourk",	"task00_journal_entry_description":"Mayor Guh'rantt of Mos Eisley has told you that Vourk needs to speak with you.",	"task00_journal_entry_title":"Speak with Vourk",	"task00_waypoint_name":"Vourk"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_droid_bunker_lost_patrol",
+	"entries": {
+		"category":"Corellia Droid Factory",	"journal_entry_completion_summary":"you have located the lost Corsec patrol and reported back to Lieutenant Varias.",	"journal_entry_description":"A group of Corsec agents was sent ahead to scout out the factory, however, they have yet to report back. Lieutenant Varias has asked you to look for them.",	"journal_entry_title":"Locate the Lost Corsec Patrol",	"task00_journal_entry_description":"Lieutenant Varias has lost contact with a patrol of Corsec agents. He wants you to locate the patrol.",	"task00_journal_entry_title":"Find the lost Corsec Patrol",	"task01_journal_entry_description":"you have found the lost Corsec patrol, report back to Lieutenant Varias.",	"task01_journal_entry_title":"Report back to Lieutenant Varias"
+}}

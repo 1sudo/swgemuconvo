@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_trando_orooroo_zssik_08",
+	"entries": {
+		"category":"Zssik Clan",	"journal_entry_description":"You need to gain the trust of the Wookiee Resistance so they will attack the Avatar Space Platform. You must convince the Wookiee Resistance leader, Harwakokok, that he can trust you.",	"journal_entry_title":"Gain Wookiee Support",	"task00_journal_entry_description":"Chawroo has sent word through Orooroo that a meeting has been set up between you and a Wookiee Resistance leader, Harwakokok. Travel to Kachirho and meet with the leader in the tree city.",	"task00_journal_entry_title":"Travel to Kachirho",	"task01_journal_entry_description":"You need to speak with Harwakokok and convince him to make an assault on the Avatar Space Platform. Do whatever he asks in order to get him to help you.",	"task01_journal_entry_title":"Speak with Harwakokok",	"task02_journal_entry_description":"Now that you have convinced the Harwakokok to lead an attack on the Avatar Space Platform, return to Orooroo and report your success.",	"task02_journal_entry_title":"Return to Orooroo"
+}}

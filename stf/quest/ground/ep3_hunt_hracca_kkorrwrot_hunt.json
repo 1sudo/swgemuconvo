@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_hracca_kkorrwrot_hunt",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"The kkorrwrot is one of the most feared creatures of the Etyyy region of Kashyyyk. You are to hunt one in the Hracca Glade.",	"journal_entry_title":"Hunt a kkorrwrot in the Hracca Glade",	"task01_journal_entry_description":"Hunt and kill a kkorrwrot in Hracca glade. According to Kint Zsam, to get the kkorrwrot to appear, you will need to remove all of the Chiss poachers from the glade. Their performance enhancement chemicals are tainting the environment and driving away the local creatures.",	"task01_journal_entry_title":"Hunt and Kill a Kkorrwrot",	"task02_journal_entry_description":"You've successfully hunted a kkorrwrot. Return to Kint Zsam and tell him of your accomplishment.",	"task02_journal_entry_title":"Return to Kint Zsam"
+}}

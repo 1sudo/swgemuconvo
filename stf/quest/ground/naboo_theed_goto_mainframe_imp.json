@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_mainframe_imp",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Your newly acquired rank within the RSF will allow you to access confidential information within the RSF mainframe. Find out what you can about the Old Republic droid modules.",	"journal_entry_title":"RSF Mainframe",	"task01_journal_entry_description":"Use the RSF computer to access the information it holds about Old Republic droid modules.",	"task01_journal_entry_title":"Access the RSF Mainframe",	"task03_comm_message_text":"I understand that you've finally achieved the clearance level you need. Very well then, go to the RSF mainframe and learn what it knows about the Old Republic droid modules."
+}}

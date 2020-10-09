@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_undead_rancor_boss_fight",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You defeated the undead Rancor.",	"journal_entry_description":"Defeat the result of an ill-fated Blackwing experiment on a Rancor.",	"journal_entry_title":"Group Event - Undead Rancor",	"task00_journal_entry_description":"Find the Containment Terminal and report in as the security team.",	"task00_journal_entry_title":"Containment Terminal",	"task00_waypoint_name":"Containment Terminal",	"task01_journal_entry_description":"Defeat the undead Rancor.",	"task01_journal_entry_title":"Defeat Undead Rancor",	"task01_start_message":"You hear something very large approaching."
+}}

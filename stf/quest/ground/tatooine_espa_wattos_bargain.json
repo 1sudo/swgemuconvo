@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_espa_wattos_bargain",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"Watto isn't one for charity. You helped him get some stolen property back so he would help you find the lost droid parts.",	"journal_entry_description":"Watto can help you with the droid, but he needs you to collect some speeder parts that were never paid for.",	"journal_entry_title":"Watto's Bargain",	"task00_journal_entry_description":"Watto said he would help you if you would take care of some thieves first.",	"task00_journal_entry_title":"Kill Thieves and Recover Watto's Parts",	"task00_waypoint_name":"Thieves",	"task01_journal_entry_description":"Return to Watto with his stolen parts.",	"task01_journal_entry_title":"Return to Watto",	"task01_waypoint_name":"Watto",	"task02_journal_entry_description":"Good Work! You have completed the Watto's Bargain quest.",	"task02_journal_entry_title":"Complete"
+}}

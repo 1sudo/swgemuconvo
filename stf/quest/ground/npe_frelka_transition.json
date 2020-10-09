@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_frelka_transition",
+	"entries": {
+		"category":"Station Gamma",	"journal_entry_description":"Travel to Station Gamma and speak with Frelka's droid, E-5KL.",	"journal_entry_title":"To Station Gamma!",	"task00_journal_entry_description":"Either use the Gamma Shuttle system, or fly your own space craft.",	"task00_journal_entry_title":"Travel to Station Gamma Via the Shuttle or Your Ship",	"task00_waypoint_name":"Gamma Shuttle Service",	"task01_journal_entry_description":"Meet with Frelka's droid, E-5KL, and learn about Station Gamma.",	"task01_journal_entry_title":"Speak with E-5KL",	"task01_waypoint_name":"E-5KL"
+}}

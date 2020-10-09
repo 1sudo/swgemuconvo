@@ -1,5 +1,5 @@
 {
 	"stfFile":"bombing_run",
 	"entries": {
-		"self_destruct":"Set Self-Destruct",		"menu_command":"Paint Target"
+		"menu_command":"Paint Target",	"self_destruct":"Set Self-Destruct"
 }}

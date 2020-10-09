@@ -1,5 +1,5 @@
 {
 	"stfFile":"gambling/game_n",
 	"entries": {
-		"saarlac":"Saarlac Pit",		"roulette":"Jubilee Wheel",		"sabacc":"Sabacc",		"slot_standard":"Standard Lugjack"
+		"slot_standard":"Standard Lugjack",	"sabacc":"Sabacc",	"roulette":"Jubilee Wheel",	"saarlac":"Saarlac Pit"
 }}

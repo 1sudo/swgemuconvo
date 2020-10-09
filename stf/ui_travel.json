@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_travel",
 	"entries": {
-		"help_roundtrip":"Is this a one-way or two-way ticket purchase?",		"help_planet":"The destination planet.",		"help_map":"This map displays the various locations to which tickets can be purchased.",		"help_location":"The destination location.",		"help_cost":"How much this ticket will cost.",		"label_planet":"on the planet:",		"label_city":"You are in the city of:",		"exit":"Exit",		"roundtrip":"Roundtrip",		"cost":"Cost",		"purchase":"Purchase",		"ticket_purchase":"Ticket Purchasing Terminal"
+		"ticket_purchase":"Ticket Purchasing Terminal",	"purchase":"Purchase",	"cost":"Cost",	"roundtrip":"Roundtrip",	"exit":"Exit",	"label_city":"You are in the city of:",	"label_planet":"on the planet:",	"help_cost":"How much this ticket will cost.",	"help_location":"The destination location.",	"help_map":"This map displays the various locations to which tickets can be purchased.",	"help_planet":"The destination planet.",	"help_roundtrip":"Is this a one-way or two-way ticket purchase?"
 }}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy/corellia_imperial_tier3_3f",
 	"entries": {
-		"title_d":"",		"title":"Hunt for rebel craft",		"split_quest_alert":"",		"quest_location_t":"",		"quest_location_d":"",		"quest_destroy_t":"",		"quest_destroy_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Kill any rebels you come across in endor space"
+		"assigned_delayed":"Kill any rebels you come across in endor space",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"",	"title":"Hunt for rebel craft",	"title_d":""
 }}

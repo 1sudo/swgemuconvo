@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_entertainer_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You need to find the Entertainer trainer, so you may learn the skills you need.",	"journal_entry_title":"Entertainer Trainer",	"task00_journal_entry_description":"Han tells you about a trainer named Mira. She's very good at teaching the basics of Entertaining.",	"task00_journal_entry_title":"Talk to Mira T'rani in the Cantina",	"task00_waypoint_name":"Mira T'rani"
+}}

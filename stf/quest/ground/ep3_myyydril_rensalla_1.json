@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_rensalla_1",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"You came across a stone, belonging to someone named Ren'Salla according to the inscription. Whoever this Ren'Salla is, he or she may be glad that you brought the stone back.",	"journal_entry_title":"Ren'Salla's Stone",	"task00_journal_entry_description":"Find Ren'Salla and bring the stone back to her.",	"task00_journal_entry_title":"Return Ren'Salla's Stone",	"task01_journal_entry_title":"Reward Issued"
+}}

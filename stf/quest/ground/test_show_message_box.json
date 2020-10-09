@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_show_message_box",
+	"entries": {
+		"category":"Test",	"journal_entry_description":"This should display a message box and complete when you click ok.",	"journal_entry_title":"Test showMessageBox Task",	"task00_journal_entry_description":"Click the OK and the quest should complete.",	"task00_journal_entry_title":"Click the OK button",	"task00_message_box_text":"Test Text",	"task00_message_box_title":"Test Title"
+}}

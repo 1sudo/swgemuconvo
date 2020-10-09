@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_krayt_cult",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"The powerful Krayt attracts many types of people. The most recent are crazed worshippers that feel their destiny lies within the belly of the beasts. They eschew all technology as trivial in the face of such a terrible beast, and perform rituals so that their honored dead find peace in the gullet of their revered Krayt Dragons.",	"journal_entry_title":"Cult of the Krayt",	"task00_journal_entry_description":"Brannix is deeply disturbed by the cult's presence so close to his home. Collect four of their dragon fetishes and return to him.",	"task00_journal_entry_title":"Collecting the Fetishes",	"task00_waypoint_name":"Krayt Cult Cave",	"task01_journal_entry_description":"Return the fetishes to Brannix.",	"task01_journal_entry_title":"Return to Brannix",	"task01_waypoint_name":"Brannix",	"task02_journal_entry_description":"Reward",	"task02_journal_entry_title":"Cult of the Krayt",	"task03_journal_entry_description":"Complete",	"task03_journal_entry_title":"Cult of the Krayt",	"task03_waypoint_name":"Tori"
+}}

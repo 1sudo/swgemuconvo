@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/event_gcwcheerleader_cmimp4",
+	"entries": {
+		"category":"Imperial Combatant",	"journal_entry_description":"In my last mission I succeeded in eliminating many in the Rebel chain of command. This is my chance to finish the job and eliminate someone on the top.",	"journal_entry_title":"Operation Overlord",	"task00_journal_entry_description":"I need to find and assassinate a Rebel Admiral.",	"task00_journal_entry_title":"Assassinate Rebel Admiral",	"task01_journal_entry_description":"reward",	"task01_journal_entry_title":"reward",	"task02_journal_entry_description":"reward2",	"task02_journal_entry_title":"reward2"
+}}

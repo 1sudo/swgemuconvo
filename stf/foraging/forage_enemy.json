@@ -1,0 +1,5 @@
+{
+	"stfFile":"foraging/forage_enemy",
+	"entries": {
+		"bark_thief":"What good stuff do you got?!  I aim to find out!",	"bark_wookiee":"Roooarrgh ur roo!",	"bark_criminal":"Hey!  This is my space.  Time to teach you a lesson!",	"bark_scavenger":"Oh you think you can just dig holes anywhere you want punk?  I just sprained my ankle because of you!",	"bark_criminal_defeat":"Showed you to come around these parts.  What kinda cool stuff you got?",	"bark_thief_defeat":"Well...now.  Maybe I should just look in your pack.",	"bark_scavenger_defeat":"Ha.  What are you asleep?  My pet Durni could have beat you up and he only has 3 legs and 1 ear.",	"slot_removed":"Collection item 7CFC00 %TTFFFFFF has been stolen!",	"default":""
+}}

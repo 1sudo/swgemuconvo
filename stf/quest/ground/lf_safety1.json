@@ -1,5 +1,5 @@
 {
 	"stfFile":"quest/ground/lf_safety1",
 	"entries": {
-		"task01_journal_entry_title":"Return to Gerak Vurtimis",		"task01_journal_entry_description":"The hunt was successful.  Return to Gerak Vurtimis.",		"task00_journal_entry_title":"Kill the Worrts",		"task00_journal_entry_description":"Kill 10 worrts and return to Gerak Vurtimis in Bestine.",		"journal_entry_title":"Safety Measures",		"journal_entry_description":"Kill 10 worrts and return to Gerak Vurtimis in Bestine.",		"category":"Ground Quest"
+		"category":"Ground Quest",	"journal_entry_description":"Kill 10 worrts and return to Gerak Vurtimis in Bestine.",	"journal_entry_title":"Safety Measures",	"task00_journal_entry_description":"Kill 10 worrts and return to Gerak Vurtimis in Bestine.",	"task00_journal_entry_title":"Kill the Worrts",	"task01_journal_entry_description":"The hunt was successful.  Return to Gerak Vurtimis.",	"task01_journal_entry_title":"Return to Gerak Vurtimis",	"task01_waypoint_name":"Gerak Vurtimis"
 }}

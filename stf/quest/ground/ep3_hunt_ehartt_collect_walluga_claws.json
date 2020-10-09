@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_ehartt_collect_walluga_claws",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Ehartt Brihnt will test your hunting abilities by asking you to hunt wallugas in Etyyy.",	"journal_entry_title":"Hunting Wallugas",	"task01_journal_entry_description":"Go speak with Ehartt Brihnt at the primary Rodian hunting camp.",	"task01_journal_entry_title":"Seek out Ehartt Brihnt",	"task02_journal_entry_description":"Ehartt wants you to collect 21 perfect walluga claws. Any wallugas in Etyyy could have them.",	"task02_journal_entry_title":"Collect Perfect Walluga Claws",	"task03_journal_entry_description":"You've collected the perfect walluga claws. Now return to Ehartt at the main Rodian hunting camp.",	"task03_journal_entry_title":"Return to Ehartt Brihnt"
+}}

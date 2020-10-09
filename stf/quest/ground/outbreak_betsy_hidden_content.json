@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_betsy_hidden_content",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have delivered Betsy.",	"journal_entry_description":"Deliver Betsy to her owner...whoever that is.",	"journal_entry_title":"Find Betsy's Owner",	"task00_journal_entry_description":"Find Betsy's Owner.",	"task00_journal_entry_title":"Betsy's Owner",	"task00_waypoint_name":"Meet Volunteer"
+}}

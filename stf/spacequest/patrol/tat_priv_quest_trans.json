@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/patrol/tat_priv_quest_trans",
 	"entries": {
-		"title_d":"Rendezvous: Meet with the Nym contact to collect the package for Shamdon",		"title":"Lok System: Rendezvous with the Nym Contact",		"split_quest_alert_fail":"",		"split_quest_alert":"The contact has been destroyed.  Scanning area for clues to the aggressors identity.",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Rendezvous Waypoint",		"quest_patrol_d":"Meeting point for Nym contact",		"quest_location_t":"Lok System",		"quest_location_d":"A rendezvous point in the Lok System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"Find the Rendezvous Point."
+		"assigned_delayed":"Find the Rendezvous Point.",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"A rendezvous point in the Lok System",	"quest_location_t":"Lok System",	"quest_patrol_d":"Meeting point for Nym contact",	"quest_patrol_t":"Rendezvous Waypoint",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"The contact has been destroyed.  Scanning area for clues to the aggressors identity.",	"split_quest_alert_fail":"",	"title":"Lok System: Rendezvous with the Nym Contact",	"title_d":"Rendezvous: Meet with the Nym contact to collect the package for Shamdon"
 }}

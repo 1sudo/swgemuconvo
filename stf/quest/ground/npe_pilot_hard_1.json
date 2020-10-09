@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_hard_1",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_description":"Dartas Needs you to whittle down the number of black sun in the area so the Car'das fleet can attack.",	"journal_entry_title":"Precise Maneuvers",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"Destroy Ace Black Sun Hunters or Ace Black Sun Bloodstalkers.",	"task01_journal_entry_title":"Whittle Down the Black Sun Numbers",	"task02_journal_entry_description":"Return to Dartas to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Dartas",	"task02_waypoint_name":"Dartas Pytin (Elite Car'das Pilot)",	"task03_journal_entry_description":"Report to Dartas of your success.",	"task03_journal_entry_title":"Land and Report back to Dartas",	"task03_waypoint_name":"Dartas Pytin (Elite Car'das Pilot)"
+}}

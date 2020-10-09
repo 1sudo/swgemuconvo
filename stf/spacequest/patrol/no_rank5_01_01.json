@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/no_rank5_01_01",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"goodbye_1":"",	"quest_location_d":"Travel to the Nova Orion Sector of Ord Mantell",	"quest_location_t":"Ord Mantell (Nova Orion Sector)",	"quest_patrol_d":"Search for the source of the strange transmission.",	"quest_patrol_t":"Find the Source of the Transmission",	"quest_target_d":"",	"quest_target_t":"",	"reason_1":"",	"split_quest_alert":"We've picked up a signal. Standby for further instructions...",	"split_quest_alert_fail":"",	"title":"Nova Orion: Find the Source",	"title_d":"An unusual transmission was intercepted on Nova Orion Station. Find its source."
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"self_destruct",
 	"entries": {
-		"thirty_seconds":"You have 30 seconds to exit this building...",		"fifteen_seconds":"You have 15 seconds to exit this building...",		"fifteen":"15 seconds",		"thirty":"30 seconds",		"self_destruct":"Set Self Destruct"
+		"self_destruct":"Set Self Destruct",	"thirty":"30 seconds",	"fifteen":"15 seconds",	"fifteen_seconds":"You have 15 seconds to exit this building...",	"thirty_seconds":"You have 30 seconds to exit this building..."
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_trando_herald",
+	"entries": {
+		"category":"Ground Quest",	"journal_entry_description":"A group of wookiee slaves destined for an unknown Imperial outpost revolted, causing their transport to make an emergency landing. Find and terminate a wookiee slave.",	"journal_entry_title":"Trandoshan Slavemaster",	"task00_journal_entry_description":"I am to track down and terminate the escaped wookiee slave.",	"task00_journal_entry_title":"Terminate Wookiee Slave",	"task01_journal_entry_description":"You have slain the escaped wookiee slave.",	"task01_journal_entry_title":"Reward"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/purvis_recon_three",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Purvis Arrison seems to think he's at war with the Tuskens. He's asked you to recon their junk town, just outside of Mos Eisley.",	"journal_entry_title":"Tusken Recon 3",	"task00_journal_entry_description":"Purvis wants information about the terrain at the nearby graveyards.",	"task00_journal_entry_title":"Recon Tusken Village - 3",	"task00_waypoint_name":"Tusken Graveyard",	"task01_comm_message_text":"Hm, yes. That's about what I expected. While you're checking the terrain there's a ravine nearby there. I want to know more about it."
+}}

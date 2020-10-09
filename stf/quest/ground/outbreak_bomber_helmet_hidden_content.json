@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_bomber_helmet_hidden_content",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You've delivered the helmet.",	"journal_entry_description":"Deliver this helmet to it's owner...whoever that is.",	"journal_entry_title":"Find Helmet Owner",	"task00_journal_entry_description":"Who would own a Tie Bomber Helmet?",	"task00_journal_entry_title":"Find Helmet Owner",	"task00_waypoint_name":"Meet Volunteer"
+}}

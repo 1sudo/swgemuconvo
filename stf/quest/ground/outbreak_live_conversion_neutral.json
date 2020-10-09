@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_live_conversion_neutral",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have met Guri on Dathomir, she would like you to do a job for her.",	"journal_entry_description":"Someone requests your presence on Dathomir.",	"journal_entry_title":"Mysterious Meeting Request",	"task01_comm_message_text":"[Guri] I have an important proposition for you. Meet me on Dathomir.",	"task02_journal_entry_description":"Travel to the new Dathomir Starport named \"Quarantine Zone\"",	"task02_journal_entry_title":"Travel to Dathomir Starport",	"task02_waypoint_name":"New Dathomir Starport",	"task03_journal_entry_description":"Speak with Guri to see what is going on.",	"task03_journal_entry_title":"Speak with Guri",	"task03_waypoint_name":"Guri"
+}}

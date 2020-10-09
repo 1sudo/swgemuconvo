@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_knives_fencing_reward",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Two of Valarian?s employees, Ind and Kavas, are at each other's throats. You have been neck deep in their little intrigues against one another.  Tell Valarian what you know about their activities.",	"journal_entry_title":"Illuminating Valarian",	"task00_journal_entry_description":"You have earned the right to talk to Lady Valarian. She might be interested in what you discovered about Ind and Kavas. ",	"task00_journal_entry_title":"Talk to Lady Valarian",	"task00_waypoint_name":"Lady Valarian",	"task01_journal_entry_title":"Thrust and Pary Reward"
+}}

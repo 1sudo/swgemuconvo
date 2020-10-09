@@ -1,0 +1,5 @@
+{
+	"stfFile":"space_mining",
+	"entries": {
+		"sellprompt":"Please pick a resource that you would like to sell.",	"selltitle":"Sell Resources",	"transferprompt":"How many of this resource would you like to sell?",	"transfertitle":"Sell Resources",	"cargo":"Cargo Hold",	"station":"Mining Outpost",	"stationpays":"This station will pay",	"perresource":"credits per unit of resource sold.",	"prompt":"Your cargo hold contains...",	"title":"Cargo Hold Contents",	"hold_full":"Your cargo hold is full!  You must unload it before you can continue mining.",	"no_hold":"You do not have a cargo hold on this ship.  You need one to mine asteroids.",	"sold":"You complete the transaction with the station.",	"gotrare":"You take in an unusual looking asteroid chunk!  It has been placed in your inventory.",	"invfull":"You tried to take a strange looking asteroid chunk aboard, but your inventory is full."
+}}

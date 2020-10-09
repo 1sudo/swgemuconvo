@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_avatar_security_01",
+	"entries": {
+		"category":"Avatar Space Platform",	"journal_entry_description":"You need to secure a passcard in order to unlock the doors in this area.",	"journal_entry_title":"Open Locked Doors",	"task00_journal_entry_description":"Kill the Trandoshan guards in this section in order to recover a passcard.",	"task00_journal_entry_title":"Retrieve a Passcard",	"task01_journal_entry_description":"Swipe the passcard recovered from the guards to unlock the doors in this section.",	"task01_journal_entry_title":"Use the Security Terminal"
+}}

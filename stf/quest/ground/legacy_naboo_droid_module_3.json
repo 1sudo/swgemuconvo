@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_naboo_droid_module_3",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Speak with Professor Zanier Hudmasse about an Old Republic droideka that was being studied at Stonewall Labs near Dee'ja Peak. That droideka housed an experimental Old Republic droid module, a Strategy/Tactics Simulation Chip.",	"journal_entry_title":"Old Republic Droid Modules: The Droideka",	"task00_journal_entry_description":"Droid Module 3: Speak with Professor Zanier Hudmasse in Dee'ja Peak. Professor Hudmasse was Head of Research at Stonewall Labs, which is where the Old Republic droideka with the Strategy/Tactics Simulation Chip is reported to be.  You will need his help to get that module from the droideka.",	"task00_journal_entry_title":"Droid Module 3: Obtain Professor Hudmasse's Help",	"task00_waypoint_name":"Professor Hudmasse"
+}}

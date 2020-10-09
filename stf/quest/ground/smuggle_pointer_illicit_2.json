@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_illicit_2",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Dalya. Dalya is located on Corellia.",	"journal_entry_title":"Talk to Dalya",	"task00_journal_entry_description":"You need to speak with Dalya. Dalya is an underworld broker dealing with illicit contraband . She can tell you more about smuggeling illicit contraband. Dalya is located on Corellia.",	"task00_journal_entry_title":"Talk to Dalya",	"task00_waypoint_name":"Dalya"
+}}

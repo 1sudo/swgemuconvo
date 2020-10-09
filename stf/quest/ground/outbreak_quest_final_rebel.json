@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_quest_final_rebel",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"Mon Mothma congratulated you on your success.",	"journal_entry_description":"Mon Mothma congratulated you on your success.",	"journal_entry_title":"Mon Mothma",	"task00_journal_entry_description":"none",	"task00_journal_entry_title":"none",	"task01_comm_message_text":"[Mon Mothma] I have received word of your success.  Your heroism and dedication is an inspiration to us all. The Alliance is in your debt. Please accept this token of our appreciation.",	"task03_comm_message_text":"[Cale Herron] I just heard someone infiltrated the quarantine zone and stole something Vader wanted for the Rebels. Hahaha...I wouldn't want to be that person right now."
+}}

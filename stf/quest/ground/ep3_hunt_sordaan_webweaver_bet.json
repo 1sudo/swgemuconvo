@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_sordaan_webweaver_bet",
+	"entries": {
+		"category":"Sordaan's Bet",	"journal_entry_description":"Hunt and kill webweaver spikers on the Bocctyyy Path.",	"journal_entry_title":"Webweaver Spiker Bet",	"task01_journal_entry_description":"To start the webweaver spiker bet, go to the Bocctyyy Path. Speak to the shuttle pilot at the main Rodian camp to get there.",	"task01_journal_entry_title":"Webweaver Spiker Bet: Go to Bocctyyy Path",	"task04_journal_entry_description":"Hunt and kill webweaver spikers on the Bocctyyy path. To win the bet, you must kill more webweaver spikers than Sordaan's hunters have: 18 of them in 20 minutes or less.",	"task04_journal_entry_title":"Webweaver Spiker Bet: Hunt and kill webweaver spikers."
+}}

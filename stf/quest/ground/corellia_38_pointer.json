@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_38_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Lt. Jasper of CorSec asks that you speak with Major Alana Walden in Tyrena.",	"journal_entry_title":"Speak with Major Walden",	"task00_journal_entry_description":"Someone is attemping to contact you. Please wait for the signal to be resolved.",	"task00_journal_entry_title":"Incoming Communication. Please Hold for Signal...",	"task01_comm_message_text":"Greetings. A colleague of mine in Tyrena has some open case files that I thought you might be able to help her with. Head over to Tyrena and speak with Major Alana Walden. Lt. Jasper out.",	"task01_journal_entry_description":"A comm. from Lt. Jasper: \"Greetings. A colleague of mine in Tyrena has some open case files that I thought you might be able to help her with. Head over to Tyrena and speak with Major Alana Walden. Lt. Jasper out.\"",	"task01_journal_entry_title":"Lt. Jasper Contacts You",	"task02_journal_entry_description":"Go speak with Major Alana Walden in Tyrena.",	"task02_journal_entry_title":"Speak with Major Walden in Tyrena",	"task02_waypoint_name":"Major Walden"
+}}

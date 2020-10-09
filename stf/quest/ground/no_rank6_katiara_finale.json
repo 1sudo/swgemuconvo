@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/no_rank6_katiara_finale",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"You have been asked to mark Katiara Orion's final place of rest with a gravestone.",	"journal_entry_title":"Katiara's Rest",	"task02_item_name":"Katiara's gravestone is now in place",	"task02_journal_entry_description":"Bring Katiara Orion's gravestone to the place where she has been laid to rest. It is on the upper level of the station in the central atrium area. Use the gravestone when you drawn near.",	"task02_journal_entry_title":"Katiara's Gravestone",	"task02_retrieve_menu_text":"Place the Gravestone",	"task03_journal_entry_description":"Katiara Orion has appeared before you and seems to have something to tell you. Speak with her.",	"task03_journal_entry_title":"Speak with Katiara"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_drensfolly",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Dren cannot be left alive. Aigorn cannot get the pay off she is looking for with the possibility that Dren still has backups of the medical data. He must be eliminated or her buyers will back out of the deal. Looks like you need to cut down another person before your big reward. This time the target richly deserves it.",	"journal_entry_title":"Dren's Folly",	"task00_journal_entry_description":"Find Dren in the White Horse shipping office and defeat him.",	"task00_journal_entry_title":"Defeat Dren",	"task00_waypoint_name":"Dren",	"task01_journal_entry_description":"Reward",	"task01_journal_entry_title":"Defeat Dren",	"task02_journal_entry_description":"Complete",	"task02_journal_entry_title":"Defeat Dren"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_hard_main_2",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Blacksun Hunters, Venomrazors, and Bloodstalkers.",	"quest_destroy_t":"The Black Sun: Final Hours",	"quest_location_d":"'Han solo has had a few run-ins with the bounty hunters on Ord Mantell. Skorr has come close to tagging the infamous smuggler, having set up a trap for him by kidnapping Princess Leia and Luke Skywalker and holding them as bait at a stellar energy station on the Ten Mile Plateau of Ord Mantell.'",	"quest_location_t":"Ord Mantell: Scarlet Dawn",	"split_quest_alert":"Dartas Pytin: <Pilot! One of their base commanders are making a run for it! Get him before he makes it to the base!>",	"split_quest_alert_fail":"",	"title":"The Trinity: Dual Moons",	"title_d":"'We're staging our final attack. In order to make a successful run against the Black Sun headquarters, the Darkveil Eclipse, we need to take out the Dual Moons; the two bases on either side of the hub. This way, when the Black Sun request assistance, there will be no one to help them.'"
+}}

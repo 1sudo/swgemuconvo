@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_group_launch",
 	"entries": {
-		"waiting":"Waiting...",		"reinvite":"Reinvite",		"kick":"Kick",		"invite":"Invite"
+		"invite":"Invite",	"kick":"Kick",	"reinvite":"Reinvite",	"waiting":"Waiting...",	"invite_rule_pob":"Invite any of the players in the list below.",	"invite_rule_multi":"Invite any of the group members in the list below."
 }}

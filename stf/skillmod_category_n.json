@@ -1,0 +1,5 @@
+{
+	"stfFile":"skillmod_category_n",
+	"entries": {
+		"crafting":"Saber Crafting",	"language":"Languages",	"misc":"Miscellaneous",	"movement":"Navigation",	"bounty_hunter":"Bounty Hunter",	"combat":"Combat",	"attributes":"Attributes",	"stealth":"Stealth",	"politics":"Politics",	"piloting":"Piloting",	"force_sensitive":"Jedi",	"officer":"Officer",	"smuggler":"Smuggler",	"commando":"Commando",	"medic":"Medic",	"spy":"Spy",	"trader":"Trader",	"entertainer":"Entertainer",	"beastmaster":"Beast Mastery",	"species":"Species Traits"
+}}

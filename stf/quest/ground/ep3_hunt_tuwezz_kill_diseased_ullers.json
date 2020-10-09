@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_tuwezz_kill_diseased_ullers",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Tuwezz Vol will test your hunting abilities by asking you to hunt ullers in Etyyy.",	"journal_entry_title":"Hunting Ullers",	"task01_journal_entry_description":"Go to the Hracca Glade gate camp and speak with Tuwezz Vol. A waypoint for his location has been uploaded to your datapad.",	"task01_journal_entry_title":"Seek Tuwezz Vol at the Hracca Glade gate camp",	"task01_waypoint_name":"Tuwezz Vol at the Hracca Glade gate camp",	"task02_journal_entry_description":"Some ullers in the area are spreading the disease they carry to other creatures. Hunt these diseased ullers and help reduce their numbers.",	"task02_journal_entry_title":"Hunt Diseased Ullers",	"task03_journal_entry_description":"Return to Tuwezz and let him know you've thinned the population of diseased ullers.",	"task03_journal_entry_title":"Return to Tuwezz"
+}}

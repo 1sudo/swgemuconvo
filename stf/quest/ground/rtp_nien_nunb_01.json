@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/rtp_nien_nunb_01",
+	"entries": {
+		"category":"Rebel Theme-Park",	"journal_entry_completion_summary":"Nien Nunb is grateful for your help.",	"journal_entry_description":"Help Nien Nunb by recovering some parts for his linguistic decoder and by getting rid of a bounty hunter who is pursuing a personal vendetta against him.",	"journal_entry_title":"Helping Nien Nunb",	"task00_journal_entry_description":"Recover the parts Nien needs for his linguistic decoder from the Canyon Corsairs.",	"task00_journal_entry_title":"Linguistic Decoder Parts",	"task00_waypoint_name":"Known Canyon Corsair Encampment",	"task01_journal_entry_description":"Track down and eliminate a bounty hunter that is after Nien. His last known location was a small village south of Nym's stronghold.",	"task01_journal_entry_title":"Bounty Hunter",	"task02_journal_entry_description":"Return to Nien Nunb.",	"task02_journal_entry_title":"Return to Nien Nunb"
+}}

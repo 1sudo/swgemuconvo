@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_scout_trainer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Visit the Mos Eisley Animal Control officer and offer your services.",	"journal_entry_title":"Animal Control Officer",	"task00_journal_entry_description":"Mayor Guh'rantt of Mos Eisley has given you the location of the animal control officer, Entha Kandela.",	"task00_journal_entry_title":"Visit Entha Kandela",	"task00_waypoint_name":"Entha Kandela",	"task01_journal_entry_description":"Speak with Entha Kandela of the Mos Eisley animal control officer.",	"task01_journal_entry_title":"Speak with Entha Kandela",	"task01_waypoint_name":"Entha Kandela"
+}}

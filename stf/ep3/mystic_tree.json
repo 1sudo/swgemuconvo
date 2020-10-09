@@ -1,0 +1,5 @@
+{
+	"stfFile":"ep3/mystic_tree",
+	"entries": {
+		"heal_tree":"Use Medicine on Tree",	"transform":"The Great Tree begins to transform...",	"mystic_tree_sickly":"The Great Tree (diseased)",	"mystic_tree":"The Great Tree",	"cannot_heal":"You are unable to heal this tree.",	"not_sickly":"Nothing happens."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_dearic_goto_dathnaeya",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Taarna has a personal favor to ask.",	"journal_entry_title":"Fellow Agent",	"task00_journal_entry_description":"Please wait while message downloads to your system.",	"task00_journal_entry_title":"Incoming Message...",	"task01_comm_message_text":"You have been a great help to the people of Corellia. Now I have a personal favor to ask of you. A friend of mine, a fellow agent, has been facing a personal crisis. Due to my responsibilities with CorSec, I can not help her the same way you can. Her name is Dathnaeya Loessin. She works at the capital building in Dearic, though she can be found out by the west side of the building  on her breaks. Please help her.",	"task01_journal_entry_title":"Agent's Quandary",	"task02_journal_entry_description":"Agent Taarna has asked you to talk to Officer Loessin.",	"task02_journal_entry_title":"Speak to Dathnaeya",	"task02_waypoint_name":"Dathnaeya"
+}}

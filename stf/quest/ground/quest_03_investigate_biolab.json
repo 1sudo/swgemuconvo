@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/quest_03_investigate_biolab",
+	"entries": {
+		"category":"Something is Obviously Wrong",	"journal_entry_completion_summary":"You found the biolab ransacked and a datadisk on the dead biologist.",	"journal_entry_description":"Find Bera Jeza's employer and see if you can find any additional clues.",	"journal_entry_title":"Bera Jeza's Employer",	"task00_journal_entry_description":"Find the Biolab where Bera Jeza worked.",	"task00_journal_entry_title":"Biolab",	"task00_waypoint_name":"Mos Eisley Biolab",	"task01_journal_entry_description":"The place has been ransacked and set on fire. See if you can find anything that may have been left behind.",	"task01_journal_entry_title":"Search for Clues",	"task02_comm_message_text":"This is Derg Prantis and it may very well may be my last recording. I've barricaded myself in the biolab hoping to buy some time while I contact the authorities but someone is jamming my comm-signal. If you get this data disk, Bera, please take it to Cale Herron at Mos Taike. Oh no...please! I am unarmed...",	"task02_journal_entry_description":"none",	"task02_journal_entry_title":"non"
+}}

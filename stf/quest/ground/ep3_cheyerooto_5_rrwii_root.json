@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_cheyerooto_5_rrwii_root",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"Dr. Cheyerooto has asked you to gather for him 5 Rrwii roots in from the Ettyy so that he might finish his wookiee cure.",	"journal_entry_title":"The Rrwii Root",	"task00_item_name":"Rrwii Root",	"task00_journal_entry_description":"Dr. Cheyerooto needs you to collect five Rrwii roots in the Etyyy, the hunting grounds. The Rrwii root will kill others of its kind so look for them to be spread across the lands.",	"task00_journal_entry_title":"Collect the Rrwii root",	"task00_retrieve_menu_text":"Collect",	"task01_journal_entry_description":"Return the Rrwii roots to Dr. Cheyerooto.",	"task01_journal_entry_title":"Dr. Cheyerooto"
+}}

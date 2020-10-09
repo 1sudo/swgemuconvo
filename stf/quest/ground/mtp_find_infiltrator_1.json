@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_find_infiltrator_1",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You found out what was making the noises.",	"journal_entry_description":"Patrol around the supplies and see if you can find the source of the disturbance..",	"journal_entry_title":"Patrol Around The Supplies",	"task00_journal_entry_description":"nothing",	"task00_journal_entry_title":"nothing",	"task01_journal_entry_description":"find",	"task01_journal_entry_title":"find",	"task02_journal_entry_description":"Find out what has got the Locksmith frightened.",	"task02_journal_entry_title":"Find The Source Of All The Noise",	"task02_task_display_string_1":"You have found an enemy infiltrator around the Meatlump Supplies.",	"task03_journal_entry_description":"Return to the Meatlump Locksmith to report what you have found.",	"task03_journal_entry_title":"Return to the Meatlump Locksmith"
+}}

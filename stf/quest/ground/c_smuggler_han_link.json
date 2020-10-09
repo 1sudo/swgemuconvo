@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_smuggler_han_link",
+	"entries": {
+		"category":"Profession",	"journal_entry_description":"Radeld Siwar, a mere acquaintance of Han Solo, has volunteered to teach you the way of the Smuggler. Find him and speak with him.",	"journal_entry_title":"Way of the Smuggler",	"task00_comm_message_text":"Hey, kid. You seem a little lost. Talk to Radeld Siwar. He'll show you the ropes. Maybe I'll see you around. You're a good kid.",	"task01_journal_entry_description":"Find and speak with Radeld Siwar, one of Han Solo's aquaintances. Look for him in the Mos Eisley Combat Hall.",	"task01_journal_entry_title":"Speak To Radeld",	"task01_waypoint_name":"Radeld"
+}}

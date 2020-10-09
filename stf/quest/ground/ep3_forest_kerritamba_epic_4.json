@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_kerritamba_epic_4",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"The Sayormi, fierce warriors of rot and decay, have been making a nuisance of themselves in an area called 'The Dead Forest' just east of the Kerritamba village. It is your duty to defeat 20 of the Sayormi people before the forest is nothing more than a lifeless carcass.",	"journal_entry_title":"The Sayormi",	"task00_journal_entry_description":"Defeat 20 Sayormi and return to the Chief in the Kerritamba village.",	"task00_journal_entry_title":"Defeat the Sayormi",	"task01_journal_entry_description":"Return to the Chief Kerritamba in the village.",	"task01_journal_entry_title":"Return to Chief Kerritamba",	"task02_journal_entry_title":"Reward Issued"
+}}

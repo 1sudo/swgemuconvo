@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_force_template",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You need to find the Force Sensitve trainer, so that you may learn the skills needed to survive.",	"journal_entry_title":"Force Sensitive Training",	"task00_journal_entry_description":"Nos'lyn can teach you about the ways of the Force",	"task00_journal_entry_title":"Talk to Nos'lyn in the Close Combat Training Room",	"task00_waypoint_name":"Nos'lyn"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_interview_choster",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've spoken to Choster and given Vana Sage the information.",	"journal_entry_description":"Find Choster and ask him about the Sulfur Lake Pirates.",	"journal_entry_title":"Speak with Choster",	"task00_journal_entry_description":"Find Choster in the Stronghold Cantina.",	"task00_journal_entry_title":"Meet Choster",	"task00_waypoint_name":"Stronghold Cantina",	"task01_journal_entry_description":"Tell Vana Sage what Choster told you.",	"task01_journal_entry_title":"Return to Vana Sage",	"task01_waypoint_name":"Vana Sage (inside Stronghold)"
+}}

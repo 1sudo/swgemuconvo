@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_tyrena_goto_madison",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You have met with Madison Silane about her missing husband.",	"journal_entry_description":"You were able to complete your mission for CorSec. It appears all is well. It looks like things are back to normal...or are they? ",	"journal_entry_title":"Situation Resolved",	"task01_comm_message_text":"I understand you helped my friend Angela find her missing husband. Please I need your help. I am on Corellia, in the city of Tyrena. Please come see me personally.",	"task01_entrance_waypoint_name":"Madison Silene",	"task01_journal_entry_description":"A friend of Angela's is trying to contact you.",	"task01_journal_entry_title":"Communication from Madison",	"task01_waypoint_name":"Madison Silene",	"task02_journal_entry_description":"A friend of Angela's has contacted you after helping Angela. It looks like Angela's friend Madison needs help as well. A hero's work is never done.",	"task02_journal_entry_title":"Meet with Madison Silene",	"task02_waypoint_name":"Madison Silene"
+}}

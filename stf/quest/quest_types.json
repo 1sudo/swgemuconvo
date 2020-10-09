@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/quest_types",
+	"entries": {
+		"solo":"Solo",	"group":"Group"
+}}

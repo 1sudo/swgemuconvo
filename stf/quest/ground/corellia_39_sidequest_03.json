@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_39_sidequest_03",
+	"entries": {
+		"category":"Corellia",	"journal_entry_completion_summary":"You found Galvain Tark's racing durni that were stolen by Chirq Council thugs.",	"journal_entry_description":"Some racing durni were stolen and are being held in Jzoro's bunker. Recover them for Galvain Tark.",	"journal_entry_title":"Recover the Stolen Racing Durni",	"task00_entrance_waypoint_name":"Entrance to Bunker with Stolen Durnis",	"task00_item_name":"You take the racing durni",	"task00_journal_entry_description":"Find the stolen racing durnis and return them to Galvain Tark.",	"task00_journal_entry_title":"Recover the Stolen Racing Durni",	"task00_retrieve_menu_text":"Take the racing durni",	"task00_waypoint_name":"Entrance to Bunker with Stolen Durnis",	"task01_journal_entry_description":"Return to Galvain Tark with the racing durnis you recovered.",	"task01_journal_entry_title":"Return to Galvain Tark",	"task01_waypoint_name":"Galvain Tark"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_gotoreb",
+	"entries": {
+		"category":"Legacy Training",	"journal_entry_completion_summary":"You found the Rebel pilot trainer. Are you going to oppose the Empire?",	"journal_entry_description":"Find the Rebellion pilot trainer.",	"journal_entry_title":"Find the Rebel Alliance pilot trainer.",	"task00_journal_entry_description":"Find the Rebel pilot trainer; Commander Da'la Socuna",	"task00_journal_entry_title":"Find Commander Da'la Socuna",	"task00_waypoint_name":"Commander Da'la Socuna (Rebellion Pilot Trainer)",	"task01_journal_entry_description":"You have found the Rebel Alliance pilot trainer.",	"task01_journal_entry_title":"Join the Rebellion",	"task02_journal_entry_description":"You have found the Rebel Alliance pilot trainer. It's time to overthrow!",	"task02_journal_entry_title":"Join The Rebellion"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_drensbounty",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"Durr is dead. It turns out he's not the leader of this base, but just a lackey for the true leader. You have a lead from Dren's greedy slicing, but you still don't know who the true leader is.",	"journal_entry_description":"It's time to do Jabba's dirty work. With all that you have seen Durr be accountable for, it's not a too distasteful task. Durr needs to answer for the lives he has destroyed, if that just so happens to make Jabba happy enough to let you go, so be it.",	"journal_entry_title":"Jabba's Dirty Work",	"task00_journal_entry_description":"Find Durr in the White Thranta shipping office and defeat him.",	"task00_journal_entry_title":"Defeat Durr",	"task00_waypoint_name":"White Thranta Shipping",	"task01_journal_entry_description":"Good Work! You have defeated the monster Durr. It's now time to find out who is really in charge here.",	"task01_journal_entry_title":"Complete"
+}}

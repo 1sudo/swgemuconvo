@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/nova_rank3_03",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"goodbye_1":"",	"quest_location_d":"Travel to the Nova Orion Sector or Ord Mantell",	"quest_location_t":"Ord Mantell (Nova Orion Sector)",	"quest_patrol_d":"Travel to the Orion Hyperspace point.",	"quest_patrol_t":"Find the Hyperspace Point",	"quest_target_d":"",	"quest_target_t":"",	"reason_1":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Blockade",	"title_d":"Navigate to a known Orion shipping lane. Once there, you will disrupt their shipments."
+}}

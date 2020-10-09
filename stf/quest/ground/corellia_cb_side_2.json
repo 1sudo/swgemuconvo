@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_cb_side_2",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Jark wants you to kill Ragtag Thugs and Mercenaries.",	"journal_entry_title":"Ragtag First Strike",	"task00_journal_entry_description":"Jark wants you to kill 15 Ragtag Thugs that are loitering to the south.",	"task00_journal_entry_title":"Eliminate 15 Ragtag Thugs",	"task00_waypoint_name":"Ragtag Disturbance",	"task01_journal_entry_description":"Jark wants you to kill 15 Ragtag Mercenaries that are loitering to the south.",	"task01_journal_entry_title":"Eliminate 10 Ragtag Mercenaries",	"task01_waypoint_name":"Ragtag Disturbance",	"task02_comm_message_text":"Great work! That should slow them down.  This buys us time to get the troops trained with the weapons and be prepared for them if they decide to try anything.  ",	"task03_journal_entry_description":"Speak with Jark again.",	"task03_journal_entry_title":"Return to Jark",	"task03_waypoint_name":"Jark"
+}}

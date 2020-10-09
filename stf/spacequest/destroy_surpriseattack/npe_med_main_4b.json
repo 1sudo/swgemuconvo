@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_med_main_4b",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast1 Tactical Computer:pcontrast3 <Scanning... Threat alleviated. No enemies in the vacinity. Mission complete.>",	"leave_early":"",	"split_quest_alert":"Aleas Rans'ery: <Time t'return home pilot...>",	"split_quest_alert_fail":"",	"title":"Blacksun Hero: Arlem Demonhunter!",	"title_d":"'Arlem Demonhunter... a hero of the Blacksun! Rumored to take on a whole Car'das fleet single-handedly! When I've defeated the Black Sun hero, I should return to Aleas.'",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

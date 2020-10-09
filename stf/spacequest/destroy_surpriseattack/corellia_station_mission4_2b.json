@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/corellia_station_mission4_2b",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"In response to destroying the Cloak Representative, a fighter wing has come in to destroy you. They must all be eliminated.",		"title":"Corellia System: Cloak Retribution",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"complete":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Enemy threat neutralized.\#pcontrast1 >",		"assigned_delayed":"\#pcontrast1 Tactical Computer: <\#pcontrast3  Warning. Enemy craft inbound.\#pcontrast1 >"
+		"assigned_delayed":"pcontrast1 Tactical Computer: <pcontrast3  Warning. Enemy craft inbound.pcontrast1 >",	"complete":"pcontrast1 Tactical Computer: <pcontrast3  Enemy threat neutralized.pcontrast1 >",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Corellia System: Cloak Retribution",	"title_d":"In response to destroying the Cloak Representative, a fighter wing has come in to destroy you. They must all be eliminated.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_defend_imperial_barricade",
+	"entries": {
+		"category":"Combat",	"journal_entry_completion_summary":"You have successfully defended the barricade.",	"journal_entry_description":"Defend the barricade while defeating any non-vehicle enemies in the area.",	"journal_entry_title":"Defend Barricade, Defeat Enemies",	"task01_journal_entry_description":"Defeat 10 non-vehicle enemies in the area.",	"task01_journal_entry_title":"Defeat 10 Enemies",	"task02_journal_entry_description":"You successfully defeated 10 enemies.",	"task02_journal_entry_title":"Enemies Defeated!",	"task03_journal_entry_description":"Defend the barricade at all costs!",	"task03_journal_entry_title":"Defend Barricade"
+}}

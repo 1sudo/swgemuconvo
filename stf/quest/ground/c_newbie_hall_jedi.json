@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_newbie_hall_jedi",
+	"entries": {
+		"category":"Welcome to Star Wars Galaxies!",	"journal_entry_description":"Leave the space station and go to Mos Eisley",	"journal_entry_title":"On to Mos Eisley",	"task01_journal_entry_description":"Tutorial completed. You must get off the station and go to Mos Eisley. Darex Rath can help.",	"task01_journal_entry_title":"Get off the station",	"task02_journal_entry_description":"Use the ticket terminal to leave the station and arrive in Mos Eisley.",	"task02_journal_entry_title":"Go to Mos Eisley"
+}}

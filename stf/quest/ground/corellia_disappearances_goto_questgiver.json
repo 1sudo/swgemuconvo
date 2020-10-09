@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_disappearances_goto_questgiver",
+	"entries": {
+		"category":"Talk to Commander Talte",	"journal_entry_description":"Commander Talte needs your help in Doaba Guerfel.",	"journal_entry_title":"A New Assignment",	"task00_journal_entry_description":"Commander Talte is having a problem with people going missing. Talk to him in Doaba Guerfel.",	"task00_journal_entry_title":"Talk to Commander Talte",	"task00_waypoint_name":"Commander Talte"
+}}

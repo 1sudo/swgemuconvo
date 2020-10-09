@@ -1,5 +1,5 @@
 {
 	"stfFile":"celebrity/gethzerion",
 	"entries": {
-		"npc_3":"Fool!",		"npc_2":"Good!",		"player_2":"I like it here.",		"player_1":"Sorry, I'll go.",		"npc_1":"I am the ruler of the Nightsisters.  You have no place here..."
+		"npc_1":"I am the ruler of the Nightsisters.  You have no place here...",	"player_1":"Sorry, I'll go.",	"player_2":"I like it here.",	"npc_2":"Good!",	"npc_3":"Fool!"
 }}

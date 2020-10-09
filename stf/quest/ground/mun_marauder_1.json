@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_1",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft boots for the Marauder smith.",	"journal_entry_title":"Boot Crafting",	"task01_journal_entry_description":"Craft three pairs of Mabari armor boots.",	"task01_journal_entry_title":"Craft Mabari Armor Boots",	"task02_journal_entry_description":"Craft three pairs of Bone armor boots.",	"task02_journal_entry_title":"Craft Bone Armor Boots",	"task03_journal_entry_description":"Craft three pairs of Composite armor boots.",	"task03_journal_entry_title":"Craft Composite Armor Boots",	"task04_journal_entry_description":"Craft all three pairs of boots.",	"task04_journal_entry_title":"Craft all the Boots",	"task04_task_display_string_1":"Crafted Composite Armor Boots",	"task04_task_display_string_2":"Crafted Bone Armor Boots",	"task04_task_display_string_3":"Crafted Mabari Armor Boots",	"task05_journal_entry_description":"Return to Macchbraus with the boots.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

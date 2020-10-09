@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy/corellia_imperial_tier3_1c",
 	"entries": {
-		"title_d":"",		"title":"Destroy rebel A Wings",		"split_quest_alert":"",		"quest_location_t":"",		"quest_location_d":"",		"quest_destroy_t":"",		"quest_destroy_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"You have been assigned a destroy from the patrol"
+		"assigned_delayed":"You have been assigned a destroy from the patrol",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"",	"title":"Destroy rebel A Wings",	"title_d":""
 }}

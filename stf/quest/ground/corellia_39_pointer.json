@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_39_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Lt. Cope wants you to follow up on your investigation of the Chirq Council in Doaba Guerfel. Speak with Captain Vitala Baize of CorSec for more details.",	"journal_entry_title":"Speak with Captain Baize",	"task00_journal_entry_description":"Go speak with Captain Vitala Baize in Doaba Guerfel.",	"task00_journal_entry_title":"Speak with Captain Baize in Doaba Guerfel",	"task00_waypoint_name":"Captain Vitala Baize"
+}}

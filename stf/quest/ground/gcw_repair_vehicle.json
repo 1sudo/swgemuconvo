@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_repair_vehicle",
+	"entries": {
+		"category":"Trader",	"journal_entry_description":"This vehicle is in need of repairs.",	"journal_entry_title":"Vehicle Repair",	"task01_journal_entry_description":"The vehicle needs to be repaired.",	"task01_journal_entry_title":"Repair a Vehicle",	"task02_journal_entry_description":"The vehicle is stronger due to your hard work.",	"task02_journal_entry_title":"Repair Completed!"
+}}

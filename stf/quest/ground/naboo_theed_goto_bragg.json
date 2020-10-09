@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_bragg",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Sergeant Mercious Bragg.",	"journal_entry_title":"Report to Sergeant Bragg",	"task00_journal_entry_description":"Report to Sergeant Mercious Bragg. You will find him in the Theed cantina.",	"task00_journal_entry_title":"Report to Sergeant Bragg",	"task00_waypoint_name":"Theed Cantina Entrance"
+}}

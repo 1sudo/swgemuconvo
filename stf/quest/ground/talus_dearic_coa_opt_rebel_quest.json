@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_dearic_coa_opt_rebel_quest",
+	"entries": {
+		"category":"Rebel",	"journal_entry_completion_summary":"The Imperials have been taken out.  The way is free for Syirlabradawk to leave the base.",	"journal_entry_description":"The Imperials have arrived ahead of schedule to escort Syirlabradawk to a more secure facility.  They must be taken out before the wookiee can be successfully rescued.",	"journal_entry_title":"Imperial Prisoner Escort",	"task00_journal_entry_description":"Take out ten Imperial stormtroopers in the observation tower at the N.S.H. base.  You must be an active Rebel operative to attack stormtroopers.  No personnel on leave will be able to complete this quest.",	"task00_journal_entry_title":"Imperial Escort",	"task00_waypoint_name":"N.S.H. base",	"task01_journal_entry_description":"The Imperials who had come to escort Syir to an Imperial prison have been eliminated.  Report back to Syirlabradawk..",	"task01_journal_entry_title":"Imperial Escort Eliminated",	"task01_waypoint_name":"N.S.H. base"
+}}

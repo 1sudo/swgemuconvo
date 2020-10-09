@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/no_rank4_nova_02",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"Hostility has errupted between Garrick Orion and Jonas Nova. Help Jonas hold off Orion's forces.",	"journal_entry_title":"Rising Violence",	"task01_journal_entry_description":"Hostility has errupted between Garrick Orion and Jonas Nova. Help Jonas hold off Orion's forces.",	"task01_journal_entry_title":"Hostile Environment",	"task03_journal_entry_description":"Return to Jonas Nova on Nova Orion Station.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

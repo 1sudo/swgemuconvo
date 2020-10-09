@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_parts_1",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've found the Quartermaster, now get the stuff P{hor needs",	"journal_entry_description":"Find Nym's Quartermaster and speak with her about Phor's needs",	"journal_entry_title":"Parts Is Parts, part I",	"task00_journal_entry_description":"Find Ralia Reeven, Nym's Quartermaster",	"task00_journal_entry_title":"Find Nym's Quartermaster",	"task00_waypoint_name":"Quartermaster Ralia Reeven"
+}}

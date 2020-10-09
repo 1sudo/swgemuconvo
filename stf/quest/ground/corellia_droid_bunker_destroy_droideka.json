@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_droid_bunker_destroy_droideka",
+	"entries": {
+		"category":"Corellia Droid Factory",	"journal_entry_completion_summary":"You have helped reduce the number of droids defending the corellian droid factory",	"journal_entry_description":"Destroy five of the Droidekas guarding the heart of the droid factory.",	"journal_entry_title":"Destroy 5 Droidekas",	"task00_journal_entry_description":"Disable five Droidekas in the heart of the droid factory.",	"task00_journal_entry_title":"Destroy 5 Droidekas",	"task01_journal_entry_description":"Report your success to Sargeant Mener",	"task01_journal_entry_title":"Return to Sergeant Mener"
+}}

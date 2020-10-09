@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_med_main_1a",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Blacksun Bloodstalkers.",	"quest_destroy_t":"The Black Sun Attack",	"quest_location_d":"'Over 70% of Ord Mantell's surface is covered with pink clouds, masking the resplendence of city lights and the yellow soil of Ord Mantell's landmass.'",	"quest_location_t":"Ord Mantell: Bright Jewel Ribbon",	"split_quest_alert":"Aleas Rans'ery: <Time t'return home pilot...>",	"split_quest_alert_fail":"",	"title":"Car'das Fleet: The Black Sun's Return",	"title_d":"'With a blaring ring of clarity, the Black Sun have sprung into action, attacking a Car'das check point with an unmerciless ferocity. I have to help them! Aleas Rans'ery has entrusted me with the safety of her men. I have to prove myself. The Black Sun will surely fall! I should return to Aleas after I have completed my mission.'"
+}}

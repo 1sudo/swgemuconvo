@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_anchorjobs_bantha",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"The request that Ordo gave you was a bit out of the ordinary, but took the job anyway. You killed enough bantha's to insure that the Imperials would not be using them as supplemental mounts anytime soon.",	"journal_entry_description":"The Alliance is attempting to disrupt Imperial patrols in any way that they can. Due to a lack of speeder bikes and other transport, the Imperials have been using dewbacks to mount some of their patrols. They are also looking into using banthas as mounts. The Rebels want to preempt this attempt by slaughtering as many wild banthas as possible. You are hired to kill as many banthas as possible.",	"journal_entry_title":"Rebel Bantha Hunt",	"task00_journal_entry_description":"The Alliance wants you to kill banthas so that the Empire does not use them as mounts for their patrols. ",	"task00_journal_entry_title":"Kill Banthas",	"task00_waypoint_name":"Banthas",	"task01_comm_message_text":"Excellent job. This should reduce the number of patrols that the Empire can send out. I have credited your account."
+}}

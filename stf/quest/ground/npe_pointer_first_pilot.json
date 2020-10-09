@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_first_pilot",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Serissu the pilot trainer in Hangar Bay 01 and ask her to teach you basic pilot skills.",	"journal_entry_title":"Basic Pilot Training",	"task00_journal_entry_description":"Go over and talk to Serissu in Hangar Bay 1. She apparently can assist you with basic pilot training.",	"task00_journal_entry_title":"Get basic pilot training",	"task00_waypoint_name":"Serissu (Pilot Trainer)"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_hard_main_3b",
+	"entries": {
+		"assigned_delayed":"",	"complete":"Dartas Pytin: <That was a close one, pilot! But you survived. Well done! Our job is not done, however.>",	"leave_early":"",	"split_quest_alert":"Dartas Pytin: <We're at the final, battle, my friend. It will be long and difficult, I'm afraid. The Black Sun have amassed a large attack and our fleet is meeting them head-on. I want you to be there. You're one of the best pilots we have!>",	"split_quest_alert_fail":"",	"title":"The Trinity: Ambush!",	"title_d":"'The Black Sun have sent their assassins for me!'",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

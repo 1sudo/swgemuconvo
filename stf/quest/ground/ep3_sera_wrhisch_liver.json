@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_sera_wrhisch_liver",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"Sera Jossi wants you to collect the liver of the mad Wookiee Wrhisch and take it to Dr. Cheyerooto in the medical center of Kachirho.",	"journal_entry_title":"Sera Jossi",	"task00_journal_entry_description":"You will need to kill Wrhisch and collect his liver for further study.  When finished take it to Dr. Cheyerooto for study.",	"task00_journal_entry_title":"Collect the liver",	"task01_journal_entry_description":"In the abandoned village to the north the craze stricken wookiee gather. One of the first is a Wookiee named Wrhisch. You must bring his liver to Dr. Cheyerooto of Kachirho in the hopes of finding a cure.",	"task01_journal_entry_title":"Wrhisch",	"task02_journal_entry_description":"Now that you have killed Wrhisch, take his liver to Dr. Cheyerooto in the Medical Center.",	"task02_journal_entry_title":"Dr. Cheyerooto",	"task03_journal_entry_description":"In an old abandoned wookiee village the mad wookiee's gather.  Find among them Wrhisch and collect his liver for Dr. Cheyerooto",	"task03_journal_entry_title":"Wrhisch Liver"
+}}

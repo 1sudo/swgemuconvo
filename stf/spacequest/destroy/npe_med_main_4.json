@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_med_main_4",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Blacksun Bloodstalkers or Blacksun Hunters.",	"quest_destroy_t":"Vendetta: Vile Black Sun",	"quest_location_d":"'The planet of Ord Mantell has a temperate climate with a vareity of different terrain types. The most remarkable are the plateaus peppering Ord Mantell's surface. Be sure to visit the Ten Mile Plateau while on Ord Mantell!'",	"quest_location_t":"Ord Mantell: Bright Jewel Ribbon",	"split_quest_alert":"Aleas Rans'ery: <Pilot! Now's not the time fer revenge! Ya disobeyed a direct order! [Static.. *tzzzt!*] Pilot! Blacksun are comin' straight for ya!>",	"split_quest_alert_fail":"",	"title":"Vendetta: The Counter-Attack",	"title_d":"'It's time to make a stand against these villains! Aleas acts too slowly for my liking and my skill at flying surpasses most! I can't just stand by and do small tasks when there's a war out there! For the Car'das and freedom!'"
+}}

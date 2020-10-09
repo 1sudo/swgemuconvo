@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/no_rank5_02_orion",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"A Dark Jedi named Ter-Doac Vaine has been controlling Garrick Orion and causing the rift between Garrick and Jonas Nova. Vaine was doing this in an attempt to strengthen his base of power by having Nova Orion Industries build battle droids and weapons for him. Ter-Doac Vaine's goal is to wrest control of a renegade Star Destroyer that was recently commandeered by former Imperial Captain Sait.",	"journal_entry_title":"End Game",	"task01_journal_entry_description":"Stop Ter-Doac Vaine and his forces from completing their assault on Nova Orion Station.",	"task01_journal_entry_title":"Not in Vaine",	"task03_journal_entry_description":"Return to Garrick Orion on Nova Orion Station.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

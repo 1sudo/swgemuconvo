@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_tosche_shmi_flowers",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"Somehow you get the feeling the spirit of Shmi is pleased with you.",	"journal_entry_description":"Sorna is an old friend of a well-liked but enigmatic slave woman that went by the name Shmi. She has been dead quite some time, but Sorna does not like seeing her friend's grave ignored. Sorna would like you to add some flowers to the gravesite to help ease the deceased's troubles.",	"journal_entry_title":"Flowers for Shmi",	"task00_journal_entry_description":"See if you can help Sorna with her task.",	"task00_journal_entry_title":"Talk to Sorna",	"task00_waypoint_name":"Sorna",	"task01_item_name":"Shmi's Gravestone",	"task01_journal_entry_description":"Find the gravestone and place Sorna's flowers.",	"task01_journal_entry_title":"Place the Flowers",	"task01_retrieve_menu_text":"Place Sorna's Flowers",	"task01_waypoint_name":"Grave Site"
+}}

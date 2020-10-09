@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_bounty_hunter_kill_4",
+	"entries": {
+		"category":"Profession",	"journal_entry_description":"You found out that Charde sent Soris after Nalskel. Nalskel wants you to find and assassinate Charde.",	"journal_entry_title":"Charde the Rival Politician",	"task00_journal_entry_description":"Find and defeat Nalskel's rival; Charde the politician.",	"task00_journal_entry_title":"Find and Defeat Charde"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_trando_olima_grunc",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"Olima Grunc has hired you to gather ten undamaged livers from ullers. He has informed you that a good place to hunt for ullers is in Etyyy.",	"journal_entry_title":"Treat for the Trandoshans",	"task00_journal_entry_description":"A large herd of ullers can be found in Etyyy. The only problem is that the Rodian nobles guard this hunting area jealously and in order to gain access you will have to gain their permission.",	"task00_journal_entry_title":"Travel to Etyyy",	"task01_journal_entry_description":"You will need to kill ullers until you have gathered ten undamaged livers. Occasionally livers become damaged during a kill but this is generally a rare occurrence.",	"task01_journal_entry_title":"Hunting the Ullers",	"task02_journal_entry_description":"Bring the undamaged livers back to Olima Grunc.",	"task02_journal_entry_title":"Return to Olima Grunc",	"task03_journal_entry_title":"Reward Issued"
+}}

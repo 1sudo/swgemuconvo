@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/nova_orion_rank1_02",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"Follow the patrol route that has many pirate attacks. Eliminate pirates you find.",	"journal_entry_title":"Patrolling for Pirates",	"task00_journal_entry_description":"Fly on a patrol route, looking for pirates to eliminate.",	"task00_journal_entry_title":"Fly Patrol",	"task02_journal_entry_description":"Return and report.",	"task02_journal_entry_title":"Mission Accomplished"
+}}

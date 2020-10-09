@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_easy_main_1b",
+	"entries": {
+		"assigned_delayed":"",	"complete":"Laetin A'shera: <That was close. You handled yourself well out there. I didn't realize that the Black Sun had become so brave... The hard part is over.>",	"leave_early":"",	"split_quest_alert":"Laetin A'shera: <Pilot, bring me what you found on the Black Sun spy. It may contain vital information about the latest Black Sun attacks.>",	"split_quest_alert_fail":"",	"title":"Black Sun Infiltration: Danger in the Home-front!",	"title_d":"'Sweat beads on my brow as the Black Sun's guns beat into the hull of my ship. The attack was unexpected. Surprisingly, the Black Sun stick to their own and protect each other. Or was I just in the way of an attack meant for someone else? I'll never know. But the tyrannical reign of the Black Sun ends now.'",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

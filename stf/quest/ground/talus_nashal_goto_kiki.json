@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/talus_nashal_goto_kiki",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"The Selonians are faced with a well organized group of smugglers. You don't know how they coerced the Selonians into working for them, but you can find out more by following the Selonian's requests.",	"journal_entry_description":"The CorSec agent cannot officially intervene in the affairs of the Selonian den. You have been asked to see what an independent agent could do for them.",	"journal_entry_title":"Talk to Kiki",	"task00_entrance_waypoint_name":"Selonian Den",	"task00_journal_entry_description":"Find Kiki the Selonian and see how you can help her against the smugglers.",	"task00_journal_entry_title":"Talk to Kiki",	"task00_waypoint_name":"Kiki Dorente"
+}}

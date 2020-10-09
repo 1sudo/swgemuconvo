@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_together_2",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"Following a long and twisting trail you have finally gotten the droid together. Inside was information that your handler found quite interesting. You have been told to go to  Naboo to continue the chase.",	"journal_entry_description":"You have the head from EV-9D9. Watto has the other parts that you found. Go back to Watto and put the droid back together.",	"journal_entry_title":"Putting it Together",	"task00_journal_entry_description":"Go back to Watto and have him reassemble the droid for you.",	"task00_journal_entry_title":"Go to Watto",	"task00_waypoint_name":"Watto",	"task01_journal_entry_description":"Have Watto add power to the droid.",	"task01_journal_entry_title":"Power Up the Droid",	"task01_waypoint_name":"Watto",	"task02_journal_entry_description":"Now that Watto has charged the droid, collect it and go on about your business.",	"task02_journal_entry_title":"Retrieve Droid",	"task02_waypoint_name":"Watto"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_smuggler_comm",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Visit Loche and Rydel to complete your smuggler training.",	"journal_entry_title":"A Smuggler's Training",	"task00_journal_entry_description":"Visit Loche and complete his training.",	"task00_journal_entry_title":"Loche",	"task02_comm_message_text":"Next, visit Rydel for melee combat training. You never know when you'll need your fists. Better get acquainted with it now, kid.",	"task03_journal_entry_description":"Visit Rydel and complete his training.",	"task03_journal_entry_title":"Rydel",	"task05_comm_message_text":"Now for the real stuff. Come back, kid. I have a job for you. It's time to learn the trick of your trade: smuggling.",	"task06_waypoint_name":"Han Solo"
+}}

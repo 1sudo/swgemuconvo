@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_first_mission",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_description":"You have been ordered to fly a patrol over to the Gamma outpost. Use the green Space Terminal in the Hangar Bay to access your ship.",	"journal_entry_title":"First pilot mission",	"task00_journal_entry_description":"You have been ordered to fly a patrol over to the Gamma outpost. Use the green Space Terminal in the Hangar Bay to access your ship.",	"task00_journal_entry_title":"Pilot training",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"You've been asked to fly a patrol over to the Gamma Station. If you decide to land on Station Gamma, be aware that it's in a state of chaos and that it may be dangerous.",	"task01_journal_entry_title":"Your first pilot mission"
+}}

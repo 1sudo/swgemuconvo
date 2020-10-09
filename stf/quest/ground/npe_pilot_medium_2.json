@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_medium_2",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_description":"Somehow the Kallor brothers were bested by the Black Sun and need help.",	"journal_entry_title":"Kallor Brothers Rescue",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"Help rescue the Kallor brothers.",	"task01_journal_entry_title":"Find the Kallor Brothers",	"task02_journal_entry_description":"Return to Aleas to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Aleas",	"task02_waypoint_name":"Aleas (Ace Car'das Pilot)",	"task03_journal_entry_description":"Report to Aleas of your success.",	"task03_journal_entry_title":"Land and Report back to Aleas",	"task03_waypoint_name":"Aleas (Ace Car'das Pilot)"
+}}

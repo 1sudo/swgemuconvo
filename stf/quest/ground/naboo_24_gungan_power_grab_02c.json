@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_24_gungan_power_grab_02c",
+	"entries": {
+		"category":"Azure Cabal",	"journal_entry_completion_summary":"You have gained Jak Chucka's trust and respect.  Now you may be able to get that Gungan record bauble decrypted for Broma Lak.",	"journal_entry_description":"Broma Lak directed you to a Gungan informant named Jak Chucka.  Before Jak will decrypt the Gungan record bauble, he wants some...problems taken care of.",	"journal_entry_title":"Getting to Know Jak",	"task01_journal_entry_description":"The nesting kaadu atop the hill makes too much noise for Jak to conduct business.  Thin the herd.",	"task01_journal_entry_title":"Kaadu Attitude",	"task01_waypoint_name":"Kaadu Nesting Ground",	"task02_journal_entry_description":"You have completed you end of the contract. Return to Jak Chucka so he can fulfill his.",	"task02_journal_entry_title":"Return to Jak Chucka",	"task02_waypoint_name":"Jak Chucka"
+}}

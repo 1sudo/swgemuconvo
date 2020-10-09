@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_meust_quest_1",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"Meust, head hunter of the Kerritamba tribe, has given you the task to find 8 Mouf Hides. Mouf can usually be found in the Dead Forest, grazing among the dead grasses. 'Beware of the Sayormi', were Meust's parting words. They too can be found in the Dead Forest and are quick to attack.",	"journal_entry_title":"Hides for the Head Hunter",	"task00_journal_entry_description":"Collect 8 Mouf Hides for the head hunter of the Kerritamba village. Mouf are most commonly seen in the Dead Forest among the Sayormi.",	"task00_journal_entry_title":"Collect 8 Mouf Hides",	"task02_journal_entry_title":"Reward Issued"
+}}

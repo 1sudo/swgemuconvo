@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_gendra_cantina_music",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"You're doing some entertainer work for Gendra.",	"journal_entry_title":"Entertainment",	"task00_journal_entry_description":"Go to the cantina and do the job that Gendra needs you to do.",	"task00_journal_entry_title":"Go to the Cantina",	"task00_waypoint_name":"Cantina",	"task01_journal_entry_description":"Gendra asked you to fill in at the cantina again, this time for a musician who was arrested at the star port. Just go in and do 30 seconds of music, then return to Gendra.",	"task01_journal_entry_title":"Go Inside and Play Music",	"task01_waypoint_name":"Cantina",	"task02_journal_entry_description":"You've finished playing at the Cantina. Now go see Gendra.",	"task02_journal_entry_title":"Go See Gendra",	"task02_waypoint_name":"Gendra"
+}}

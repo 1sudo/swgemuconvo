@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_pilot",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Go into the other hangar and talk to one of the pilot trainers there.",	"journal_entry_title":"Talk to a Pilot Trainer",	"task01_journal_entry_description":"Talk to Serissu, the pilot trainer. Serissu is located in Hangar Bay 1, next to the elevator.",	"task01_journal_entry_title":"Talk to Serissu in Hangar Bay 1",	"task01_waypoint_name":"Serissu"
+}}

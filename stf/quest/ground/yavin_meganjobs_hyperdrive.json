@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/yavin_meganjobs_hyperdrive",
+	"entries": {
+		"category":"Yavin 4",	"journal_entry_description":"Nagem is short-handed. She wants you to go and retrieve a hyperdrive intermix chamber that one of her probe droids has located. ",	"journal_entry_title":"Hyperdrive Intermix Chamber",	"task00_journal_entry_description":"Nagem's probe droid located an intact hyperdrive intermix chamber. You need to go and salvage it.",	"task00_journal_entry_title":"Go to Hyperdrive",	"task00_waypoint_name":"Hyperdrive Debris",	"task01_journal_entry_description":"Looks like some scanvagers where waiting for you.",	"task01_journal_entry_title":"Ambush Defeated",	"task03_journal_entry_description":"You got Nagem's hunk of scrap and took out some nasty customers in the process. Now to get the junk back to Nagem. ",	"task03_journal_entry_title":"Return to Nagem",	"task03_waypoint_name":"Nagem Dr' Lar",	"task04_journal_entry_title":"Hyperdrive Reward"
+}}

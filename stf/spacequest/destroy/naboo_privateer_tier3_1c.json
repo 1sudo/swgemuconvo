@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy/naboo_privateer_tier3_1c",
 	"entries": {
-		"title_d":"",		"title":"Taking out the Trash",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Tactical Computer: < \#pcontrast1 Head for Naboo Space, we will have more information when you arrive. \#pcontrast3 >",		"quest_location_t":"",		"quest_location_d":"",		"quest_destroy_t":"",		"quest_destroy_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":"\#pcontrast3 RSF Command: < \#pcontrast1 Blacksun fighters have been sighted in your area.  Track them down and destroy them. \#pcontrast3 >"
+		"assigned_delayed":"pcontrast3 RSF Command: < pcontrast1 Blacksun fighters have been sighted in your area.  Track them down and destroy them. pcontrast3 >",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"pcontrast3 Tactical Computer: < pcontrast1 Head for Naboo Space, we will have more information when you arrive. pcontrast3 >",	"split_quest_alert_fail":"",	"title":"Taking out the Trash",	"title_d":""
 }}

@@ -1,6 +1,5 @@
 {
 	"stfFile":"loading/endor_n",
 	"entries": {
-		"tree_villages":"Tree Villages",		"lake_villages":"Lake Villages",		"marauder":"Marauders",		"ewok":"Ewok",		"dulok":"Duloks",		"gorax":"Gorax",		"swirl_prong":"Swirl Prong",		"remmer":"Remmer",		"merek":"Merek",		"lantern_bird":"Lantern Bird",		"condor_dragon":"Condor Dragon",		"blurrg":"Blurrg",		"hanadak":"Hanadak
-"
+		"hanadak":"Hanadak ",	"blurrg":"Blurrg",	"condor_dragon":"Condor Dragon",	"lantern_bird":"Lantern Bird",	"merek":"Merek",	"remmer":"Remmer",	"swirl_prong":"Swirl Prong",	"gorax":"Gorax",	"dulok":"Duloks",	"ewok":"Ewok",	"marauder":"Marauders",	"lake_villages":"Lake Villages",	"tree_villages":"Tree Villages"
 }}

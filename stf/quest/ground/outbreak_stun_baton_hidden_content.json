@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_stun_baton_hidden_content",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have delivered the stun baton to it's original owner.",	"journal_entry_description":"This stun baton has seen better days but someone may think it has a lot of sentimental value.",	"journal_entry_title":"Deliver Stun Baton",	"task00_journal_entry_description":"Do you know anyone who might own this beaten up stun baton?",	"task00_journal_entry_title":"Find Baton Owner",	"task00_waypoint_name":"Meet Volunteer"
+}}

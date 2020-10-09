@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_yraka_retrieve_3",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"The medical boxes Yraka Nes was expecting never arrived. She has a feeling they were lost or scattered. She wants you to find all 10 of them and return to her.",	"journal_entry_title":"Medical Boxes",	"task00_item_name":"Medical Box",	"task00_journal_entry_description":"Collect 10 Medical Boxes. They can be found just outside the Myyydril Caverns scattered about.",	"task00_journal_entry_title":"Medical Boxes",	"task02_journal_entry_title":"Reward Issued"
+}}

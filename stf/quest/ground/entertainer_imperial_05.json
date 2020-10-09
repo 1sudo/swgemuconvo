@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/entertainer_imperial_05",
+	"entries": {
+		"category":"Empire Day",	"journal_entry_completion_summary":"Imperial Fortress Cantina complete.",	"journal_entry_description":"Entertain the troops in the cantina.",	"journal_entry_title":"Entertaining The Troops - Imperial Fortress Cantina",	"task00_journal_entry_description":"Travel to the cantina location. A waypoint has been provided.",	"task00_journal_entry_title":"Travel to the Imperial Fortress.",	"task00_waypoint_name":"Entertain Imperial Fortress Cantina",	"task01_journal_entry_description":"Put on the best performance possible.",	"task01_journal_entry_title":"Perform",	"task02_comm_message_text":"Mission complete. Come back to my location to receive your compensation as well as your next mission.",	"task02_journal_entry_description":"Kaythree Com",	"task02_journal_entry_title":"Kaythree Com",	"task03_journal_entry_description":"Travel back to Theed and see Kaythree.",	"task03_journal_entry_title":"See Kaythree"
+}}

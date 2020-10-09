@@ -1,5 +1,5 @@
 {
 	"stfFile":"ui_attrib_mod",
 	"entries": {
-		"seconds":" seconds",		"timeleft":"Time Left: ",		"description":"Description: ",		"name":"Name: "
+		"name":"Name: ",	"description":"Description: ",	"timeleft":"Time Left: ",	"seconds":" seconds"
 }}

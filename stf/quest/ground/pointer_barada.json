@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/pointer_barada",
+	"entries": {
+		"category":"Jabba's Palace",	"journal_entry_description":"Porcellus says Barada needs some help.",	"journal_entry_title":"Find Barada",	"task00_journal_entry_description":"Look for Barada in the garage.",	"task00_journal_entry_title":"Talk to Barada",	"task00_waypoint_name":"Barada"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_hard_main_1",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Ace Black Sun Hunters or Ace Black Sun Bloodstalkers.",	"quest_destroy_t":"Thick of Battle: Black Sun Fighters",	"quest_location_d":"'The Empire has completed their move just beyond the the safe-haven of Ord Mantell, setting up a Naval staging area. Imperial warships, moving through training maneuvers, are a common in Ord Mantell's once-quiet system. However, the Empire isn't looking for trouble from the inhabitants of the smuggler planet.'",	"quest_location_t":"Ord Mantell: Scarlet Dawn",	"split_quest_alert":"Dartas Pytin: <Pilot! Black Sun spies are sending out the Black Envy virus to our fleet! Destroy them quickly!>",	"split_quest_alert_fail":"",	"title":"The Hunt: Blacksun Fighters",	"title_d":"'Our fight with the Black Sun is almost at an end. Finally, we'll be able to launch our final attack. I am glad to be a part of it!'"
+}}

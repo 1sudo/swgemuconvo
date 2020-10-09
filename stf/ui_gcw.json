@@ -1,0 +1,5 @@
+{
+	"stfFile":"ui_gcw",
+	"entries": {
+		"server_selection":"Currently Selected Galaxy",	"galaxywide_score":"Galaxies Wide Score",	"tooltip_server_selection":"Select the server you wish to view the Galactic Civil War information for.",	"tooltip_galaxywide_score":"This score is the total score for all the various galaxies in Star Wars Galaxies.",	"tooltip_currently_selected_score":"This score reflects the Galactic Civil War struggle for a specific galaxy. This score is calculated into the Galaxy Wide score.",	"category_list":"GCW Categories",	"server_name":"My Server Name"
+}}

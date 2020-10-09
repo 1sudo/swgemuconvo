@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_security_director",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to the Security Director in the Close Combat Training Room for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to the Security Director in the Close Combat Training Room.",	"task00_journal_entry_title":"Talk to the Security Director in the Close Combat Training Room",	"task00_waypoint_name":"Security Director"
+}}

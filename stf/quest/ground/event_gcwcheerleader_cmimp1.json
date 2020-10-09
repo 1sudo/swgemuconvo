@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/event_gcwcheerleader_cmimp1",
+	"entries": {
+		"category":"Imperial Combatant",	"journal_entry_description":"Rebels are becoming more brazen in their activities. I need to send a message by thinning their numbers a bit.",	"journal_entry_title":"Operation Molecular Clamp",	"task00_journal_entry_description":"I need to find and destroy 10 rebels.",	"task00_journal_entry_title":"Terminate Rebels",	"task01_journal_entry_description":"reward",	"task01_journal_entry_title":"reward"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_garek",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Garek in Station Master Inaldra's Office if you are looking for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Garek in Station Master Inaldra's office.",	"task00_journal_entry_title":"Talk to Garek in Inaldra's Office",	"task00_waypoint_name":"Garek"
+}}

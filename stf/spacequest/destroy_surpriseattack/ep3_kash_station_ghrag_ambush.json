@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/ep3_kash_station_ghrag_ambush",
+	"entries": {
+		"assigned_delayed":"AMBUSH! Ace fighters from the Ghrag Mercenary Clan are coming to destroy you!",	"complete":"You have defeated the Ghrag Mercenaries and survived the ambush!",	"leave_early":"The Ghrag Aces are running scared!",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"AMBUSH! Ghrag Fighters Attack!",	"title_d":"You are now death-marked by the Ghrag Mercenary clan! Ace fighters have been sent to destroy you!",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

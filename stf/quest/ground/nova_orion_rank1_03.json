@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/nova_orion_rank1_03",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"Find and eliminate the pirate leader.",	"journal_entry_title":"Pirate Leadership",	"task00_journal_entry_description":"Find and eliminate the pirate leader.",	"task00_journal_entry_title":"Pirate Leader",	"task02_journal_entry_description":"Return and report.",	"task02_journal_entry_title":"Mission Accomplished"
+}}

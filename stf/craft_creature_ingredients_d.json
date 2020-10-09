@@ -1,5 +1,5 @@
 {
 	"stfFile":"craft_creature_ingredients_d",
 	"entries": {
-		"organic_nutrition_materials":"Organic  Nutrition  Materials",		"protein_base":"Protein  Base",		"dna_template":"DNA Template",		"aggression_profile":"Aggression  Profile",		"psychological_profile":"Psychological Profile",		"mental_profile":"Mental Profile",		"prowess_profile":"Prowess Profile",		"physique_profile":"Physique Profile"
+		"physique_profile":"Physique Profile",	"prowess_profile":"Prowess Profile",	"mental_profile":"Mental Profile",	"psychological_profile":"Psychological Profile",	"aggression_profile":"Aggression Profile",	"dna_template":"DNA Template",	"protein_base":"Protein  Base",	"organic_nutrition_materials":"Organic Nutrition Materials"
 }}

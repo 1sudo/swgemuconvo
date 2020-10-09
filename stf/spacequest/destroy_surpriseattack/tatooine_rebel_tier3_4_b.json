@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/tatooine_rebel_tier3_4_b",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"An Imperial patrol spotted you while you were scanning the region. Defend yourself and eliminate the threat pilot!",		"title":"Endor system: Terminate Imperial patrol.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < Good work pilot, deliver that data to one of our smugglers quickly. >",		"complete":"You have survived the Suprise Attack!",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"You have survived the Suprise Attack!",	"leave_early":"",	"split_quest_alert":"Rebel Command: < Good work pilot, deliver that data to one of our smugglers quickly. >",	"split_quest_alert_fail":"",	"title":"Endor system: Terminate Imperial patrol.",	"title_d":"An Imperial patrol spotted you while you were scanning the region. Defend yourself and eliminate the threat pilot!",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

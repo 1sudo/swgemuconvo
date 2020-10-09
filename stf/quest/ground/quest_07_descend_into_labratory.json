@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/quest_07_descend_into_labratory",
+	"entries": {
+		"category":"Something is Obviously Wrong",	"journal_entry_completion_summary":"You found something that looked important in the secret laboratory and returned it to Cale.",	"journal_entry_description":"Travel to Lok and help Cale investigate the secret laboratory.",	"journal_entry_title":"Find Clues",	"task00_item_name":"Science Datapad",	"task00_journal_entry_description":"See what you can find in the laboratory.",	"task00_journal_entry_title":"Find Clues",	"task00_retrieve_menu_text":"Pick Up",	"task01_comm_message_text":"Hmm....that looks interesting. I bet that is what your pal, Bib Fortuna, was looking for. Bring it back to me for an examination.",	"task01_journal_entry_description":"com",	"task01_journal_entry_title":"com",	"task02_journal_entry_description":"Take the Science Datapad back to Cale.",	"task02_journal_entry_title":"The Science Datapad",	"task02_waypoint_name":"Cale's Lok Outpost",	"task03_journal_entry_description":"n9on",	"task03_journal_entry_title":"non"
+}}

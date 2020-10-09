@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_ranged_combat_trainer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Mayor Guh'rantt of Mos Eisley has sent you to veteran marksman, Purvis Arrison.",	"journal_entry_title":"Tusken Raiders in Mos Eisley",	"task00_journal_entry_description":"Go to Purvis Arrison and aid him against the Tusken Raiders who are attacking Mos Eisley.",	"task00_journal_entry_title":"Go to Purvis Arrison",	"task00_waypoint_name":"Purvis Arrison",	"task01_journal_entry_description":"Speak with Purvis Arrison about aiding him against the Tusken Raiders who are attacking Mos Eisley.",	"task01_journal_entry_title":"Speak with Purvis Arrison",	"task01_waypoint_name":"Purvis Arrison"
+}}

@@ -1,5 +1,5 @@
 {
 	"stfFile":"travel/travel",
 	"entries": {
-		"ticket_purchase_complete":"Ticket purchase complete."
+		"no_shuttle_for_location":"There is no shuttle nearby for that ticket's departure location.",	"no_shuttle_nearby":"There is no shuttle nearby.",	"not_in_combat":"You cannot travel while in combat.",	"on_pet_or_vehicle_instant":"You cannot call your ship when you are riding on a pet or in a vehicle.",	"ready_to_board":"The next shuttle is ready to board.",	"shuttle_begin_boarding":"The next shuttle is about to begin boarding.",	"shuttle_board_delay":"The next shuttle will be ready to board in %DI seconds.",	"sui_select_destination_header":"Select Destination",	"sui_select_destination_loc":"%TT -- %TO",	"sui_select_destination_title":"Select Destination",	"sui_ticket_arrival_point":"Arrival: %TT -- %TO",	"sui_ticket_departure_point":"Departure: %TT -- %TO",	"sui_ticket_information":"Ticket Information",	"ticket_invalid":"This ticket is invalid.",	"ticket_purchase_complete":"Ticket purchase complete.",	"on_pet_or_vehicle_instant_go":"You cannot board the ship when you are riding on a pet or in a vehicle.",	"on_pet_or_vehicle":"You cannot travel when you are riding on a pet or in a vehicle."
 }}

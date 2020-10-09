@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/naboo_typho_pilot_one",
+	"entries": {
+		"Quest Log Data":"Text",	"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Naboo System",	"quest_location_t":"Naboo System",	"quest_patrol_d":"Patrol the Naboo Planetary Defense Circuit for pirates.",	"quest_patrol_t":"Naboo Planetary Defense Circuit",	"quest_target_d":"",	"quest_target_t":"",	"quest_update":"Naboo Planetary Defense Command: < %TO >",	"split_quest_alert":"pcontrast3 Tactical Computer: <pcontrast1Pirate wing detected.  They are moving to attack!pcontrast3>",	"split_quest_alert_fail":"",	"title":"Naboo System: Patrol Naboo Planetary Defense Circuit",	"title_d":"Patrol for pirates in the Naboo System."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_laetin",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Laetin A'shera in Docking Bay 1 for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Laetin A'shera in Hangar Bay 1. He may have work for you.",	"task00_journal_entry_title":"Talk to Laetin A'shera in Docking Bay 1",	"task00_waypoint_name":"Laetin A'shera"
+}}

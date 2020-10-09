@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_easy_4",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_completion_summary":"You eliminated Talonbane Cobra.",	"journal_entry_description":"Talonbane Cobra is an elite assassin for the Black Sun. You are to try and draw him out.",	"journal_entry_title":"Assassinating the Assassin",	"task00_journal_entry_description":"Use the space terminal to launch into space.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"Find and take out Talonbane Cobra.",	"task01_journal_entry_title":"Talonbane Cobra",	"task02_journal_entry_description":"Return to Laetin to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Laetin",	"task02_waypoint_name":"Laetin A'shera (Trained Car'das Pilot)",	"task03_journal_entry_description":"Report to Laetin of your success.",	"task03_journal_entry_title":"Land and Report back to Laetin",	"task03_waypoint_name":"Laetin A'shera (Trained Car'das Pilot)"
+}}

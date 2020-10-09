@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_nym_starmap_4",
+	"entries": {
+		"category":"The Clone Relics, Treasure hunter",	"journal_entry_description":"You found a piece of an old starmap. Nym seems to be interested in getting the completed map.",	"journal_entry_title":"Nym's starmap, phase IV",	"task00_journal_entry_description":"Travel to Mos Eisley on Tatooine and find the smuggler Han Solo. Try to find a way to get the starmap piece from him.",	"task00_journal_entry_title":"A notorious smuggler",	"task01_journal_entry_description":"Solo wants 50.000 credits for the map piece. You should go back to Nym and let him know.",	"task01_journal_entry_title":"Solo's offer",	"task02_journal_entry_description":"You have the 50.000 credits that Solo wants for the map piece. Make sure that Solo is giving you the real piece before handing him the money.",	"task02_journal_entry_title":"Paying a scoundrel",	"task03_journal_entry_description":"You have bought the last map piece from Solo. Return to Nym and reap your rewards.",	"task03_journal_entry_title":"The last piece"
+}}

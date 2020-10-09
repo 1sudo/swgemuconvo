@@ -1,5 +1,5 @@
 {
 	"stfFile":"ship_component_n",
 	"entries": {
-		"droid_interface":"Droid Interface",		"booster":"Booster",		"capacitor":"Capacitor",		"weapon":"Weapon",		"armor":"Armor",		"shield":"Shield",		"reactor":"Reactor",		"engine":"Engine"
+		"engine":"Engine",	"reactor":"Reactor",	"shield":"Shield",	"armor":"Armor",	"weapon":"Weapon",	"capacitor":"Capacitor",	"booster":"Booster",	"droid_interface":"Droid Interface",	"modification":"Modification"
 }}

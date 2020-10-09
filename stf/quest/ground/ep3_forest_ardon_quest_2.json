@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_ardon_quest_2",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"Ardon mentioned that a strange individual had been lurking around the Kerritamba village as of late. He suspects it to be the Exemplar Zheus, proud hero of the Outcast society. Why he's snooping around the village, no one knows. Ardon wants you to defeat him and bring back his ring. Exemplar Zheus can be found near to the Kerritamba village.",	"journal_entry_title":"Exemplar Zheus",	"task00_journal_entry_description":"Defeat Exemplar Zheus and return to Ardon.",	"task00_journal_entry_title":"Defeat Exemplar Zheus",	"task02_journal_entry_title":"Reward Issued"
+}}

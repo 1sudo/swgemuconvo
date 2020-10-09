@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_remote_encounter",
+	"entries": {
+		"category":"test",	"journal_entry_description":"remote encounter test",	"journal_entry_title":"remote encounter test",	"task00_encounter_where_message":"Go to %TO.",	"task00_journal_entry_description":"That dude in space, go kill him",	"task00_journal_entry_title":"Kill the dude in space"
+}}

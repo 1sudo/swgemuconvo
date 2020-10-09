@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_access_05",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"Alliin wanted to retire from being a Meatlump, but needed your help. As his replacement, you not only allow Alliin to retire, but also have infiltrated the Meatlumps themselves.",	"journal_entry_description":"Vani Korr has asked you to find a way into the Meatlump Hideout. First, you must find out where it is. To that end, you are investigating an old Meatlump in Coronet who is smashing some generators.",	"journal_entry_title":"The Meatlumps Hideout, Part 5",	"task00_journal_entry_description":"An old Meatlump was seen smashing some generators in Northeast Coronet. Go Investigate.",	"task00_journal_entry_title":"Find the Old Meatlump",	"task01_journal_entry_description":"Speak with Alliin's lieutenant, Kaiya Merel. If she will give you a chance as a Meatlump, not only will you have a way in, but you'll also help Alliin be able to retire. You'll find her near the theater according to Alliin.",	"task01_journal_entry_title":"Speak with Alliin's Lieutenant"
+}}

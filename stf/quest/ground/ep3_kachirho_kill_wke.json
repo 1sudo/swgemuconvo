@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_kachirho_kill_wke",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"Colonel Gurnst has put together a task force working for the Empire. The goal of this task force is to eliminate the presence of the Wookiee resistance. The extermination of this troublesome group will increase the ease of the Trandoshan slaving operation.",	"journal_entry_title":"Task Force Bravo",	"task00_journal_entry_description":"Colonel Gurnst wants the members of the Wookiee resistance to be eliminated. Your task is to kill 15 members of the Wookiee resistance.",	"task00_journal_entry_title":"Destroy Wookiee Resistance",	"task01_journal_entry_description":"Now that your mission is completed you need to report to Colonel Gurnst.",	"task01_journal_entry_title":"Return to Colonel Gurnst",	"task02_journal_entry_title":"Reward Issued"
+}}

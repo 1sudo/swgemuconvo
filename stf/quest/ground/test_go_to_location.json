@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_go_to_location",
+	"entries": {
+		"category":"Test1",	"journal_entry_description":"Go To Location Test",	"journal_entry_title":"Test Go To Location",	"task00_journal_entry_description":"Get within 10 meters of  (-1200, -3600) on tatooine.",	"task00_journal_entry_title":"Test go_to_location quest",	"task00_waypoint_name":"HelloWorld"
+}}

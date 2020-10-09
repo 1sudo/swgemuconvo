@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/legacy_naboo_back_to_imperial",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Lt. Maximilian Vox in Kadaara and give him the droid modules.",	"journal_entry_title":"Bring the Droid Modules to Lt. Maximilian Vox",	"task00_journal_entry_description":"Standby for an incoming transmission from Lt. Maximilian Vox.",	"task00_journal_entry_title":"Incoming Transmission...",	"task01_comm_message_text":"Good work, citizen! I'm very impressed. You are truly a credit to the Empire. Bring the droid modules to me in Kadaara.",	"task01_journal_entry_description":"Good work, citizen! I'm very impressed. You are truly a credit to the Empire. Bring the droid modules to me in Kadaara.",	"task01_journal_entry_title":"Message from Lt. Maximilian Vox",	"task02_journal_entry_description":"Go to Kadaara and speak with Lt. Maximilian Vox. He eagerly awaits you and the droid modules you've collected.",	"task02_journal_entry_title":"Go to Lt. Maximilian Vox",	"task02_waypoint_name":"Lt. Maximilian Vox"
+}}

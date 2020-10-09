@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/corellia_privateer_tier4_1c",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Survive the Black Sun onslaught",		"title":"Dantooine System: Survive the Black Sun Assault",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"leave_early":"",		"complete":"\#pcontrast3 CorSec Command: < \#pcontrast1 They must not have been pleased with your destruction of that transport. I do not like the way hostilities have increased today, return to base. \#pcontrast3 >",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"pcontrast3 CorSec Command: < pcontrast1 They must not have been pleased with your destruction of that transport. I do not like the way hostilities have increased today, return to base. pcontrast3 >",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Dantooine System: Survive the Black Sun Assault",	"title_d":"Survive the Black Sun onslaught",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

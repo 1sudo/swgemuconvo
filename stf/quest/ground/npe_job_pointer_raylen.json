@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_raylen",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Raylen in the Ranged Combat Training Room for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Raylen Finn in the Ranged Combat Training Room.",	"task00_journal_entry_title":"Talk to Raylen in the Ranged Combat Training Room",	"task00_waypoint_name":"Raylen Finn"
+}}

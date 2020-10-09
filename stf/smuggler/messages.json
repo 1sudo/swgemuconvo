@@ -1,0 +1,5 @@
+{
+	"stfFile":"smuggler/messages",
+	"entries": {
+		"contraband_already_checked":"That has already been checked for contraband.",	"contraband_not_possible":"That target would not carry contraband.",	"no_contraband_found":"No contraband was found.",	"contraband_found":"You have looted some contraband. pcontrast1 %TO pcontrast3 is now in your inventory.",	"bootstrap_subject":"Looking For Work?",	"bootstrap_body":"Hello friend,  Word around the womprat is that you know how to get around. Get around the authorities that is! Har, har.  But all joking aside, my colleagues and I have a bit of smuggling work that needs to be done and your name has come up in casual conversation. If you are interested in a job, and making some quick credits, then swing by and see me in Bestine on the fine planet of Tatooine. The coordinates are (-1049, -3538).  And not to worry. The work isn't THAT dangerous.  - Barak"
+}}

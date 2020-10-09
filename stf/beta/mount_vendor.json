@@ -1,5 +1,5 @@
 {
 	"stfFile":"beta/mount_vendor",
 	"entries": {
-		"ok":"Ok, here is your mount.  These breeds have a fairly short lifespan, don't be surprised if it only lasts a week. Take good care of it.  Come back and talk to me any time.  I sure do like talking to people.",		"brackaset":"Brackaset",		"falumpaset":"Falumpaset",		"bol":"Bol",		"dewback":"Dewback",		"kaadu":"Kaadu",		"carrion_spat":"Carrion Spat",		"goodbye":"Ok goodbye!  Good luck!  Thank you for talking to me....  I'm so lonely.",		"toomany":"You have too many pets already.",		"choose":"Which of these fine specimins would you like?",		"no":"No",		"yes":"Yes",		"start":"Psst.  Hey.... want a mount?  It's FREE!  No strings attached..."
+		"start":"Psst.  Hey.... want a mount?  It's FREE!  No strings attached...",	"yes":"Yes",	"no":"No",	"choose":"Which of these fine specimins would you like?",	"toomany":"You have too many pets already.",	"goodbye":"Ok goodbye!  Good luck!  Thank you for talking to me....  I'm so lonely.",	"carrion_spat":"Carrion Spat",	"kaadu":"Kaadu",	"dewback":"Dewback",	"bol":"Bol",	"falumpaset":"Falumpaset",	"brackaset":"Brackaset",	"ok":"Ok, here is your mount.  These breeds have a fairly short lifespan, don't be surprised if it only lasts a week. Take good care of it.  Come back and talk to me any time.  I sure do like talking to people."
 }}

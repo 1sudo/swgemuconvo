@@ -1,5 +1,5 @@
 {
 	"stfFile":"npc_reaction/flytext",
 	"entries": {
-		"yum":"Yummy!",		"nothungry":"Your pet isn't hungry.",		"confused":"?!!?!?!",		"nofood":"You don't have any food to give!",		"repaired":"*Repaired*",		"recharged":"*Recharged*",		"low_power":"*Low Power*",		"nobattery":"You don't have a power storage device.",		"toofar":"You are too far away to tame the creature.",		"fail":"You fail to tame the creature.",		"success":"You tame the creature.",		"afraid":"\\|/",		"threaten":"!",		"alert":"?"
+		"alert":"?",	"threaten":"!",	"afraid":"\\|/",	"success":"You tame the creature.",	"fail":"You fail to tame the creature.",	"toofar":"You are too far away to tame the creature.",	"nobattery":"You don't have a power storage device.",	"low_power":"*Low Power*",	"recharged":"*Recharged*",	"repaired":"*Repaired*",	"nofood":"You don't have any food to give!",	"confused":"?!!?!?!",	"nothungry":"Your pet isn't hungry.",	"yum":"Yummy!",	"stun":"*Paralyzed*",	"stun_fail":"*Paralyze Fail*",	"stun_expired":"*Paralyze Expired*",	"default":""
 }}

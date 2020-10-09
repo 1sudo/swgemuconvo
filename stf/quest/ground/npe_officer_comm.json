@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_officer_comm",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Visit Loche to complete your officer training.",	"journal_entry_title":"An Officer's Training",	"task00_journal_entry_description":"Visit Loche and complete his training.",	"task00_journal_entry_title":"Loche",	"task01_comm_message_text":"Ah! You're training is now complete. Return to me, my friend. I have a very important task for you.",	"task02_waypoint_name":"Antom (Officer Trainer)"
+}}

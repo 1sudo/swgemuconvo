@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_brawler_4",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"It would be wise to collect a few stimpacks before facing this difficult challenge. They can be found in the Medical Center. Look for them on top of desks in the center of the room.",	"journal_entry_title":"Rydel's Teachings: Preparation",	"task00_item_name":"Stimpack",	"task00_journal_entry_description":"The Medical Center keeps medical kits around the center for emergencies. Go there and collect enough to have a full 5-change stimpack. You will need it.",	"task00_journal_entry_title":"Collect 5 Stimpacks from the Medical Center",	"task00_retrieve_menu_text":"Gather",	"task00_waypoint_name":"Medical Center"
+}}

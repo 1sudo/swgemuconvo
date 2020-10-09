@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/npe_training_2",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"",	"quest_location_t":"To win the mission, follow the patrol points.",	"quest_patrol_d":"",	"quest_patrol_t":"Travel to the Abandoned Hulk",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"Serissu: <Just as we suspected. Pilot, destroy those Black Sun!>",	"split_quest_alert_fail":"",	"title":"The Approaching Black Sun",	"title_d":"Travel to the abandoned hulk and secure the area."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_instance_recover_supplies",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_description":"Some supplies needed by the Meatlumps were lost in the lower maintenance areas. Find those supplies.",	"journal_entry_title":"Find the Missing Supplies",	"task00_journal_entry_description":"Use the hatch in the kitchen chamber to access the lower maintenance areas.",	"task00_journal_entry_title":"Access Lower Maintenance Areas",	"task01_item_name":"You recover the Meatlump supplies",	"task01_journal_entry_description":"Some supplies needed by the Meatlumps were lost in this lower maintenance area. Find those supplies.",	"task01_journal_entry_title":"Find all of the Supplies",	"task01_retrieve_menu_text":"Take the Supplies",	"task03_journal_entry_description":"No time to spare!",	"task03_journal_entry_title":"Hurry!"
+}}

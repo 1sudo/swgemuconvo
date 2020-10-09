@@ -1,57 +1,5 @@
 {
 	"stfFile":"grammar",
 	"entries": {
-		"test":"test
-~animnone
-~animself
-~animother
-~msg no target
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-You shoot at %TT's torso, but %ST takes advantage of it to counterattack!
-~
-~
-~
-~
-~
-~
-~
-~
-%TU shoots at your torso, but you take advantage of it to counterattack!
-~
-~
-~
-~
-~
-~
-~
-~
-%TU shoots at %TT's torso, but %NT takes advantage of it to counterattack!
-~
-~
-~
-~
-~
-~
-~
-~
-~",		"pronoun_possessive":"its
-his
-her
-",		"pronoun_objective":"it
-him
-her",		"pronoun_subjective":"it
-he
-she
-"
+		"pronoun_subjective":"it he she ",	"pronoun_objective":"it him her",	"pronoun_possessive":"its his her ",	"test":"test ~animnone ~animself ~animother ~msg no target ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ You shoot at %TT's torso, but %ST takes advantage of it to counterattack! ~ ~ ~ ~ ~ ~ ~ ~ %TU shoots at your torso, but you take advantage of it to counterattack! ~ ~ ~ ~ ~ ~ ~ ~ %TU shoots at %TT's torso, but %NT takes advantage of it to counterattack! ~ ~ ~ ~ ~ ~ ~ ~ ~"
 }}

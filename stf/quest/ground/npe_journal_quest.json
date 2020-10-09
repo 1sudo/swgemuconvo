@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_journal_quest",
+	"entries": {
+		"category":"Station Gamma",	"journal_entry_description":"Uncover the mystery behind the missing researcher, E'ioua.",	"journal_entry_title":"E'ioua, the Researcher",	"task00_item_name":"Journal Page",	"task00_journal_entry_description":"You can only assume that the missing researcher has met his end. No one could survive in this place alone. Find his remains and see if he left any clues behind.",	"task00_journal_entry_title":"The Missing Researcher",	"task00_retrieve_menu_text":"Search",	"task01_journal_entry_description":"'I was attacked from behind! Cas'ka didn't tell me about this! I doubt I'll get out of here alive. There's too many... too many! I know Cas'ka did this. I know he sent me into this trap! If I get out of here, I'm going to find him in that cantina and confront him about this! I--what was that? I see a looming shadow, it's--!!' The rest of the page is inconprehensible due to all the blood caked across the words.",	"task01_journal_entry_title":"The Confrontation"
+}}

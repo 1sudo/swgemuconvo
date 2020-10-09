@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_imprisoned_geonosian_2",
+	"entries": {
+		"category":"The Clone Relics, Quest of the Geonosian",	"journal_entry_description":"After finding the documents describing the Trandoshans evil plans, you need to use them to clear Ikvizi's name.",	"journal_entry_title":"Help the imprisoned Geonosian, phase II",	"task00_journal_entry_description":"Go to the great tree in Kachirho and talk to the Wookiee elder Ovarra.",	"task00_journal_entry_title":"Find Wookiee elder Ovarra",	"task01_journal_entry_description":"Talk to elder Ovarra and show her the documents you retrieved from the Trandoshans.",	"task01_journal_entry_title":"Explain the situation to Ovarra",	"task02_journal_entry_description":"Return to the Geonosian with the good news.",	"task02_journal_entry_title":"Return to Ikvizi"
+}}

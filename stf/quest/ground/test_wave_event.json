@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_wave_event",
+	"entries": {
+		"category":"Testing",	"journal_entry_completion_summary":"Wave Event Task...did it work?",	"journal_entry_description":"Testing the wave event task.",	"journal_entry_title":"Wave Event Task Test",	"task00_journal_entry_description":"Draw Hamm out of hiding by attacking his pet kreetles. His kreetles will be drawn kreetle food you sprinkle near where they play. Be aware, though, his brothers will probably not be happy that you're gunning for Hamm.",	"task00_journal_entry_title":"Draw Out the Meatlump Named Hamm",	"task00_retrieve_menu_text":"Spinkle Kreetle Food",	"task00_start_message":"You sprinkle kreetle food around the bottom of the barrel.",	"task00_utterance_wave_2":"My pet kreetles! My precious kreetles!! You, %TO, you slaughtered them! You'll pay!!",	"task00_utterance_wave_3":"Hey...what are you doing? Why did you kill Hamm?",	"task00_utterance_wave_5":"You killed Hamm and Lempi. Honestly, I don't care. They were lousy brothers.",	"task00_utterance_wave_6":"My boys! My boys are dead...nooooooo!!"
+}}

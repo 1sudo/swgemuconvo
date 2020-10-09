@@ -1,5 +1,5 @@
 {
 	"stfFile":"kb/kb_group_n",
 	"entries": {
-		"leaving":"Leaving a Group",		"groupchat":"Group Chat",		"grouplist":"Group List",		"joining":"Joining a Group",		"forming":"Forming a Group",		"grouping":"Grouping"
+		"grouping":"Grouping",	"forming":"Forming a Group",	"joining":"Joining a Group",	"grouplist":"Group List",	"groupchat":"Group Chat",	"leaving":"Leaving a Group"
 }}

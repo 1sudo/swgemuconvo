@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_task_signals",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"Tests sending signals on completion or failure",	"journal_entry_title":"Testing task signals",	"task01_journal_entry_description":"Wait for fail",	"task01_journal_entry_title":"Wait for fail",	"task03_journal_entry_description":"Wait for complete",	"task03_journal_entry_title":"Wait for complete",	"task05_journal_entry_description":"Waiting for complete or fail",	"task05_journal_entry_title":"Waiting..."
+}}

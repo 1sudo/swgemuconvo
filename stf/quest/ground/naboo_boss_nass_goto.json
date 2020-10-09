@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_boss_nass_goto",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Go Speak with Boss Nass.",	"journal_entry_title":"Go Speak with Boss Nass.",	"task00_journal_entry_description":"boss_nass_goto",	"task00_journal_entry_title":"Go Speak with Boss Nass."
+}}

@@ -1,41 +1,5 @@
 {
 	"stfFile":"droid_lookat",
 	"entries": {
-		"probe_droid":"Seeker Probe Droid",		"wed_treadwell_base":"wed treadwell base
-",		"tt_8l_base":"tt 8l base
-",		"shared_md_medical_specialist":"shared md medical specialist
-",		"robo_bartender_base":"robo bartender base
-",		"ra7_bug_droid_base":"ra7 bug droid base
-",		"r5_base":"r5 base
-",		"r4_base":"r4 base
-",		"r3_base":"r3 base
-",		"r2_base":"r2 base
-",		"mse_6_base":"mse 6 base
-",		"messenger_droid":"messenger droid
-",		"lin_demolitionmech_base":"lin demolitionmech base
-",		"le_repair_droid":"le repair droid
-",		"jedi_training_droid_base":"jedi training droid base
-",		"it_o_interrogator_base":"it o interrogator base
-",		"imperial_probot_base":"imperial probot base
-",		"imperial_mark_iv_sentry_base":"imperial mark iv sentry base
-",		"ig_assassin_droid_base":"ig assassin droid base
-",		"g2_rd_guard_base":"g2 rd guard base
-",		"fx_medical_assistant_base":"fx medical assistant base
-",		"eg_6_power_droid_base":"eg 6 power droid base
-",		"dz_70_fugitive_tracker_base":"dz 70 fugitive tracker base
-",		"droideka_base":"droideka base
-",		"droid":"droid
-",		"dark_trooper_phase_iii_base":"dark trooper phase iii base
-",		"dark_trooper_phase_ii_base":"dark trooper phase ii base
-",		"dark_trooper_phase_i_base":"dark trooper phase i base
-",		"cz_comm_droid_base":"cz comm droid base
-",		"cll_8_binary_load_lifter_base":"cll 8 binary load lifter base
-",		"base_droid":"base droid
-",		"automated_sabacc_dealer_base":"automated sabacc dealer base
-",		"d8_smelter_base":"8d8 smelter base
-",		"z_police_droid_base":"501 z police droid base
-",		"po_base":"3po base
-",		"b_surgical_droid_base":"2 1b surgical droid base
-",		"c_41_traffic_controller_base":"12 4c 41 traffic controller base
-"
+		"c_41_traffic_controller_base":"12 4c 41 traffic controller base ",	"b_surgical_droid_base":"2 1b surgical droid base ",	"po_base":"3po base ",	"z_police_droid_base":"501 z police droid base ",	"d8_smelter_base":"8d8 smelter base ",	"automated_sabacc_dealer_base":"automated sabacc dealer base ",	"base_droid":"base droid ",	"cll_8_binary_load_lifter_base":"cll 8 binary load lifter base ",	"cz_comm_droid_base":"cz comm droid base ",	"dark_trooper_phase_i_base":"dark trooper phase i base ",	"dark_trooper_phase_ii_base":"dark trooper phase ii base ",	"dark_trooper_phase_iii_base":"dark trooper phase iii base ",	"droid":"droid ",	"droideka_base":"droideka base ",	"dz_70_fugitive_tracker_base":"dz 70 fugitive tracker base ",	"eg_6_power_droid_base":"eg 6 power droid base ",	"fx_medical_assistant_base":"fx medical assistant base ",	"g2_rd_guard_base":"g2 rd guard base ",	"ig_assassin_droid_base":"ig assassin droid base ",	"imperial_mark_iv_sentry_base":"imperial mark iv sentry base ",	"imperial_probot_base":"imperial probot base ",	"it_o_interrogator_base":"it o interrogator base ",	"jedi_training_droid_base":"jedi training droid base ",	"le_repair_droid":"le repair droid ",	"lin_demolitionmech_base":"lin demolitionmech base ",	"messenger_droid":"messenger droid ",	"mse_6_base":"mse 6 base ",	"r2_base":"r2 base ",	"r3_base":"r3 base ",	"r4_base":"r4 base ",	"r5_base":"r5 base ",	"ra7_bug_droid_base":"ra7 bug droid base ",	"robo_bartender_base":"robo bartender base ",	"shared_md_medical_specialist":"shared md medical specialist ",	"tt_8l_base":"tt 8l base ",	"wed_treadwell_base":"wed treadwell base ",	"probe_droid":"Seeker Probe Droid",	"imperial_probot_bounty":"Arakyd Probot"
 }}

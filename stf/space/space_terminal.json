@@ -1,5 +1,5 @@
 {
 	"stfFile":"space/space_terminal",
 	"entries": {
-		"launch_ship":"Launch Starship"
+		"launch_ship":"Launch Starship",	"mustafar_exception":"You cannot access Mustafar through this means. Please use a regular travel terminal.",	"encode_item":"Encode Generator",	"create_waypoint":"Create Waypoint",	"activate_event":"Deploy Generator",	"activate_unencoded":"Use Generator"
 }}

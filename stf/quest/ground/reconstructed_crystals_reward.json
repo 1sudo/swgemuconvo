@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/reconstructed_crystals_reward",
+	"entries": {
+		"category":"Collection",	"journal_entry_description":"Each of these crystals exhibits their own special properties.  Damind Crystals are known for their Fire Resistance, Eralam Crystals for their Disease Resist, Kasha Crystals for their Bleed Resist, and Luxum Crystals known for Poison Resistance.  Let's not forget about the Bondar Crystal's properties, which are best utilized when used in a Lightsaber.",	"journal_entry_title":"Reconstructed Crystals",	"task00_journal_entry_description":"The Collector on Tatooine will be able to cut your newly reconstructed crystal into something useful.  Go visit her to claim your reward.",	"task00_journal_entry_title":"Find Tatooine Collector",	"task00_waypoint_name":"Tatooine Collector"
+}}

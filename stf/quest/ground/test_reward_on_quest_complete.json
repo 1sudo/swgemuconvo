@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_reward_on_quest_complete",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"Grant Quest Complete",	"journal_entry_title":"Grant Quest Complete",	"task00_journal_entry_description":"Complete",	"task00_journal_entry_title":"Complete"
+}}

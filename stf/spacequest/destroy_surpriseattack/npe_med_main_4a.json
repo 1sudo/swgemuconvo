@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy_surpriseattack/npe_med_main_4a",
+	"entries": {
+		"assigned_delayed":"",	"complete":"pcontrast1 Tactical Computer:pcontrast3 <Scanning... Threat alleviated. No enemies in the vacinity. Mission complete.>",	"leave_early":"",	"split_quest_alert":"Arlem Demonhunter: <How amusing. A Car'das pet hoping to be a hero. Your days end here, Car'das puppet!>",	"split_quest_alert_fail":"",	"title":"Vendetta: Blacksun Attack!",	"title_d":"'The Blacksun are fighting back! Have I gotten myself into something I can't handle?'",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

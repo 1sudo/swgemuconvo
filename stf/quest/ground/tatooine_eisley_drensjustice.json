@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_drensjustice",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Dren needs to answer for his deeds. He needs to be with the people he tortured and killed for a profit margin. He must be taught that lives are more valuable than just tools to help him attain wealth. too bad it has to be the last thing he'll ever learn.",	"journal_entry_title":"Dren's Justice",	"task00_journal_entry_description":"Find Dren in the White Horse shipping office and defeat him.",	"task00_journal_entry_title":"Defeat Dren",	"task00_waypoint_name":"Dren",	"task01_journal_entry_description":"Reward",	"task01_journal_entry_title":"Defeat Dren",	"task02_journal_entry_description":"Complete",	"task02_journal_entry_title":"Defeat Dren"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_newbie_start",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Follow the yellow ribbon to Trehla Keelo.",	"journal_entry_title":"Find Trehla Keelo",	"task00_journal_entry_description":"Welcome to Mos Eisley! Follow the ribbon in front of you to Trehla Keelo, who would like to speak with you. ",	"task00_journal_entry_title":"Welcome to Mos Eisley",	"task00_message_box_text":"Welcome to Mos Eisley! Follow the ribbon in front of you to Trehla Keelo, who would like to speak with you. ",	"task00_message_box_title":"Welcome to Mos Eisley",	"task01_journal_entry_description":"Travel to Mos Eisley and find Trehla Keelo. ",	"task01_journal_entry_title":"Go to Trehla Keelo",	"task01_waypoint_name":"Trehla Keelo"
+}}

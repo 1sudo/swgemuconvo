@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_st3_destroy_elite",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire needs to make sure that the Rebels don't get their hands on any left overs from the failed experiment in Restuss. The Rebel scum has enlisted some of their 'finest' soldiers for their dirty business. Your orders are to eliminate 5 of these Rebel 'Elite' Commandos.",	"journal_entry_title":"Secure Restuss, Elite",	"task00_journal_entry_description":"You have been ordered to defeat 5 Rebel Elite Commandos in Restuss.",	"task00_journal_entry_title":"Testing the 'elite'",	"task01_journal_entry_description":"You've defeated 5 Rebel Elite Commandos and should return to Captain Roth.",	"task01_journal_entry_title":"Mission accomplished"
+}}

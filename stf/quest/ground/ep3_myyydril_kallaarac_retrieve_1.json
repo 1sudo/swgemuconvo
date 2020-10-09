@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_kallaarac_retrieve_1",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"Chief Kallaarac is still concerned about the Urnsor'is numbers within the Myyydril Caverns. He wants you to strike at their most vulnerable point by targeting the nest itself. Collect 20 Urnsor'is Eggs and return to Kallaarac.",	"journal_entry_title":"Urnsor'is Eggs",	"task00_item_name":"Urnsor'is Egg",	"task00_journal_entry_description":"Travel to the Deep Depths and collect 20 Urnsor'is eggs.",	"task00_journal_entry_title":"Collect 20 Urnsor'is Eggs",	"task02_journal_entry_title":"Reward Issued"
+}}

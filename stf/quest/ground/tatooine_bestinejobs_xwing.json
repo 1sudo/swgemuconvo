@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_bestinejobs_xwing",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"Jasha at the Imperial fort overlooking Bestine, asked you to plant a transmitter on a Rebel X-Wing, that was being refurbished in the Valarian depot. You accomplished this mission with little fuss.",	"journal_entry_description":"The Valarians are selling back to the Rebels an X-Wing that they recently aquired. The Empire wants you to plant a tracking transmitter on it so that Imperial intellegence can locate the new Rebel base. ",	"journal_entry_title":"Plant Transmitter",	"task00_item_name":"Recovered X-Wing",	"task00_journal_entry_description":"You need to locate and plant a transmitter on an X-Wing that the Valarians currently have.",	"task00_journal_entry_title":"Plant Transmitter",	"task00_retrieve_menu_text":"Plant Transmitter",	"task00_waypoint_name":"plant transmitter",	"task01_comm_message_text":"Excellent! Now we can track this fighter wherever it goes. If we are lucky it will lead us to the new Rebel base. I have credited your account.",	"task01_journal_entry_title":"Message for you Sir"
+}}

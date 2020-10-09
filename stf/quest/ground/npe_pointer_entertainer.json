@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_entertainer",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"You should talk to Anvar Keyis for a job entertaining.",	"journal_entry_title":"Speak to Anvar Keyis",	"task00_journal_entry_description":"Anvar Keyis needs more entertainment for the station's cantina. Talk to him about what he needs done.",	"task00_journal_entry_title":"Talk to Anvar Keyis in the Cantina",	"task00_waypoint_name":"Anvar Keyis"
+}}

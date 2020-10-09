@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/entertainer_rebel_06",
+	"entries": {
+		"category":"Remembrance Day",	"journal_entry_completion_summary":" Secret Rebel Cantina,  Nym's Stronghold complete.",	"journal_entry_description":"Entertain the troops in the cantina.",	"journal_entry_title":"Entertaining The Troops - Secret Rebel Cantina,  Nym's Stronghold",	"task00_journal_entry_description":"Travel to the cantina location. A waypoint has been provided.",	"task00_journal_entry_title":"Travel to the Nym's Stronghold, find the secret Rebel Cantina.",	"task00_waypoint_name":"Entertain Lok Cantina",	"task01_journal_entry_description":"Put on the best performance possible.",	"task01_journal_entry_title":"Perform",	"task02_comm_message_text":"Great work! Come back to my location to receive your compensation.",	"task02_journal_entry_description":"Rieekan Com",	"task02_journal_entry_title":"Rieekan Com",	"task03_journal_entry_description":"Travel back to Coronet and see Major Rieekan.",	"task03_journal_entry_title":"See Major Rieekan"
+}}

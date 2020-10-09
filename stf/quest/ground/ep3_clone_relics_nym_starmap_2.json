@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_nym_starmap_2",
+	"entries": {
+		"category":"The Clone Relics, Treasure hunter",	"journal_entry_description":"You found a piece of an old starmap. Nym seems to be interested in getting the completed map.",	"journal_entry_title":"Nym's starmap, phase II",	"task00_journal_entry_description":"Apparently some Trandoshan's on the planet of Kashyyyk stole this map piece. Trandoshans are an aggressive species and slavers are the worst scum of the galaxy. Somehow you don't think they will just tell you were the map is so bring your blaster, find some of them and 'convince' them to give up their belongings.",	"task00_journal_entry_title":"Trandoshan thieves",	"task01_journal_entry_description":"On the corpse of the Trandoshan you found a fragment of the starmap. Perhaps they tore the map in to smaller pieces and divided it among themselves?",	"task01_journal_entry_title":"A bloody clue",	"task02_journal_entry_description":"When piecing together the fragments you've found, it looks like you have all of them. Return to Nym with the fragments.",	"task02_journal_entry_title":"All the pieces of the puzzle"
+}}

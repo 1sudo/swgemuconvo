@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/space_mining_destroy/lok_mining_quest_6",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Travel to the Lok System.",	"quest_location_t":"Lok System",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Lok System:  Extract 750 units of Obsidian Asteroid.",	"title_d":"After finding evidence that rival companies have been operating in the Kashyyyk zone, Captain Koh has asked you to do some unauthorized mining in the Lok system.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

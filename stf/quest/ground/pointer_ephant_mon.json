@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/pointer_ephant_mon",
+	"entries": {
+		"category":"Jabba's Palace",	"journal_entry_description":"Ephant Mon wants to talk to you about the Sennex pirates. You should find him.",	"journal_entry_title":"Finding Ephant Mon",	"task00_journal_entry_description":"Look for Ephant Mon at the top of the stairs, behind Ree Yees.",	"task00_journal_entry_title":"Talk to Ephant Mon",	"task00_waypoint_name":"Ephant Mon"
+}}

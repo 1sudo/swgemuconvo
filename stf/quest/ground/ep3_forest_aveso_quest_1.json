@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_aveso_quest_1",
+	"entries": {
+		"category":"Kkowir Forest: Outcast",	"journal_entry_description":"'It shouldn't be too difficult, even for you, to find 20 Mouf meats and 20 Spider meats off the creatures of the forest. Bring them back to me. Maybe then you'll show your worth, however small it might be,' -- Aveso Ars",	"journal_entry_title":"Grunt Work: Part I",	"task01_journal_entry_description":"Collect 20 Spider Meats and return to Aveso Ars.",	"task01_journal_entry_title":"Spider Meat",	"task02_journal_entry_description":"Collect 20 Mouf meats and return to Aveso Ars.",	"task02_journal_entry_title":"Mouf Meat",	"task03_task_display_string_1":"Collect Mouf Meat",	"task03_task_display_string_2":"Collect Spider Meat",	"task05_journal_entry_title":"Reward Issued"
+}}

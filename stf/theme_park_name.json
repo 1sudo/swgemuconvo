@@ -1,56 +1,5 @@
 {
 	"stfFile":"theme_park_name",
 	"entries": {
-		"axkva_min":"Axkva Min",		"bountyhunter_trainer":"Bounty Hunter Trainer",		"boshek":"Boshek",		"carbine_trainer":"Carbine Trainer",		"intro_controller":"Intro Controller",		"intro_camera":"Intro Camera",		"willhalm_skrim":"Willhalm Skrim",		"phinea_shantee":"Phinea Shantee",		"melious_purl":"Melious Perl",		"fat_commoner":"Fat Commoner",		"farious_gletch":"Farious Gletch",		"bioengineer_trainer":"Bioengineer Trainer",		"armorsmith_trainer":"Armorsmith Trainer",		"architect_trainer":"Architect Trainer",		"brawler_trainer":"Brawler Trainer",		"artisan_trainer":"Artisan Trainer",		"shuttle":"Transport Shuttle",		"porcellus":"Porcellus",		"reelo_baruk":"Reelo Baruk",		"at_st":"AT-ST",		"transport":"Transport Shuttle",		"yarna_dal_gargan":"Yarna Dal Gargan
-",		"wittin":"Wittin
-",		"wedge_antilles":"Wedge Antilles
-",		"tessek":"Tessek
-",		"talon_karrde":"Talon Karrde
-",		"sy_snootles":"Sy Snootles
-",		"senni_tonnika":"Senni Tonnika
-",		"salacious_crumb":"Salacious Crumb
-",		"ree_yees":"Ree Yees
-",		"r2d2":"R2D2
-",		"prefect_talmont":"Prefect Talmont
-",		"oola":"Oola
-",		"nym":"Nym
-",		"nien_nunb":"Nien Nunb
-",		"muftak":"Muftak
-",		"mon_mothma":"Mon Mothma
-",		"momaw_nadon":"Momaw Nadon
-",		"max_rebo":"Max Rebo
-",		"mara_jade":"Mara Jade
-",		"malakili":"Malakili
-",		"lyn_me":"Lyn Me
-",		"luke_skywalker":"Luke Skywalker
-",		"leia_organa":"Leia Organa
-",		"lak_sivrak":"Lak Sivrak
-",		"lady_valarian":"Lady Valarian
-",		"labria":"Labria
-",		"klaatu":"Klaatu
-",		"kabe":"Kabe
-",		"jabba_the_hutt":"Jabba the Hutt
-",		"ig_88":"IG-88
-",		"hobbie":"Hobbie
-",		"han_solo":"Han Solo",		"greeata":"Greeata
-",		"general_jan_dodonna":"General Jan Dodonna
-",		"garindan":"Garindan
-",		"ephant_mon":"Ephant Mon
-",		"emperor_royal_guard":"Imperial Royal Guard
-",		"emperor_palpatine":"Emperor Palpatine
-",		"droopy_mccool":"Droopy McCool",		"dengar":"Dengar
-",		"darth_vader":"Darth Vader
-",		"chewbacca":"Chewbacca
-",		"chalmun":"Chalmun
-",		"c_3po":"C-3PO
-",		"brea_tonnika":"Brea Tonnika
-",		"bossk":"Bossk
-",		"boss_nass":"Boss Nass
-",		"boba_fett":"Boba Fett
-",		"bib_fortuna":"Bib Fortuna
-",		"base_npc_theme_park":"base npc theme park
-",		"barada":"Barada
-",		"admiral_ackbar":"Admiral Ackbar
-",		"lom":"4-LOM
-"
+		"lom":"4-LOM ",	"admiral_ackbar":"Admiral Ackbar ",	"barada":"Barada ",	"base_npc_theme_park":"base npc theme park ",	"bib_fortuna":"Bib Fortuna ",	"boba_fett":"Boba Fett ",	"boss_nass":"Boss Nass ",	"bossk":"Bossk ",	"brea_tonnika":"Brea Tonnika ",	"c_3po":"C-3PO ",	"chalmun":"Chalmun ",	"chewbacca":"Chewbacca",	"darth_vader":"Darth Vader",	"dengar":"Dengar ",	"droopy_mccool":"Droopy McCool",	"emperor_palpatine":"Emperor Palpatine ",	"emperor_royal_guard":"Imperial Royal Guard ",	"ephant_mon":"Ephant Mon ",	"garindan":"Garindan ",	"general_jan_dodonna":"General Jan Dodonna ",	"greeata":"Greeata ",	"han_solo":"Han Solo",	"hobbie":"Hobbie ",	"ig_88":"IG-88",	"jabba_the_hutt":"Jabba the Hutt ",	"kabe":"Kabe ",	"klaatu":"Klaatu ",	"labria":"Labria ",	"lady_valarian":"Lady Valarian ",	"lak_sivrak":"Lak Sivrak ",	"leia_organa":"Leia Organa ",	"luke_skywalker":"Luke Skywalker",	"lyn_me":"Lyn Me ",	"malakili":"Malakili ",	"mara_jade":"Mara Jade ",	"max_rebo":"Max Rebo ",	"momaw_nadon":"Momaw Nadon ",	"mon_mothma":"Mon Mothma ",	"muftak":"Muftak ",	"nien_nunb":"Nien Nunb ",	"nym":"Nym ",	"oola":"Oola ",	"prefect_talmont":"Prefect Talmont ",	"r2d2":"R2D2 ",	"ree_yees":"Ree Yees ",	"salacious_crumb":"Salacious Crumb ",	"senni_tonnika":"Senni Tonnika ",	"sy_snootles":"Sy Snootles ",	"talon_karrde":"Talon Karrde ",	"tessek":"Tessek ",	"wedge_antilles":"Wedge Antilles ",	"wittin":"Wittin ",	"yarna_dal_gargan":"Yarna Dal Gargan ",	"transport":"Transport Shuttle",	"at_st":"AT-ST",	"reelo_baruk":"Reelo Baruk",	"porcellus":"Porcellus",	"shuttle":"Transport Shuttle",	"artisan_trainer":"Artisan Trainer",	"brawler_trainer":"Brawler Trainer",	"architect_trainer":"Architect Trainer",	"armorsmith_trainer":"Armorsmith Trainer",	"bioengineer_trainer":"Bioengineer Trainer",	"farious_gletch":"Farious Gletch",	"fat_commoner":"Fat Commoner",	"melious_purl":"Melious Perl",	"phinea_shantee":"Phinea Shantee",	"willhalm_skrim":"Wilhalm Skrim",	"intro_camera":"Intro Camera",	"intro_controller":"Intro Controller",	"carbine_trainer":"Carbine Trainer",	"boshek":"Boshek",	"bountyhunter_trainer":"Bounty Hunter Trainer",	"axkva_min":"Axkva Min",	"royal_guard":"Royal Guard",	"atxt_n":"AT-XT",	"at_at":"AT-AT"
 }}

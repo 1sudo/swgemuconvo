@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/corellia_imperial_15_split",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"The patrol has managed to dislodge some of the rebel pilots out of hiding. Destroy them all.",		"title":"Corellia System: Destroy the Rebel Ambush",		"split_quest_alert_fail":"",		"split_quest_alert":"",		"complete":"You have survived the Suprise Attack! Report back into your commander about the attack.",		"assigned_delayed":"",		"Quest Log Data":"Text"
+		"Quest Log Data":"Text",	"assigned_delayed":"",	"complete":"You have survived the Suprise Attack! Report back into your commander about the attack.",	"leave_early":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Corellia System: Destroy the Rebel Ambush",	"title_d":"The patrol has managed to dislodge some of the rebel pilots out of hiding. Destroy them all.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

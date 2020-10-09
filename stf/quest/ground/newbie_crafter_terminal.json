@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_crafter_terminal",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Gendra gave you the location of the Crafting Terminals. You should use the /waypoint command to create your own waypoint to them.",	"journal_entry_title":"Crafting Terminal",	"task00_journal_entry_description":"You should follow this waypoint to the crafting terminals.",	"task00_journal_entry_title":"Crafting Terminals",	"task00_waypoint_name":"Crafting Terminal"
+}}

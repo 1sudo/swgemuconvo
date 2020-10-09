@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/c_bounty_hunter_boba_link",
+	"entries": {
+		"category":"Profession Quest: Bounty Hunter",	"journal_entry_description":"Faeto has a couple of jobs to be done. Find Faeto and see what he wants.",	"journal_entry_title":"The Road of a Bounty Hunter",	"task00_comm_message_text":"It's time to let you loose on the galaxy. Talk to Faeto. He'll give you some jobs.",	"task01_journal_entry_description":"Boba mentioned someone named Faeto. Supposedly, this Faeto character has a couple of jobs. It would be a good idea to find him.",	"task01_journal_entry_title":"Find Faeto"
+}}

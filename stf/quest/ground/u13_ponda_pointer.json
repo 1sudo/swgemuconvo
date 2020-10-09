@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u13_ponda_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Speak with Lieutenant Orden Tarc about some local cybernetic labs that have been broken into.",	"journal_entry_title":"Lieutenant Orden Tarc",	"task00_journal_entry_description":"Speak with Lieutenant Orden Tarc in Narmle on Rori.",	"task00_journal_entry_title":"Speak with Lieutenant Tarc",	"task00_waypoint_name":"Lieutenant Tarc"
+}}

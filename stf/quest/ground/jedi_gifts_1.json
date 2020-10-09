@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/jedi_gifts_1",
+	"entries": {
+		"category":"Jedi",	"journal_entry_description":"Obi-wan Kenobi has asked that you visit his former home on Tatooine.",	"journal_entry_title":"A Jedi's Pilgrimage",	"task01_comm_message_text":"Greetings, young one. Your talent at understanding and manipulating the Force is impressive. Please journey to my former home on Tatooine. Once there, you shall receive a bestowment from me as a token of respect.",	"task02_journal_entry_description":"Journey to the home on Tatooine in which Obi-wan Kenobi lived as Ben Kenobi.",	"task02_journal_entry_title":"Ben Kenobi's Hut",	"task02_waypoint_name":"Former Home of Ben Kenobi",	"task03_journal_entry_description":"Enter the small tent that is next to the stone hut.",	"task03_journal_entry_title":"Enter the Small Tent",	"task03_waypoint_name":"Small Tent Beside Ben Kenobi's Hut",	"task04_item_name":"Inside is a jedi robe for you.",	"task04_journal_entry_description":"Open the wardrobe and look inside.",	"task04_journal_entry_title":"Look Inside the Wardrobe",	"task04_retrieve_menu_text":"Open the Wardrobe"
+}}

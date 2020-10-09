@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/nova_rank3_01",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"Looks like Orion salvaged all the resources out of one of our damaged freighters. Lets return the favor.",	"journal_entry_title":"Return the Favor",	"task01_journal_entry_description":"Find the damaged freighter and use tractor beams to steal its cargo.",	"task01_journal_entry_title":"Find Orion's Damaged Freighter",	"task03_journal_entry_description":"Return to report.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

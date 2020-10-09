@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_repair_flocculation_chamber",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've repaired the Flocculation Chamber!",	"journal_entry_description":"Replace the glitching Motor Power Regulator with the new one you got from Nym's Quartermaster then see what else Phor needs.",	"journal_entry_title":"Repair the Flocculation Chamber",	"task00_comm_message_text":"That is the part you need. Just replace the old one and that should do it.",	"task01_item_name":"Flocculation Chamber",	"task01_journal_entry_description":"Replace the Motor Power Regulator.",	"task01_journal_entry_title":"Fix Flocculation Chamber",	"task01_retrieve_menu_text":"Fix Chamber",	"task01_waypoint_name":"Flocculation Chamber",	"task02_journal_entry_description":"Return to Phor Cl-lan to see what else needs to be done.",	"task02_journal_entry_title":"Return to Phor Cl-lan",	"task02_waypoint_name":"Phor Cl-lan"
+}}

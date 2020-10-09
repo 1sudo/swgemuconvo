@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_hideout_instance_escort_trapped_meatlump_fail",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_description":"Return to Ximo Tacx and let him know you failed.",	"journal_entry_title":"Failed!",	"task00_journal_entry_description":"Return to Ximo Tacx and let him know you failed.",	"task00_journal_entry_title":"Return to Ximo in Failure"
+}}

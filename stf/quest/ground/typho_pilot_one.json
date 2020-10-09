@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/typho_pilot_one",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"I need to help the Naboo Planetary Defense by patrolling these sectors of space.",	"journal_entry_title":"Patrolling for Typho",	"task00_journal_entry_description":"Doing Space Mission for Typho",	"task00_journal_entry_title":"Space Mission",	"task00_waypoint_name":"Keren Starport",	"task01_journal_entry_description":"Now that I've completed the patrol for Typho I should return and let him know.",	"task01_journal_entry_title":"Return to Typho",	"task01_waypoint_name":"Captain Typho"
+}}

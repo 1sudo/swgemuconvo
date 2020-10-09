@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/jedi_gifts_2",
+	"entries": {
+		"category":"Jedi",	"journal_entry_description":"You received gifts of an elder jedi robe and a rare force crystal from Obi-wan Kenobi.",	"journal_entry_title":"A Jedi's Pilgrimage",	"task00_item_name":"Inside is a force crystal for you.",	"task00_journal_entry_description":"Open the small storage box that is beside the wardrobe.",	"task00_journal_entry_title":"Open the Storage Box",	"task00_retrieve_menu_text":"Open the Chest"
+}}

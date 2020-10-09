@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_side_dungeon_meat",
+	"entries": {
+		"category":"Station Gamma",	"journal_entry_description":"Fiask Nidori is looking to make a new dish. He wants you to kill rats for their meat on Station Gamma, to use as his secret ingredient.",	"journal_entry_title":"Gathering Food Supplies",	"task00_journal_entry_description":"Kill a rat in Station Gamma for a sample of meat.",	"task00_journal_entry_title":"Kill a rat in Station Gamma",	"task00_waypoint_name":"Creatures",	"task01_comm_message_text":"It's edible right? Good, get me five more.",	"task02_journal_entry_description":"It has been determined that the meat is edible. You are to recover five more samples.",	"task02_journal_entry_title":"Kill five more rats",	"task03_journal_entry_description":"Return with the meat you collected to Fiask Nidori",	"task03_journal_entry_title":"Returning with the meat samples",	"task03_waypoint_name":"Fiask Nidori"
+}}

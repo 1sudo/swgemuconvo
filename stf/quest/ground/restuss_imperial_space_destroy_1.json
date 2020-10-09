@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_space_destroy_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire needs to make sure they have control of the space above Rori before they move in capital ships and reinforcements. You have been ordered to assist by destroying Rebel military ships in the Corellia system.",	"journal_entry_title":"Space Strike",	"task00_journal_entry_description":"The Empire has ordered you to ensure that the Imperial fleet can work uninterrupted above Corellia. You have been ordered to destroy any Rebel military craft in the system.",	"task00_journal_entry_title":"Cripple the Rebel Fleet",	"task01_journal_entry_description":"You have destroyed enough enemy fighters in the Corellia system and should return to Lieutenant Wulf in Restuss.",	"task01_journal_entry_title":"Return to Restuss"
+}}

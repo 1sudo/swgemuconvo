@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_hugo_goto_skaak",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Hugo Eckener has provided you with the location of the Skaak Tipper compound near Theed.",	"journal_entry_title":"Directions to the Skaak Tipper Compound",	"task00_journal_entry_description":"The location of the Skaak Tipper compound.",	"task00_journal_entry_title":"The Skaak Tipper Compound",	"task00_waypoint_name":"Skaak Tipper Compound"
+}}

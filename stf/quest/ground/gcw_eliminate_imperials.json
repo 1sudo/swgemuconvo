@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_eliminate_imperials",
+	"entries": {
+		"category":"Combat",	"journal_entry_completion_summary":"You have eliminated the imperial forces required.",	"journal_entry_description":"Imperial forces are in the area and must be eliminated.",	"journal_entry_title":"Eliminate Imperial Forces",	"task01_journal_entry_description":"Imperial forces are in the area and must be eliminated.",	"task01_journal_entry_title":"Eliminate Imperial Forces",	"task02_journal_entry_description":"You've helped destroy 10 Imperial troops. Return to the general with new of your success.",	"task02_journal_entry_title":"Return to the Rebel Field Commander",	"task03_journal_entry_description":"The Imperial forces have been eliminated!",	"task03_journal_entry_title":"Elimination completed!"
+}}

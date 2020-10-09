@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_lorn_retrieve_6",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"As many suspected, Treun Lorn has been living in the Deep Depths for many years, working on his \"project\". He has yet to be successful. However, he suspects the chain reaction induced by crystals found at the small stream and his machine will do the trick. You've been given the task of finding that crystal and bringing it back to the lost doctor's droid servant.",	"journal_entry_title":"N-K \"Necrosis\"",	"task00_item_name":"Radiated Crystal",	"task00_journal_entry_description":"Find the Radiated Crystal just beyond Lorn's workshop and bring it back to his droid servant.",	"task00_journal_entry_title":"N-K \"Necrosis\""
+}}

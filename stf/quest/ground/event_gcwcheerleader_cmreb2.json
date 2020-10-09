@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/event_gcwcheerleader_cmreb2",
+	"entries": {
+		"category":"Rebel Combatant",	"journal_entry_description":"The Empire is using Stormtroopers to inspire fear and force citizens into compliance. I need to show the locals they have nothing to fear from them.",	"journal_entry_title":"Operation Free Will",	"task00_journal_entry_description":"Destroy 25 Elite Imperial Stormtroopers in a contested city.",	"task00_journal_entry_title":"Destroy Elite Imperial Stormtroopers",	"task01_journal_entry_description":"reward",	"task01_journal_entry_title":"reward"
+}}

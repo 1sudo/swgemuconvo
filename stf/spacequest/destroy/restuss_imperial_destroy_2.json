@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/restuss_imperial_destroy_2",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Cripple the Rebel Fleet, Part II",	"title_d":"The Empire has ordered you to destroy 15 X-Wing or Z-95 fighters in the Lok system."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_quest_helper",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"This is a 3 task quest to test the quest helper.",	"journal_entry_title":"Quest Helper Test With A Long Quest Title",	"task01_journal_entry_description":"Go to the location",	"task01_journal_entry_title":"Find a spot on Tatooine",	"task01_waypoint_name":"HelloWorld",	"task02_journal_entry_description":"Kill those womprats!",	"task02_journal_entry_title":"Deep in the sandy mountains of Tatooine find and kill 4 womprats",	"task02_waypoint_name":"HelloWorld2",	"task03_journal_entry_description":"Hang out for 30 seconds",	"task03_journal_entry_title":"This is really only a short but sweet a 30 second timer",	"task04_journal_entry_description":"Not visible",	"task04_journal_entry_title":"Not visible"
+}}

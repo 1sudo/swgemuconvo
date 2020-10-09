@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/quest_05_frame_valarians_failed_assassin",
+	"entries": {
+		"category":"Something is Obviously Wrong",	"journal_entry_completion_summary":"You tried to defeat Lady Valarian's Assassin but failed. Jabba will send someone else to take care of it.",	"journal_entry_description":"Jabba will take care of the assassin.",	"journal_entry_title":"Jabba Communication",	"task00_comm_message_text":"Hahahahaha....don't worry. I'll send someone more capable of doing the job. Hohohoho...",	"task00_journal_entry_description":"none",	"task00_journal_entry_title":"none",	"task01_journal_entry_description":"none",	"task01_journal_entry_title":"none",	"task02_comm_message_text":"I think it is about time someone competent took over.",	"task02_journal_entry_description":"none",	"task02_journal_entry_title":"n9one",	"task03_journal_entry_description":"non",	"task03_journal_entry_title":"none"
+}}

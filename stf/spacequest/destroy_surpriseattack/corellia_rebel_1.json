@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/corellia_rebel_1",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Eliminate the enemy patrol before they eliminate you!",		"title":"Corellia system: Eliminate Enemy Patrol.",		"split_quest_alert_fail":"",		"split_quest_alert":"Rebel Command: < We have uploaded a new patrol route for you to check out pilot. Hopefully we will have more success this time. >",		"complete":"Rebel Command: < Mission Complete!  Return to base by travelling to the Corellia Space Station and using /comm. >",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"Rebel Command: < Mission Complete!  Return to base by travelling to the Corellia Space Station and using /comm. >",	"leave_early":"",	"split_quest_alert":"Rebel Command: < We have uploaded a new patrol route for you to check out pilot. Hopefully we will have more success this time. >",	"split_quest_alert_fail":"",	"title":"Corellia system: Eliminate Enemy Patrol.",	"title_d":"Eliminate the enemy patrol before they eliminate you!",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

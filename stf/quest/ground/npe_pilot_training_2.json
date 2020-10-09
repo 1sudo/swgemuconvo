@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pilot_training_2",
+	"entries": {
+		"category":"Ord Mantell",	"journal_entry_completion_summary":"You successfully ran off the Black Sun Pirates.",	"journal_entry_description":"You have been ordered to patrol near a space hulk, looking for Black Sun Pirates.",	"journal_entry_title":"Patrolling for Black Sun",	"task00_journal_entry_description":"You have been ordered to run off some Black Sun Pirates.",	"task00_journal_entry_title":"Launch Into Space",	"task00_waypoint_name":"Space Terminal",	"task01_journal_entry_description":"There may be some Black Sun Pirates near the hulk, go on patrol and look for them.",	"task01_journal_entry_title":"Travel to the Abandoned Space Hulk and Look for Black Sun",	"task02_journal_entry_description":"Return to Serissu to report your failure.",	"task02_journal_entry_title":"You Failed Your Mission, Return to Serussu",	"task02_waypoint_name":"Serissu (Pilot Trainer)",	"task03_journal_entry_description":"Report to Serissu of your success.",	"task03_journal_entry_title":"Land and Report back to Serissu",	"task03_waypoint_name":"Serissu (Pilot Trainer)"
+}}

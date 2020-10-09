@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/patrol/npe_med_main_4c",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Return to the Tansarii Point Station.",	"quest_location_t":"Ord Mantell: Bright Jewel Ribbon",	"quest_patrol_d":"'Now I return home, looking forward to a new adventure...'",	"quest_patrol_t":"The Return Home",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"The Return Home",	"title_d":"Return to the Tansarii Point Station and communicate with it to land. You can communicate with the Station by targeting it and typing /comm in spatial chat."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/outbreak_switch_to_rebel",
+	"entries": {
+		"category":"Quarantine Zone",	"journal_entry_completion_summary":"You have met Han Solo on Dathomir, he would like you to perform a job on behalf of the Alliance.",	"journal_entry_description":"Han Solo requests your presence on Dathomir.",	"journal_entry_title":"Mysterious Meeting Request",	"task00_comm_message_text":"[Han Solo] I have an important proposition for you. Can you meet me on Dathomir as soon as possible?",	"task01_journal_entry_description":"Speak with Han Solo to see what is going on.",	"task01_journal_entry_title":"Speak with Han Solo",	"task01_waypoint_name":"Han Solo"
+}}

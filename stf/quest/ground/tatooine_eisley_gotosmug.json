@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_gotosmug",
+	"entries": {
+		"category":"Legacy Training",	"journal_entry_completion_summary":"You found the smuggler pilot trainer. Are you going to get rich?",	"journal_entry_description":"Find the smuggler pilot trainer.",	"journal_entry_title":"Find the Smuggler pilot trainer",	"task00_journal_entry_description":"Find the smuggler pilot trainer; Dravis",	"task00_journal_entry_title":"Find Dravis",	"task00_waypoint_name":"Dravis (Smuggler Trainer)",	"task01_journal_entry_description":"You have found the smuggler pilot trainer.",	"task01_journal_entry_title":"Join the Smuggler's Alliance.",	"task02_journal_entry_description":"You have found the smuggler's pilot trainer. It's time to get rich!",	"task02_journal_entry_title":"Join the Smuggler's Alliance."
+}}

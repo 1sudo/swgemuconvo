@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_kirirr_gather_1",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"Kirrir ran out of ingredients to make her patron's favorite drink, \"Warl Surprise!\". She needs you to collect 10 Warl Leaves. They can be often found with hostile Uwari and among large, white plants, the White Sinthis.",	"journal_entry_title":"Myyydril Trust - Kirrir's Warl Leaves",	"task00_item_name":"Warl Leaf",	"task00_journal_entry_description":"Find 10 Warl Leaves and bring them back to Kirrir.",	"task00_journal_entry_title":"Myyydril Trust - Kirrir's Warl Leaves",	"task01_journal_entry_description":"Bring the 10 Warl Leaves back to Kirrir.",	"task01_journal_entry_title":"Myyydril Trust - Return with Kirrir's Warl Leaves",	"task02_journal_entry_title":"Reward Issued: Warl Surprise"
+}}

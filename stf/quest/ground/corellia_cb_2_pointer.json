@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/corellia_cb_2_pointer",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Sinis thinks Cora would be interested in knowing you recovered the ship's flight recorder.",	"journal_entry_title":"Speak with Cora",	"task00_journal_entry_description":"Sinis suggested you speak with Cora the Inspector about the flight recorder.",	"task00_journal_entry_title":"Speak with Cora",	"task00_waypoint_name":"Cora"
+}}

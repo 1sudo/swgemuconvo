@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_returnreimos",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You have returned to Reimos.",	"journal_entry_description":"Thanks to the virus you planted, Reimos was able to snoop around the White Thranta Shipping company's computer network. Report back to him to find out what he's uncovered.",	"journal_entry_title":"Return to Reimos",	"task00_journal_entry_description":"Reimos is done with the data surveillance. Return to him and see what else he needs.",	"task00_journal_entry_title":"Return to Reimos",	"task00_waypoint_name":"Reimos",	"task01_journal_entry_description":"You have returned to Reimos.",	"task01_journal_entry_title":"Complete"
+}}

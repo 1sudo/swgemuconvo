@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/recovery_quest_imperial_fail_05",
+	"entries": {
+		"category":"Empire Day",	"journal_entry_completion_summary":"You spoke to Mara Jade.",	"journal_entry_description":"Speak to Mara Jade to try the rescue mission again.",	"journal_entry_title":"Speak with Mara Jade",	"task00_journal_entry_description":"You failed to rescue the Officer in time. Return to Mara to try again.",	"task00_journal_entry_title":"Return to Mara Jade.",	"task00_waypoint_name":"Mara Jade",	"task01_journal_entry_description":"Speak to Mara Jade to try the rescue mission again.",	"task01_journal_entry_title":"Speak with Mara Jade"
+}}

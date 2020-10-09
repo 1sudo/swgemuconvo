@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_3",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft right bracers for the Marauder smith.",	"journal_entry_title":"Right Bracer Crafting",	"task01_journal_entry_description":"Craft three Padded armor right bracers.",	"task01_journal_entry_title":"Craft Padded Armor Right Bracers",	"task02_journal_entry_description":"Craft three Bone armor right bracers.",	"task02_journal_entry_title":"Craft Bone Armor Right Bracer",	"task03_journal_entry_description":"Craft three Composite armor right bracers.",	"task03_journal_entry_title":"Craft Composite Armor Right Bracers",	"task04_journal_entry_description":"Craft all three right bracers.",	"task04_journal_entry_title":"Craft all the Right Bracers",	"task04_task_display_string_1":"Crafted Composite Armor Right Bracers",	"task04_task_display_string_2":"Crafted Bone Armor Right Bracers",	"task04_task_display_string_3":"Crafted Padded Armor Right Bracers",	"task05_journal_entry_description":"Return to Macchbraus with the right bracers.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

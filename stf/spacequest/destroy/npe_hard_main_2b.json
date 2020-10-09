@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_hard_main_2b",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Blacksun Hunters, Venomrazors, and Bloodstalkers.",	"quest_destroy_t":"Dual Moons: Black Sun Fighters ",	"quest_location_d":"'Black Sun: The syndicate's whims and diabolical plans reach from the farthest outskirts of the Outer Rim to the seediest of taverns. Their information networks even rival the most wary of Imperial Intelligence operations.'",	"quest_location_t":"Ord Mantell: Scarlet Dawn",	"split_quest_alert":"Dartas Pytin: <Keep on the look out for Commander Ondara, pilot! It'll be another win for the Car'das if we can defeat him.>",	"split_quest_alert_fail":"",	"title":"The Trinity: Dual Moons",	"title_d":"'For the second of the Dual Moons, I must destroy the Black Sun fighters. I should be an expert at this now. I feel that we, the Car'das, will be the victors after this battle is finally over.'"
+}}

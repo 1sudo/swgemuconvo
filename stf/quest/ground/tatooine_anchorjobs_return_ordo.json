@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_anchorjobs_return_ordo",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_completion_summary":"You have returned to Dromo.",	"journal_entry_description":"Head back to Dromo and see if he has anything else he needs done.",	"journal_entry_title":"Return to Dromo Ordo",	"task00_journal_entry_description":"Return to Dromo Ordo and see if he has any more tasks.",	"task00_journal_entry_title":"Return to Dromo Ordo",	"task00_waypoint_name":"Dromo Ordo"
+}}

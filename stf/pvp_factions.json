@@ -1,5 +1,5 @@
 {
 	"stfFile":"pvp_factions",
 	"entries": {
-		"rebel":"Rebel",		"imperial":"Imperial",		"neutral":"Neutral"
+		"neutral":"Neutral",	"imperial":"Imperial",	"rebel":"Rebel"
 }}

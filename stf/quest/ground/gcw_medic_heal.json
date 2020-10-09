@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/gcw_medic_heal",
+	"entries": {
+		"category":"Medic",	"journal_entry_description":"You have found a wounded soldier that is in need of your help.",	"journal_entry_title":"Battlefield Triage",	"task01_journal_entry_description":"The soldier needs medical attention.  Click on the soldier to perform triage.",	"task01_journal_entry_title":"Revive the Soldier",	"task02_journal_entry_description":"The soldier has been revived!  Thanks to you, another soldier has rejoined the battle.",	"task02_journal_entry_title":"Triage Completed!"
+}}

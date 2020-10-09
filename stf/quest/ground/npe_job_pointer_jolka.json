@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_jolka",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Jolka in Docking Bay 2 for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Jolka in Docking Bay 2. He may have work for you.",	"task00_journal_entry_title":"Talk to Jolka in Docking Bay 2",	"task00_waypoint_name":"Jolka"
+}}

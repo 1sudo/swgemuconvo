@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_static_escort",
+	"entries": {
+		"category":"Testing",	"journal_entry_description":"Escort the creature.",	"journal_entry_title":"Static escort test",	"task00_journal_entry_description":"Go to tatooine 2000, 100, 2000.",	"task00_journal_entry_title":"To to escort location",	"task01_journal_entry_description":"Follow oola and keep her alive.",	"task01_journal_entry_title":"Keep Oola alive!"
+}}

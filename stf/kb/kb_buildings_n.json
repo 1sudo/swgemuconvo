@@ -1,5 +1,5 @@
 {
 	"stfFile":"kb/kb_buildings_n",
 	"entries": {
-		"garage":"Garage",		"barracks":"Barracks",		"tavern":"Tavern",		"medicalcenter":"Medical Center",		"university":"University",		"commerceguild":"Commerce Guild",		"combatguild":"Combat Guild",		"shuttleport":"Shuttleport",		"starport":"Starport",		"theater":"Theater",		"hospital":"Hospital",		"hotel":"Hotel",		"cantina":"Cantina",		"cloningfacility":"Cloning Facility",		"bank":"Bank",		"importantbuildings":"Important Buildings"
+		"importantbuildings":"Important Buildings",	"bank":"Bank",	"cloningfacility":"Cloning Facility",	"cantina":"Cantina",	"hotel":"Hotel",	"hospital":"Hospital",	"theater":"Theater",	"starport":"Starport",	"shuttleport":"Shuttleport",	"combatguild":"Combat Guild",	"commerceguild":"Commerce Guild",	"university":"University",	"medicalcenter":"Medical Center",	"tavern":"Tavern",	"barracks":"Barracks",	"garage":"Garage"
 }}

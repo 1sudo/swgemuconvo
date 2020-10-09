@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_medic",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Help the doctors in the medical center.",	"journal_entry_title":"Help the Station's Doctors",	"task00_journal_entry_description":"Aja Sen always needs help in the Medical Center. The Medical Center is across the station from the Hangar Bays, in between the Close Combat Training Room and Ranged Combat Training Room.",	"task00_journal_entry_title":"Talk to Aja Sen in the Medical Center",	"task00_waypoint_name":"Aja Sen"
+}}

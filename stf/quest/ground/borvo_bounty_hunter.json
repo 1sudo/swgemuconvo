@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/borvo_bounty_hunter",
+	"entries": {
+		"category":"Naboo",	"journal_entry_description":"Working for the Hutt on Naboo.",	"journal_entry_title":"Borvo's Assignments",	"task00_journal_entry_description":"Borvo has informed you that a group of bounty hunters are tracking you down. There are probably four of them. Make sure you deal with them before seeing Borvo again.",	"task00_journal_entry_title":"Find the Bounty Hunters",	"task00_waypoint_name":"Bounty Hunters",	"task01_journal_entry_description":"I've found the spot where the bounty hunters were looking for me. I need to find and kill them before they kill me.",	"task01_journal_entry_title":"Eliminate the Bounty Hunters",	"task01_waypoint_name":"Bounty Hunters",	"task02_comm_message_text":"Ha Ha Ha! I knew those bounty hunters would be no match for you! You've done well for yourself. Come back and see me, I have another job for you.",	"task03_journal_entry_description":"Now that I've eliminated the Bounty Hunters Borvo has something else he wants me to do.",	"task03_journal_entry_title":"Return to Borvo",	"task03_waypoint_name":"Moenia Cantina Entrance"
+}}

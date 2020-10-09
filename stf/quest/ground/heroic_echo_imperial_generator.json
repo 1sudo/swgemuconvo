@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/heroic_echo_imperial_generator",
+	"entries": {
+		"category":"Echo Base",	"journal_entry_description":"Capture or destroy the rebels shield generator.",	"journal_entry_title":"Shield Generator",	"task01_journal_entry_description":"Don't let them escape alive! Take out that shuttle.",	"task01_journal_entry_title":"Destroy the Rebel Escape Shuttle",	"task02_journal_entry_description":"Have the probot interface with the Rebel generator.",	"task02_journal_entry_title":"Interface With Secondary Generator",	"task03_journal_entry_description":"Since you cannot interface with the generator anymore, destroy it so the Rebels cannot use it either.",	"task03_journal_entry_title":"Destroy the Secondary Generator",	"task04_journal_entry_title":"-Hidden- Quest Ending Task",	"task06_journal_entry_description":"Keep the probot alive, so it can interface with the Rebels' secondary generator.",	"task06_journal_entry_title":"Escort Probot to Secondary Generator"
+}}

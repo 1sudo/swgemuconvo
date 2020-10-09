@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/smuggle_pointer_illicit_5",
+	"entries": {
+		"category":"Smuggler",	"journal_entry_description":"You need to speak with Zelma. Zelma is located on Yavin 4.",	"journal_entry_title":"Talk to Zelma",	"task00_journal_entry_description":"You need to speak with Zelma. Zelma is an underworld broker dealing with illicit contraband . SHe can tell you more about smuggeling illicit contraband. Zelma is located on Yavin 4.",	"task00_journal_entry_title":"Talk to Zelma",	"task00_waypoint_name":"Zelma"
+}}

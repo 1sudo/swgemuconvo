@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/newbie_mayor_shinn_muggers_2",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"You recovered the ID cards stolen by Shinn's muggers near Mos Eisley.",	"journal_entry_description":"A local band of muggers lead by Vaigon Shinn has been stealing ID cards from people. Recover those stolen cards from Shinn's muggers.",	"journal_entry_title":"Identity Theft",	"task00_journal_entry_description":"Recover the stolen ID cards from Vaigon Shinn's muggers. Use whatever force is necessary.",	"task00_journal_entry_title":"Stolen ID Cards",	"task00_waypoint_name":"Camp of Shinn's Muggers",	"task01_comm_message_text":"Now that those muggers have been dealt with, we need to go after their leader, Vaigon Shinn. Go to his hideout, fight your way through his guards, and take him down."
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/destroy/npe_med_main_3",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"Destroy Blacksun Hunters or Blacksun Bloodstalkers.",	"quest_destroy_t":"Black Sun Villainy",	"quest_location_d":"'Thrill-seekers often visit Ord Mantell, not only for the lively casinos, but to participate in savrip-tracking expeditions. The Mantellian savrip can be recognized as being one of the many pieces in a dejarik game and pose as a formidable opponent for even the most seasoned of hunters in Ord Mantell wildlife.'",	"quest_location_t":"Ord Mantell: Bright Jewel Ribbon",	"split_quest_alert":"First-Officer Atris: <[Static] Is... *tzzzt* out there? Help me! Someone plea--[Distress signal goes dead.]>",	"split_quest_alert_fail":"",	"title":"Car'das Fleet: Black Sun Uprising",	"title_d":"'The Black Sun are active once again. The Car'das fleet has run into a large mass of enemies. They need an experienced pilot to come help them. I'm honored that they would call me by name for the cause!'"
+}}

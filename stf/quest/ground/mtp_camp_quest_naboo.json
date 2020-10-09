@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_camp_quest_naboo",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You have visited Meatlump Camps on Naboo.",	"journal_entry_description":"Go to the Meatlump Camp locations on Naboo",	"journal_entry_title":"Investigate Meatlump Camps on Naboo",	"task00_journal_entry_description":"nothing",	"task00_journal_entry_title":"nothing",	"task01_journal_entry_description":"Investigate the Meatlump Camp on Naboo.",	"task01_journal_entry_title":"Meatlump Camp 1 - Naboo",	"task01_waypoint_name":"Meatlump Camp - Naboo Camp 1",	"task02_task_display_string_1":"You have investigated one of the Meatlump Camps on Corellia.",	"task02_task_display_string_2":"You have investigated one of the Meatlump Camps on Corellia.",	"task03_journal_entry_description":"Investigate the Meatlump Camp on Naboo.",	"task03_journal_entry_title":"Meatlump Camp 2 - Naboo",	"task03_waypoint_name":"Meatlump Camp - Naboo Camp 2"
+}}

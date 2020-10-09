@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_iluna_goto_arcona_compound",
+	"entries": {
+		"category":"Find Brody Johnson",	"journal_entry_description":"Iluna has suggested you look for Brody Johnson at the Arcona compound in northeast Etyyy.",	"journal_entry_title":"Brody Johnson and the Arcona Compound",	"task01_journal_entry_description":"Iluna suggests you go to the Arcona compound and ask there for any information about Brody Johnson.",	"task01_journal_entry_title":"Go to the Arcona Compound",	"task01_waypoint_name":"Etyyy: Arcona Compound",	"task02_journal_entry_description":"Ask around for any information about Brody Johnson at the Arcona compound.",	"task02_journal_entry_title":"Ask About Brody Johnson"
+}}

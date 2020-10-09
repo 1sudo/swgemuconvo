@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_avatar_wke_prisoner_01",
+	"entries": {
+		"category":"Avatar Space Platform",	"journal_entry_description":"Apparently the Trandoshan slavers take a Wookiee's belongings and store them in lockboxs that can only be opened with a code throughout the station. The Wookiee you rescued told you that his is stored in the secuirty area and he overheard the jailer mention the code to get it open.",	"journal_entry_title":"Security Lockbox",	"task00_journal_entry_description":"The Wookiee prisoner that you freed told you about a lockbox in the security office that can be opened with the code 14321.",	"task00_journal_entry_title":"Open Lockbox"
+}}

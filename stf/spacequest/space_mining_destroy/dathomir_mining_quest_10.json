@@ -1,0 +1,5 @@
+{
+	"stfFile":"spacequest/space_mining_destroy/dathomir_mining_quest_10",
+	"entries": {
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Travel to the Dathomir System",	"quest_location_t":"Dathomir System",	"split_quest_alert":"",	"split_quest_alert_fail":"",	"title":"Dathomir System:  Broad Sample Part III",	"title_d":"On the final leg of your sampling mission, collect 125 units of crystal asteroid in the Dathomir system.",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
+}}

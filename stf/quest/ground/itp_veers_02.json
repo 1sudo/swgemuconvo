@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/itp_veers_02",
+	"entries": {
+		"category":"Imperial Theme-Park",	"journal_entry_description":"Meet with a Rebel officer who has information for the Empire.",	"journal_entry_title":"Informant Meeting",	"task00_entrance_waypoint_name":"Informant's Base Entrance",	"task00_journal_entry_description":"Meet with a Rebel officer who has information for the Empire.",	"task00_journal_entry_title":"Meet with a Potential Informant",	"task00_waypoint_name":"Rebel Informant",	"task02_journal_entry_description":"Fight your way out and defeat the Rebel officer who set you up. Hurry, time is crucial!",	"task02_journal_entry_title":"Find and Defeat the Rebel Officer",	"task03_journal_entry_description":"Return to Colonel Veers at the Emperor's Retreat.",	"task03_journal_entry_title":"Return to Colonel Veers",	"task05_journal_entry_description":"Return to Colonel Veers at the Emperor's Retreat in failure.",	"task05_journal_entry_title":"Failed: Return to Colonel Veers",	"task07_comm_message_text":"Prepare to die, Imperial dog. You'll never escape this bunker alive."
+}}

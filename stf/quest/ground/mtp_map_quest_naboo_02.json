@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mtp_map_quest_naboo_02",
+	"entries": {
+		"category":"Meatlumps",	"journal_entry_completion_summary":"You found the bomb.",	"journal_entry_description":"A target map lists a location on Naboo that has been targeted for explosives.  You should check it out and defuse the bomb if possible.",	"journal_entry_title":"Bomb Target - Naboo, Theed Target 1",	"task00_journal_entry_description":"nothing",	"task00_journal_entry_title":"nothing",	"task01_task_display_string_1":"You have found the bomb on Naboo.",	"task02_journal_entry_description":"Travel to Naboo and locate the bomb.",	"task02_journal_entry_title":"Find the Bomb",	"task02_waypoint_name":"Bomb Target - Naboo, Theed Target 1"
+}}

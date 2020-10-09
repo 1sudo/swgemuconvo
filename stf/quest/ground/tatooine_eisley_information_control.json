@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_information_control",
+	"entries": {
+		"category":"Tatooine",	"journal_entry_description":"Working for Aigorn requires little moral fibre. She wants you to kill one of the medical staff from the White Horse infirmary. While the informant was certinaly invloved in the heinous crimes comitted inside that terrible place. That's not why Aigorn wants her dead. Credits, the reason most people die in Mos Eisley.",	"journal_entry_title":"Information Control",	"task00_journal_entry_description":"With the medical information in the hands of Aigorn, there only remains one task to make this operation profitable. A leak must be sealed. You must stop this information from becoming public.",	"task00_journal_entry_title":"Stalking the Informant",	"task01_journal_entry_description":"Return to Aigorn to collect your payment.",	"task01_journal_entry_title":"Blood Money",	"task02_journal_entry_description":"Reward",	"task02_journal_entry_title":"Information Control",	"task03_journal_entry_description":"Complete",	"task03_journal_entry_title":"Information Control"
+}}

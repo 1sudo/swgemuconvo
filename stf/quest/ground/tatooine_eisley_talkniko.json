@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_eisley_talkniko",
+	"entries": {
+		"category":"Legacy",	"journal_entry_completion_summary":"Time to start working with Jabba's big boys.",	"journal_entry_description":"Bib wants you to talk to Niko about a job for Jabba. According to Han's friend Vourk this should lead you on a path to clearing your name with Jabba. Why you need to work for Jabba still isn't clear, but perhaps this will help clarify your situation.",	"journal_entry_title":"Short Walk",	"task00_journal_entry_description":"You're moving up to the big boys. Tread softly and don't do anything to get yourself in trouble. Working for Jabba isn't like working for some local official, it's far more dangerous.",	"task00_journal_entry_title":"Talk to Niko",	"task00_waypoint_name":"Niko",	"task01_journal_entry_description":"Talk to Niko",	"task01_journal_entry_title":"Talk to Niko"
+}}

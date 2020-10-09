@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/imperial_phase_1",
+	"entries": {
+		"category":"Echo Base",	"journal_entry_description":"Destroy the rebel shield generator.",	"journal_entry_title":"North Battle Grounds",	"task01_journal_entry_description":"Escort the AT-AT's to the Rebel shield generator, so that they may destroy it.",	"task01_journal_entry_title":"Destroying the Rebel Shields",	"task03_journal_entry_description":"Manifest the might of the Empire by not letting any AT-AT's be destroyed.",	"task03_journal_entry_title":"Imperial Perfection: No AT-AT's Lost",	"task04_journal_entry_description":"Do not allow three or more additional AT-AT's to be destroyed. If the Empire losses a total of 4 or more Imperial Walker,  you will have much for which to answer.",	"task04_journal_entry_title":"Minor Casualties: Do Not Allow 3 More AT-AT's To Be Lost"
+}}

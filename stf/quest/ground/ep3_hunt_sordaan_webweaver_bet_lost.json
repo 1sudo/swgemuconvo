@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_sordaan_webweaver_bet_lost",
+	"entries": {
+		"category":"Sordaan's Bet",	"journal_entry_description":"You failed to kill enough webweaver spikers on the Bocctyyy Path to win your wager with Sordaan.",	"journal_entry_title":"Webweaver Spiker Bet: You Lost.",	"task00_journal_entry_description":"You lost your wager with Sordaan. Return to the Rodian hunting camp and speak with him.",	"task00_journal_entry_title":"Speak with Sordaan."
+}}

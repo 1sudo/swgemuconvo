@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/heroic_echo_rebel_generator",
+	"entries": {
+		"category":"Echo Base",	"journal_entry_description":"Protect your secibdary shield generator. The Imperials are trying to capture or destroy it.",	"journal_entry_title":"Shield Generator",	"task01_journal_entry_description":"Don't let those commandos destroy the generator.",	"task01_journal_entry_title":"Stop the Imperial Commandos",	"task02_journal_entry_title":"-hidden- task to end quest",	"task04_journal_entry_description":"Don't let the Imperial probot interface with your shield generator.",	"task04_journal_entry_title":"Destroy the Imperial Probot"
+}}

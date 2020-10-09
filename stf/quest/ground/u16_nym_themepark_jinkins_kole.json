@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_jinkins_kole",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've found Kole!",	"journal_entry_description":"Speak with Kole to see if he has more work for you.",	"journal_entry_title":"Find Kole",	"task00_waypoint_name":"Kole (inside Stronghold)"
+}}

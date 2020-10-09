@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/som_lava_flea_hunt",
+	"entries": {
+		"category":"Mustafar",	"journal_entry_description":"The Mensix Mining company is offering a bounty of 7500 credits for every 15 lava fleas killed.",	"journal_entry_title":"Lava Flea Hunt",	"task01_journal_entry_description":"Hunt down and eliminate fifteen lava fleas.",	"task01_journal_entry_title":"Hunt 15 Lava Fleas"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/test_grant_quest",
+	"entries": {
+		"category":"TEST",	"journal_entry_description":"Testing grant quest system message settings",	"journal_entry_title":"Grant Quest",	"task00_journal_entry_description":"Fail or complete this task",	"task00_journal_entry_title":"Waiting"
+}}

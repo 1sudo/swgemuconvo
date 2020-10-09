@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_kerssoc_enter_etyyy",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"You now have permission to enter the Etyyy region of Kashyyyk, also known as the Hunting Grounds.",	"journal_entry_title":"Entering the Hunting Grounds.",	"task01_journal_entry_description":"Enter Etyyy, the Hunting Grounds, and speak with Sordaan Xris.",	"task01_journal_entry_title":"Speak to Sordaan Xris",	"task02_journal_entry_description":"Sordaan has refused to speak with you. Seek Ziven Tissak in the Rodian camp instead.",	"task02_journal_entry_title":"Speak with Ziven"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_carbine_crafting_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"Full-scale war demands armaments, and Lieutenant Pofko has ordered you to create 5 E-11 carbines for the Imperial Army.",	"journal_entry_title":"Lord of War",	"task00_journal_entry_description":"You have been tasked with creating 5 E-11 carbines for the Imperial Army.",	"task00_journal_entry_title":"Tools of War",	"task01_journal_entry_description":"You have completed the carbines for the troops in Restuss and should return to Lieutenant Pofko with them.",	"task01_journal_entry_title":"Return to Restuss",	"task02_journal_entry_description":"Give the 5 carbines to the load lifter droid.",	"task02_journal_entry_title":"Deliver the Carbines"
+}}

@@ -1,0 +1,5 @@
+{
+	"stfFile":"ui_collection",
+	"entries": {
+		"server_first_undiscovered":"Undiscovered",	"server_first_discovered_tooltip":"This collection was first completed on this galaxy by %TT on %TO.",	"server_first_undiscovered_tooltip":"This collection has not yet been completed by anyone on this galaxy."
+}}

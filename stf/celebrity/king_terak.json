@@ -1,5 +1,5 @@
 {
 	"stfFile":"celebrity/king_terak",
 	"entries": {
-		"npc_3":"I want off this accursed planet!",		"npc_2":"We are the scavengers of Endor, taking what we want and ruling over the planet with an iron fist!",		"player_2":"What do you want?",		"player_1":"What are marauders?",		"npc_1":"I am King Terak, Lord of the Marauders!"
+		"npc_1":"I am King Terak, Lord of the Marauders!",	"player_1":"What are marauders?",	"player_2":"What do you want?",	"npc_2":"We are the scavengers of Endor, taking what we want and ruling over the planet with an iron fist!",	"npc_3":"I want off this accursed planet!"
 }}

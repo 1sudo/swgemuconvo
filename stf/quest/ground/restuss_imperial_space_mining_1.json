@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_space_mining_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire needs raw materials to complete their base in Restuss. They have ordered you to supply them with 500 units of obsidian ore from the Kessel system.",	"journal_entry_title":"Mine Wars",	"task00_journal_entry_description":"The Empire has ordered you to mine 500 units of obsidian ore in the Kessel system.",	"task00_journal_entry_title":"Brick by Brick",	"task01_journal_entry_description":"You have completed the mission in the Kessel system. You should return to Lieutenant Wholding in Restuss and give him the ore.",	"task01_journal_entry_title":"Return to Restuss"
+}}

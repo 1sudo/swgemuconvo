@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/quest_04_meet_cale_herron",
+	"entries": {
+		"category":"Something is Obviously Wrong",	"journal_entry_completion_summary":"You spoke to Herron. He wants you to wait until he is done decrypting the data.",	"journal_entry_description":"Give the data disk to Herron and see if you can get any details.",	"journal_entry_title":"Find Cale Herron",	"task00_journal_entry_description":"Travel to Mos Taike and see if you can locate Cale Herron somewhere within the town limits.",	"task00_journal_entry_title":"Find Cale Herron",	"task01_journal_entry_description":"none",	"task01_journal_entry_title":"none",	"task02_comm_message_text":"What is your progress?  We heard the Mos Eisley Laboratory had been ransacked and a biologist was killed. Why did you not check in?  Jabba wants results! Do not fail us again.",	"task02_journal_entry_description":"none",	"task02_journal_entry_title":"none",	"task03_journal_entry_description":"Find out if Cale knows anything new.",	"task03_journal_entry_title":"Speak to Cale",	"task04_journal_entry_description":"none",	"task04_journal_entry_title":"none"
+}}

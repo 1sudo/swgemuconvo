@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_myyydril_isdan_retrieve_5",
+	"entries": {
+		"category":"Myyydril Caverns",	"journal_entry_description":"Echrhin Isdan has offered you a mystical stone. You have yet to figure out exactly what it does. He mentioned the Wookiee city, Kachirho. He wants you to gather 10 stones by the river or pond in front of the Myyydril Caverns.. What he needs them for, no one knows.",	"journal_entry_title":"Mystical Stones",	"task00_item_name":"Smooth Stone",	"task00_journal_entry_description":"Collect 10 Smooth Stones for Echrhin Isdan. Smooth stones can be found near the river or pond in front of the Myyydril Caverns.",	"task00_journal_entry_title":"Collect 10 Smooth Stones",	"task02_journal_entry_title":"Reward Issued"
+}}

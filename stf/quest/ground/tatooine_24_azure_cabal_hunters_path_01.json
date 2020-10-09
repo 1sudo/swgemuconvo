@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/tatooine_24_azure_cabal_hunters_path_01",
+	"entries": {
+		"category":"Azure Cabal",	"journal_entry_completion_summary":"Tweego staged an ambush to test your ability to adaput under pressure. It was harder than you had expected.",	"journal_entry_description":"You were unseccessful in your hunt. Tweego will not grant you his endorsement to Loruna Scathe until you prove your worth to the Azure Cabal.",	"journal_entry_title":"Hunt Failed",	"task00_comm_message_text":"Well, I guess that you were not quite up to the challenge, but it WAS a tough assignment. Report back to me and I will give you the endorsement anyway.",	"task01_journal_entry_description":"Comm from Tweego:\"Well, I guess that you were not quite up to the challenge, but it WAS a tough assignment. Report back to me and I will give you the endorsement anyway.\"",	"task01_journal_entry_title":"Return in Disgrace",	"task01_waypoint_name":"Tweego"
+}}

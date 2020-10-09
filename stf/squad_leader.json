@@ -1,5 +1,5 @@
 {
 	"stfFile":"squad_leader",
 	"entries": {
-		"squad_leader_command":"Squad Leader %TT: %TO."
+		"squad_leader_command":" 00CDCD%TTFFFFFF: FF0000%TO.",	"rally_point_syntax":"Invalid syntax: /rallyPoint [x] [y]",	"rally_point_error":"Rally Point: The system was unable to parse a valid waypoint location.",	"rally_point_too_many":"Your Squad Leader attempted to set a Rally Point but you have too many waypoints in your datapad.",	"rally_point_success":"New Rally Point created and set.",	"not_in_a_group":"You are not in a group.",	"message_parameters":"Correct usage is /sysGroup <Your message to your group>",	"rally_point_bad_distance":"Rally points must be at least 20m from the officer, and no more than 100m from the officer.",	"aggro_channel_applied_target":"%TT has applied an aggro transfer buff on you.",	"aggro_channel_applied_self":"You applied an aggro transfer buff on %TT.",	"of_set_rally_point":"%TT has set a Rallypoint.",	"self_set_rally_point":"You set a Rallypoint."
 }}

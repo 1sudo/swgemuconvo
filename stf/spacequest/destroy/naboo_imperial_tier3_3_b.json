@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy/naboo_imperial_tier3_3_b",
 	"entries": {
-		"title_d":"",		"title":"Making It Look Real",		"split_quest_alert":"Imperial High Command:<Nice work making that look real. Wait for further instructions.> ",		"quest_location_t":"",		"quest_location_d":"",		"quest_destroy_t":"",		"quest_destroy_d":"",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_destroy_d":"",	"quest_destroy_t":"",	"quest_location_d":"",	"quest_location_t":"",	"split_quest_alert":"Imperial High Command:<Nice work making that look real. Wait for further instructions.> ",	"title":"Making It Look Real",	"title_d":""
 }}

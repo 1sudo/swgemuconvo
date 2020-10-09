@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/naboo_theed_goto_brunser",
+	"entries": {
+		"category":"Legacy",	"journal_entry_description":"Report to Sergeant Harriet Brunser.",	"journal_entry_title":"Report to Sergeant Brunser",	"task00_journal_entry_description":"Report to Sergeant Harriet Brunser. You'll find her in the Theed hangar.",	"task00_journal_entry_title":"Report to Sergeant Brunser",	"task00_waypoint_name":"Theed Hangar Entrance"
+}}

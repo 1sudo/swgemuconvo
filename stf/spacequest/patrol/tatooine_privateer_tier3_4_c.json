@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/patrol/tatooine_privateer_tier3_4_c",
 	"entries": {
-		"title_d":"Search Dathomir space for the Sienar contact",		"title":"Dathomir System: Search for Hutt VIP Ally",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Beissa: < \#pcontrast1 We have him tracked, he has come under some fire and appears to be listing \#pcontrast3 >",		"quest_target_t":"",		"quest_target_d":"",		"quest_patrol_t":"Patrol Waypoint",		"quest_patrol_d":"Travel to this point to complete the mission",		"quest_location_t":"Dathomir System",		"quest_location_d":"Somewhere in the Dathomir System",		"autorewardsubject":"",		"autorewardfrom":"",		"autorewardbody":"",		"assigned_delayed":""
+		"assigned_delayed":"",	"autorewardbody":"",	"autorewardfrom":"",	"autorewardsubject":"",	"quest_location_d":"Somewhere in the Dathomir System",	"quest_location_t":"Dathomir System",	"quest_patrol_d":"Travel to this point to complete the mission",	"quest_patrol_t":"Patrol Waypoint",	"quest_target_d":"",	"quest_target_t":"",	"split_quest_alert":"pcontrast3 Beissa: < pcontrast1 We have him tracked, he has come under some fire and appears to be listing pcontrast3 >",	"split_quest_alert_fail":"",	"title":"Dathomir System: Search for Hutt VIP Ally",	"title_d":"Search Dathomir space for the Sienar contact"
 }}

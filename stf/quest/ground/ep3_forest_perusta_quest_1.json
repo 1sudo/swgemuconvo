@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_forest_perusta_quest_1",
+	"entries": {
+		"category":"Kkowir Forest: Kerritamba",	"journal_entry_description":"Perusta has been studying the Mysess Blossom, striving to make it more resilient to the harsh reality of everyday life. She needs 5 Deadwood Mosses from the dead stumps in the forest.",	"journal_entry_title":"Deadwood Moss",	"task00_item_name":"Moss",	"task00_journal_entry_description":"Collect 5 samples of Deadwood Moss from the stumps in the Dead Forest.",	"task00_journal_entry_title":"Collect Deadwood Moss",	"task02_journal_entry_title":"Reward Issued"
+}}

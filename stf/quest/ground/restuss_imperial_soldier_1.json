@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_soldier_1",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Rebel scum have started to bring reinforcements from other parts of the galaxy to Restuss. Strike at them before they can even reach Rori!",	"journal_entry_title":"Disrupting Enemy Reinforcements",	"task00_journal_entry_description":"You've been tasked with defeating 40 members of the Rebel Army.",	"task00_journal_entry_title":"Disrupt Enemy Reinforcements",	"task01_journal_entry_description":"Return to Lieutenant Gregor in Restuss and let him know that your assignment is done.",	"task01_journal_entry_title":"Back to Restuss"
+}}

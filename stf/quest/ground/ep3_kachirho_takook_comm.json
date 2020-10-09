@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_kachirho_takook_comm",
+	"entries": {
+		"category":"Kachirho",	"journal_entry_description":"You found a recording device near Takook's body. It appears to have a message recorded on it from a short time ago.",	"journal_entry_title":"Takook's Last Message",	"task00_comm_message_text":"*message start* ...I do not have much time left. Lobarorr...he attacked me... He wanted my father's spear...so he took it from me. Please...who ever finds this message, grant my dying request. Recover my father's spear from Lobarorr and let my honor come back to me. ...Lobarorr always told me of a hiding spot on the Rryatt trail...I think he will go there. ...My time is short now. I hope Chatook forgives me for leaving him...*message end*",	"task00_journal_entry_description":"Takook recorded his dieing message on a recording device. Listen to the recording.",	"task00_journal_entry_title":"Listen to Message"
+}}

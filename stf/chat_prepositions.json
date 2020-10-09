@@ -1,5 +1,5 @@
 {
 	"stfFile":"chat_prepositions",
 	"entries": {
-		"command":"",		"threaten":"",		"cough":"on",		"debate":"with",		"flirt":"with",		"beg":"of",		"confide":"in",		"default":"to"
+		"default":"to",	"confide":"in",	"beg":"of",	"flirt":"with",	"debate":"with",	"cough":"on",	"threaten":"",	"command":""
 }}

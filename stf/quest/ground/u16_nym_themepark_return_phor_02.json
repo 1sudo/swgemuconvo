@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_themepark_return_phor_02",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've gotten the valves, now take them back to Phor Cl-lan",	"journal_entry_description":"Now that you've got the flow control valves, take them back to Phor Cl-lan",	"journal_entry_title":"Return to Phor Cl-lan",	"task00_journal_entry_description":"Return to Phor Cl-lan with the Flow Control Valves",	"task00_journal_entry_title":"Return to Phor Cl-lan",	"task00_waypoint_name":"Phor Cl-lan"
+}}

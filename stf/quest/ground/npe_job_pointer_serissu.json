@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_job_pointer_serissu",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Talk to Serissu in Hangar Bay 1 for work.",	"journal_entry_title":"Looking For Work",	"task00_journal_entry_description":"If you need work, talk to Serissu in Hangar Bay 1. She may have work for you.",	"task00_journal_entry_title":"Talk to Serissu in Hangar Bay 1",	"task00_waypoint_name":"Serissu"
+}}

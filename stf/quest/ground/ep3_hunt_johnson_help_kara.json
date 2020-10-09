@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_hunt_johnson_help_kara",
+	"entries": {
+		"category":"Kashyyyk Hunting Grounds",	"journal_entry_description":"Johnson Smith has asked you to help an associate of his, Kara Corlon.",	"journal_entry_title":"Help Kara Corlon",	"task01_journal_entry_description":"Johnson Smith has asked you to speak with Kara Corlon and see if you can aid her.",	"task01_journal_entry_title":"Speak with Kara Corlon",	"task02_journal_entry_description":"Make all of the deliveries with which Kara needs your help.",	"task02_journal_entry_title":"Make Kara's Deliveries",	"task03_journal_entry_description":"Return to Johnson Smith and let him know you've finished helping Kara.",	"task03_journal_entry_title":"Return to Johnson Smith"
+}}

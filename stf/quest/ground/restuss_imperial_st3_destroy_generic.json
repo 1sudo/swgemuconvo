@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/restuss_imperial_st3_destroy_generic",
+	"entries": {
+		"category":"Battle of Restuss",	"journal_entry_description":"The Empire needs to make sure that the Rebels don't get their hands on any leftovers from the failed experiment in Restuss. Your orders are to defeat 20 Rebel soldiers in Restuss, to help restore control of the city.",	"journal_entry_title":"Secure Restuss",	"task00_journal_entry_description":"You have been ordered to defeat 20 Rebel soldiers in Restuss.",	"task00_journal_entry_title":"Pulling Your Weight",	"task01_journal_entry_description":"You've defeated 20 Rebel soldiers and should return to Captain Roth.",	"task01_journal_entry_title":"Mission Accomplished"
+}}

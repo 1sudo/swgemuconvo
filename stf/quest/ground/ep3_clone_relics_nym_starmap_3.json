@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/ep3_clone_relics_nym_starmap_3",
+	"entries": {
+		"category":"The Clone Relics, Treasure hunter",	"journal_entry_description":"You found a piece of an old starmap. Nym seems to be interested in getting the completed map.",	"journal_entry_title":"Nym's starmap, phase III",	"task00_item_name":"Torn starmap",	"task00_journal_entry_description":"Dathomir is a brutal planet but it's where you have to go to track down the next map piece. This is the clue your predecessor found. 'An Imperial officer had one of the pieces and he never let it leave his pocket. He was stationed on the planet of Dathomir and apparently was killed there during a patrol. The only survivor, almost unable to communicate after the attack, rambled on and on about witches of the night and giant spiders.'",	"task00_journal_entry_title":"A planet of death",	"task01_journal_entry_description":"You found what was probably the remains of the Imperial officer and the map was still intact on his corpse. Bring it back to Nym.",	"task01_journal_entry_title":"Untangled the web"
+}}

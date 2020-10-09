@@ -1,5 +1,5 @@
 {
 	"stfFile":"spacequest/destroy_surpriseattack/tatooine_privateer_tier4_3c_sa",
 	"entries": {
-		"unused2_t":"",		"unused2_d":"",		"unused1_t":"",		"unused1_d":"",		"title_d":"Defend from the Valarian trick",		"title":"Tatooine System: Defend from the Valarian Trick",		"split_quest_alert_fail":"",		"split_quest_alert":"\#pcontrast3 Nirame: < \#pcontrast1 About that freighter we wanted: It is in route to Endor, perhaps you can convince them to alter course. \#pcontrast3 >",		"leave_early":"",		"complete":"\#pcontrast3 Nirame: < \#pcontrast1 I'll give this much credit to that Valarian; it was an interesting, if futile, maneuver. \#pcontrast3 >",		"assigned_delayed":""
+		"assigned_delayed":"",	"complete":"pcontrast3 Nirame: < pcontrast1 I'll give this much credit to that Valarian; it was an interesting, if futile, maneuver. pcontrast3 >",	"leave_early":"",	"split_quest_alert":"pcontrast3 Nirame: < pcontrast1 About that freighter we wanted: It is in route to Endor, perhaps you can convince them to alter course. pcontrast3 >",	"split_quest_alert_fail":"",	"title":"Tatooine System: Defend from the Valarian Trick",	"title_d":"Defend from the Valarian trick",	"unused1_d":"",	"unused1_t":"",	"unused2_d":"",	"unused2_t":""
 }}

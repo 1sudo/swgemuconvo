@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/orion_rank3_05",
+	"entries": {
+		"category":"Nova Orion",	"journal_entry_description":"This is it...thanks to the havoc we have sown, thier number one pilot has come out to confront you. Make him regret it.",	"journal_entry_title":"Nova's Number One Pilot",	"task01_journal_entry_description":"Nova's top pilot is out to stop you, make him regret it.",	"task01_journal_entry_title":"Take out Number One",	"task03_journal_entry_description":"Return to report.",	"task03_journal_entry_title":"Mission Accomplished"
+}}

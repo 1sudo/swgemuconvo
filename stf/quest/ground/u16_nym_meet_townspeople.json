@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/u16_nym_meet_townspeople",
+	"entries": {
+		"category":"Nym's Theme Park",	"journal_entry_completion_summary":"You've spoken with the Disgruntled Townspeople and Phor Cl-lan, now do what you can to bring water to the people.",	"journal_entry_description":"Find out what has Nym's people so upset and help them if you can.",	"journal_entry_title":"The Peasants Are Revolting",	"task00_journal_entry_description":"Go out to where the Disgruntled Townspeople are gathered and speak with their leader.",	"task00_journal_entry_title":"Speak with the speaker for the Disgruntled Townspeople",	"task00_waypoint_name":"Disgruntled Townspeople",	"task01_journal_entry_description":"Locate Phor Cl-lan, Nym's Water Treatment Technician and speak with him about the water quality.",	"task01_journal_entry_title":"Find the Water Treatment Technician",	"task01_waypoint_name":"Water Treatment Technician"
+}}

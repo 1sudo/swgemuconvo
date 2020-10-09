@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/mun_marauder_7",
+	"entries": {
+		"category":"Armorsmithing",	"journal_entry_description":"Craft helmets for the Marauder smith.",	"journal_entry_title":"Helmet Crafting",	"task01_journal_entry_description":"Craft three Mabari armor helmets.",	"task01_journal_entry_title":"Craft Mabari Armor Helmets",	"task02_journal_entry_description":"Craft three Bone armor helmets.",	"task02_journal_entry_title":"Craft Bone Armor Helmets",	"task03_journal_entry_description":"Craft three Composite armor helmets.",	"task03_journal_entry_title":"Craft Composite Armor Helmets",	"task04_journal_entry_description":"Craft all three helmets.",	"task04_journal_entry_title":"Craft all the Helmets",	"task04_task_display_string_1":"Crafted Composite Armor Helmets",	"task04_task_display_string_2":"Crafted Bone Armor Helmets",	"task04_task_display_string_3":"Crafted Mabari Armor Helmets",	"task05_journal_entry_description":"Return to Macchbraus with the helmets.",	"task05_journal_entry_title":"Return to Macchbraus"
+}}

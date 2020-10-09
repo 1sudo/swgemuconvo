@@ -1,0 +1,5 @@
+{
+	"stfFile":"quest/ground/npe_pointer_inaldra",
+	"entries": {
+		"category":"Tansarii Point Station",	"journal_entry_description":"Inaldra needs some work done. Talk to her in her office.",	"journal_entry_title":"Talk to Inaldra",	"task00_journal_entry_description":"To find a way off the station, talk to Inaldra, a Twi'lek that works for Talon Karrde and runs the station. Apparently, she's a friend of Han Solo.",	"task00_journal_entry_title":"Talk to Inaldra in the Station Master's Office",	"task00_waypoint_name":"Station Master Inaldra"
+}}
